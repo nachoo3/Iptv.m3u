@@ -104,6 +104,6 @@ http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
 #EXTINF:-1 tvg-id="ZADTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="" group-title="Religious",ZAD TV (1080p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g/live
 #EXTINF:-1 tvg-id="بنك الحظ" tvg-logo="https://old.akwam.link/files/1534586484.jpg", group-title="VoD", بنك الحظ
-https://c30.amzn-cdn.net/kmxssakypnumwmesrl5eym5mntc5pnae3gl3sgngnz2rspgibatmsf7y355a/v.mp4
+https://c30.amzn-cdn.net/kmxssakypnumwmesrl5eym5mntc5pnae3gl3sgngnz2rt2k7tqhvk3w4n6ya/v.mp4
 #EXTINF:-1 tvg-id="escape from mogadishu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyJRCPHeSj2Z1CvAhKiONSbzweuLvSvAj_Q&usqp=CAU", group-title="VoD",escape from mogadishu
-https://c30.amzn-cdn.net/kmxsvtldpnumwmesrl4uy4xinwmxkjszfsstmzk3cymuqj3vtudryc6krdcq/v.mp4
+https://c30.amzn-cdn.net/kmxsvtldpnumwmesrl4uy4xinwmxkjszfsstmzk3cymur4xcbexdeycewbeq/v.mp4
