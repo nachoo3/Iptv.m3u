@@ -107,3 +107,14 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtu
 https://c30.amzn-cdn.net/kmxssakypnumwmesrl5eym5mntc5pnae3gl3sgngnz2rt2k7tqhvk3w4n6ya/v.mp4
 #EXTINF:-1 tvg-id="escape from mogadishu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyJRCPHeSj2Z1CvAhKiONSbzweuLvSvAj_Q&usqp=CAU", group-title="VoD",escape from mogadishu
 https://c30.amzn-cdn.net/kmxsvtldpnumwmesrl4uy4xinwmxkjszfsstmzk3cymur4xcbexdeycewbeq/v.mp4
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 5 
+https://p2.e-amzn-cdn.net/kmxsuizbpbumwmesrlyey25nhasf466ta2mboy2y7uoklhp4h3lhry3emsja/v.mp4
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 6 
+https://p2.e-amzn-cdn.net/kmxsuijbpbumwmesrlyeyofjgfyxe2fi5jvf7z73ikveow2a474z3ulcvsrq/v.mp4
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 7 
+https://p2.e-amzn-cdn.net/kmxsuprbpbumwmesrlyeynhymhkn7ro2hgvbilnv7c4y3itnwl7l3f2x3w7a/v.mp4
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 8 
+https://p1.e-amzn-cdn.net/kmxsuibhpbumwmesrl3uy2pxnzxxpsw3xq55oy6loxq6o3he733suwuafdeq/v.mp4
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 9
+https://p1.e-amzn-cdn.net/kmxsuljfpbumwmesrl3uy2xynr6ys7zl5umucemnhk3e4s7xbdwxug5urksq/v.mp4
+
