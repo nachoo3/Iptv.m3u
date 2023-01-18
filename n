@@ -1,0 +1,30 @@
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 9
+https://p2.e-amzn-cdn.net/kmxsuizbpbumwmesrlyey25nhasf466ta2mboy2y7uokktxfe7xghl55kzja/v.m3u
+
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 5 
+
+https://p2.e-amzn-cdn.net/kmxsuizbpbumwmesrlyey25nhasf466ta2mboy2y7uoklhp4h3lhry3emsja/v.mp4
+https://p2.e-amzn-cdn.net/kmxsuizbpbumwmesrlyey25nhasf466ta2mboy2y7uokktxfe7xghl55kzja/v.mp4
+
+
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 6 
+
+https://p2.e-amzn-cdn.net/kmxsuijbpbumwmesrlyeyofjgfyxe2fi5jvf7z73ikveow2a474z3ulcvsrq/v.mp4
+
+
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 7 
+
+https://p2.e-amzn-cdn.net/kmxsuprbpbumwmesrlyeynhymhkn7ro2hgvbilnv7c4y3itnwl7l3f2x3w7a/v.mp4
+
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 8 
+
+https://p1.e-amzn-cdn.net/kmxsuibhpbumwmesrl3uy2pxnzxxpsw3xq55oy6loxq6o3he733suwuafdeq/v.mp4
+
+#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 9
+
+https://p1.e-amzn-cdn.net/kmxsuljfpbumwmesrl3uy2xynr6ys7zl5umucemnhk3e4s7xbdwxug5urksq/v.mp4
+
+
+
+
+
