@@ -696,18 +696,13 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Undefined",Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-id="Big Bet" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Big Bet Episode 1
+https://c31.e-amzn-cdn.net/kmxstmy4pbumwmesrlyeyzvkhj5nci3647z4moyq253mbpvkdel2zybbe33q/v.m3u8
+#EXTINF:-1 tvg-id="Big Bet" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Big Bet Episode 2
+https://c31.e-amzn-cdn.net/kmxstty4pbumwmesrlyey67ypbkc3yclw7hj5pf7y3u5m5w32ng5a6p6wfuq/v.m3u8
+#EXTINF:-1 tvg-id="Big Bet" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Big Bet Episode 3
+https://c42.e-amzn-cdn.net/kmxsvti4pbumwmesrlyey5vjmw2i47kzeynmwqgyyinqamzeo46mt7v7vyuq/v.m3u8
+#EXTINF:-1 tvg-id="Big Bet" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Big Bet Episode 4
+https://e8.e-amzn-cdn.net/kmxsvqjbpbumwmesrlyeyzhyhvshn42xhmj6crbmifpdmbiwgnt4d37fzpgq/v.m3u8
 
-#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 9
-https://c46.e-amzn-cdn.net/kmxsu75opnumwmesrl6uyn5mho4g35p5htqhm753jpeddznv54qdeyc3wa2a/v.mp4
-#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 5 
-https://c46.e-amzn-cdn.net/kmxsu75opnumwmesrl6uyn5mho4g35p5htqhm753jpeddznv54qdeyc3wa2a/v.m3u
-#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 6 
-https://c46.e-amzn-cdn.net/kmxsu75opnumwmesrl6uyn5mho4g35p5htqhm753jpeddznv54qdeyc3wa2a/v.m3u8
-#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 7 
-https://p2.e-amzn-cdn.net/kmxsuprbpbumwmesrlyeynhymhkn7ro2hgvbilnv7c4y3itnwl7l3f2x3w7a/v.mp4
-#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 8 
-https://p1.e-amzn-cdn.net/kmxsuibhpbumwmesrl3uy2pxnzxxpsw3xq55oy6loxq6o3he733suwuafdeq/v.mp4
-#EXTINF:-1 tvg-id="Tusla King" tvg-logo="http://bitly.ws/ySwj" group-title="Series",Tusla King  Episode 9
-https://p1.e-amzn-cdn.net/kmxsuljfpbumwmesrl3uy2xynr6ys7zl5umucemnhk3e4s7xbdwxug5urksq/v.mp4
-#EXTINF:-1 tvg-id="Tusla King" tvg-logo="shorturl.at/uJO15" group-title="Series",the-neighborhood  Episode 10
-https://n2.e-amzn-cdn.net/kmxsvbzjpbumwmesrl3uynh4ms7arin2huxmhq5vul2om26de3nrzmwymffq/v.mp4
+
