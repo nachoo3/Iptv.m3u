@@ -696,10 +696,10 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Undefined",Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1 tvg-id="Big Bet" tvg-logo="https://bit.ly/3XJK5qQ" group-title="Series",Big Bet Episode 1
-https://c31.e-amzn-cdn.net/kmxstmy4pbumwmesrlyeyzvkhj5nci3647z4moyq253mbpvkdel2zybbe33q/v.m3u8
-#EXTINF:-1 tvg-id="Big Bet" tvg-logo="https://bit.ly/3XJK5qQ" group-title="Series",Big Bet Episode 2
-https://c31.e-amzn-cdn.net/kmxstty4pbumwmesrlyey67ypbkc3yclw7hj5pf7y3u5m5w32ng5a6p6wfuq/v.m3u8
+#EXTINF:-1 tvg-id="The Killers Shopping List" tvg-logo="https://bit.ly/3XJK5qQ" group-title="Series",The Killers Shopping List Episode 1
+https://s203.vidboo.org/6jmn2e74vqazsalriuzqhz7cjkfovnogqo7hmr7zhxxq2mah5dg7b4aidc5a/v.m3u8
+#EXTINF:-1 tvg-id="The Killers Shopping List" tvg-logo="https://bit.ly/3XJK5qQ" group-title="Series",The Killers Shopping List Episode 2
+https://enc109.vidboo.org:189/6jmnu4pavqazsalriuyahjvvkt4pxcvsj5v6leckrbn6hg3jorwtdx3yshtq/v.m3u8
 #EXTINF:-1 tvg-id="Big Bet" tvg-logo="https://bit.ly/3XJK5qQ" group-title="Series",Big Bet Episode 3
 https://c42.e-amzn-cdn.net/kmxsvti4pbumwmesrlyey5vjmw2i47kzeynmwqgyyinqamzeja3kipy3xoja/v.m3u8
 #EXTINF:-1 tvg-id="Big Bet" tvg-logo="https://bit.ly/3XJK5qQ" group-title="Series",Big Bet Episode 4
