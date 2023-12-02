@@ -656,6 +656,10 @@ https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Sports",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Setanta Sports 1
+https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Setanta Sports 2
+https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 tvg-id="TV7.dz" tvg-logo="https://i.imgur.com/40rR4hD.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",TV7 Elmaarifa [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
