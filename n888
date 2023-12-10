@@ -666,10 +666,16 @@ https://af.ayas.ir/hls2/aiosport.m3u8
 https://live.aionet.ir/hls/varzesh/varzesh_360/index.m3u8
 #EXTINF:-1 tvg-id="Bein Sport 2 En " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",BEin Sport 2 EN 
 https://live-tv.starcdnup.com/Bein_Sports_English_2_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 1 En " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",BEin Sport 1 EN
+https://live-tv.starcdnup.com/Bein_Sports_English_1_Live_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",SuperSport Premier League
 https://live-tv.starcdnup.com/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SuperSport Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",SuperSport Football
+https://live-tv.starcdnup.com/SuperSport_Football_Live_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TNT SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",TNT Sport 1
 https://live-tv.starcdnup.com/TNT_Sports_1_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Sky Sport Football
+https://live-tv.starcdnup.com/Sky_Sports_Football_Live_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV7.dz" tvg-logo="https://i.imgur.com/40rR4hD.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",TV7 Elmaarifa [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
@@ -787,3 +793,4 @@ https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034011-TXM.sm
 #EXTINF:-1 tvg-id="حارش ووارش" tvg-logo="https://bit.ly/3XJK5qQ" group-title="مسلسلات خليجية",حارش ووارش الحلقة 30
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034012-TXM.smil/chunklist_b6195086.m3u8
 
+https://live-tv.starcdnup.com/Bein_Sports_English_1_Live_TV/tracks-v1a1/mono.m3u8
