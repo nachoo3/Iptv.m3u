@@ -660,6 +660,10 @@ https://alpha.tv.online.tm/hls/ch004.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-id="Setanta Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Setanta Sports 2
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+#EXTINF:-1 tvg-id="Aio Sport1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Aio Sport1
+https://af.ayas.ir/hls2/aiosport.m3u8
+#EXTINF:-1 tvg-id="VarzeshTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",VarzeshTV
+https://live.aionet.ir/hls/varzesh/varzesh_360/index.m3u8
 #EXTINF:-1 tvg-id="TV7.dz" tvg-logo="https://i.imgur.com/40rR4hD.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",TV7 Elmaarifa [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
