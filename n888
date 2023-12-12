@@ -795,3 +795,7 @@ https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034012-TXM.sm
 #EXTINF:-1 tvg-id="حارش ووارش" tvg-logo="https://bit.ly/3XJK5qQ" group-title="مسلسلات كورية",Numbers 3E
 https://faselhd-embed.scdns.io/video_player?uid=0&vid=955b5d92c2efa79a9c85b70b8962c274&img=https://img.scdns.io/thumb/955b5d92c2efa79a9c85b70b8962c274/large.jpg
 https://r900--2xdu852n.c.scdns.io/stream/v1/hls/3PSXAHB-HzU3QmdZbXvhvw/1702390596/all/all/176.9.113.53/no/DE/0/02-02/3/955b5d92c2efa79a9c85b70b8962c274/160_hd1080b_playlist.m3u8
+#EXTINF:-1 tvg-id="سهيل وهيل" tvg-logo="https://bit.ly/3XJK5qQ" group-title="مسلسلات خليجية",سهيل وهيل 1
+https://www.youtube.com/embed/arDITlc6xCw
+#EXTINF:-1 tvg-id="فص كلام" tvg-logo="https://bit.ly/3XJK5qQ" group-title="مسلسلات خليجية",فص كلام 1
+https://www.youtube.com/embed/3IqNiuPi9A4?si=6XWENq_2Y8gv4lz0
