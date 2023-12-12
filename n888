@@ -792,5 +792,5 @@ https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034010-TXM.sm
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034011-TXM.smil/chunklist_b6194751.m3u8
 #EXTINF:-1 tvg-id="حارش ووارش" tvg-logo="https://bit.ly/3XJK5qQ" group-title="مسلسلات خليجية",حارش ووارش الحلقة 30
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034012-TXM.smil/chunklist_b6195086.m3u8
-
-https://live-tv.starcdnup.com/Bein_Sports_English_1_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="حارش ووارش" tvg-logo="https://bit.ly/3XJK5qQ" group-title="مسلسلات خليجية",حارش ووارش الحلقة 31
+https://faselhd-embed.scdns.io/video_player?uid=0&vid=955b5d92c2efa79a9c85b70b8962c274&img=https://img.scdns.io/thumb/955b5d92c2efa79a9c85b70b8962c274/large.jpg
