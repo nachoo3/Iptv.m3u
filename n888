@@ -284,7 +284,7 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Arabic",Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1 tvg-id="B Cut" tvg-logo="//admango.cdn.mangomolo.com/analytics/uploads/164/at_612da88b59.jpg" group-title="TV SHOW",B Cut 1
+#EXTINF:-1 tvg-id="Korean" tvg-logo="//admango.cdn.mangomolo.com/analytics/uploads/164/at_612da88b59.jpg" group-title="TV SHOW",B Cut 1
 https://n5.e-amzn-cdn.net/kmxsujripbumwmesrl3uynponwt65z6lcpltva6lscb6seuwtl7g7kphqlna/v.mp4
 #EXTINF:-1 tvg-id="The Killers Shopping List" tvg-logo="//admango.cdn.mangomolo.com/analytics/uploads/164/at_612da88b59.jpg" group-title="TV SHOW",The Killers Shopping List Episode 2
 https://s12.goved.net/to3qv7ixifvsy46b3wjwxo5hjjmugjss2ilj6dfj6yad2jjuk7mdilih524q/v.mp4
