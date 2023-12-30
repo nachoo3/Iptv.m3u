@@ -292,8 +292,8 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Arabic",Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1 tvg-id="Korean" tvg-logo="//admango.cdn.mangomolo.com/analytics/uploads/164/at_612da88b59.jpg" group-title="TV SHOW",B Cut 1
-https://n5.e-amzn-cdn.net/kmxsujripbumwmesrl3uynponwt65z6lcpltva6lscb6seuwtl7g7kphqlna/v.mp4
+#EXTINF:-1 tvg-id="Arbic Movies" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/spider_storage/1000X1462/1688550421." group-title="TV SHOW", ولاد البلد
+https://rotananet.hibridcdn.net/vod/12499bbc-24b0-4042-ad20-e3ab1ee06277/smil:r3IpUOqhoSy7vyVg.smil/360p/video.mp4_chunk.m3u8
 #EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhdtv.makeup:2096/wp-content/uploads/2021/09/Xkn8n_4f-400x600.jpg" group-title="korean",The Veil  Episode 1
 https://r900--3k3qbmcz.c.scdns.io/stream/v1/hls/a7JHHFfIOzcKoHkZA7nsWw/1703132480/all/all/79.139.46.46/no/SA/0/03-02/1/99cbbd5bf9bf75b681e6bfbc824d83a6/160_hd1080b_playlist.m3u8
 #EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhdtv.makeup:2096/wp-content/uploads/2021/09/Xkn8n_4f-400x600.jpg" group-title="korean",the Veil Episode 2
