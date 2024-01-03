@@ -1,12 +1,6 @@
 
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="tv",Abu Dhabi Aloula (1080p)
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_6124add1ee.jpg" group-title="حارش ووارش الحلقة 26",درويشيات الحلقة 28
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-24/FOR0049516-TXM.smil/chunklist_b4000000.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_6124add1ee.jpg" group-title="حارش ووارش الحلقة 26",درويشيات الحلقة 29
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-24/FOR0049517-TXM.smil/chunklist_b4000000.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_6124add1ee.jpg" group-title="حارش ووارش الحلقة 26",درويشيات الحلقة 30
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-24/FOR0049518-TXM.smil/chunklist_b4000000.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Lifemark" tvg-logo="https://image.tmdb.org/t/p/w500/8UttX9BqDre5nHmoffhEE93HnUn.jpg" group-title="|VOD| ENGLISH 2022",Lifemark
 http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/374255.mp4
 db.org/t/p/w500/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg" group-title="|VOD| ENGLISH 2022",Resurrection
