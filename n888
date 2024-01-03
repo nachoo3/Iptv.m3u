@@ -3741,7 +3741,7 @@ https://rotananet.hibridcdn.net/vod/12499bbc-24b0-4042-ad20-e3ab1ee06277/smil:r3
 https://rpn3.bozztv.com/ssh101/ssh101/cloudflare/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BABA TELEPHONE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzqtwcDjRLZylQ0Jj8HwE6NWvWK.jpg" group-title="|SERIES| Arabic",BABA TELEPHONE
 http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24651.mkv
-#EXTINF:-1 tvg-ID "Series" tvg-name="Fundación (2021)"group-title=|VOD||series|latino ",(Lat-Ing) S01 E02
+#EXTINF:-1 tvg-ID ""tvg-name="Fundación (2021)"group-title=|VOD||series|latino "(Lat-Ing) S01 E02
 http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24652.mkv
 #EXTINF:-1,حاؤش (2021) (Lat-Ing) S01 E03
 http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24653.m3u8
