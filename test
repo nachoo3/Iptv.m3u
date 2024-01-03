@@ -1,38 +1,15 @@
 
-#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="Arabic",Abu Dhabi Aloula (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="tv",Abu Dhabi Aloula (1080p)
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us" tvg-logo="https://i.imgur.com/t2ZkRbr.png" group-title="Religious",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us" tvg-logo="https://i.imgur.com/kpuO8m7.png" group-title="Religious",Alkarma TV Youth & English (1080p) [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlmagdTVMiddleEast.us" tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="Religious",Almagd TV Middle East (1080p) [Not 24/7]
-https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlmagdTVNorthAmerica.us" tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="Religious",Almagd TV North America (1080p)
-https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_6124add1ee.jpg" group-title="حارش ووارش الحلقة 26",درويشيات الحلقة 28
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-24/FOR0049516-TXM.smil/chunklist_b4000000.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_6124add1ee.jpg" group-title="حارش ووارش الحلقة 26",درويشيات الحلقة 29
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-24/FOR0049517-TXM.smil/chunklist_b4000000.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_6124add1ee.jpg" group-title="حارش ووارش الحلقة 26",درويشيات الحلقة 30
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-24/FOR0049518-TXM.smil/chunklist_b4000000.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="|ENG| A Perfect Pairing" tvg-logo="https://image.tmdb.org/t/p/w500/h65lLhYEfRGOWVZzwX9n7vYOixf.jpg" group-title="|VOD| ENGLISH 2022",|ENG| A Perfect Pairing
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/376234.mp4
-
 #EXTINF:-1 tvg-ID="" tvg-name="Lifemark" tvg-logo="https://image.tmdb.org/t/p/w500/8UttX9BqDre5nHmoffhEE93HnUn.jpg" group-title="|VOD| ENGLISH 2022",Lifemark
 http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/374255.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="LOLA " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZsQUNuk1MqccWMiJA4vwUS2XgX.jpg" group-title="|VOD| ENGLISH 2022",LOLA 
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/374256.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Look Into the Fire" tvg-logo="https://image.tmdb.org/t/p/w500/sTx5Hp8lXkW0v9fHNnsNCNEA3Ej.jpg" group-title="|VOD| ENGLISH 2022",Look Into the Fire
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/374257.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Punch" tvg-logo="https://image.tmdb.org/t/p/w500/9XaWauCRrSrchGbsxlI3QgCr76t.jpg" group-title="|VOD| ENGLISH 2022",Punch
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/374258.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Renegades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QvhJsoFbcWsrY0iXGhZTKQaQAr.jpg" group-title="|VOD| ENGLISH 2022",Renegades
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/374259.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Resurrection" tvg-logo="https://image.tmdb.org/t/p/w500/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg" group-title="|VOD| ENGLISH 2022",Resurrection
+db.org/t/p/w500/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg" group-title="|VOD| ENGLISH 2022",Resurrection
 #EXTINF:-1 tvg-ID="" tvg-name="A Holiday Spectacular (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVMkBrL3jqu0COYqwGn2xLoEWV.jpg" group-title="|VOD| ENGLISH 2022",A Holiday Spectacular (2022)
 http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/404033.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="A Hollywood Christmas (2022)" tvg-logo="https://www.themoviedb.org/t/p/w1280/f8D6dobydMiuabqRDQi0598ghc4.jpg" group-title="|VOD| ENGLISH 2022",A Hollywood Christmas (2022)
@@ -41,11 +18,9 @@ http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/404034.mp4
 http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/404035.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="A Lot of Nothing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BEg6cMPKItHmJROTgNceNxTlr7.jpg" group-title="|VOD| ENGLISH 2022",A Lot of Nothing (2023)
 http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/404036.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="WELAD ALBALD (2022)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A806wuTGJECDh9krhQAhnieQcLr.jpg" group-title="|VOD| EGYPT 2022",WELAD ALBALD(2022)
-https://rotananet.hibridcdn.net/vod/12499bbc-24b0-4042-ad20-e3ab1ee06277/smil:r3IpUOqhoSy7vyVg.smil/360p/video.mp4_chunk.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="BABA TELEPHONE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzqtwcDjRLZylQ0Jj8HwE6NWvWK.jpg" group-title="|SERIES| Arabic", BABA TELEPHONE
 https://rpn3.bozztv.com/ssh101/ssh101/cloudflare/playlist.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="BABA TELEPHONE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzqtwcDjRLZylQ0Jj8HwE6NWvWK.jpg" group-title="|SERIES| Arabic",BABA TELEPHONE
+#EXTINF:-1 tvg-ID="" tvg-name="BABA TELEPHONE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzqtwcDjRLZylQ0Jj8HwE6NWvWK.jpg" group-title="|SERIES| Arabic",BABA TELEPHONE 1
 http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24651.mkv
 #EXTINF:-1 tvg-ID ""tvg-name="Fundación (2021)"group-title="|series|latino "(Lat-Ing) S01 E02
 https://master.c.scdns.io/stream/v1/H3d_O06vHyncliipBUCrwA/1704271735/normal/0/82.102.16.174/no/ac4ffcb29087660cf5fa9358a9bbfb45/master.mp4
@@ -60,57 +35,3 @@ https://faselhd-embed.scdns.io/video_player?uid=0&vid=ac4ffcb29087660cf5fa9358a9
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033984-TXM.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="حارش" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 3
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033985-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 4
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033986-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 5
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033987-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 6
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033988-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 7
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033989-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 8
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033990-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 9
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033991-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 10
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033992-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 11
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033993-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 12
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033994-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 13
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033995-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 14
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033996-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 15
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033997-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 16
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033998-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 17
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033999-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 18
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034000-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 19
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034001-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 20
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034002-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 21
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034003-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 22
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034004-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 23
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034005-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 24
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034006-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 25
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034007-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 26
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034008-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 27
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034009-TXM.smil/chunklist_b4000000.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 28
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034010-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 29
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034011-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 30
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034012-TXM.smil/chunklist_b4000000.m3u8
