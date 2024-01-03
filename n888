@@ -309,12 +309,12 @@ https://master.c.scdns.io/stream/v1/bmNCTPuO7HARFrYqE7OoUA/1703564014/normal/0/1
 https://r900--5b2u02j6.c.scdns.io/stream/v1/hls/-9jX4VzKK7pAnK9BS92k4w/1702741058/all/all/176.9.113.53/no/DE/0/05-02/4/2696e9ab4035331f7a45e3890c25ab10/160_hd1080b_playlist.m3u8
 #EXTINF:-1 tvg-id="IP MAN " tvg-logo="src="https://www.faselhd.express/wp-content/uploads/2016/02/yip_man_2_ver10-400x600.jpg"" group-title="Vod",IP MAN 2008
 https://r900--3k3qbmcz.c.scdns.io/stream/v1/hls/NiHG40Gpa7WVGW_pD-ogMQ/1702741598/all/all/176.9.113.53/no/DE/0/03-02/4/e23d5385d6a575b91b1b855418591069/160_hd1080b_playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 1
-https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033983-TXM.smil/chunklist_b4000000.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 2
-https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033984-TXM.smil/chunklist_b4000000.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" S01 E01
+https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033983-TXM.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" S01 E02
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033984-TXM.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 3
-https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033985-TXM.smil/chunklist_b4000000.m3u
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033985-TXM.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 4
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033986-TXM.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" "حارش ووارش الحلقة 5
