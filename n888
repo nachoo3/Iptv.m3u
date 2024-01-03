@@ -3801,12 +3801,13 @@ http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/47181.mkv
 http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/47182.mkv
 #EXTINF:-1,Record of Ragnarok (2021) (Lat-Cast-Ing-Jap) S02 E04
 http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/47183.mkv
-#EXTINF:0 tvg-id="avi" group-title=" حارش   ",▁▂▃▅▆▇★☀二【« مسلسل قيامة عثمان »】二☀★▇▆▅▃▂▁
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" S01 E01
+#EXTINF:1 tvg-id="حارش" group-title=" حارش   ",▁▂▃▅▆▇★☀二【« مسلسل قيامة عثمان »】二☀★▇▆▅▃▂▁
+https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033983-TXM.smil/chunklist_b4000000.mp4
+#EXTINF:-1 tvg-id="حارش" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" S01 E01
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033983-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" S01 E02
+#EXTINF:-1 tvg-id="حارش" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" S01 E02
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033984-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 3
+#EXTINF:-1 tvg-id="حارش" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 3
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033985-TXM.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 4
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033986-TXM.smil/chunklist_b4000000.m3u8
