@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="CNBCIndonesia.id", groub-title="Indonesia",CNBC Indonesia (720p)
+#EXTINF:-1 tvg-id="CNBCIndonesia.id",group-title="Indonesia",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id",group-title="Indonesia",CNN Indonesia (720p) [Geo-blocked]
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
