@@ -10,8 +10,10 @@ https://vod.cf.dmcdn.net/sec2(onqY7sa244VAuuYQUi5mgXqM-tTTe6XSUTPfjMX3bXWgmcdza5
 https://rr3---sn-15po3n5-wxqz.googlevideo.com/videoplayback?expire=1704866687&ei=H9-dZb2MHIGcp-oPzuuFwAg&ip=77.223.228.117&id=o-AH8hU85lYhf2kmoCUrCwfBg0HDqEKsnc1SuVf-7wqq24&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=pp&mm=31%2C29&mn=sn-15po3n5-wxqz%2Csn-hgn7rn7k&ms=au%2Crdu&mv=m&mvi=3&pl=22&initcwndbps=607500&spc=UWF9fy0OANyPhnndOshVBaS4LQDe6FYYF56IRipDqQ&vprv=1&svpuc=1&mime=video%2Fmp4&ns=Ctm9i2L2NztmFQxYtDOp320Q&cnr=14&ratebypass=yes&dur=1355.371&lmt=1537052151711193&mt=1704844611&fvip=2&fexp=24007246&c=WEB&n=apY3_kJ-Vl-zLnYMb&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgSPaG8MzrGm1dHdTPHNwWCRzyyy41-FCRWQBwmYRzeCoCIQDesDQHr3l6UUeGiWW7NsDnzZzRml-3Oum40hjOtaw8Fg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRQIgV_btsZAtxrN6LrMaDYECcs0N6fuoj9mXF-MNbBOMm2ACIQDvsFFyBq_F2x4OT004RLjBj8n46qEZoHrAtUHTd_G1GQ%3D%3D
 #EXTINF:-1 tvg-id="Song" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/icon/at_65730e2567.png" group-title="Song",خالد عبدالرحمن الف ليلة 
 https://tr-route2.adm.tcon.hlit.hvds.tv/Content/Hls/VOD/3990/1287/3522609d-c538-464e-8678-a5a9fc513905/82b249ab-5893-561b-1b2a-b221a78f723d/index.m3u8
-#EXTINF:-1 tvg-id="وثائقي " tvg-logo="https://nowcdn.asharq.com/308x172/7086871571704817834.jpg" group-title="Decumantry",بريطانيا جريمة غيرت الامة 
+#EXTINF:-1 tvg-id="وثائقي " tvg-logo="https://nowcdn.asharq.com/308x172/7086871571704817834.jpg" group-title="Decumantry",بريطانيا جريمة غيرت القانون 
 https://clvod.itworkscdn.net/bloombergvod/smil:itwfcdn/bloomberg/1884299-DSOCL6D1272px28.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="وثائقي " tvg-logo="https://nowcdn.asharq.com/308x172/13914120021704734182.jpg" group-title="Decumantry",بريطانيا جريمة غيرت القانون 
+https://clvod.itworkscdn.net/bloombergvod/smil:itwfcdn/bloomberg/1884302-V26u5bVZBI56PEK.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="Arabic",Abu Dhabi Aloula (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" group-title="Arabic",Abu Dhabi Emirates (1080p)
