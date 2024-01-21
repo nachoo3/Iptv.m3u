@@ -1,37 +1,6 @@
 
-#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="tv",Abu Dhabi Aloula (1080p)
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Lifemark" tvg-logo="https://image.tmdb.org/t/p/w500/8UttX9BqDre5nHmoffhEE93HnUn.jpg" group-title="|VOD| ENGLISH 2022",Lifemark
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/374255.mp4
-db.org/t/p/w500/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg" group-title="|VOD| ENGLISH 2022",Resurrection
-#EXTINF:-1 tvg-ID="" tvg-name="A Holiday Spectacular (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVMkBrL3jqu0COYqwGn2xLoEWV.jpg" group-title="|VOD| ENGLISH 2022",A Holiday Spectacular (2022)
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/404033.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="A Hollywood Christmas (2022)" tvg-logo="https://www.themoviedb.org/t/p/w1280/f8D6dobydMiuabqRDQi0598ghc4.jpg" group-title="|VOD| ENGLISH 2022",A Hollywood Christmas (2022)
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/404034.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="A House Made of Splinters" tvg-logo="https://www.themoviedb.org/t/p/w1280/eFYeFvco3Cgcrny99RCTFIaXMla.jpg" group-title="|VOD| ENGLISH 2022",A House Made of Splinters
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/404035.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="A Lot of Nothing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BEg6cMPKItHmJROTgNceNxTlr7.jpg" group-title="|VOD| ENGLISH 2022",A Lot of Nothing (2023)
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/404036.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="BABA TELEPHONE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzqtwcDjRLZylQ0Jj8HwE6NWvWK.jpg" group-title="|SERIES| Arabic", BABA TELEPHONE
-https://rpn3.bozztv.com/ssh101/ssh101/cloudflare/playlist.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="BABA TELEPHONE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzqtwcDjRLZylQ0Jj8HwE6NWvWK.jpg" group-title="|SERIES| Arabic",BABA TELEPHONE 1
-http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24651.mkv
-#EXTINF:-1 tvg-ID ""tvg-name="Fundación (2021)"group-title=|series|latino "(Lat-Ing) S01 E02
-https://master.c.scdns.io/stream/v1/H3d_O06vHyncliipBUCrwA/1704271735/normal/0/82.102.16.174/no/ac4ffcb29087660cf5fa9358a9bbfb45/master.mp4
-#EXTINF:-1,حاؤش (2021) (Lat-Ing) S01 E03
-https://fvideo6c.ddns.me/viewm/92/691/92691.mp4
-#EXTINF:-1 ,"group-title"|Thailand|", Naya (3)
-https://fvideo6c.ddns.me/viewm/92/691/92691.mp4
-#EXTINF:-1 ,"group-title"|Thailand|", Naya (2)
-http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24654.m3u8
-#EXTINF:-1 ,"group-title"|Thailand|", Naya (1)
-http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24654.m3u8
-#EXTINF:-1,tvg-id """Fundación (2021)" "group-title="|Series| (Lat-Ing)" S01 E04
-http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24654.m3u8
-#EXTINF:-1,Fundación (2021) (Lat-Ing) S01 E05
-tvg-ID="" tvg-name="MAMA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mppefgyMgicn90j2olekO5bAVNI.jpg" group-title="|SERIES| ENGLISH 2024",MAMA
-https://faselhd-embed.scdns.io/video_player?uid=0&vid=ac4ffcb29087660cf5fa9358a9bbfb45&img=https://img.scdns.io/thumb/ac4ffcb29087660cf5fa9358a9bbfb45/large.jpg
-#EXTINF:-1 tvg-id="حارش" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" S01 E02
-https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033984-TXM.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="حارش" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" حارش ووارش الحلقة 3
-https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-01-19/FOR0033985-TXM.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="live matches",syria koora sd (1080p)
+https://live-e6pv21nm.rmbl.ws/slot-87/2yj5-aed0_360p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="live matches",syria koora hd (1080p)
+https://live-e6pv21nm.rmbl.ws/slot-87/2yj5-aed0_720p/chunklist_DVR.m3u8
+
