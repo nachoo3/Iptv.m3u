@@ -52,8 +52,8 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlKhalijTV.sa" tvg-logo="https://i.imgur.com/Knd2lAQ.png" group-title="Arabic",Al Khalij (720p) [Not 24/7]
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-logo="https://i.imgur.com/l7zer94.png" group-title="Religious",Al Maali TV (1080p)
-https://kali.vdopanel.com:3986/live/mbashalive.m3u8
+#EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-logo="https://i.imgur.com/l7zer94.png" group-title="bababa",baba30 (1080p)
+https://web1.faselhd-watch.mom/video_player?uid=0&vid=09e7a7a55ee168912b0116b1ef3d6cbd&img=https://img.scdns.io/thumb/09e7a7a55ee168912b0116b1ef3d6cbd/large.jpg
 #EXTINF:-1 tvg-id="AlMaarefTV.kw" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="Religious",Al Maaref (350p)
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="Arabic",Al Maghribia (360p)
