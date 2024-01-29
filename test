@@ -1,17 +1,5 @@
 
-#EXTINF:-1 tvg-id="Watania 1" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="live matches","Watania 1 (1080p)"
-<desc> lang="ar">تتناول حلقات المسلسل قصص الإنسان التي ذكرت في القرآن الكريم وذلك فيصص والدور الذي أدته في لتوصيل الرسالة الإلهية.(n)</desc>
+#EXTINF:-1 tvg-id="Z1000" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="live matches",Watania 1 (1080p)
 https://live-e6pv21nm.rmbl.ws/slot-87/2yj5-aed0_360p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="live matches",syria koora hd (1080p)
 https://live-e6pv21nm.rmbl.ws/slot-87/2yj5-aed0_720p/chunklist_DVR.m3u8
-
-<programme start="20240129333000 +0100" stop="20240129210100 +0100" tvg-id="Watania 1">
-    <title lang="ar">مسلسل عنقود الغضب</title>
-    <desc lang="ar">المسلسل من إخراج نعيم بن رحومة و تأليف عبد القادر بالحاج نصر
-
-يتناول المسلسل مواضيع ذات صلة بالفساد السياسي و المالي الذي نحر اوصال المجتمع
-
-بطولة: محمداليانقي- حسام الساحلي - أسماء بن عثمان - محمد علي بن جمعة.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/feuilleton-01.jpg?itok=jfMzWhcO" />
-  </programme>
-W
