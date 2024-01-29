@@ -14,7 +14,7 @@ https://master.c.scdns.io/stream/v1/zl7sQuygVCT_o1tktVV_eQ/1705731155/normal/0/1
 https://tr-route2.adm.tcon.hlit.hvds.tv/Content/Hls/VOD/3990/1287/3522609d-c538-464e-8678-a5a9fc513905/82b249ab-5893-561b-1b2a-b221a78f723d/index.m3u8
 #EXTINF:-1 tvg-id="وثائقي " tvg-logo="https://nowcdn.asharq.com/308x172/7086871571704817834.jpg" group-title="Documentary",بريطانيا جريمة غيرت القانون 
 https://clvod.itworkscdn.net/bloombergvod/smil:itwfcdn/bloomberg/1884299-DSOCL6D1272px28.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="وثائقي " tvg-logo="https://nowcdn.asharq.com/308x172/13914120021704734182.jpg" group-title="Documentary",بريطانيا جريمة غيرت القانون 
+#EXTINF:-1 tvg-id="وثائقي " tvg-logo="https://nowcdn.asharq.com/308x172/13914120021704734182.jpg" group-title="Documentary",تسـميم نـهر ألامازون 
 https://clvod.itworkscdn.net/bloombergvod/smil:itwfcdn/bloomberg/1884302-V26u5bVZBI56PEK.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="Arabic",Abu Dhabi Aloula (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
@@ -664,8 +664,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InterTV.it" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="Sports",Inter TV (720p)
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="IshushoTV.rw" tvg-logo="https://i.ibb.co/BjpLqbN/ISHUSHO-TV-LOGO-orange.png" group-title="Culture;Sports",Ishusho TV (720p) [Not 24/7]
-https://tv.livebcm.com:3425/stream/play.m3u8
 #EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J Sports 1 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 #EXTINF:-1 tvg-id="JSPORTS2.jp" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sports",J Sports 2 (544p)
@@ -870,9 +868,6 @@ https://janus.tvturf.cl/playlist/stream.m3u8
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="TV2Sport1.no" tvg-logo="https://i.imgur.com/asKHqNZ.png" group-title="Sports",TV 2 Sport 1 (720p)
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 tvg-id="TVBFinanceSportsInformationChannel.hk" tvg-logo="https://i.imgur.com/Fkkp7x7.png" group-title="Business;Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Finance and Sport Channel (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Sports",TVMatic Fight (720p)
 http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="Sports",TVMAX (720p)
