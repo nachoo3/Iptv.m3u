@@ -287,19 +287,19 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Arabic",Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhdtv.makeup:2096/wp-content/uploads/2021/09/Xkn8n_4f-400x600.jpg" group-title="korean",The Veil  Episode 1
+#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhd-watch.sbs/wp-content/uploads/2023/06/191aaf6a9d73ca65faf9d4f83390192f.jpg" group-title="|SERIES|",The Veil  Episode 1
 https://r900--3k3qbmcz.c.scdns.io/stream/v1/hls/a7JHHFfIOzcKoHkZA7nsWw/1703132480/all/all/79.139.46.46/no/SA/0/03-02/1/99cbbd5bf9bf75b681e6bfbc824d83a6/160_hd1080b_playlist.m3u8
-#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhdtv.makeup:2096/wp-content/uploads/2021/09/Xkn8n_4f-400x600.jpg" group-title="korean",the Veil Episode 2
-https://r900--5b2u02j6.c.scdns.io/stream/v1/hls/AbWPvRYQgGXII6Q1-o8L4g/1703133176/all/all/79.139.46.46/no/SA/0/05-02/2/299e45117fb306c05cfead0f0688bfbb/160_hd1080b_playlist.m3u8
-#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhdtv.makeup:2096/wp-content/uploads/2021/09/Xkn8n_4f-400x600.jpg" group-title="korean",The Veil  Episode 3
-https://master.c.scdns.io/stream/v1/u1LQqlwRiHXU2XWfKyDfsw/1703315031/normal/0/176.9.113.53/no/529b42e13df2eae6e267f21a0de0514a/master.m3u8
-#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhdtv.makeup:2096/wp-content/uploads/2021/09/Xkn8n_4f-400x600.jpg" group-title="korean",The Veil  Episode 4
-https://master.c.scdns.io/stream/v1/-J80flI8XX9QX7zS4c6drw/1703315117/normal/0/176.9.113.53/no/a634edb93a1db00b6a31044028a917dc/master.m3u8
+#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhd-watch.sbs/wp-content/uploads/2023/06/191aaf6a9d73ca65faf9d4f83390192f.jpg" group-title="|SERIES|",the Veil Episode 2
+https://master.c.scdns.io/stream/v1/U8rY3qXNfDSaBPobw4lI-w/1706681290/normal/0/77.223.247.246/no/4ea27b618830dd35ef85cabcc96ce03c/master.m3u8
+#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhd-watch.sbs/wp-content/uploads/2023/06/191aaf6a9d73ca65faf9d4f83390192f.jpg" group-title="|SERIES|",The Veil  Episode 3
+https://master.c.scdns.io/stream/v1/4lLndUaVETGiBOHW7j502A/1706681344/normal/0/77.223.247.246/no/955b5d92c2efa79a9c85b70b8962c274/master.m3u8
+#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhd-watch.sbs/wp-content/uploads/2023/06/191aaf6a9d73ca65faf9d4f83390192f.jpg" group-title="|SERIES|",The Veil  Episode 4
+https://master.c.scdns.io/stream/v1/pl4qBcY3IUobxk1uzp1JCg/1706681380/normal/0/77.223.247.246/no/c22049a767a2c6ab7905455a97ef698e/master.m3u8
 https://master.c.scdns.io/stream/v1/EpTNarkzNlUzrwu1pxPGKg/1703565118/normal/0/176.9.113.53/no/a634edb93a1db00b6a31044028a917dc/master.m3u8
-#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhdtv.makeup:2096/wp-content/uploads/2021/09/Xkn8n_4f-400x600.jpg" group-title="korean",The Veil  Episode 5
-https://master.c.scdns.io/stream/v1/kK55MIj8_SFq9kETbf0DTw/1703565650/normal/0/176.9.113.53/no/40b04f030acc96cd5f3dedccfb8f2f03/master.m3u8
-#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhdtv.makeup:2096/wp-content/uploads/2021/09/Xkn8n_4f-400x600.jpg" group-title="korean",The Veil  Episode 6
-https://master.c.scdns.io/stream/v1/bmNCTPuO7HARFrYqE7OoUA/1703564014/normal/0/176.9.113.53/no/51e53d398b3b9321803d5e09ee484c60/master.m3u8
+#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhd-watch.sbs/wp-content/uploads/2023/06/191aaf6a9d73ca65faf9d4f83390192f.jpg" group-title="|SERIES|",The Veil  Episode 5
+https://master.c.scdns.io/stream/v1/sP903Ml6Vd6LZT93bRSGEQ/1706681447/normal/0/77.223.247.246/no/c3f6c7cb5399acc1d9783987b15de8cf/master.m3u8
+#EXTINF:-1 tvg-id="The Veil" tvg-logo="https://web1.faselhd-watch.sbs/wp-content/uploads/2023/06/191aaf6a9d73ca65faf9d4f83390192f.jpg" group-title="|SERIES|",The Veil  Episode 6
+https://master.c.scdns.io/stream/v1/nUPA7VFkEu0YuxbaqYOC6Q/1706681477/normal/0/77.223.247.246/no/72f04c316e37b40bdf36a353fd37488a/master.m3u8
 #EXTINF:-1 tvg-id="Rambo1 " tvg-logo="https://www.faselhd.express/wp-content/uploads/2016/04/first_blood_ver2-400x600.jpg" group-title="Vod",First Blood
 https://master.c.scdns.io/stream/v1/GrjNZDRn5weY9Ccg9O37Sg/1704687384/normal/0/79.139.39.99/no/319c51c60cebd883ca1c569d513a22a3/master.m3u8
 #EXTINF:-1 tvg-id="IP MAN " tvg-logo="src="https://web1.faselhd-watch.buzz/wp-content/uploads/2023/07/ab7199466d390a251dacf81553f57172.jpg"" group-title="VOD",فيلم-roundup-no-way-2023-مترجم
