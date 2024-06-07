@@ -1,3 +1,17 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1200px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="|Georgia|",1TV (720p)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1200px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="|Georgia|",2TV (720p)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/940_trt1_logo.jpg" group-title="|Turkish|", TRT 1(1080p)
+https://trt1.persona.video/master.m3u8?hls=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/940_trt1_logo.jpg" group-title="|Turkish|", TRT 1(1080p) [Geo-blocked]
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/940_trt1_logo.jpg",TRT 1 (720p)
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/cdn/channels/v1/tvos/logo_265.png?v=3"group-title="|Turkish|",,TRT 2
+https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/cdn/channels/v1/tvos/logo_265.png?v=3"group-title="|Turkish|", ,TRT 2 (720p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="ttps://www.faselhd.link/wp-content/uploads/2017/01/MV5BZTNiYTUwMDgtY2M4My00ZDAwLWIyYWYtYjM0ODBkNGRmMzRkL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_-400x600.jpg" group-title="|Movies|",فيلم U.S. Marshals مترجم 
 https://master.c.scdns.io/stream/v2/tn4K5RHJTTuHZ5HyCIL3Vg/1710479114/normal/0/82.102.16.174/no/da12dad1a567fd3173b2e21bf220a73d/www.faselhd.link/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/07/secqfRyM3WfvpWR1tm5EIp7AU0w-400x600.jpg" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfakFUMmVygvfqVeweqhvIpEfCkITpbF-0fg&usqp=CAU"group-title="|Movies|",Léon The Professional 1994
