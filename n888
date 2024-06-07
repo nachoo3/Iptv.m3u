@@ -206,8 +206,6 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlKhalijTV.sa" tvg-logo="https://i.imgur.com/Knd2lAQ.png" group-title="Arabic",Al Khalij (720p) [Not 24/7]
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-logo="https://i.imgur.com/l7zer94.png" group-title="bababa",baba30 (1080p)
-https://web1.faselhd-watch.mom/video_player?uid=0&vid=09e7a7a55ee168912b0116b1ef3d6cbd&img=https://img.scdns.io/thumb/09e7a7a55ee168912b0116b1ef3d6cbd/large.jpg
 #EXTINF:-1 tvg-id="AlMaarefTV.kw" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="Arabic",Al Maaref (350p)
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="Arabic",Al Maghribia (360p)
@@ -582,26 +580,6 @@ https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-24/FOR0049516-TXM.sm
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-24/FOR0049517-TXM.smil/chunklist_b4000000.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_6124add1ee.jpg" group-title="حارش ووارش الحلقة 26",درويشيات الحلقة 30
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-24/FOR0049518-TXM.smil/chunklist_b4000000.mkv
-#EXTINF:-1 tvg-id="" tvg-name="|ENG| A Perfect Pairing" tvg-logo="https://image.tmdb.org/t/p/w500/h65lLhYEfRGOWVZzwX9n7vYOixf.jpg" group-title="|VOD| ENGLISH 2022",|ENG| Bayan
-https://r900--4aly5paq.c.scdns.io/stream/v1/hls/99MmVnLkWr8RkF7gN9CyxQ/1706239206/all/all/79.139.34.62/no/SA/0/04-02/3/0ff1cc5411d4ea6be844a3315bbbeb83/160_hd1080b_playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|ENG| Alan Partridge - Stratagem " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldrGvS69jdgPJIM4uA8j8j8orjw.jpg" group-title="|VOD| ENGLISH 2022",|ENG| Alan Partridge - Stratagem 
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/376235.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Worth Each Penny Presents Scary Stories (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mppefgyMgicn90j2olekO5bAVNI.jpg" group-title="|VOD| ENGLISH 2022",Worth Each Penny Presents Scary Stories (2022)
-http://sansat.net:88/movie/02024036717143/mS34FIbmhBXJjsp/407061.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="WELAD ALBALD (2022)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A806wuTGJECDh9krhQAhnieQcLr.jpg" group-title="|VOD| EGYPT 2022",WELAD ALBALD(2022)
-https://rotananet.hibridcdn.net/vod/12499bbc-24b0-4042-ad20-e3ab1ee06277/smil:r3IpUOqhoSy7vyVg.smil/360p/video.mp4_chunk.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="BABA TELEPHONE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzqtwcDjRLZylQ0Jj8HwE6NWvWK.jpg" group-title="|SERIES| Arabic", BABA TELEPHONE
-https://rpn3.bozztv.com/ssh101/ssh101/cloudflare/playlist.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="BABA TELEPHONE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzqtwcDjRLZylQ0Jj8HwE6NWvWK.jpg" group-title="|SERIES| Arabic",BABA TELEPHONE
-http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24651.mkv
-#EXTINF:-1 tvg-ID ""tvg-name="Fundación (2021)"group-title="|series|latino "(Lat-Ing) S01 E02
-https://master.c.scdns.io/stream/v1/H3d_O06vHyncliipBUCrwA/1704271735/normal/0/82.102.16.174/no/ac4ffcb29087660cf5fa9358a9bbfb45/master.mp4
-#EXTINF:-1,حاؤش (2021) (Lat-Ing) S01 E03
-http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24653.m3u8
-#EXTINF:-1,tvg-id """Fundación (2021)" "group-title="|Series| (Lat-Ing) S01 E04
-http://user.ahiesta.es:8080/series/4AvKB6BkqF/DvxSxFShdG/24654.m3u8
-#EXTINF:-1,Fundación (2021) (Lat-Ing) S01 E05
-tvg-ID="" tvg-name="MAMA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mppefgyMgicn90j2olekO5bAVNI.jpg" group-title="|SERIES| ENGLISH 2024",MAMA
 https://faselhd-embed.scdns.io/video_player?uid=0&vid=ac4ffcb29087660cf5fa9358a9bbfb45&img=https://img.scdns.io/thumb/ac4ffcb29087660cf5fa9358a9bbfb45/large.jpg
 #EXTINF:-1 tvg-id="حارش" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_5e1e3dcbbd.jpg" group-title="|Series| حارش ووارش" S01 E01
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0033983-TXM.smil/chunklist_b4000000.m3u8
@@ -657,8 +635,6 @@ https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2021-01-19/FOR0034007-TXM.sm
 https://aflam-cdn-cash-18-tgb.dialymotion.online/yh5cazrjpxikjnl75zqkr3d3u266z3rigkcrwbzs3woqfs2de7j2cvwm3fnq/v.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://z.ifushaar.com/wp-content/uploads/2022/04/Drunken-Master-1978-tt80179-11230.jpg" group-title="|Movies|, " فيلم Shanghai Noon 2001 مترجم"
 https://aflam-cdn-cash-17-dui.dialymotion.online/yh5cgcakpxikjnl75zq2r33rwkragkwctbogovndtnopnxuev7bln5gdy7za/v.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://web1.faselhd-watch.motorcycles/wp-content/uploads/2019/10/MV5BYTdjNDZmNjgtZTI2Mi00OWJkLWI3ODItNzA5YjQ4MTczMTdjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX750_AL_.jpg" group-title="|Movies|," "فيلم Bayan مترجم"
-https://master.c.scdns.io/stream/v1/245U9D9R_g5LZooLtyL_5A/1706328778/normal/0/79.139.34.62/no/3d5e26673c1b9966b989492769d409f0/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/lmoTV" group-title="|Movies|", فيلم Badland Hunters 2024 مترجم اون لاين
 https://dayt-fer-o9.gamescdn.online:183/d/32nnnu3hmi3hdr7ek4kobpq7ucsufds2asy56zwdbqmif4nnonz67tdmugf4hws326vqvuhv/video.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="
