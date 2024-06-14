@@ -2,7 +2,29 @@
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1200px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="|Georgia|",2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/940_trt1_logo.jpg" group-title="|Turkish|", TRT 1(1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",RTI 1 (1080p)
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",RTI 2 (1080p)
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",RTI La 3 (1080p) [Not 24/7]
+https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",Aio Sport 1 [Geo-blocked]
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",Aio Sport 2 [Geo-blocked]
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="|Eoro 2024|",CBCTV TV (1080p)
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="|Eoro 2024|",Ictimai TV
+http://109.205.166.68/server124/ictimai_tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="|Eoro 2024|",Az TV (1080p)
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/940_trt1_logo.jpg" group-title="|Eoro 2024|", TRT 1(1080p)
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/940_trt1_logo.jpg" group-title="|Eoro 2024|", TRT 1(1080p)
 https://trt1.persona.video/master.m3u8?hls=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/940_trt1_logo.jpg" group-title="|Turkish|", TRT 1(1080p) [Geo-blocked]
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
