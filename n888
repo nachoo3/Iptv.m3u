@@ -14,8 +14,10 @@ https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",Aio Sport 2 [Geo-blocked]
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51f03SDiVlL._AC_UF894,1000_QL80_.jpg" group-title="|Movies|",فيلم the fugitive مترجم
+https://fast-cdn-chash-4-kmt.dialymotion.online/hls/mkkhawpzcasl4zz6qkbfiu2jgdsdaxmg6oo2zqftq,524s5fnfbgx6doms2wa,xh4s5fnfbgubxk4y4pq,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRea2G2-J3TRYaFApmwcEbgaWdon65ESp_25A&s" group-title="|Movies|",فيلم The Negotiator 1998 مترجم
+https://fast-cdn-chash-4-kmt.dialymotion.online/hls/mkkhawpzcasl4zz6qkbfiu2jgdsdaxmg6oo2zqftq,524s5fnfbgx6doms2wa,xh4s5fnfbgubxk4y4pq,.urlset/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="|Eoro 2024|",CBCTV TV (1080p)
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="|Eoro 2024|",Ictimai TV
