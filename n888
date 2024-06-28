@@ -2,6 +2,9 @@
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1200px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="|Georgia|",2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test",test1 (1080p)
+https://web1.faselhdwatch.icu/video_player?vid=aecaf1de95b9fda5c488f4e1fd51634e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",Futbol (1080p)
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",RTI 1 (1080p)
