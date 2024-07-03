@@ -2,7 +2,10 @@
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1200px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="|Georgia|",2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://web1.faselhdwatch.mom/wp-content/uploads/2016/10/Open_Season_Scared_Silly_2016_DVD_Cover-400x600.jpg" group-title="Kids",فيلم Inside Out 2015 مدبلج
+https://master.c.scdns.io/stream/v2/cWOQ6WuHVCsTWCwjAwbumw/1720064989/normal/0/79.139.35.16/no/e2536ec7f5a4ded2d4818f5641a3449f/web1.faselhdwatch.mom/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://web1.faselhdwatch.mom/wp-content/uploads/2016/09/Inside_Out_poster_araby.png" group-title="Kids",فيلم Inside Out 2015 مدبلج
+https://master.c.scdns.io/stream/v2/HOUWl7INcdfH8WagyjxMsw/1720064819/normal/0/79.139.35.16/no/ff5dc7182f9611a75e8b11b8e079125b/web1.faselhdwatch.mom/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="test",test1 (1080p)
 https://web1.faselhdwatch.icu/video_player?vid=aecaf1de95b9fda5c488f4e1fd51634e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eoro 2024",Futbol (1080p)
