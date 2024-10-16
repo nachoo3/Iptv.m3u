@@ -1,8 +1,32 @@
-#EXTINF:-1 tvg-id="Z1000" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="live matches",Watania 1 (1080p)
-https://live-e6pv21nm.rmbl.ws/slot-87/2yj5-aed0_360p/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="live matches",syria koora hd (1080p)
-https://live-e6pv21nm.rmbl.ws/slot-87/2yj5-aed0_720p/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="live matches",arsenal 1half dailmotion (1080p)
-https://geo.dailymotion.com/player/xaikw.html?video=x8qu5p4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="live matches",alastora website (1080p)
-https://m1.livehd7xc.com/albaplayer/bein1-p
+#[THETVAPP_SPORTS]#
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)" streamId="92" channel-number="241",ABC
+https://dlhd.sx/stream/stream-92.php
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)" streamId="93" channel-number="242",bein1
+https://dlhd.sx/stream/stream-93.php
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="USA (DADDY LIVE)" streamId="94" channel-number="243",bein 2
+https://dlhd.sx/stream/stream-94.php
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA (DADDY LIVE)" streamId="95" channel-number="244",bein 3
+https://dlhd.sx/stream/stream-95.php
+
+#EXTINF:-1 tvg-id="AdultSwim(English).ca" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png" group-title="USA (DADDY LIVE)" streamId="96" channel-number="245",bein 4
+https://dlhd.sx/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" group-title="USA (DADDY LIVE)" streamId="243" channel-number="97",bein 5 
+https://dlhd.sx/stream/stream-97.php
+
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABCNY" tvg-logo="https://www.freepnglogos.com/uploads/abc-png-logo/abc-gold-media-kit-png-logo-17.png" group-title="USA (DADDY LIVE)" streamId="244" channel-number="98",bein 6
+https://dlhd.sx/stream/stream-98.php
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="USA (DADDY LIVE)" streamId="99" channel-number="248",Bein 7
+https://dlhd.sx/stream/stream-99.php
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America (BBCA)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" group-title="USA (DADDY LIVE)" streamId="100" channel-number="249",bein8
+https://dlhd.sx/stream/stream-100.php
+
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="USA (DADDY LIVE)" streamId="102" channel-number="101",BEin 9
+https://dlhd.sx/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bein" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="USA (DADDY LIVE)" streamId="103" channel-number="103",Bein 10
+https://dlhd.sx/stream/stream-102.php
