@@ -1,32 +1,51 @@
 #[THETVAPP_SPORTS]#
-#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)" streamId="92" channel-number="241",ABC
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="BEIN SPORT" streamId="92" channel-number="241", BEIN SPORT 2
 https://dlhd.sx/stream/stream-92.php
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)" streamId="93" channel-number="242",bein1
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="BEIN SPORT" streamId="93" channel-number="242",BEIN SPORT 3
 https://dlhd.sx/stream/stream-93.php
 
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="USA (DADDY LIVE)" streamId="94" channel-number="243",bein 2
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="BEIN SPORT" streamId="94" channel-number="243",bein 4
 https://dlhd.sx/stream/stream-94.php
 
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA (DADDY LIVE)" streamId="95" channel-number="244",bein 3
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="BEIN SPORT" streamId="95" channel-number="244",BEIN SPORT 5
 https://dlhd.sx/stream/stream-95.php
 
-#EXTINF:-1 tvg-id="AdultSwim(English).ca" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png" group-title="USA (DADDY LIVE)" streamId="96" channel-number="245",bein 4
+#EXTINF:-1 tvg-id="AdultSwim(English).ca" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png" group-title="BEIN SPORT" streamId="96" channel-number="245",bein 4
 https://dlhd.sx/stream/stream-96.php
 
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" group-title="USA (DADDY LIVE)" streamId="243" channel-number="97",bein 5 
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" group-title="BEIN SPORT" streamId="243" channel-number="97",bein 5 
 https://dlhd.sx/stream/stream-97.php
 
-#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABCNY" tvg-logo="https://www.freepnglogos.com/uploads/abc-png-logo/abc-gold-media-kit-png-logo-17.png" group-title="USA (DADDY LIVE)" streamId="244" channel-number="98",bein 6
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABCNY" tvg-logo="https://www.freepnglogos.com/uploads/abc-png-logo/abc-gold-media-kit-png-logo-17.png" group-title="BEIN SPORT" streamId="244" channel-number="98",bein 6
 https://dlhd.sx/stream/stream-98.php
 
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="USA (DADDY LIVE)" streamId="99" channel-number="248",Bein 7
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="BEIN SPORT" streamId="99" channel-number="248",Bein 7
 https://dlhd.sx/stream/stream-99.php
 
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America (BBCA)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" group-title="USA (DADDY LIVE)" streamId="100" channel-number="249",bein8
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America (BBCA)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" group-title="BEIN SPORT" streamId="100" channel-number="249",bein8
 https://dlhd.sx/stream/stream-100.php
 
-#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="USA (DADDY LIVE)" streamId="102" channel-number="101",BEin 9
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="BEIN SPORT" streamId="102" channel-number="101",BEin 9
 https://dlhd.sx/stream/stream-101.php
 
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bein" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="USA (DADDY LIVE)" streamId="103" channel-number="103",Bein 10
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bein" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="BEIN SPORT" streamId="103" channel-number="103",Bein 10
 https://dlhd.sx/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bein" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="BEIN SPORT" streamId="103" channel-number="103",Bein 10
+https://dlhd.sx/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bein" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="BEIN SPORT" streamId="103" channel-number="103",Bein 10
+https://dlhd.sx/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bein" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="BEIN SPORT" streamId="103" channel-number="103",Bein 10
+https://dlhd.sx/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bein" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="BEIN SPORT" streamId="103" channel-number="103",Bein 10
+https://dlhd.sx/stream/stream-107.php
+
+
+
+
+
+
+
