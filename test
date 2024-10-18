@@ -1691,10 +1691,7 @@ https://xyzdddd.mizhls.ru/lb/premium101/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium102/index.m3u8
-#EXTINF:30,Sport Klub 3 Serbia
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium103/index.m3u8
+#EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="Sport Klub 3 Serbia" tvg-logo="" group-title="Sport Klub 3 Serbia" streamId="103" channel-number="103",Sport Klub 3 Serbia
+https://dlhd.sx/stream/stream-327.php
 #[PLUTO_TV]#
 #504 assigned streamId's
