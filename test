@@ -1729,8 +1729,10 @@ https://dlhd.sx/stream/stream-96.php
 https://dlhd.sx/stream/stream-97.php
 #EXTINF:-1 tvg-id="BEIN SPORT" tvg-name=" BEIN SPORT 7" tvg-logo="" group-title="BEIN SPORT" streamId="98" ,BEIN SPORT 7
 https://dlhd.sx/stream/stream-97.php
-#EXTINF:-1 tvg-id="Abu Dhabi Sport Premium 2" tvg-name=" Abu Dhabi Sport Premium 2" tvg-logo="" group-title="Abu Dhabi Sport Premium 2" streamId="609" channel-number="609",Abu Dhabi Sport Premium 2
+#EXTINF:-1 tvg-id="Abu Dhabi Sport Premium 2" tvg-name=" Abu Dhabi Sport Premium 2" tvg-logo="" group-title="Abu Dhabi Sport Premium ",Abu Dhabi Sport Premium 2
 https://dlhd.sx/stream/stream-609.php
+#EXTINF:-1 tvg-id="Abu Dhabi Sport Premium 2" tvg-name=" Abu Dhabi Sport Premium 2" tvg-logo="" group-title="Abu Dhabi Sport Premium " ,Abu Dhabi Sport Premium 2
+https://dlhd.sx/stream/stream-610.php
 
 
 #[PLUTO_TV]#
