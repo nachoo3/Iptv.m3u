@@ -1715,7 +1715,7 @@ https://dlhd.sx/stream/stream-620.php
 https://dlhd.sx/stream/stream-10.php
 #EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="103" channel-number="103",SSC 1
 https://dlhd.sx/stream/stream-10.php
-#EXTINF:-1 tvg-id="BEIN SPORT" tvg-name="internation Sport" tvg-logo="" group-title="BEIN SPORT"streamId="92" channel-number="92" ",BEIN SPORT 1
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="103" channel-number="103",SSC 1
 https://dlhd.sx/stream/stream-92.php
 #EXTINF:-1 tvg-id="BEIN SPORT" tvg-name="internation Sport" tvg-logo="" group-title="BEIN SPORT"streamId="93" channel-number="93" ,BEIN SPORT 2
 https://dlhd.sx/stream/stream-93.php
@@ -1728,7 +1728,7 @@ https://dlhd.sx/stream/stream-96.php
 #EXTINF:-1 tvg-id="BEIN SPORT" tvg-name="internation Sport" tvg-logo="" group-title="BEIN SPORT" streamId="97" channel-number="1102" ",BEIN SPORT 6
 https://dlhd.sx/stream/stream-97.php
 #EXTINF:-1 tvg-id="BEIN SPORT" tvg-name="internation Sport" tvg-logo="" group-title="BEIN SPORT" streamId="98"  channel-number="1103" ,BEIN SPORT 7
-https://dlhd.sx/stream/stream-97.php
+https://dlhd.sx/stream/stream-98.php
 #EXTINF:-1 tvg-id="Abu Dhabi Sport Premium 2" tvg-name=" Abu Dhabi Sport Premium 2" tvg-logo="" group-title="Abu Dhabi Sport Premium"  streamId="609"  channel-number="1104",Abu Dhabi Sport Premium 2
 https://dlhd.sx/stream/stream-609.php
 #EXTINF:-1 tvg-id="Abu Dhabi Sport Premium 2" tvg-name=" Abu Dhabi Sport Premium 1" tvg-logo="" group-title="Abu Dhabi Sport Premium" streamId="610" channel-number="1105" ,Abu Dhabi Sport Premium 1
