@@ -1691,12 +1691,12 @@ https://xyzdddd.mizhls.ru/lb/premium101/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium102/index.m3u8
-#EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="internation Sport" tvg-logo="" group-title="Sport Klub 3 Serbia" streamId="103" channel-number="100",Sport Klub 1 Serbia
+#EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="internation Sport" tvg-logo="" group-title="Sport Klub  Serbia" streamId="100" channel-number="100",Sport Klub 1 Serbia
 https://dlhd.sx/stream/stream-100.php
-#EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="internation Sport" tvg-logo="" group-title="Sport Klub 3 Serbia" streamId="103" channel-number="102",Sport Klub 2 Serbia
+#EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="internation Sport" tvg-logo="" group-title="Sport Klub  Serbia" streamId="101" channel-number="102",Sport Klub 2 Serbia
+https://dlhd.sx/stream/stream-101.php
+#EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="internation Sport" tvg-logo="" group-title="Sport Klub  Serbia" streamId="102" channel-number="103",Sport Klub 3 Serbia
 https://dlhd.sx/stream/stream-102.php
-#EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="internation Sport" tvg-logo="" group-title="Sport Klub 3 Serbia" streamId="103" channel-number="103",Sport Klub 3 Serbia
-https://dlhd.sx/stream/stream-103.php
 #EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="614" channel-number="614",SSC 1
 https://dlhd.sx/stream/stream-614.php
 #EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="615" channel-number="615",SSC 2
