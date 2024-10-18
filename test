@@ -1717,10 +1717,10 @@ https://dlhd.sx/stream/stream-10.php
 https://dlhd.sx/stream/stream-10.php
 #EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="103" channel-number="103",SSC 1
 https://dlhd.sx/stream/stream-92.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="103" channel-number="103",SSC 18
-https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="103" channel-number="103",SSC 19
-https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="103" channel-number="103",BEin 1
+https://dlhd.sx/stream/stream-91.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="103" channel-number="103",BEin 2
+https://dlhd.sx/stream/stream-92.php
 #EXTINF:-1 tvg-id="BEIN SPORT4" tvg-name="internation Sport" tvg-logo="" group-title="BEIN SPORT" streamId="95" channel-number="95" ,BEIN SPORT 4
 https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORT5" tvg-name="internation Sport" tvg-logo="" group-title="BEIN SPORT" streamId="96" channel-number="1101" ,BEIN SPORT 5
