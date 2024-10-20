@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="[XML_EPG]"
-#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="0" channel-number="0",ABC East
-https://dlhd.sx/stream/stream-157.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="0" channel-number="0",Cosmote Sport 1 HD
+https://dlhd.sx/stream/stream-622.php
 
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC_NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="1" channel-number="1",ACC Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="1" channel-number="1",Cosmote Sport 2 HD
 https://dlhd.sx/stream/stream-623.php
 
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="2" channel-number="2",AMC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="2" channel-number="2",Cosmote Sport 3 HD
 https://dlhd.sx/stream/stream-624.php
 
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="3" channel-number="3",American Heroes Channel
+#EXTINF:-1 tvg-id="" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="3" channel-number="3",Cosmote Sport 4 HD
 https://dlhd.sx/stream/stream-625.php
 
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal_Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="4" channel-number="4",Animal Planet
