@@ -6,10 +6,10 @@ https://dlhd.sx/stream/stream-157.php
 https://dlhd.sx/stream/stream-623.php
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="2" channel-number="2",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+https://dlhd.sx/stream/stream-624.php
 
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="3" channel-number="3",American Heroes Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+https://dlhd.sx/stream/stream-625.php
 
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal_Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="4" channel-number="4",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
