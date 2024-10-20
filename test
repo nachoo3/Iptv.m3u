@@ -1503,240 +1503,57 @@ https://dlhd.sx/stream/stream-368.php
 
 #EXTINF:-1 tvg-id="8228" tvg-name="SuperSport MaXimo 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" streamId="494" channel-number="502",SuperSport MaXimo 1
 https://dlhd.sx/stream/stream-572.php
-#[THETVAPP_SPORTS]#
-#EXTM3U
-#EXTINF:30,BEIN SPORT 1 HD
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
-#EXTINF:30,BEIN SPORT 2 HD
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8
-#EXTINF:30,BEIN SPORT 3 HD
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
-#EXTINF:30,BEIN SPORT 4 HD
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8
-#EXTINF:30,BEIN SPORT 5 HD
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8
-#EXTINF:30,BEIN SPORT 6 HD
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium96/index.m3u8
-#EXTINF:30,BEIN SPORT 7 HD
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium97/index.m3u8
-#EXTINF:30,BEIN SPORT 8 HD
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium98/index.m3u8
-#EXTINF:30,test 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium99/index.m3u8
-#EXTINF:30,test 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium100/index.m3u8
-#EXTINF:30,test 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium101/index.m3u8
-#EXTINF:30,test 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium102/index.m3u8
-#EXTINF:30,SSC 1
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium614/index.m3u8
-#EXTINF:30,SSC 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium615/index.m3u8
-#EXTINF:30,SSC 3
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium616/index.m3u8
-#EXTINF:30,SSC 4
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium617/index.m3u8
-#EXTINF:30,SSC 5
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium618/index.m3u8
-#EXTINF:30,SSC EXTRA 1
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium619/index.m3u8
-#EXTINF:30,SSC EXTRA 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium620/index.m3u8
-#EXTINF:30,SSC EXTRA 3
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium621/index.m3u8
-#EXTINF:30,Abu Dhabi Sport Premium 1
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium609/index.m3u8
 
-#EXTINF:30,Abu Dhabi Sport Premium 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium610/index.m3u8
-#EXTINF:30,Eleven Sports 1 Poland
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium71/index.m3u8
-#EXTINF:30,Eleven Sports 2 Poland
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium72/index.m3u8
-#EXTINF:30,Eleven Sports 3 Poland
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium428/index.m3u8
-#EXTINF:30,Eleven Sports 1 Portugal
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium455/index.m3u8
-#EXTINF:30,Eleven Sports 1 Portugal
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium456/index.m3u8
-#EXTINF:30,Eleven Sports 1 Portugal
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium457/index.m3u8
-#EXTINF:30,Arena Sport 1 Premium
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium134/index.m3u8
-#EXTINF:30,Arena Sport 2 Premium
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium135/index.m3u8
-#EXTINF:30,Arena Sport 1 Premium
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium139/index.m3u8
-#EXTINF:30,DIGI SPORT 1
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium400/index.m3u8
-#EXTINF:30,DIGI SPORT 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium401/index.
-#EXTINF:30,DIGI SPORT 3
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium403/index.m3u8
-#EXTINF:30,DIGI SPORT 4
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium404/index.m3u8
-#EXTINF:30,Sport Klub 1 Serbia
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium101/index.m3u8
-#EXTINF:30,Sport Klub 2 Serbia
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium102/index.m3u8
+#[TOP_EMBED_SPORTS]#
+
+#[PLUTO_TV]#
+#504 assigned streamId's
 #EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="internation Sport" tvg-logo="" group-title="Sport Klub  Serbia" streamId="100" channel-number="100",Sport Klub 1 Serbia
 https://dlhd.sx/stream/stream-100.php
 #EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="internation Sport" tvg-logo="" group-title="Sport Klub  Serbia" streamId="101" channel-number="102",Sport Klub 2 Serbia
 https://dlhd.sx/stream/stream-101.php
 #EXTINF:-1 tvg-id="Sport Klub 3 Serbia" tvg-name="internation Sport" tvg-logo="" group-title="Sport Klub  Serbia" streamId="102" channel-number="103",Sport Klub 3 Serbia
 https://dlhd.sx/stream/stream-102.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="614" channel-number="614",SSC 1
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="614" channel-number="614",SSC 1
 https://dlhd.sx/stream/stream-614.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="615" channel-number="615",SSC 2
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="615" channel-number="615",SSC 2
 https://dlhd.sx/stream/stream-615.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="616" channel-number="616",SSC 3
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="616" channel-number="616",SSC 3
 https://dlhd.sx/stream/stream-616.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="617" channel-number="617",SSC 4
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="617" channel-number="617",SSC 4
 https://dlhd.sx/stream/stream-617.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="618" channel-number="618",SSC 5
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="618" channel-number="618",SSC 5
 https://dlhd.sx/stream/stream-618.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="619" channel-number="619",SSC  EXTRA 1
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="619" channel-number="619",SSC  EXTRA 1
 https://dlhd.sx/stream/stream-619.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="620" channel-number="620",SSC EXTRA 2
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="620" channel-number="620",SSC EXTRA 2
 https://dlhd.sx/stream/stream-620.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="621" channel-number="621",SSC EXTRA 3
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="621" channel-number="621",SSC EXTRA 3
 https://dlhd.sx/stream/stream-10.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="103" channel-number="103",SSC 1
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="103" channel-number="103",SSC 1
 https://dlhd.sx/stream/stream-10.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="103" channel-number="103",SSC 1
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="103" channel-number="103",SSC 1
 https://dlhd.sx/stream/stream-92.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT"  streamId="614" channel-number="91" ,BEin 1
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT"  streamId="614" channel-number="91" ,BEin 1
 https://dlhd.sx/stream/stream-91.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="614" channel-number="92" ,BEin 2
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="614" channel-number="92" ,BEin 2
 https://dlhd.sx/stream/stream-92.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="95" channel-number="95" ,BEIN SPORT Mena 4
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="95" channel-number="95" ,BEIN SPORT Mena 4
 https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="96" channel-number="1101" ,BEIN SPORT 5
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="96" channel-number="1101" ,BEIN SPORT 5
 https://dlhd.sx/stream/stream-96.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="97" channel-number="1102" ",BEIN SPORT 6
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="97" channel-number="1102" ",BEIN SPORT 6
 https://dlhd.sx/stream/stream-97.php
 
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" streamId="98"  channel-number="1103" ,BEIN SPORT 7
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="98"  channel-number="1103" ,BEIN SPORT 7
 https://dlhd.sx/stream/stream-98.php
 
-#EXTINF:-1 tvg-id="SSc" tvg-name="Abu Dhabi Sport Premium 2" tvg-logo="" group-title="SSCSPORT"  streamId="609"  channel-number="1104",Abu Dhabi Sport Premium 2
+#EXTINF:-1 tvg-id="SSc" tvg-name="Abu Dhabi Sport Premium 2" tvg-logo="" group-title="SSC SPORT"  streamId="609"  channel-number="1104",Abu Dhabi Sport Premium 2
 https://dlhd.sx/stream/stream-609.php
 
-#EXTINF:-1 tvg-id="SSc" tvg-name="Abu Dhabi Sport Premium 1" tvg-logo="" group-title="SSCSPORT" streamId="610" channel-number="1105" ,Abu Dhabi Sport Premium 1
+#EXTINF:-1 tvg-id="SSc" tvg-name="Abu Dhabi Sport Premium 1" tvg-logo="" group-title="SSC SPORT" streamId="610" channel-number="1105" ,Abu Dhabi Sport Premium 1
 https://dlhd.sx/stream/stream-610.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT"  channel-number="71",Eleven Sports 1 Poland
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT"  channel-number="71",Eleven Sports 1 Poland
 https://dlhd.sx/stream/stream-71.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSCSPORT" "channel-number="72",Eleven Sports 2 Poland
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" "channel-number="72",Eleven Sports 2 Poland
 https://dlhd.sx/stream/stream-72.php
