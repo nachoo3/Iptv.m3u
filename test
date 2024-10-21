@@ -81,34 +81,34 @@ http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="30" channel-number="30",C-SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="28" channel-number="28",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="31" channel-number="31",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="29" channel-number="29",Discovery Family
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="32" channel-number="32",Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="30" channel-number="30",Discovery Life
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="33" channel-number="33",Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="31" channel-number="31",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="34" channel-number="34",Disney Channel
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="32" channel-number="32",DisneyJr
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="35" channel-number="35",DisneyJr
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="33" channel-number="33",DisneyXD
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="36" channel-number="36",DisneyXD
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="34" channel-number="34",EPIX
+#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="37" channel-number="37",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="EPIX_2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="35" channel-number="35",EPIX 2
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="EPIX_2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="38" channel-number="38",EPIX 2
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="EPIX_DRIVE_IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="36" channel-number="36",EPIX Drive-In
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="EPIX_DRIVE_IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="39" channel-number="39",EPIX Drive-In
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="37" channel-number="37",EPIX Hits
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="40" channel-number="40",EPIX Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="38" channel-number="38",ESPN
