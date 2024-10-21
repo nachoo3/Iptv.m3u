@@ -67,18 +67,14 @@ https://dlhd.sx/stream/stream-609.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Abu Dhabi Sports Premium" streamId="24" channel-number="24",Abu Dhabi Sports 2 Premium
 https://dlhd.sx/stream/stream-610.php
 
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="25" channel-number="25",CMT East
-http://fl3.moveonjoy.com/CMT/index.m3u8
-
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="26" channel-number="26",CNBC
-http://fl3.moveonjoy.com/CNBC/index.m3u8
-
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="27" channel-number="27",CNN
-http://fl2.moveonjoy.com/CNN/index.m3u8
-
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="28" channel-number="28",Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="25" channel-number="25", Digi Sport 1 Romania
+https://dlhd.sx/stream/stream-400.php
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="26" channel-number="26", Digi Sport 2 Romania
+https://dlhd.sx/stream/stream-401.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="27" channel-number="27",Digi Sport 3 Romania
+https://dlhd.sx/stream/stream-402.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="28" channel-number="28",Digi Sport 4 Romania
+https://dlhd.sx/stream/stream-403.php
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="29" channel-number="29",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
