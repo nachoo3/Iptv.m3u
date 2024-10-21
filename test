@@ -20,26 +20,26 @@ https://dlhd.sx/stream/stream-628.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="7" channel-number="7",Cosmote Sport 8 HD
 https://dlhd.sx/stream/stream-629.php
 
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC_AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="beIN Sports" streamId="8" channel-number="8",beIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="beIN Sports" streamId="8" channel-number="8",beIN Sports 1
 https://dlhd.sx/stream/stream-91.php
 
-#EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBC_WORLD_NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="beIN Sports" streamId="9" channel-number="9",beIN Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="beIN Sports" streamId="9" channel-number="9",beIN Sports 2
 https://dlhd.sx/stream/stream-92.php
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="beIN Sports" streamId="10" channel-number="10",beIN Sports 3
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="beIN Sports" streamId="10" channel-number="10",beIN Sports 3
 https://dlhd.sx/stream/stream-93.php
 
-#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="beIN Sports" streamId="11" channel-number="11",beIN Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="beIN Sports" streamId="11" channel-number="11",beIN Sports 4
 https://dlhd.sx/stream/stream-94.php
-#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET_GOSPEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="beIN Sports" streamId="12" channel-number="12",beIN Sports 5
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="beIN Sports" streamId="12" channel-number="12",beIN Sports 5
 https://dlhd.sx/stream/stream-95.php
 
-#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET_HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="beIN Sports" streamId="13" channel-number="13",beIN Sports 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="beIN Sports" streamId="13" channel-number="13",beIN Sports 6
 https://dlhd.sx/stream/stream-96.php
 
-#EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="beIN Sports" channel-number="14",beIN Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="beIN Sports" channel-number="14",beIN Sports 7
 https://dlhd.sx/stream/stream-97.php
 
-#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET_SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="beIN Sports" streamId="15" channel-number="15",beIN Sports 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="beIN Sports" streamId="15" channel-number="15",beIN Sports 8
 https://dlhd.sx/stream/stream-98.php
 
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="beIN Sports" streamId="16" channel-number="16",beIN Sports Olympic
@@ -75,52 +75,47 @@ https://dlhd.sx/stream/stream-401.php
 https://dlhd.sx/stream/stream-402.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="28" channel-number="28",Digi Sport 4 Romania
 https://dlhd.sx/stream/stream-403.php
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="29" channel-number="29",Cooking Channel
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="29" channel-number="29",Diema Sport Bulgaria
+https://dlhd.sx/stream/stream-465.php
 
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="30" channel-number="30",C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="30" channel-number="30",Diema Sport 2 Bulgaria
+https://dlhd.sx/stream/stream-466.php
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="31" channel-number="31",Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="31" channel-number="31",Diema Sport 3 Bulgaria
+https://dlhd.sx/stream/stream-467.php
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="32" channel-number="32", Diema  Bulgaria
+https://dlhd.sx/stream/stream-482.php
 
-#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="32" channel-number="32",Discovery Family
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="33" channel-number="33", Arena Sport 1 Premium
+https://dlhd.sx/stream/stream-134.php
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="34" channel-number="34",Arena Sport 2 Premium
+https://dlhd.sx/stream/stream-135.php
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="35" channel-number="35",Arena Sport 3 Premium
+https://dlhd.sx/stream/stream-139.php
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="36" channel-number="36",Arena Sport 1 Serbia
+https://dlhd.sx/stream/stream-429.php
 
-#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="33" channel-number="33",Discovery Life
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="34" channel-number="34",Disney Channel
-http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="37" channel-number="37",Arena Sport 1 Serbia
+https://dlhd.sx/stream/stream-430.php
 
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="35" channel-number="35",DisneyJr
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="36" channel-number="36",DisneyXD
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="37" channel-number="37",EPIX
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-
-#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="EPIX_2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="38" channel-number="38",EPIX 2
-http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-
-#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="EPIX_DRIVE_IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="39" channel-number="39",EPIX Drive-In
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-
-#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="40" channel-number="40",EPIX Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="38" channel-number="38",Arena Sport 2 Serbia
+https://dlhd.sx/stream/stream-430.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="39" channel-number="39",Arena Sport 3 Serbia
+https://dlhd.sx/stream/stream-431.php
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="40" channel-number="40",EPIX Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="38" channel-number="38",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="38" channel-number="38",ESPN
 http://fl1.moveonjoy.com/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="39" channel-number="39",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="39" channel-number="39",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="40" channel-number="40",ESPNews
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="40" channel-number="40",ESPNews
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="41" channel-number="41",ESPN U
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="41" channel-number="41",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="42" channel-number="42",Food Network
