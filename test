@@ -106,8 +106,40 @@ https://dlhd.sx/stream/stream-431.php
 #EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="40" channel-number="40",EPIX Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="38" channel-number="38",ESPN
-http://fl1.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " streamId="41" channel-number="41",SSC 1
+https://live1.beinconnect.us/YallaGoalApp/SSC1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " streamId="42" channel-number="42",SSC 2
+https://live1.beinconnect.us/YallaGoalApp/SSC2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " streamId="43" channel-number="43",SSC 3
+https://live1.beinconnect.us/YallaGoalApp/SSC3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " streamId="44" channel-number="44",SSC 4
+https://live1.beinconnect.us/YallaGoalApp/SSC4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " streamId="45" channel-number="45",SSC 5
+https://live1.beinconnect.us/YallaGoalApp/SSC5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " streamId="46" channel-number="46",SSC Extra 1
+https://live1.beinconnect.us/YallaGoalApp/SSC1Extra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " streamId="47" channel-number="47",SSC EXtra 2
+https://live1.beinconnect.us/YallaGoalApp/SSC2Extra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " streamId="48" channel-number="48",SSC EXtra 3
+https://live1.beinconnect.us/YallaGoalApp/SSC3Extra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Abu Dhabi Sports Premium" streamId="49" channel-number="49",Abu Dhabi Sports 1 
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Abu Dhabi Sports Premium" streamId="50" channel-number="50",Abu Dhabi Sports 2 
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" streamId="51" channel-number="51",BEIN SPORT 1 
+https://live1.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" streamId="52" channel-number="52",BEIN SPORT 2 
+https://live1.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" streamId="53" channel-number="53",BEIN SPORT 3
+https://live1.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" streamId="54" channel-number="54",BEIN SPORT 4
+https://live1.beinconnect.us/YallaGoalApp/beINSports4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" streamId="55" channel-number="55",BEIN SPORT 5
+https://live1.beinconnect.us/YallaGoalApp/beINSports5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" streamId="56" channel-number="56",BEIN SPORT 6
+https://live1.beinconnect.us/YallaGoalApp/beINSports6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" streamId="57" channel-number="57",BEIN SPORT 7
+https://live1.beinconnect.us/YallaGoalApp/beINSports7.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="39" channel-number="39",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
