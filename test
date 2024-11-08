@@ -1,39 +1,4 @@
 #EXTM3U url-tvg="[XML_EPG]"
-
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="614" channel-number="614",SSC 1
-https://dlhd.sx/stream/stream-614.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="615" channel-number="615",SSC 2
-https://dlhd.sx/stream/stream-615.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="616" channel-number="616",SSC 3
-https://dlhd.sx/stream/stream-616.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="617" channel-number="617",SSC 4
-https://dlhd.sx/stream/stream-617.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="618" channel-number="618",SSC 5
-https://dlhd.sx/stream/stream-618.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="619" channel-number="619",SSC  EXTRA 1
-https://dlhd.sx/stream/stream-619.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="620" channel-number="620",SSC EXTRA 2
-https://dlhd.sx/stream/stream-620.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="620" channel-number="620",SSC EXTRA 3
-https://dlhd.sx/stream/stream-621.php
-
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="614" channel-number="614",SSC 1
-https://dlhd.sx/stream/stream-614.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="615" channel-number="615",SSC 2
-https://dlhd.sx/stream/stream-615.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="616" channel-number="616",SSC 3
-https://dlhd.sx/stream/stream-616.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="617" channel-number="617",SSC 4
-https://dlhd.sx/stream/stream-617.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="618" channel-number="618",SSC 5
-https://dlhd.sx/stream/stream-618.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="619" channel-number="619",SSC  EXTRA 1
-https://dlhd.sx/stream/stream-619.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="620" channel-number="620",SSC EXTRA 2
-https://dlhd.sx/stream/stream-620.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="620" channel-number="620",SSC EXTRA 3
-https://dlhd.sx/stream/stream-621.php
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="0" channel-number="0",Cosmote Sport 1 HD
 https://dlhd.sx/stream/stream-622.php
 
@@ -175,6 +140,39 @@ https://live1.beinconnect.us/YallaGoalApp/beINSports5.m3u8
 https://live1.beinconnect.us/YallaGoalApp/beINSports6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" streamId="57" channel-number="57",BEIN SPORT 7
 https://live1.beinconnect.us/YallaGoalApp/beINSports7.m3u8
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="58" channel-number="58",SSC 1
+https://dlhd.sx/stream/stream-614.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="59" channel-number="59",SSC 2
+https://dlhd.sx/stream/stream-615.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="60" channel-number="60",SSC 3
+https://dlhd.sx/stream/stream-616.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="61" channel-number="61",SSC 4
+https://dlhd.sx/stream/stream-617.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="62" channel-number="62",SSC 5
+https://dlhd.sx/stream/stream-618.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="63" channel-number="63",SSC  EXTRA 1
+https://dlhd.sx/stream/stream-619.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="64" channel-number="64",SSC EXTRA 2
+https://dlhd.sx/stream/stream-620.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="65" channel-number="65",SSC EXTRA 3
+https://dlhd.sx/stream/stream-621.php
+
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="66" channel-number="66",SSC 1
+https://dlhd.sx/stream/stream-614.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="67" channel-number="67",SSC 2
+https://dlhd.sx/stream/stream-615.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="68" channel-number="68",SSC 3
+https://dlhd.sx/stream/stream-616.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="69" channel-number="69",SSC 4
+https://dlhd.sx/stream/stream-617.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="70" channel-number="70",SSC 5
+https://dlhd.sx/stream/stream-618.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="71" channel-number="71",SSC  EXTRA 1
+https://dlhd.sx/stream/stream-619.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="72" channel-number="72",SSC EXTRA 2
+https://dlhd.sx/stream/stream-620.php
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="73" channel-number="73",SSC EXTRA 3
+https://dlhd.sx/stream/stream-621.php
 
 #EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="39" channel-number="39",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
