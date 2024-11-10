@@ -107,62 +107,61 @@ https://dlhd.sx/stream/stream-431.php
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Abu Dhabi Sports Premium"  channel-number="49",Abu Dhabi Sports 1 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Abu Dhabi Sports Premium"  channel-number="41",Abu Dhabi Sports 1 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Abu Dhabi Sports Premium"  channel-number="50",Abu Dhabi Sports 2 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Abu Dhabi Sports Premium"  channel-number="42",Abu Dhabi Sports 2 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="58" channel-number="58",SSC 1
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="51" channel-number="51",SSC 1
 https://dlhd.sx/stream/stream-614.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="59" channel-number="59",SSC 2
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="52" channel-number="52",SSC 2
 https://dlhd.sx/stream/stream-615.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="60" channel-number="60",SSC 3
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="53" channel-number="53",SSC 3
 https://dlhd.sx/stream/stream-616.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="61" channel-number="61",SSC 4
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="54" channel-number="54",SSC 4
 https://dlhd.sx/stream/stream-617.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="62" channel-number="62",SSC 5
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="55" channel-number="55",SSC 5
 https://dlhd.sx/stream/stream-618.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="63" channel-number="63",SSC  EXTRA 1
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="56" channel-number="56",SSC  EXTRA 1
 https://dlhd.sx/stream/stream-619.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="64" channel-number="64",SSC EXTRA 2
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="57" channel-number="57",SSC EXTRA 2
 https://dlhd.sx/stream/stream-620.php
-#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="65" channel-number="65",SSC EXTRA 3
+#EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="58" channel-number="58",SSC EXTRA 3
 https://dlhd.sx/stream/stream-621.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "channel-number="41",SSC 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "channel-number="59",SSC 1
 https://live1.beinconnect.us/YallaGoalApp/SSC1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="42",SSC 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="60",SSC 2
 https://live1.beinconnect.us/YallaGoalApp/SSC2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="43",SSC 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="61",SSC 3
 https://live1.beinconnect.us/YallaGoalApp/SSC3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="44",SSC 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="62",SSC 4
 https://live1.beinconnect.us/YallaGoalApp/SSC4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="45",SSC 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="63",SSC 5
 https://live1.beinconnect.us/YallaGoalApp/SSC5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " channel-number="46",SSC Extra 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile " channel-number="64",SSC Extra 1
 https://live1.beinconnect.us/YallaGoalApp/SSC1Extra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="47",SSC EXtra 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="65",SSC EXtra 2
 https://live1.beinconnect.us/YallaGoalApp/SSC2Extra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="48",SSC EXtra 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC Sport Mobile "  channel-number="66",SSC EXtra 3
 https://live1.beinconnect.us/YallaGoalApp/SSC3Extra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="51",BEIN SPORT 1 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="67",BEIN SPORT 1 
 https://live1.beinconnect.us/YallaGoalApp/beINSports1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="52",BEIN SPORT 2 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="68",BEIN SPORT 2 
 https://live1.beinconnect.us/YallaGoalApp/beINSports2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="53",BEIN SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="69",BEIN SPORT 3
 https://live1.beinconnect.us/YallaGoalApp/beINSports3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="54",BEIN SPORT 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="70",BEIN SPORT 4
 https://live1.beinconnect.us/YallaGoalApp/beINSports4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" channel-number="55",BEIN SPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" channel-number="71",BEIN SPORT 5
 https://live1.beinconnect.us/YallaGoalApp/beINSports5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="56",BEIN SPORT 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE"  channel-number="72",BEIN SPORT 6
 https://live1.beinconnect.us/YallaGoalApp/beINSports6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" channel-number="57",BEIN SPORT 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORT MOBILE" channel-number="73",BEIN SPORT 7
 https://live1.beinconnect.us/YallaGoalApp/beINSports7.m3u8
 #[TOP_EMBED_SPORTS]#
 
 #[PLUTO_TV]#
 #504 assigned streamId's
-
 
 
 
