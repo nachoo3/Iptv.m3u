@@ -1,48 +1,48 @@
 #EXTM3U url-tvg="[XML_EPG]"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="0" channel-number="0",Cosmote Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/a544c21630100843.png" group-title="INTERNATIONAL SPORT" streamId="0" channel-number="0",Cosmote Sport 1 HD
 https://dlhd.sx/stream/stream-622.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="1" channel-number="1",Cosmote Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/47sjz11630100858.png" group-title="INTERNATIONAL SPORT" streamId="1" channel-number="1",Cosmote Sport 2 HD
 https://dlhd.sx/stream/stream-623.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="2" channel-number="2",Cosmote Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/6l792t1630100876.png" group-title="INTERNATIONAL SPORT" streamId="2" channel-number="2",Cosmote Sport 3 HD
 https://dlhd.sx/stream/stream-624.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="3" channel-number="3",Cosmote Sport 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/fyiqh51630100896.png" group-title="INTERNATIONAL SPORT" streamId="3" channel-number="3",Cosmote Sport 4 HD
 https://dlhd.sx/stream/stream-625.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="4" channel-number="4",Cosmote Sport 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thesportsdb.com/images/media/channel/logo/adxi531630100916.png" group-title="INTERNATIONAL SPORT" streamId="4" channel-number="4",Cosmote Sport 5 HD
 https://dlhd.sx/stream/stream-626.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="5" channel-number="5",Cosmote Sport 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/6wa4l41630100940.png" group-title="INTERNATIONAL SPORT" streamId="5" channel-number="5",Cosmote Sport 6 HD
 https://dlhd.sx/stream/stream-627.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="6" channel-number="6",Cosmote Sport 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thesportsdb.com/images/media/channel/logo/b6b9zy1630100961.png" group-title="INTERNATIONAL SPORT" streamId="6" channel-number="6",Cosmote Sport 7 HD
 https://dlhd.sx/stream/stream-628.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="7" channel-number="7",Cosmote Sport 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ku2qk01630100986.png" group-title="INTERNATIONAL SPORT" streamId="7" channel-number="7",Cosmote Sport 8 HD
 https://dlhd.sx/stream/stream-629.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="beIN Sports" streamId="8" channel-number="8",beIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="beIN Sports" streamId="8" channel-number="8",beIN Sports 1
 https://dlhd.sx/stream/stream-91.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="beIN Sports" streamId="9" channel-number="9",beIN Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="beIN Sports" streamId="9" channel-number="9",beIN Sports 2
 https://dlhd.sx/stream/stream-92.php
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="beIN Sports" streamId="10" channel-number="10",beIN Sports 3
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/y35xib1631279141.png" group-title="beIN Sports" streamId="10" channel-number="10",beIN Sports 3
 https://dlhd.sx/stream/stream-93.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="beIN Sports" streamId="11" channel-number="11",beIN Sports 4
 https://dlhd.sx/stream/stream-94.php
-#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="beIN Sports" streamId="12" channel-number="12",beIN Sports 5
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="beIN Sports" streamId="12" channel-number="12",beIN Sports 5
 https://dlhd.sx/stream/stream-95.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="beIN Sports" streamId="13" channel-number="13",beIN Sports 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="beIN Sports" streamId="13" channel-number="13",beIN Sports 6
 https://dlhd.sx/stream/stream-96.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="beIN Sports" channel-number="14",beIN Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="beIN Sports" channel-number="14",beIN Sports 7
 https://dlhd.sx/stream/stream-97.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="beIN Sports" streamId="15" channel-number="15",beIN Sports 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/i95cjl1573386292.png" group-title="beIN Sports" streamId="15" channel-number="15",beIN Sports 8
 https://dlhd.sx/stream/stream-98.php
 
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="beIN Sports" streamId="16" channel-number="16",beIN Sports Olympic
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2i2f5x1485860104.png" group-title="beIN Sports" streamId="16" channel-number="16",beIN Sports Olympic
 https://dlhd.sx/stream/stream-99.php
 
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BLOOMBERG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="beIN Sports" streamId="17" channel-number="17",beIN Sports Extra
