@@ -181,13 +181,13 @@ https://xyzdddd.mizhls.ru/lb/premium98/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="90"  channel-number="90",beIN Sports MENA Premium 3
 https://xyzdddd.mizhls.ru/lb/premium100/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Sport 1 Croatia" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Croatia" streamId="91"  channel-number="91",Max Sport 1 Croatia
+#EXTINF:-1 tvg-id="" tvg-name="Max Sport 1 Croatia" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Croatia" streamId="91"  channel-number="91",Max Sport 1 Croatia
 https://xyzdddd.mizhls.ru/lb/premium779/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Sport 2 Croatia" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Croatia" streamId="92"  channel-number="92",Max Sport 2 Croatia
+#EXTINF:-1 tvg-id="" tvg-name="Max Sport 2 Croatia" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Croatia" streamId="92"  channel-number="92",Max Sport 2 Croatia
 https://xyzdddd.mizhls.ru/lb/premium780/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL9 Denmark" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Denmark" streamId="93"  channel-number="93",CANAL9 Denmark
+#EXTINF:-1 tvg-id="" tvg-name="CANAL9 Denmark" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Denmark" streamId="93"  channel-number="93",CANAL9 Denmark
 https://xyzdddd.mizhls.ru/lb/premium805/index.m3u8
-#EXTINF:-1 tvg-id="DR1(src01).dk" tvg-name="DR1 Denmark" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Denmark" streamId="94"  channel-number="94",DR1 Denmark
+#EXTINF:-1 tvg-id="" tvg-name="DR1 Denmark" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Denmark" streamId="94"  channel-number="94",DR1 Denmark
 https://xyzdddd.mizhls.ru/lb/premium801/index.m3u8
 #[TOP_EMBED_SPORTS]#
 
