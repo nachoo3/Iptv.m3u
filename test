@@ -1482,7 +1482,7 @@ https://dlhd.sx/stream/stream-699.php
 #EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="Global" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png" group-title="Canada (DADDY LIVE)" streamId="476" channel-number="484",Global
 https://dlhd.sx/stream/stream-836.php
 
-#EXTINF:-1 tvg-id="9244" tvg-name="Sky Sports MIX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="SPORTS MISC (DADDY LIVE)" streamId="477" channel-number="485",Sky Sports MIX
+#EXTINF:-1 tvg-id="9244" tvg-name="Sky Sports MIX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="SPORTS MISC (DADDY LIVE)" streamId="557" channel-number="485",Sky Sports MIX
 https://dlhd.so/stream/stream-557.php
 
 #EXTINF:-1 tvg-id="SkySportTopEvent(src01).de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="SPORTS MISC (DADDY LIVE)" streamId="478" channel-number="486",Sky Sport Top Event DE
@@ -1536,7 +1536,7 @@ https://dlhd.sx/stream/stream-368.php
 #EXTINF:-1 tvg-id="8228" tvg-name="SuperSport MaXimo 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" streamId="494" channel-number="502",SuperSport MaXimo 1
 https://dlhd.sx/stream/stream-572.php
 #EXTM3U url-tvg="[XML_EPG]"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/a544c21630100843.png" group-title="INTERNATIONAL SPORT" streamId="495" channel-number="503",Cosmote Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/a544c21630100843.png" group-title="INTERNATIONAL SPORT" streamId="503" channel-number="503",Cosmote Sport 1 HD
 https://dlhd.sx/stream/stream-622.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/47sjz11630100858.png" group-title="INTERNATIONAL SPORT" streamId="496" channel-number="506",Cosmote Sport 2 HD
