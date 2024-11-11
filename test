@@ -166,102 +166,102 @@ https://thetvapp.to/tv/comedy-central-live-stream/
 
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="61" channel-number="61",Cooking Channel
 https://thetvapp.to/tv/cooking-channel-live-stream/
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="62" channel-number="62" group-title="Australia",beIN SPORTS Australia 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"group-title="Australia" streamId="62" channel-number="62" ,beIN SPORTS Australia 1
 https://xyzdddd.mizhls.ru/lb/premium491/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="63" channel-number="63" channel-number="681"group-title="Australia",beIN SPORTS Australia 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"group-title="Australia" streamId="63" channel-number="63" ,beIN SPORTS Australia 2
 https://xyzdddd.mizhls.ru/lb/premium492/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"streamId="64" channel-number="64" group-title="Australia",beIN SPORTS Australia 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Australia"  streamId="64" channel-number="64" group-title="Australia",beIN SPORTS Australia 3
 https://xyzdddd.mizhls.ru/lb/premium493/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="65" channel-number="65" group-title="Middle East",beIN Sports MENA English 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  group-title="Middle East" streamId="65" channel-number="65" ,beIN Sports MENA English 1
 
 https://xyzdddd.mizhls.ru/lb/premium61/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="66" channel-number="66" group-title="Middle East",beIN Sports MENA English 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  group-title="Middle East" streamId="66" channel-number="66",beIN Sports MENA English 2
 
 https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"streamId="67" channel-number="67" group-title="Middle East",beIN Sports MENA English 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  group-title="Middle East" streamId="67" channel-number="67",beIN Sports MENA English 3
 
 https://xyzdddd.mizhls.ru/lb/premium46/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="68" channel-number="68" group-title="Middle East",beIN Sports MENA 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="68" channel-number="68",beIN Sports MENA 1
 
 https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"streamId="69" channel-number="69" group-title="Middle East",beIN Sports MENA 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  group-title="Middle East" streamId="69" channel-number="69" ,beIN Sports MENA 2
 
 https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="70" channel-number="70" group-title="Middle East",beIN Sports MENA 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="70" channel-number="70" ,beIN Sports MENA 3
 
 https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  streamId="71" channel-number="71" group-title="Middle East",beIN Sports MENA 4
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East"  streamId="71" channel-number="71" ,beIN Sports MENA 4
 
 https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  streamId="72" channel-number="72"group-title="Middle East",beIN Sports MENA 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East"  streamId="72" channel-number="72",beIN Sports MENA 5
 
 https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  streamId="73" channel-number="73"group-title="Middle East",beIN Sports MENA 6
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East"  streamId="73" channel-number="73",beIN Sports MENA 6
 
 https://xyzdddd.mizhls.ru/lb/premium96/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="74" channel-number="74" group-title="Middle East",beIN Sports MENA 7
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="74" channel-number="74" ,beIN Sports MENA 7
 
 https://xyzdddd.mizhls.ru/lb/premium97/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="75" channel-number="75" group-title="Middle East",beIN Sports MENA Premium 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="75" channel-number="75" ,beIN Sports MENA Premium 1
 
 https://xyzdddd.mizhls.ru/lb/premium98/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  streamId="76" channel-number="76" group-title="Middle East",beIN Sports MENA Premium 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East"  streamId="76" channel-number="76",beIN Sports MENA Premium 2
 
 https://xyzdddd.mizhls.ru/lb/premium99/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="77" channel-number="77" group-title="Middle East",beIN Sports MENA Premium 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="77" channel-number="77" ,beIN Sports MENA Premium 3
 
 https://xyzdddd.mizhls.ru/lb/premium100/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="78" channel-number="78" group-title="Middle East",beIN Sports MENA English 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  group-title="Middle East" streamId="78" channel-number="78",beIN Sports MENA English 1
 https://xyzdddd.mizhls.ru/lb/premium61/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="79" channel-number="79"group-title="Middle East",beIN Sports MENA English 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="79" channel-number="79",beIN Sports MENA English 2
 https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="80" channel-number="80" group-title="Middle East",beIN Sports MENA English 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="80" channel-number="80",beIN Sports MENA English 3
 https://xyzdddd.mizhls.ru/lb/premium46/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="81" channel-number="81"group-title="Middle East",beIN Sports MENA 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="81" channel-number="81",beIN Sports MENA 1
 https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="82" channel-number="82" group-title="Middle East",beIN Sports MENA 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="82" channel-number="82",beIN Sports MENA 2
 https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="83" channel-number="83" group-title="Middle East",beIN Sports MENA 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="83" channel-number="83" ,beIN Sports MENA 3
 https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="84" channel-number="84" group-title="Middle East",beIN Sports MENA 4
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="84" channel-number="84" ,beIN Sports MENA 4
 https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="85" channel-number="85" group-title="Middle East",beIN Sports MENA 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="85" channel-number="85",beIN Sports MENA 5
 https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="86" channel-number="86"group-title="Middle East",beIN Sports MENA 6
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="86"  channel-number="86",beIN Sports MENA 6
 https://xyzdddd.mizhls.ru/lb/premium96/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="87" channel-number="87"group-title="Middle East",beIN Sports MENA 7
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="87"  channel-number="87",beIN Sports MENA 7
 https://xyzdddd.mizhls.ru/lb/premium97/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="88" channel-number="88" group-title="Middle East",beIN Sports MENA Premium 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"group-title="Middle East" streamId="88" channel-number="88",beIN Sports MENA Premium 1
 https://xyzdddd.mizhls.ru/lb/premium98/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  streamId="89" channel-number="89"group-title="Middle East",beIN Sports MENA Premium 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="89" channel-number="89,beIN Sports MENA Premium 2
 https://xyzdddd.mizhls.ru/lb/premium99/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="90" channel-number="90" group-title="Middle East",beIN Sports MENA Premium 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA Premium 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="90"  channel-number="90",beIN Sports MENA Premium 3
 https://xyzdddd.mizhls.ru/lb/premium100/index.m3u8
 
 
