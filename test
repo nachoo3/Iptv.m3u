@@ -226,13 +226,13 @@ https://xyzdddd.mizhls.ru/lb/premium99/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium100/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  group-title="Middle East" streamId="78" channel-number="78",beIN Sports MENA English 1
-https://xyzdddd.mizhls.ru/lb/premium61/index.m3u8
+https://xyzdddd.mizhls.ru/lb/premium61/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="79" channel-number="79",beIN Sports MENA English 2
-https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8
+https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="80" channel-number="80",beIN Sports MENA English 3
-https://xyzdddd.mizhls.ru/lb/premium46/index.m3u8
+https://xyzdddd.mizhls.ru/lb/premium46/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East" streamId="81" channel-number="81",beIN Sports MENA 1
 https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
