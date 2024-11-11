@@ -1643,6 +1643,132 @@ https://dlhd.sx/stream/stream-431.php
 #EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="40" channel-number="40",EPIX Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Australia",beIN SPORTS Australia 1
+https://xyzdddd.mizhls.ru/lb/premium491/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Australia",beIN SPORTS Australia 2
+https://xyzdddd.mizhls.ru/lb/premium492/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Australia",beIN SPORTS Australia 3
+https://xyzdddd.mizhls.ru/lb/premium493/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA English 1
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium61/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA English 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA English 3
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium46/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 1
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 3
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 4
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 5
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 6
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium96/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 7
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium97/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA Premium 1
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium98/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA Premium 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium99/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA Premium 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA Premium 3
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium100/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA English 1
+https://xyzdddd.mizhls.ru/lb/premium61/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA English 2
+https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA English 3
+https://xyzdddd.mizhls.ru/lb/premium46/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 1
+https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 2
+https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 3
+https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 4
+https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 5
+https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 6
+https://xyzdddd.mizhls.ru/lb/premium96/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA 7
+https://xyzdddd.mizhls.ru/lb/premium97/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA Premium 1
+https://xyzdddd.mizhls.ru/lb/premium98/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA Premium 2
+https://xyzdddd.mizhls.ru/lb/premium99/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA Premium 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Middle East",beIN Sports MENA Premium 3
+https://xyzdddd.mizhls.ru/lb/premium100/index.m3u8
+
+
 
 #[TOP_EMBED_SPORTS]#
 
