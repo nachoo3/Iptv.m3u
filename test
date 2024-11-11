@@ -1643,45 +1643,45 @@ https://dlhd.sx/stream/stream-431.php
 #EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="40" channel-number="40",EPIX Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"channel-number="680" group-title="Australia",beIN SPORTS Australia 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="41" channel-number="41" group-title="Australia",beIN SPORTS Australia 1
 https://xyzdddd.mizhls.ru/lb/premium491/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"  channel-number="681"group-title="Australia",beIN SPORTS Australia 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="42" channel-number="42" channel-number="681"group-title="Australia",beIN SPORTS Australia 2
 https://xyzdddd.mizhls.ru/lb/premium492/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"channel-number="682" group-title="Australia",beIN SPORTS Australia 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"streamId="43" channel-number="43" group-title="Australia",beIN SPORTS Australia 3
 https://xyzdddd.mizhls.ru/lb/premium493/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"channel-number="683" group-title="Middle East",beIN Sports MENA English 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="44" channel-number="44" group-title="Middle East",beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium61/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"channel-number="684" group-title="Middle East",beIN Sports MENA English 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="45" channel-number="45" group-title="Middle East",beIN Sports MENA English 2
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"channel-number="685" group-title="Middle East",beIN Sports MENA English 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"streamId="46" channel-number="46" group-title="Middle East",beIN Sports MENA English 3
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium46/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" channel-number="686" group-title="Middle East",beIN Sports MENA 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="47" channel-number="47" group-title="Middle East",beIN Sports MENA 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"channel-number="687" group-title="Middle East",beIN Sports MENA 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg"streamId="48" channel-number="48" group-title="Middle East",beIN Sports MENA 2
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" channel-number="688" group-title="Middle East",beIN Sports MENA 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" streamId="49" channel-number="49" group-title="Middle East",beIN Sports MENA 3
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
