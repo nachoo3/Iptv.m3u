@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="[XML_EPG]"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" ,Cosmote Sport 1 HD
-https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
+https://dlhd.sx/stream/stream-622.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="INTERNATIONAL SPORT" streamId="1" channel-number="1",Cosmote Sport 2 HD
 https://dlhd.sx/stream/stream-623.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="INTERNATIONAL SPORT" streamId="2" channel-number="2",Cosmote Sport 3 HD
