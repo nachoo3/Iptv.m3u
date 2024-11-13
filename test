@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="[XML_EPG]"
-#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="0" channel-number="0",ABC East
-https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD Qatar" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Qatar"  streamId="0" channel-number="0" ,BeIN Sports HD Qatar
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium578/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC_NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="1" channel-number="1",ACC Network
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
