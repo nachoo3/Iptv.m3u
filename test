@@ -1,9 +1,9 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)"  streamId="0" channel-number="0",A&E
+https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Qatar"  streamId="0" channel-number="0" ,BeIN Sports HD Qatar
-https://xyzdddd.mizhls.ru/lb/premium578/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Qatar"  streamId="1" channel-number="1" ,BeIN Sports HD Qatar
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)"  streamId="1" channel-number="1" ,ABC
+https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="2" channel-number="2",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
