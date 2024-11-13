@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="[XML_EPG]"
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Qatar"  streamId="0" channel-number="0" ,BeIN Sports HD Qatar
 https://xyzdddd.mizhls.ru/lb/premium578/index.m3u8
 
