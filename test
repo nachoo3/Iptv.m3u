@@ -191,7 +191,7 @@ https://dlhd.sx/stream/stream-96.php
 https://dlhd.sx/stream/stream-97.php
 
 #EXTINF:-1 tvg-id=""  tvg-logo="" group-title="ARABIC" streamId="74" channel-number="74" ,Abu Dhabi Aloula (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+https://dlhd.sx/stream/stream-97.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC" streamId="75" channel-number="75" Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC SPORT " streamId="76" channel-number="76" ,Abu Dhabi Sports 1 (1080p)
