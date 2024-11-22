@@ -291,45 +291,45 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa"group-title="saudi" streamId="123" channel-number="123",Thikrayat TV (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/3.php
-#EXTINF:-1 tvg-id=" " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD " streamId="123" channel-number="123" ,Ssc News 
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Ssc Sport HD " streamId="123" channel-number="123" ,Ssc News 
 http://5.62.130.10/iptv/iptv/1.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD" streamId="124" channel-number="124",Ssc Extra 1 
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Ssc Sport HD" streamId="124" channel-number="124",Ssc Extra 1 
 http://5.62.130.10/iptv/iptv/2.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD "streamId="125" channel-number="125",Ssc eXTRA 2
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Ssc Sport HD "streamId="125" channel-number="125",Ssc eXTRA 2
 http://5.62.130.10/iptv/iptv/3.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc  1
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Ssc Sport HD ",Ssc  1
 http://5.62.130.10/iptv/iptv/11.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc 1 SD
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Ssc Sport HD ",Ssc 1 SD
 http://5.62.130.10/iptv/iptv/16.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc  2
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Ssc Sport HD ",Ssc  2
 http://5.62.130.10/iptv/iptv/12.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc 3
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Ssc Sport HD ",Ssc 3
 http://5.62.130.10/iptv/iptv/13.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc 4 HD
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Ssc Sport HD ",Ssc 4 HD
 http://5.62.130.10/iptv/iptv/14.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc 5 HD
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Ssc Sport HD ",Ssc 5 HD
 http://5.62.130.10/iptv/iptv/15.m3u8
 #EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 1 
 http://77.247.108.56:25461/live/VOLKANbabnour70/122417711/90.m3u8
 #EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 2 
 http://5.62.130.10/iptv/iptv/31.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15643.png" group-title="Bein Sport HD ",Bein Sport 3 
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 3 
 http://5.62.130.10/iptv/iptv/32.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15643.png" group-title="Bein Sport HD ",Bein Sport 3 SD 
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 3 SD 
 http://5.62.130.10/iptv/iptv/39.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15644.png" group-title="Bein Sport HD ",Bein Sport 4 
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 4 
 http://5.62.130.10/iptv/iptv/33.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15645.png" group-title="Bein Sport HD ",Bein Sport 5 
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 5 
 http://5.62.130.10/iptv/iptv/34.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15646.png" group-title="Bein Sport HD ",Bein Sport 6 
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 6 
 http://5.62.130.10/iptv/iptv/35.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15647.png" group-title="Bein Sport HD ",Bein Sport 7 
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 7 
 http://5.62.130.10/iptv/iptv/36.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15648.png" group-title="Bein Sport HD ",Bein Sport 8 
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 8 
 http://5.62.130.10/iptv/iptv/37.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15649.png" group-title="Bein Sport HD ",Bein Sport 9 
+#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="" group-title="Bein Sport HD ",Bein Sport 9 
 http://5.62.130.10/iptv/iptv/38.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Arabic Sports",Abu Dhabi Sports premium 2
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="" group-title="Arabic Sports",Abu Dhabi Sports premium 2
 http://5.62.130.10/iptv/iptv/27.m3u8
 #EXTINF:-1 tvg-id="Bein Mobile " tvg-logo="" group-title="Bein Sport Mobile ",Bein Sport 1 
 https://live1.beinconnect.us/YallaGoalApp/beINSports1.m3u8
@@ -344,21 +344,21 @@ https://live1.beinconnect.us/YallaGoalApp/beINSports5.m3u8
 #EXTINF:-1 tvg-id="Bein Mobile " tvg-logo="" group-title="Bein Sport Mobile ",Bein Sport 6 
 https://live1.beinconnect.us/YallaGoalApp/beINSports6.m3u8
 
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="" group-title="Ssc Mobile HD ",Ssc  1
 https://live1.beinconnect.us/YallaGoalApp/SSC1.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="" group-title="Ssc Mobile HD ",Ssc  1
 https://live1.beinconnect.us/YallaGoalApp/SSC2.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="" group-title="Ssc Mobile HD ",Ssc  1
 https://live1.beinconnect.us/YallaGoalApp/SSC3.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="" group-title="Ssc Mobile HD ",Ssc  1
 https://live1.beinconnect.us/YallaGoalApp/SSC4.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="" group-title="Ssc Mobile HD ",Ssc  1
 https://live1.beinconnect.us/YallaGoalApp/SSC5.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc 1 Extra
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="" group-title="Ssc Mobile HD ",Ssc 1 Extra
 https://live1.beinconnect.us/YallaGoalApp/SSC1Extra.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc 2 Extra
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="" group-title="Ssc Mobile HD ",Ssc 2 Extra
 https://live1.beinconnect.us/YallaGoalApp/SSC2Extra.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc 3 Extra
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="" group-title="Ssc Mobile HD ",Ssc 3 Extra
 https://live1.beinconnect.us/YallaGoalApp/SSC3Extra.m3u8
 
 #[TOP_EMBED_SPORTS]#
