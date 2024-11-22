@@ -283,9 +283,9 @@ https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/ind
 
 #EXTINF:-1 tvg-id="SBC.sa"group-title="ARABIC" streamId="119" channel-number="119",SBC (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/1.m3u8
-#EXTINF:-1 tvg-id="SBC.sa"group-title="ARABIC" streamId="120" channel-number="120",SBC (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SBC.sa"group-title="ARABIC" ,SBC (1080p) [Not 24/7]
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
-#EXTINF:-1 tvg-id="SSC1HD.sa"group-title="ARABIC SPORT" streamId="121" channel-number="121",SSC 1 (720p)
+#EXTINF:-1 tvg-id="SSC1HD.sa"group-title="ARABIC SPORT",SSC 1 (720p)
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-id="SSCActionWaleed.sa"group-title="ARABIC SPORT" streamId="122" channel-number="122",SSC Action Waleed (1080p) [Not 24/7]
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
