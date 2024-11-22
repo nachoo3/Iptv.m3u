@@ -252,13 +252,13 @@ https://edge.taghtia.com/sa/4.m3u8
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="AlHadath.sa"group-title="ARABIC" streamId="103" channel-number="103",Al Hadath TV (1080p) [Not 24/7]
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa"group-title="ARABIC" streamId="104" channel-number="104",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa"group-title="ARABIC"  channel-number="104",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa"group-title="ARABIC" streamId="105" channel-number="105",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa"group-title="ARABIC"  channel-number="105",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSaudiya.sa"group-title="ARABIC" streamId="106" channel-number="106",Al Saudiya (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlSaudiya.sa"group-title="ARABIC"  channel-number="106",Al Saudiya (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-id="AlSaudiya.sa"group-title="ARABIC" streamId="107" channel-number="107",Al Saudiya (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlSaudiya.sa"group-title="ARABIC"  channel-number="107",Al Saudiya (1080p) [Not 24/7]
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 #EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa"group-title="ARABIC" streamId="108" channel-number="108",Al Saudiya Alaan (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/17.m3u8
