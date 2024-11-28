@@ -6,7 +6,7 @@ https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA (DADDY LIVE)"  channel-number="3",Animal Planet
 https://xyzdddd.mizhls.ru/lb/premium101/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 1" tvg-logo="" group-title="Middle East"channel-number="4",beIN Sports MENA English 1
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)"  channel-number="4",ABC
 https://xyzdddd.mizhls.ru/lb/premium61/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MENA English 2" tvg-logo="" group-title="Middle East"channel-number="5",beIN Sports MENA English 2
 https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8
