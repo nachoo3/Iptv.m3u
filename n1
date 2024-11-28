@@ -1,14 +1,8 @@
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StarzPlay CricLife 1 UAE" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="United Arab Emirates" streamId="0" channel-number="0",StarzPlay CricLife 1 UAE
-https://xyzdddd.mizhls.ru/lb/premium284/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StarzPlay CricLife 2 UAE" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="United Arab Emirates" streamId="1" channel-number="1",StarzPlay CricLife 2 UAE
-https://xyzdddd.mizhls.ru/lb/premium283/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StarzPlay CricLife 3 UAE" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="United Arab Emirates" streamId="2" channel-number="2",StarzPlay CricLife 3 UAE
-https://xyzdddd.mizhls.ru/lb/premium282/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 UAE" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="United Arab Emirates" streamId="3" channel-number="3",Abu Dhabi Sports 1 UAE
-https://xyzdddd.mizhls.ru/lb/premium600/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 UAE" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="United Arab Emirates" streamId="4" channel-number="4",Abu Dhabi Sports 2 UAE
-https://xyzdddd.mizhls.ru/lb/premium601/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 1 UAE" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="United Arab Emirates" streamId="5" channel-number="5",Dubai Sports 1 UAE
-https://xyzdddd.mizhls.ru/lb/premium604/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 2 UAE" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="United Arab Emirates" streamId="6" channel-number="6",Dubai Sports 2 UAE
-https://xyzdddd.mizhls.ru/lb/premium605/index.m3u8
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)" streamId="0" channel-number="0",ABC
+https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)" streamId="1" channel-number="1",A&E
+https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="USA (DADDY LIVE)" streamId="2" channel-number="2",AMC
+https://xyzdddd.mizhls.ru/lb/premium303/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA (DADDY LIVE)" streamId="3" channel-number="3",Animal Planet
+https://xyzdddd.mizhls.ru/lb/premium304/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
