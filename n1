@@ -2,19 +2,18 @@
 #EXTINF:-1 tvg-id="" tvg-name="ABC_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="0" channel-number="0",ABC East
 https://live1.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC_NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="1" channel-number="1",ACC Network
-https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8 |Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-
+https://rr.vipstreams.in/alpha/js/afc-bournemouth-vs-tottenham-hotspur/1/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="2" channel-number="2",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+https://rr.vipstreams.in/charlie/js/afc-bournemouth-vs-tottenham-hotspur-19134879/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="3" channel-number="3",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal_Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="4" channel-number="4",Animal Planet
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+https://rr.vipstreams.in/delta/js/bournemouth-vs-tottenham-317698/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC_AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="5" channel-number="5",BBC America
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+https://rr.vipstreams.in/foxtrot/js/bournemouth-vs-tottenham-202412031930/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBC_WORLD_NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="6" channel-number="6",BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
