@@ -1,121 +1,17 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/methstreams-m3u/refs/heads/main/epg.xml"
-#EXTINF:-1 tvg-id="5459b26bb406e15635b7c99178fe3a7c" tvg-name="NFL Network streams live" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams",09:13 AM - NFL Network streams live - 09:13 AM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2Fnfln%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="8a0ce4d5bd1ac8f2f74b940c4ceca2b9" tvg-name="NFL REDZONE streams live" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams",09:13 AM - NFL REDZONE streams live - 09:13 AM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2Fredzone%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="ffc1a05b2422c2c0019b44fd603b4200" tvg-name="Fulham vs Brighton" tvg-logo="https://the.crackstreams.ws/icons/epl.png" group-title="Soccer Streams",02:30 PM - Fulham vs Brighton - 02:30 PM EST - (12/05/2024)
+
+#EXTINF:-1 tvg-id="ffc1a05b2422c2c0019b44fd603b4200" tvg-name="Fulham vs Brighton" tvg-logo="https://the.crackstreams.ws/icons/epl.png" group-title="Soccer Streams" streamId="0" channel-number="0",02:30 PM - Fulham vs Brighton - 02:30 PM EST - (12/05/2024)
 #EXTVLCOPT:http-referrer=https://nbastreamswatch.com
 #EXTVLCOPT:http-origin=https://nbastreamswatch.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fsoccerstreams%2Fepl%2F1%2Fvideo.php&referer=https%3A%2F%2Fthe.crackstreams.ws
-#EXTINF:-1 tvg-id="6e0b76b55b5e30f1a7b8091a80479d97" tvg-name="Lazio vs Napoli" tvg-logo="https://the.crackstreams.ws/icons/seriea.png" group-title="Soccer Streams",03:00 PM - Lazio vs Napoli - 03:00 PM EST - (12/05/2024)
+#EXTINF:-1 tvg-id="6e0b76b55b5e30f1a7b8091a80479d97" tvg-name="Lazio vs Napoli" tvg-logo="https://the.crackstreams.ws/icons/seriea.png" group-title="Soccer Streams" streamId="1" channel-number="1",03:00 PM - Lazio vs Napoli - 03:00 PM EST - (12/05/2024)
 #EXTVLCOPT:http-referrer=https://nbastreamswatch.com
 #EXTVLCOPT:http-origin=https://nbastreamswatch.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fsoccerstreams%2Fserie-a%2F1%2Fvideo.php&referer=https%3A%2F%2Fthe.crackstreams.ws
-#EXTINF:-1 tvg-id="97aa516f44aa9d387b68fff4ce554b1b" tvg-name="Bournemouth vs Tottenham" tvg-logo="https://the.crackstreams.ws/icons/epl.png" group-title="Soccer Streams",03:15 PM - Bournemouth vs Tottenham - 03:15 PM EST - (12/05/2024)
+#EXTINF:-1 tvg-id="97aa516f44aa9d387b68fff4ce554b1b" tvg-name="Bournemouth vs Tottenham" tvg-logo="https://the.crackstreams.ws/icons/epl.png" group-title="Soccer Streams"  streamId="2" channel-number="2",03:15 PM - Bournemouth vs Tottenham - 03:15 PM EST - (12/05/2024)
 #EXTVLCOPT:http-referrer=https://cdn.olympics123.com
 #EXTVLCOPT:http-origin=https://cdn.olympics123.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fcdn.olympics123.com%2Fsoccerstreams%2Fepl%2F2%2Fvideo2.php&referer=https%3A%2F%2Fthe.crackstreams.ws
-#EXTINF:-1 tvg-id="9f3a8da17d8a0665ffb3039b4133aae2" tvg-name="Purdue vs Penn State" tvg-logo="https://i.imgur.com/BqL0Ov2.png" group-title="NCAAB Streams",06:30 PM - Purdue vs Penn State - 06:30 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Ffs1%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="d6a19e98138c28cc25d2e03f9fbb7099" tvg-name="Nuggets vs Cavaliers" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams",07:00 PM - Nuggets vs Cavaliers - 07:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fcavaliers%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="6a043208c7653d93b274b992d79b7118" tvg-name="Mavericks vs Wizards" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams",07:00 PM - Mavericks vs Wizards - 07:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fmavericks%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="5b231356f0ede70ac1aeb43129cae66b" tvg-name="Radford vs NC Central" tvg-logo="https://i.imgur.com/BqL0Ov2.png" group-title="NCAAB Streams",07:00 PM - Radford vs NC Central - 07:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespnplus-1%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="d7c451e2bbd6e231b5b950ad992e8509" tvg-name="Florida Tech vs Jacksonville" tvg-logo="https://i.imgur.com/BqL0Ov2.png" group-title="NCAAB Streams",07:00 PM - Florida Tech vs Jacksonville - 07:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespnplus-2%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="bec7d8bfbe2a4e5599d224fcf89dea2a" tvg-name="ME Shore vs Longwood" tvg-logo="https://i.imgur.com/BqL0Ov2.png" group-title="NCAAB Streams",07:00 PM - ME Shore vs Longwood - 07:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespnplus-3%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="3c33720c19fc3da7a40997190ceb93f2" tvg-name="Wright State vs Oakland" tvg-logo="https://i.imgur.com/BqL0Ov2.png" group-title="NCAAB Streams",07:00 PM - Wright State vs Oakland - 07:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespnplus-4%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="cd2790eb9f525004fcefe4b433aea4ff" tvg-name="Hornets vs Knicks" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams",07:30 PM - Hornets vs Knicks - 07:30 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fhornets%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="30a4e269b0ee57c90f8dfa12a71db40c" tvg-name="Thunder vs Raptors" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams",07:30 PM - Thunder vs Raptors - 07:30 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fraptors%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="210f5fc51ecb684d7a3f692df2904edf" tvg-name="Stephen F. Austin vs UTRGV" tvg-logo="https://i.imgur.com/BqL0Ov2.png" group-title="NCAAB Streams",07:30 PM - Stephen F. Austin vs UTRGV - 07:30 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespnplus-5%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="6c9bdaa3a71d0b94ea3e0a9dd0f05a36" tvg-name="Kings vs Grizzlies" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams",08:00 PM - Kings vs Grizzlies - 08:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fgrizzlies%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="c60d9bf7081d1161e9caf908600ed26a" tvg-name="Suns vs Pelicans" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams",08:00 PM - Suns vs Pelicans - 08:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fsuns%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="884e7e2ff9d05101dcfd826492d79234" tvg-name="Bulls vs Spurs" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams",08:00 PM - Bulls vs Spurs - 08:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fspurs%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="9c3f5d5d300037493e507c3ae57da0bc" tvg-name="Jackson State vs Arkansas State" tvg-logo="https://i.imgur.com/BqL0Ov2.png" group-title="NCAAB Streams",08:00 PM - Jackson State vs Arkansas State - 08:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespnplus-6%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="986ae55c9e180e5087adff14765af696" tvg-name="Xavier vs TCU" tvg-logo="https://i.imgur.com/BqL0Ov2.png" group-title="NCAAB Streams",08:00 PM - Xavier vs TCU - 08:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespnplus-7%2Fvideo2.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="00e3529763cf3f1d12054c84a60b8843" tvg-name="Packers vs Lions" tvg-logo="https://methstreams.com/icons/nfl.png" group-title="NFL Streams",08:15 PM - Packers vs Lions - 08:15 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnflstreams%2F1%2Fvideo3.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="6dafdc340be1084003cf9730509f0f95" tvg-name="Rockets vs Warriors" tvg-logo="https://methstreams.com/icons/nba.png" group-title="NBA Streams",10:00 PM - Rockets vs Warriors - 10:00 PM EST - (12/05/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fnbastreams%2Fwarriors%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="b565575f69b978427c88de96fdffffa4" tvg-name="Formula 1 Abu Dhabi Grand Prix Practice 1" tvg-logo="https://methstreams.com/icons/f1-1.png" group-title="F1 Streams",04:25 AM - Formula 1 Abu Dhabi Grand Prix Practice 1 - 04:25 AM EST - (12/06/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespn2%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
-#EXTINF:-1 tvg-id="ed5ef03a93a7032e22dc13f25687b3ed" tvg-name="Formula 1 Abu Dhabi Grand Prix Practice 2" tvg-logo="https://methstreams.com/icons/f1-1.png" group-title="F1 Streams",08:55 AM - Formula 1 Abu Dhabi Grand Prix Practice 2 - 08:55 AM EST - (12/06/2024)
-#EXTVLCOPT:http-referrer=https://nbastreamswatch.com
-#EXTVLCOPT:http-origin=https://nbastreamswatch.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://methstreams-url.vercel.app?iframe=https%3A%2F%2Fnbastreamswatch.com%2Fcfbstreams%2Fespnu%2Fvideo.php&referer=https%3A%2F%2Fmethstreams.com
+
