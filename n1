@@ -22,17 +22,17 @@ https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC" streamId="9" channel-number="9",SSC 1
 https://puc1.mylife1.top:8088/live/syrialive5/playlist.m3u8?vidictid=200634037042&id=120660&pk=ca821d7873a889504b34d211910f3dc71f6d781bae4d5cb456f890eb362d00f6b29b20976e79fc61036757d0c145b482db0563f3c878b72e47d37311767d42ea
 #EXTM3U
-#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" streamId="10" channel-number="10",Ahl-Alquran TV (360p)
+#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" ,Ahl-Alquran TV (360p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" streamId="11" channel-number="11",Al Arabiya Al Hadath (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" ,Al Arabiya Al Hadath (1080p) [Not 24/7]
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" streamId="12" channel-number="12",Al Ekhbariya (1080p)
+#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" ,Al Ekhbariya (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" streamId="13" channel-number="13",Al Ekhbariya (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" ,Al Ekhbariya (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/4.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" streamId="14" channel-number="16",Al Hadath TV (1080p)
+#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic",Al Hadath TV (1080p)
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" streamId="15" channel-number="15",Al Hadath TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic",Al Hadath TV (1080p) [Not 24/7]
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" group-title="Arabic" streamId="16" channel-number="16",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/7.m3u8
