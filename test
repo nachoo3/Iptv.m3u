@@ -1519,7 +1519,10 @@ https://dlhd.sx/stream/stream-619.php
 https://dlhd.sx/stream/stream-620.php
 #EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="8" channel-number="621",SSC EXTRA 3
 https://dlhd.sx/stream/stream-621.php
-
+#EXTINF:-0 tvg-id="" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="625" channel-number="628",Ahl-Alquran TV (360p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="626" channel-number="629",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="9" channel-number="622",SSC 1
 https://dlhd.sx/stream/stream-418.php
 #EXTINF:-1 tvg-id="SSc" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="623" channel-number="623" ,BEIN SPORT Mena 4
@@ -1534,7 +1537,7 @@ https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 #EXTINF:-1 tvg-id="" tvg-name="internation Sport" tvg-logo="" group-title="SSC" streamId="627" channel-number="627",SSC 1
 https://puc1.mylife1.top:8088/live/syrialive5/playlist.m3u8?vidictid=200634037042&id=120660&pk=ca821d7873a889504b34d211910f3dc71f6d781bae4d5cb456f890eb362d00f6b29b20976e79fc61036757d0c145b482db0563f3c878b72e47d37311767d42ea
 
-#EXTINF:-0 tvg-id="" tvg-name="internation Sport" tvg-logo="" group-title="Saudi"streamId="625" channel-number="628",Ahl-Alquran TV (360p)
+#EXTINF:-0 tvg-id="" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="625" channel-number="628",Ahl-Alquran TV (360p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="internation Sport" tvg-logo="" group-title="Saudi"streamId="626" channel-number="629",Al Arabiya Al Hadath (1080p) [Not 24/7]
+#EXTINF:-0 tvg-id="" tvg-name="internation Sport" tvg-logo="" group-title="SSC SPORT" streamId="626" channel-number="629",Al Arabiya Al Hadath (1080p) [Not 24/7]
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
