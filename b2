@@ -1556,13 +1556,13 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="" tvg-logo="" group-title="Arabic" ,Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="" tvg-logo="" ,Al Arabiya (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 
-#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-name="" tvg-logo="",Al Arabiya Business (1080p)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlQamarTV.ae"tvg-name="" tvg-logo="" group-title="Arabic",Al Qamar TV (360p)
+#EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-name="" tvg-logo="" group-title="Arabic",Al Qamar TV (360p)
 https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-name="" tvg-logo="" group-title="Arabic" ,Al Shallal TV (1080p)
