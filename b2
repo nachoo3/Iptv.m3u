@@ -1,12 +1,11 @@
-#EXTINF:0 tvg-id="" tvg-logo="http://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Arabic", Abu Dhabi Emirates (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="http://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Arabic", Abu Dhabi Aloula 
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:0 tvg-id=" tvg-logo="http://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Arabic",  Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:0 tvg-id="4uv" tvg-logo="http://images.pluto.tv/channels/65775e07dfed030008cb3f47/colorLogoPNG.png" group-title="Entertainment", Abu Dhabi Emirates (1080p)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775e07dfed030008cb3f47/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
-
-#EXTINF:0 tvg-id="60-minutes" tvg-logo="http://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" group-title="History + Science", 60 Minutes
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b646f9cd0d3100086af83c/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
+#EXTINF:0 tvg-id="4uv" tvg-logo="http://images.pluto.tv/channels/65775e07dfed030008cb3f47/colorLogoPNG.png" group-title="Arabic Sport", Abu Dhabi Sports 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:0 tvg-id="60-minutes" tvg-logo="http://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" group-title="Arabic Sport",Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:0 tvg-id="70s-cinema" tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Movies", 70s Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
@@ -83,10 +82,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:0 tvg-id="bbc-news" tvg-logo="http://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="News + Opinion", BBC News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="bet-her" tvg-logo="http://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG_1731835793389.png" group-title="Entertainment", BET Her
+#EXTINF:0 tvg-id="bet-her" tvg-logo="http://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG_1731835793389.png" group-title="Arabic", BET Her
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="bet-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="Entertainment", BET Pluto TV
+#EXTINF:0 tvg-id="bet-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="Arabic", BET Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="bet-x-tyler-perry-comedy" tvg-logo="http://images.pluto.tv/channels/666b265722acab000885c6aa/colorLogoPNG.png" group-title="Comedy", BET x Tyler Perry Comedy
@@ -158,7 +157,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54
 #EXTINF:0 tvg-id="blue-bloods-ptv1" tvg-logo="http://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG_1731834396573.png" group-title="Drama", Blue Bloods
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b3b8c645b45d0007a9bb8d/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="bounce-xl" tvg-logo="http://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment", Bounce XL
+#EXTINF:0 tvg-id="bounce-xl" tvg-logo="http://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Arabic", Bounce XL
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="bravo-vault" tvg-logo="http://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png" group-title="Reality", Bravo Vault
@@ -239,7 +238,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 #EXTINF:0 tvg-id="cmt-equal-play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Music Videos", CMT Equal Play
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="cmt-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png" group-title="Entertainment", CMT Pluto TV
+#EXTINF:0 tvg-id="cmt-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png" group-title="Arabic", CMT Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="cnn-headlines" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="News + Opinion", CNN HEADLINES
@@ -416,7 +415,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 #EXTINF:0 tvg-id="dynasty" tvg-logo="http://images.pluto.tv/channels/64d1606b4c5ed80008e3b8b9/colorLogoPNG_1731835571308.png" group-title="Classic TV", Dynasty
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d1606b4c5ed80008e3b8b9/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="et" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Entertainment", ET
+#EXTINF:0 tvg-id="et" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Arabic", ET
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="earthday-365-ptv1" tvg-logo="http://images.pluto.tv/channels/650b69cfd1f20c0008586bac/colorLogoPNG.png" group-title="Animals + Nature", EarthDay 365
@@ -443,7 +442,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:0 tvg-id="fox-deportes" tvg-logo="http://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png" group-title="En Español", FOX Deportes
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="fox-soul" tvg-logo="http://images.pluto.tv/channels/60fb2c9c663b130008945ad0/colorLogoPNG.png" group-title="Entertainment", FOX SOUL
+#EXTINF:0 tvg-id="fox-soul" tvg-logo="http://images.pluto.tv/channels/60fb2c9c663b130008945ad0/colorLogoPNG.png" group-title="Arabic", FOX SOUL
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2c9c663b130008945ad0/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="fox-sports" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports", FOX Sports
@@ -530,7 +529,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:0 tvg-id="hsn" tvg-logo="http://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG-1675271320133.png" group-title="Daytime TV", HSN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8a02476b72230007e62b7d/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="hallmark-movies-and-more" tvg-logo="http://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG_1730482623056.png" group-title="Entertainment", Hallmark Movies & More Holiday Favorites
+#EXTINF:0 tvg-id="hallmark-movies-and-more" tvg-logo="http://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG_1730482623056.png" group-title="Arabic", Hallmark Movies & More Holiday Favorites
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="hallmark-movies-and-more-ptv1" tvg-logo="http://images.pluto.tv/channels/63335d36a1cd8c000765466c/colorLogoPNG_1730489068460.png" group-title="Season's Greetings", Hallmark Movies & More Holiday Favorites
@@ -554,7 +553,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:0 tvg-id="hit-sitcoms" tvg-logo="http://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png" group-title="Comedy", Hit Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e0b4a3f0f17500085cc268/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="movie-favorites-by-lifetime" tvg-logo="http://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG_1730484567852.png" group-title="Entertainment", Holiday Movie Favorites By Lifetime
+#EXTINF:0 tvg-id="movie-favorites-by-lifetime" tvg-logo="http://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG_1730484567852.png" group-title="Arabic", Holiday Movie Favorites By Lifetime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="holiday-movie-favorites-by-lifetime-ptv1" tvg-logo="http://images.pluto.tv/channels/63335c59e4d7eb000785e71a/colorLogoPNG_1730489218858.png" group-title="Season's Greetings", Holiday Movie Favorites By Lifetime
@@ -626,13 +625,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:0 tvg-id="little-stars-universe" tvg-logo="http://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids", Little Stars Universe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="live-music" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Entertainment", Live Music
+#EXTINF:0 tvg-id="live-music" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Arabic", Live Music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="livenow-from-fox" tvg-logo="http://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png" group-title="News + Opinion", LiveNOW from FOX
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d025db4e83e700086eaa96/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="logo-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png" group-title="Entertainment", Logo Pluto TV
+#EXTINF:0 tvg-id="logo-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png" group-title="Arabic", Logo Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="love-and-hip-hop" tvg-logo="http://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" group-title="Reality", Love & Hip Hop
@@ -662,7 +661,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:0 tvg-id="mtv-flow-latino-ptv1" tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="Music Videos", MTV Flow Latino
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="mtv-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Entertainment", MTV Pluto TV
+#EXTINF:0 tvg-id="mtv-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Arabic", MTV Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="mtv-spankin-new" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music Videos", MTV Spankin' New
@@ -824,7 +823,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTINF:0 tvg-id="paramount-movie-channel" tvg-logo="http://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Movies", Paramount Movie Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="paramount-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="Entertainment", Paramount+ Picks
+#EXTINF:0 tvg-id="paramount-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="Arabic", Paramount+ Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="pelis-y-popcorn" tvg-logo="http://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" group-title="En Español", Pelis y Popcorn
@@ -872,7 +871,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:0 tvg-id="pluto-tv-christmas" tvg-logo="http://images.pluto.tv/channels/5bb1b9f0adfc955391f8b7a2/colorLogoPNG.png" group-title="Season's Greetings", Pluto TV Christmas
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="pluto-tv-christmas-ptv2" tvg-logo="http://images.pluto.tv/channels/63335df531a7590007c226b9/colorLogoPNG.png" group-title="Entertainment", Pluto TV Christmas
+#EXTINF:0 tvg-id="pluto-tv-christmas-ptv2" tvg-logo="http://images.pluto.tv/channels/63335df531a7590007c226b9/colorLogoPNG.png" group-title="Arabic", Pluto TV Christmas
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 #EXTINF:0 tvg-id="pluto-tv-comedy" tvg-logo="http://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG_1731836724642.png" group-title="Movies", Pluto TV Comedy
@@ -1367,7 +1366,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:0 tvg-id="pocketwatch-game-on" tvg-logo="http://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="Kids", pocket.watch Game-On
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="thegrio" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Entertainment", theGrio
+#EXTINF:0 tvg-id="thegrio" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic", theGrio
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
 EXTINF:-0 tvg-id="" tvg-name="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" tvg-logo="" group-title="Sports",Ahl-Alquran TV (360p)
