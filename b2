@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id="AbuDhabiAloula.ae" tvg-logo="http://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Arabic", Abu Dhabi Aloula 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
-#EXTINF:0 tvg-id="AbuDhabiAloula.ae tvg-logo="http://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Arabic",  Abu Dhabi Emirates (1080p)
+#EXTINF:0 tvg-id="AbuDhabi tvg-logo="http://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Arabic",  Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 
 #EXTINF:0 tvg-id="4uv" tvg-logo="http://images.pluto.tv/channels/65775e07dfed030008cb3f47/colorLogoPNG.png" group-title="Arabic Sport", Abu Dhabi Sports 1
