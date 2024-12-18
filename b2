@@ -167,39 +167,39 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic",Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="Sharjah" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic" ,Sharjah TV (1080p)
+#EXTINF:0 tvg-id="" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic" ,Sharjah TV (1080p)
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="SSC" tvg-name="SSC" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="SSC" ,SSC 1 720
+#EXTINF:0 tvg-id="" tvg-name="SSC" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic" ,SSC 1 720
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f5b422eb-bbb1-e5cb-51b7-209fd1630383&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=3a066360406c&userId=
 
-#EXTINF:0 tvg-id="AbuDhabiAloula.ae"  tvg-logo="" group-title="Arabic",Abu Dhabi Aloula (1080p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic",Abu Dhabi Aloula (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
-#EXTINF:0 tvg-id="AbuDhabiEmirates.ae" tvg-name="" tvg-logo="" group-title="Arabic",Abu Dhabi Emirates (1080p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic",Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 
-#EXTINF:0 tvg-id="AbuDhabiSports1.ae" tvg-name="" tvg-logo="" group-title="Arabic",Abu Dhabi Sports 1 (1080p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic",Abu Dhabi Sports 1 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
-#EXTINF:0 tvg-id="AbuDhabiSports2.ae" tvg-name="" tvg-logo="" group-title="Arabic",Abu Dhabi Sports 2 (1080p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic",Abu Dhabi Sports 2 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
-#EXTINF:0 tvg-id="AjmanTV.ae" tvg-name="" tvg-logo="" group-title="Arabic" ,Ajman TV (1080p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic" ,Ajman TV (1080p)
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 
-#EXTINF:0 tvg-id="Alarabiya.ae" tvg-name="" tvg-logo="" group-title="Arabic" ,Al Arabiya (1080p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic" ,Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="Alarabiya.ae" tvg-name="" tvg-logo="" ,Al Arabiya (1080p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" ,Al Arabiya (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 
-#EXTINF:0 tvg-id="AlArabiyaBusiness.ae" tvg-name="" tvg-logo="",Al Arabiya Business (1080p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png",Al Arabiya Business (1080p)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="AlQamarTV.ae" tvg-name="" tvg-logo="" group-title="Arabic",Al Qamar TV (360p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic",Al Qamar TV (360p)
 https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
 
-#EXTINF:0 tvg-id="AlShallalTV.ae" tvg-name="" tvg-logo="" group-title="Arabic" ,Al Shallal TV (1080p)
+#EXTINF:0 tvg-id=""  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Arabic" ,Al Shallal TV (1080p)
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 
