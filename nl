@@ -1,6 +1,5 @@
-{
-    "story": "Story not found.",
-    "items": [
+[
+    
         {
             "num": 0,
             "name": "\u0641\u064a\u0644\u0645 A Year-End Medley 2021 \u0645\u062a\u0631\u062c\u0645",
@@ -581,3 +580,7 @@
         }
     ]
 }
+
+
+
+]
