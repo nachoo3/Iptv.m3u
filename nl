@@ -1,5 +1,5 @@
 [	
-	{
+{
     "num": 888889,
     "name": "فيلم Eternals 2021 مترجم",
     "stream_type": "movie",
@@ -17,7 +17,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4d7b0b8f59b9eb20df84b14e550aad51&amp;img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51&img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
     ]
   },
   {
@@ -38,7 +38,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63d81e0efa8cf9d51d77b33568244f10&amp;img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
     ]
   },
   {
@@ -59,7 +59,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=159746dfd5732975ed4ef06ff9bf6135&amp;img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=159746dfd5732975ed4ef06ff9bf6135&img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
     ]
   },
   {
@@ -80,7 +80,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=df50df9d12525af720a79534ba191028&amp;img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
     ]
   },
   {
@@ -101,7 +101,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=97cd1759a818f880c30837c7a0e61a22&amp;img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=97cd1759a818f880c30837c7a0e61a22&img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
     ]
   },
   {
@@ -122,7 +122,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f580b332f7a31fd1cf8086a839735191&amp;img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f580b332f7a31fd1cf8086a839735191&img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
     ]
   },
   {
@@ -143,7 +143,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=60c7b18cbc635bc6bb8b08dc6efb209a&amp;img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=60c7b18cbc635bc6bb8b08dc6efb209a&img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
     ]
   },
   {
@@ -164,7 +164,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63f86f263786bc66ef9211ff1b06d11b&amp;img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63f86f263786bc66ef9211ff1b06d11b&img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
     ]
   },
   {
@@ -185,7 +185,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7eee6f6bd7cab6360ae048d0a2c4145f&amp;img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7eee6f6bd7cab6360ae048d0a2c4145f&img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
     ]
   },
   {
@@ -206,7 +206,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=08fd629c6fc13b7ef55de5c3551c0569&amp;img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=08fd629c6fc13b7ef55de5c3551c0569&img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
     ]
   },
   {
@@ -227,7 +227,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=2835a72e2cf5d09baea49d4ced878bfd&amp;img=https://img.scdns.io/thumb/2835a72e2cf5d09baea49d4ced878bfd/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=2835a72e2cf5d09baea49d4ced878bfd&img=https://img.scdns.io/thumb/2835a72e2cf5d09baea49d4ced878bfd/large.jpg"
     ]
   },
   {
@@ -248,7 +248,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=600b70e79a496ed029284e887590ee55&amp;img=https://img.scdns.io/thumb/600b70e79a496ed029284e887590ee55/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=600b70e79a496ed029284e887590ee55&img=https://img.scdns.io/thumb/600b70e79a496ed029284e887590ee55/large.jpg"
     ]
   },
   {
@@ -269,7 +269,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=205fa4cdd9a09787b4379f542011b425&amp;img=https://img.scdns.io/thumb/205fa4cdd9a09787b4379f542011b425/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=205fa4cdd9a09787b4379f542011b425&img=https://img.scdns.io/thumb/205fa4cdd9a09787b4379f542011b425/large.jpg"
     ]
   },
   {
@@ -290,7 +290,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=79ed1a02a8ddbc12fd23ade5410507f9&amp;img=https://img.scdns.io/thumb/79ed1a02a8ddbc12fd23ade5410507f9/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=79ed1a02a8ddbc12fd23ade5410507f9&img=https://img.scdns.io/thumb/79ed1a02a8ddbc12fd23ade5410507f9/large.jpg"
     ]
   },
   {
@@ -311,7 +311,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=fc20532c583ebcfd66091a1d0c9d72d0&amp;img=https://img.scdns.io/thumb/fc20532c583ebcfd66091a1d0c9d72d0/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=fc20532c583ebcfd66091a1d0c9d72d0&img=https://img.scdns.io/thumb/fc20532c583ebcfd66091a1d0c9d72d0/large.jpg"
     ]
   },
   {
@@ -332,7 +332,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=0cc88d66906d29cbc7909f29d5012be8&amp;img=https://img.scdns.io/thumb/0cc88d66906d29cbc7909f29d5012be8/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=0cc88d66906d29cbc7909f29d5012be8&img=https://img.scdns.io/thumb/0cc88d66906d29cbc7909f29d5012be8/large.jpg"
     ]
   },
   {
@@ -353,7 +353,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=42a3ea3f05d3b9250cfa68d251e11246&amp;img=https://img.scdns.io/thumb/42a3ea3f05d3b9250cfa68d251e11246/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=42a3ea3f05d3b9250cfa68d251e11246&img=https://img.scdns.io/thumb/42a3ea3f05d3b9250cfa68d251e11246/large.jpg"
     ]
   },
   {
@@ -374,7 +374,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=0d888a88c0758ebc559243bc2374e687&amp;img=https://img.scdns.io/thumb/0d888a88c0758ebc559243bc2374e687/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=0d888a88c0758ebc559243bc2374e687&img=https://img.scdns.io/thumb/0d888a88c0758ebc559243bc2374e687/large.jpg"
     ]
   },
   {
@@ -395,7 +395,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=95ca6013f726d062603acfe952c7f434&amp;img=https://img.scdns.io/thumb/95ca6013f726d062603acfe952c7f434/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=95ca6013f726d062603acfe952c7f434&img=https://img.scdns.io/thumb/95ca6013f726d062603acfe952c7f434/large.jpg"
     ]
   },
   {
@@ -416,7 +416,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=185837e516642f52b49e9bde2ae46d05&amp;img=https://img.scdns.io/thumb/185837e516642f52b49e9bde2ae46d05/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=185837e516642f52b49e9bde2ae46d05&img=https://img.scdns.io/thumb/185837e516642f52b49e9bde2ae46d05/large.jpg"
     ]
   },
   {
@@ -437,7 +437,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=42a49f03c571ebeccbe1c183e1f41985&amp;img=https://img.scdns.io/thumb/42a49f03c571ebeccbe1c183e1f41985/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=42a49f03c571ebeccbe1c183e1f41985&img=https://img.scdns.io/thumb/42a49f03c571ebeccbe1c183e1f41985/large.jpg"
     ]
   },
   {
@@ -458,7 +458,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=5c1eaaa8418696fa1cf720c0ffb51b9a&amp;img=https://img.scdns.io/thumb/5c1eaaa8418696fa1cf720c0ffb51b9a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=5c1eaaa8418696fa1cf720c0ffb51b9a&img=https://img.scdns.io/thumb/5c1eaaa8418696fa1cf720c0ffb51b9a/large.jpg"
     ]
   },
   {
@@ -479,7 +479,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=b704b5d254bd9aea5d23c9ea8809a416&amp;img=https://img.scdns.io/thumb/b704b5d254bd9aea5d23c9ea8809a416/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=b704b5d254bd9aea5d23c9ea8809a416&img=https://img.scdns.io/thumb/b704b5d254bd9aea5d23c9ea8809a416/large.jpg"
     ]
   },
   {
@@ -500,7 +500,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=fb72814e6664228a83cd6525029e3129&amp;img=https://img.scdns.io/thumb/fb72814e6664228a83cd6525029e3129/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=fb72814e6664228a83cd6525029e3129&img=https://img.scdns.io/thumb/fb72814e6664228a83cd6525029e3129/large.jpg"
     ]
   },
   {
@@ -521,7 +521,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=61192dc5d70320c081e61339ca238c10&amp;img=https://img.scdns.io/thumb/61192dc5d70320c081e61339ca238c10/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=61192dc5d70320c081e61339ca238c10&img=https://img.scdns.io/thumb/61192dc5d70320c081e61339ca238c10/large.jpg"
     ]
   },
   {
@@ -542,7 +542,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ffa191bae6bcdfce3d23b8664a103c25&amp;img=https://img.scdns.io/thumb/ffa191bae6bcdfce3d23b8664a103c25/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ffa191bae6bcdfce3d23b8664a103c25&img=https://img.scdns.io/thumb/ffa191bae6bcdfce3d23b8664a103c25/large.jpg"
     ]
   },
   {
@@ -563,7 +563,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=dbd58024cfadd18d88cd57b1199cebc3&amp;img=https://img.scdns.io/thumb/dbd58024cfadd18d88cd57b1199cebc3/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=dbd58024cfadd18d88cd57b1199cebc3&img=https://img.scdns.io/thumb/dbd58024cfadd18d88cd57b1199cebc3/large.jpg"
     ]
   },
   {
@@ -584,7 +584,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=05188fbf3386ba5e92fecc61daa2f298&amp;img=https://img.scdns.io/thumb/05188fbf3386ba5e92fecc61daa2f298/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=05188fbf3386ba5e92fecc61daa2f298&img=https://img.scdns.io/thumb/05188fbf3386ba5e92fecc61daa2f298/large.jpg"
     ]
   },
   {
@@ -605,7 +605,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=15de9f377c4ae6c16f5a55a7c8d94cfc&amp;img=https://img.scdns.io/thumb/15de9f377c4ae6c16f5a55a7c8d94cfc/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=15de9f377c4ae6c16f5a55a7c8d94cfc&img=https://img.scdns.io/thumb/15de9f377c4ae6c16f5a55a7c8d94cfc/large.jpg"
     ]
   },
   {
@@ -626,7 +626,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=5c5c842ec369d8e57ca95119f6191d18&amp;img=https://img.scdns.io/thumb/5c5c842ec369d8e57ca95119f6191d18/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=5c5c842ec369d8e57ca95119f6191d18&img=https://img.scdns.io/thumb/5c5c842ec369d8e57ca95119f6191d18/large.jpg"
     ]
   },
   {
@@ -647,7 +647,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=b00dfbdd48c5aaf217629b9b74dce4b6&amp;img=https://img.scdns.io/thumb/b00dfbdd48c5aaf217629b9b74dce4b6/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=b00dfbdd48c5aaf217629b9b74dce4b6&img=https://img.scdns.io/thumb/b00dfbdd48c5aaf217629b9b74dce4b6/large.jpg"
     ]
   },
   {
@@ -668,7 +668,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=87dee8922c87aa971558faff09b072f5&amp;img=https://img.scdns.io/thumb/87dee8922c87aa971558faff09b072f5/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=87dee8922c87aa971558faff09b072f5&img=https://img.scdns.io/thumb/87dee8922c87aa971558faff09b072f5/large.jpg"
     ]
   },
   {
@@ -689,7 +689,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=961f3399f670324360ee527dc580a298&amp;img=https://img.scdns.io/thumb/961f3399f670324360ee527dc580a298/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=961f3399f670324360ee527dc580a298&img=https://img.scdns.io/thumb/961f3399f670324360ee527dc580a298/large.jpg"
     ]
   },
   {
@@ -710,7 +710,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=631cec8e6452ea21917b9603f8abd91f&amp;img=https://img.scdns.io/thumb/631cec8e6452ea21917b9603f8abd91f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=631cec8e6452ea21917b9603f8abd91f&img=https://img.scdns.io/thumb/631cec8e6452ea21917b9603f8abd91f/large.jpg"
     ]
   },
   {
@@ -731,7 +731,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4d7b0b8f59b9eb20df84b14e550aad51&amp;img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51&img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
     ]
   },
   {
@@ -752,7 +752,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63d81e0efa8cf9d51d77b33568244f10&amp;img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
     ]
   },
   {
@@ -773,7 +773,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=159746dfd5732975ed4ef06ff9bf6135&amp;img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=159746dfd5732975ed4ef06ff9bf6135&img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
     ]
   },
   {
@@ -794,7 +794,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=df50df9d12525af720a79534ba191028&amp;img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
     ]
   },
   {
@@ -815,7 +815,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=97cd1759a818f880c30837c7a0e61a22&amp;img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=97cd1759a818f880c30837c7a0e61a22&img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
     ]
   },
   {
@@ -836,7 +836,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f580b332f7a31fd1cf8086a839735191&amp;img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f580b332f7a31fd1cf8086a839735191&img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
     ]
   },
   {
@@ -857,7 +857,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=60c7b18cbc635bc6bb8b08dc6efb209a&amp;img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=60c7b18cbc635bc6bb8b08dc6efb209a&img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
     ]
   },
   {
@@ -878,7 +878,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63f86f263786bc66ef9211ff1b06d11b&amp;img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63f86f263786bc66ef9211ff1b06d11b&img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
     ]
   },
   {
@@ -899,7 +899,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7eee6f6bd7cab6360ae048d0a2c4145f&amp;img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7eee6f6bd7cab6360ae048d0a2c4145f&img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
     ]
   },
   {
@@ -920,7 +920,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=08fd629c6fc13b7ef55de5c3551c0569&amp;img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=08fd629c6fc13b7ef55de5c3551c0569&img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
     ]
   },
   {
@@ -941,7 +941,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=5e55bd74113d2bb2a9c321c76181c413&amp;img=https://img.scdns.io/thumb/5e55bd74113d2bb2a9c321c76181c413/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=5e55bd74113d2bb2a9c321c76181c413&img=https://img.scdns.io/thumb/5e55bd74113d2bb2a9c321c76181c413/large.jpg"
     ]
   },
   {
@@ -962,7 +962,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=87074e0bdf77922ad1bc14fd58f04067&amp;img=https://img.scdns.io/thumb/87074e0bdf77922ad1bc14fd58f04067/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=87074e0bdf77922ad1bc14fd58f04067&img=https://img.scdns.io/thumb/87074e0bdf77922ad1bc14fd58f04067/large.jpg"
     ]
   },
   {
@@ -983,7 +983,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=b578891419a341bb0a0262ece3a80993&amp;img=https://img.scdns.io/thumb/b578891419a341bb0a0262ece3a80993/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=b578891419a341bb0a0262ece3a80993&img=https://img.scdns.io/thumb/b578891419a341bb0a0262ece3a80993/large.jpg"
     ]
   },
   {
@@ -1004,7 +1004,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=178d1643313e9c1069b51d3ec5d6c3f3&amp;img=https://img.scdns.io/thumb/178d1643313e9c1069b51d3ec5d6c3f3/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=178d1643313e9c1069b51d3ec5d6c3f3&img=https://img.scdns.io/thumb/178d1643313e9c1069b51d3ec5d6c3f3/large.jpg"
     ]
   },
   {
@@ -1025,7 +1025,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=acdd4264d13342d2961e3cfc7e8fd059&amp;img=https://img.scdns.io/thumb/acdd4264d13342d2961e3cfc7e8fd059/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=acdd4264d13342d2961e3cfc7e8fd059&img=https://img.scdns.io/thumb/acdd4264d13342d2961e3cfc7e8fd059/large.jpg"
     ]
   },
   {
@@ -1046,7 +1046,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=e2a5f5d64acb4e97ab84c7f1876b4d80&amp;img=https://img.scdns.io/thumb/e2a5f5d64acb4e97ab84c7f1876b4d80/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=e2a5f5d64acb4e97ab84c7f1876b4d80&img=https://img.scdns.io/thumb/e2a5f5d64acb4e97ab84c7f1876b4d80/large.jpg"
     ]
   },
   {
@@ -1067,7 +1067,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=9a33e7e2dd60ae379cd11c65a7fff008&amp;img=https://img.scdns.io/thumb/9a33e7e2dd60ae379cd11c65a7fff008/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=9a33e7e2dd60ae379cd11c65a7fff008&img=https://img.scdns.io/thumb/9a33e7e2dd60ae379cd11c65a7fff008/large.jpg"
     ]
   },
   {
@@ -1088,7 +1088,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=d7609181f23abea5f972db7043d06816&amp;img=https://img.scdns.io/thumb/d7609181f23abea5f972db7043d06816/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=d7609181f23abea5f972db7043d06816&img=https://img.scdns.io/thumb/d7609181f23abea5f972db7043d06816/large.jpg"
     ]
   },
   {
@@ -1109,7 +1109,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=c4286c380529a763d76493d42edfe151&amp;img=https://img.scdns.io/thumb/c4286c380529a763d76493d42edfe151/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=c4286c380529a763d76493d42edfe151&img=https://img.scdns.io/thumb/c4286c380529a763d76493d42edfe151/large.jpg"
     ]
   },
   {
@@ -1130,7 +1130,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=921b8fda682c7b83bcb1403267c2746a&amp;img=https://img.scdns.io/thumb/921b8fda682c7b83bcb1403267c2746a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=921b8fda682c7b83bcb1403267c2746a&img=https://img.scdns.io/thumb/921b8fda682c7b83bcb1403267c2746a/large.jpg"
     ]
   },
   {
@@ -1151,7 +1151,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=397183129867bdf317c167af2d8b551c&amp;img=https://img.scdns.io/thumb/397183129867bdf317c167af2d8b551c/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=397183129867bdf317c167af2d8b551c&img=https://img.scdns.io/thumb/397183129867bdf317c167af2d8b551c/large.jpg"
     ]
   },
   {
@@ -1172,7 +1172,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=2681d16fdf307e0abaeef31d577d4d60&amp;img=https://img.scdns.io/thumb/2681d16fdf307e0abaeef31d577d4d60/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=2681d16fdf307e0abaeef31d577d4d60&img=https://img.scdns.io/thumb/2681d16fdf307e0abaeef31d577d4d60/large.jpg"
     ]
   },
   {
@@ -1193,7 +1193,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=96a93ce38c316f9b0c7cf8de7eef8d05&amp;img=https://img.scdns.io/thumb/96a93ce38c316f9b0c7cf8de7eef8d05/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=96a93ce38c316f9b0c7cf8de7eef8d05&img=https://img.scdns.io/thumb/96a93ce38c316f9b0c7cf8de7eef8d05/large.jpg"
     ]
   },
   {
@@ -1214,7 +1214,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=e31182970ab592981fe1972bf1413ec3&amp;img=https://img.scdns.io/thumb/e31182970ab592981fe1972bf1413ec3/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=e31182970ab592981fe1972bf1413ec3&img=https://img.scdns.io/thumb/e31182970ab592981fe1972bf1413ec3/large.jpg"
     ]
   },
   {
@@ -1235,7 +1235,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=14685670be6223cbe0d426b7c5091442&amp;img=https://img.scdns.io/thumb/14685670be6223cbe0d426b7c5091442/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=14685670be6223cbe0d426b7c5091442&img=https://img.scdns.io/thumb/14685670be6223cbe0d426b7c5091442/large.jpg"
     ]
   },
   {
@@ -1256,7 +1256,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=5f5cbd2d3ae633e070159f7a5c041b44&amp;img=https://img.scdns.io/thumb/5f5cbd2d3ae633e070159f7a5c041b44/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=5f5cbd2d3ae633e070159f7a5c041b44&img=https://img.scdns.io/thumb/5f5cbd2d3ae633e070159f7a5c041b44/large.jpg"
     ]
   },
   {
@@ -1277,7 +1277,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=00b4f5f05222c21dfc018c416de58a9d&amp;img=https://img.scdns.io/thumb/00b4f5f05222c21dfc018c416de58a9d/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=00b4f5f05222c21dfc018c416de58a9d&img=https://img.scdns.io/thumb/00b4f5f05222c21dfc018c416de58a9d/large.jpg"
     ]
   },
   {
@@ -1298,7 +1298,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=faeeecad6d916e5b4149589491623e65&amp;img=https://img.scdns.io/thumb/faeeecad6d916e5b4149589491623e65/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=faeeecad6d916e5b4149589491623e65&img=https://img.scdns.io/thumb/faeeecad6d916e5b4149589491623e65/large.jpg"
     ]
   },
   {
@@ -1319,7 +1319,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=00a0aaa3f13f433ad67dff90cbe6cec6&amp;img=https://img.scdns.io/thumb/00a0aaa3f13f433ad67dff90cbe6cec6/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=00a0aaa3f13f433ad67dff90cbe6cec6&img=https://img.scdns.io/thumb/00a0aaa3f13f433ad67dff90cbe6cec6/large.jpg"
     ]
   },
   {
@@ -1340,7 +1340,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ee55bbed7366706da6416cca7f3af818&amp;img=https://img.scdns.io/thumb/ee55bbed7366706da6416cca7f3af818/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ee55bbed7366706da6416cca7f3af818&img=https://img.scdns.io/thumb/ee55bbed7366706da6416cca7f3af818/large.jpg"
     ]
   },
   {
@@ -1361,7 +1361,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=de3d8a957f0a5cb2502881e723947083&amp;img=https://img.scdns.io/thumb/de3d8a957f0a5cb2502881e723947083/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=de3d8a957f0a5cb2502881e723947083&img=https://img.scdns.io/thumb/de3d8a957f0a5cb2502881e723947083/large.jpg"
     ]
   },
   {
@@ -1382,7 +1382,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=b42ada4b981aa037fb43634cea9748d8&amp;img=https://img.scdns.io/thumb/b42ada4b981aa037fb43634cea9748d8/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=b42ada4b981aa037fb43634cea9748d8&img=https://img.scdns.io/thumb/b42ada4b981aa037fb43634cea9748d8/large.jpg"
     ]
   },
   {
@@ -1403,7 +1403,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ceba076c8548b3f1c40101cd88d4f067&amp;img=https://img.scdns.io/thumb/ceba076c8548b3f1c40101cd88d4f067/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ceba076c8548b3f1c40101cd88d4f067&img=https://img.scdns.io/thumb/ceba076c8548b3f1c40101cd88d4f067/large.jpg"
     ]
   },
   {
@@ -1424,7 +1424,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=0fd745fce77909db3741d3c25a983ba6&amp;img=https://img.scdns.io/thumb/0fd745fce77909db3741d3c25a983ba6/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=0fd745fce77909db3741d3c25a983ba6&img=https://img.scdns.io/thumb/0fd745fce77909db3741d3c25a983ba6/large.jpg"
     ]
   },
   {
@@ -1445,7 +1445,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4d7b0b8f59b9eb20df84b14e550aad51&amp;img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51&img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
     ]
   },
   {
@@ -1466,7 +1466,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63d81e0efa8cf9d51d77b33568244f10&amp;img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
     ]
   },
   {
@@ -1487,7 +1487,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=159746dfd5732975ed4ef06ff9bf6135&amp;img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=159746dfd5732975ed4ef06ff9bf6135&img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
     ]
   },
   {
@@ -1508,7 +1508,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=df50df9d12525af720a79534ba191028&amp;img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
     ]
   },
   {
@@ -1529,7 +1529,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=97cd1759a818f880c30837c7a0e61a22&amp;img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=97cd1759a818f880c30837c7a0e61a22&img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
     ]
   },
   {
@@ -1550,7 +1550,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f580b332f7a31fd1cf8086a839735191&amp;img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f580b332f7a31fd1cf8086a839735191&img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
     ]
   },
   {
@@ -1571,7 +1571,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=60c7b18cbc635bc6bb8b08dc6efb209a&amp;img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=60c7b18cbc635bc6bb8b08dc6efb209a&img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
     ]
   },
   {
@@ -1592,7 +1592,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63f86f263786bc66ef9211ff1b06d11b&amp;img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63f86f263786bc66ef9211ff1b06d11b&img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
     ]
   },
   {
@@ -1613,7 +1613,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7eee6f6bd7cab6360ae048d0a2c4145f&amp;img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7eee6f6bd7cab6360ae048d0a2c4145f&img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
     ]
   },
   {
@@ -1634,7 +1634,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=08fd629c6fc13b7ef55de5c3551c0569&amp;img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=08fd629c6fc13b7ef55de5c3551c0569&img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
     ]
   },
   {
@@ -1655,7 +1655,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=38375be9e01485f28cdd7d8ebd1f606b&amp;img=https://img.scdns.io/thumb/38375be9e01485f28cdd7d8ebd1f606b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=38375be9e01485f28cdd7d8ebd1f606b&img=https://img.scdns.io/thumb/38375be9e01485f28cdd7d8ebd1f606b/large.jpg"
     ]
   },
   {
@@ -1676,7 +1676,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=0f908cbaab95eaf0a249a06ae21927a6&amp;img=https://img.scdns.io/thumb/0f908cbaab95eaf0a249a06ae21927a6/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=0f908cbaab95eaf0a249a06ae21927a6&img=https://img.scdns.io/thumb/0f908cbaab95eaf0a249a06ae21927a6/large.jpg"
     ]
   },
   {
@@ -1697,7 +1697,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=bfa5023ee6a09d34b940b4c390e603f6&amp;img=https://img.scdns.io/thumb/bfa5023ee6a09d34b940b4c390e603f6/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=bfa5023ee6a09d34b940b4c390e603f6&img=https://img.scdns.io/thumb/bfa5023ee6a09d34b940b4c390e603f6/large.jpg"
     ]
   },
   {
@@ -1718,7 +1718,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=70bf7b404a44d7029d695df62eb39198&amp;img=https://img.scdns.io/thumb/70bf7b404a44d7029d695df62eb39198/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=70bf7b404a44d7029d695df62eb39198&img=https://img.scdns.io/thumb/70bf7b404a44d7029d695df62eb39198/large.jpg"
     ]
   },
   {
@@ -1739,7 +1739,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=66f7d47b6c02807a6cac7cca73dc3dbc&amp;img=https://img.scdns.io/thumb/66f7d47b6c02807a6cac7cca73dc3dbc/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=66f7d47b6c02807a6cac7cca73dc3dbc&img=https://img.scdns.io/thumb/66f7d47b6c02807a6cac7cca73dc3dbc/large.jpg"
     ]
   },
   {
@@ -1760,7 +1760,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=653a074f32e298f1456022bae3feb995&amp;img=https://img.scdns.io/thumb/653a074f32e298f1456022bae3feb995/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=653a074f32e298f1456022bae3feb995&img=https://img.scdns.io/thumb/653a074f32e298f1456022bae3feb995/large.jpg"
     ]
   },
   {
@@ -1781,7 +1781,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=1510d4002d73bba67ad11c7b8dd8cd46&amp;img=https://img.scdns.io/thumb/1510d4002d73bba67ad11c7b8dd8cd46/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=1510d4002d73bba67ad11c7b8dd8cd46&img=https://img.scdns.io/thumb/1510d4002d73bba67ad11c7b8dd8cd46/large.jpg"
     ]
   },
   {
@@ -1802,7 +1802,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=096009ce6569010981be93cc9aa53446&amp;img=https://img.scdns.io/thumb/096009ce6569010981be93cc9aa53446/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=096009ce6569010981be93cc9aa53446&img=https://img.scdns.io/thumb/096009ce6569010981be93cc9aa53446/large.jpg"
     ]
   },
   {
@@ -1823,7 +1823,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=cbabb47f3c12c7c3fa6af5aeeb8f2175&amp;img=https://img.scdns.io/thumb/cbabb47f3c12c7c3fa6af5aeeb8f2175/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=cbabb47f3c12c7c3fa6af5aeeb8f2175&img=https://img.scdns.io/thumb/cbabb47f3c12c7c3fa6af5aeeb8f2175/large.jpg"
     ]
   },
   {
@@ -1844,7 +1844,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=3ec0978f238ee6e75263015fab221e28&amp;img=https://img.scdns.io/thumb/3ec0978f238ee6e75263015fab221e28/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=3ec0978f238ee6e75263015fab221e28&img=https://img.scdns.io/thumb/3ec0978f238ee6e75263015fab221e28/large.jpg"
     ]
   },
   {
@@ -1865,7 +1865,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ec37121f0be50d6f77d9223ba6b18864&amp;img=https://img.scdns.io/thumb/ec37121f0be50d6f77d9223ba6b18864/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ec37121f0be50d6f77d9223ba6b18864&img=https://img.scdns.io/thumb/ec37121f0be50d6f77d9223ba6b18864/large.jpg"
     ]
   },
   {
@@ -1886,7 +1886,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=14aa456b61a61769f65a8ea6a60fb6b8&amp;img=https://img.scdns.io/thumb/14aa456b61a61769f65a8ea6a60fb6b8/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=14aa456b61a61769f65a8ea6a60fb6b8&img=https://img.scdns.io/thumb/14aa456b61a61769f65a8ea6a60fb6b8/large.jpg"
     ]
   },
   {
@@ -1907,7 +1907,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=d2e9b243260036ae718f7cac5dcd2841&amp;img=https://img.scdns.io/thumb/d2e9b243260036ae718f7cac5dcd2841/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=d2e9b243260036ae718f7cac5dcd2841&img=https://img.scdns.io/thumb/d2e9b243260036ae718f7cac5dcd2841/large.jpg"
     ]
   },
   {
@@ -1928,7 +1928,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=598c0fdb08f99664ad5ac7428d87a6df&amp;img=https://img.scdns.io/thumb/598c0fdb08f99664ad5ac7428d87a6df/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=598c0fdb08f99664ad5ac7428d87a6df&img=https://img.scdns.io/thumb/598c0fdb08f99664ad5ac7428d87a6df/large.jpg"
     ]
   },
   {
@@ -1949,7 +1949,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=b699405707aa7285fffb5d1380b315f4&amp;img=https://img.scdns.io/thumb/b699405707aa7285fffb5d1380b315f4/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=b699405707aa7285fffb5d1380b315f4&img=https://img.scdns.io/thumb/b699405707aa7285fffb5d1380b315f4/large.jpg"
     ]
   },
   {
@@ -1970,7 +1970,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=01a1208c2901bfc930da25bb3bb5ba2d&amp;img=https://img.scdns.io/thumb/01a1208c2901bfc930da25bb3bb5ba2d/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=01a1208c2901bfc930da25bb3bb5ba2d&img=https://img.scdns.io/thumb/01a1208c2901bfc930da25bb3bb5ba2d/large.jpg"
     ]
   },
   {
@@ -1991,7 +1991,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=fb681ee4a68fe745c595f75286415bde&amp;img=https://img.scdns.io/thumb/fb681ee4a68fe745c595f75286415bde/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=fb681ee4a68fe745c595f75286415bde&img=https://img.scdns.io/thumb/fb681ee4a68fe745c595f75286415bde/large.jpg"
     ]
   },
   {
@@ -2012,7 +2012,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=64484a8b817fd55357af0e39beed6895&amp;img=https://img.scdns.io/thumb/64484a8b817fd55357af0e39beed6895/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=64484a8b817fd55357af0e39beed6895&img=https://img.scdns.io/thumb/64484a8b817fd55357af0e39beed6895/large.jpg"
     ]
   },
   {
@@ -2033,7 +2033,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ad347d7963375c879c15e21ec45168e1&amp;img=https://img.scdns.io/thumb/ad347d7963375c879c15e21ec45168e1/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ad347d7963375c879c15e21ec45168e1&img=https://img.scdns.io/thumb/ad347d7963375c879c15e21ec45168e1/large.jpg"
     ]
   },
   {
@@ -2054,7 +2054,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=fd61b439837ee66f8993d52d3cbc4a8b&amp;img=https://img.scdns.io/thumb/fd61b439837ee66f8993d52d3cbc4a8b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=fd61b439837ee66f8993d52d3cbc4a8b&img=https://img.scdns.io/thumb/fd61b439837ee66f8993d52d3cbc4a8b/large.jpg"
     ]
   },
   {
@@ -2075,7 +2075,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=6d3e74da3b8dd8bfd3016e34195479da&amp;img=https://img.scdns.io/thumb/6d3e74da3b8dd8bfd3016e34195479da/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=6d3e74da3b8dd8bfd3016e34195479da&img=https://img.scdns.io/thumb/6d3e74da3b8dd8bfd3016e34195479da/large.jpg"
     ]
   },
   {
@@ -2096,7 +2096,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=80ae0b4b5dac01a2c6c889ae14a9b24a&amp;img=https://img.scdns.io/thumb/80ae0b4b5dac01a2c6c889ae14a9b24a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=80ae0b4b5dac01a2c6c889ae14a9b24a&img=https://img.scdns.io/thumb/80ae0b4b5dac01a2c6c889ae14a9b24a/large.jpg"
     ]
   },
   {
@@ -2117,7 +2117,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ce7036186fc0ceb7c560dc12bd72a40a&amp;img=https://img.scdns.io/thumb/ce7036186fc0ceb7c560dc12bd72a40a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ce7036186fc0ceb7c560dc12bd72a40a&img=https://img.scdns.io/thumb/ce7036186fc0ceb7c560dc12bd72a40a/large.jpg"
     ]
   },
   {
@@ -2138,7 +2138,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=faa8c911bd26e22b5a9128bb2c800483&amp;img=https://img.scdns.io/thumb/faa8c911bd26e22b5a9128bb2c800483/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=faa8c911bd26e22b5a9128bb2c800483&img=https://img.scdns.io/thumb/faa8c911bd26e22b5a9128bb2c800483/large.jpg"
     ]
   },
   {
@@ -2159,7 +2159,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4d7b0b8f59b9eb20df84b14e550aad51&amp;img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51&img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
     ]
   },
   {
@@ -2180,7 +2180,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63d81e0efa8cf9d51d77b33568244f10&amp;img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
     ]
   },
   {
@@ -2201,7 +2201,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=159746dfd5732975ed4ef06ff9bf6135&amp;img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=159746dfd5732975ed4ef06ff9bf6135&img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
     ]
   },
   {
@@ -2222,7 +2222,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=df50df9d12525af720a79534ba191028&amp;img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
     ]
   },
   {
@@ -2243,7 +2243,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=97cd1759a818f880c30837c7a0e61a22&amp;img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=97cd1759a818f880c30837c7a0e61a22&img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
     ]
   },
   {
@@ -2264,7 +2264,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f580b332f7a31fd1cf8086a839735191&amp;img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f580b332f7a31fd1cf8086a839735191&img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
     ]
   },
   {
@@ -2285,7 +2285,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=60c7b18cbc635bc6bb8b08dc6efb209a&amp;img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=60c7b18cbc635bc6bb8b08dc6efb209a&img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
     ]
   },
   {
@@ -2306,7 +2306,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63f86f263786bc66ef9211ff1b06d11b&amp;img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63f86f263786bc66ef9211ff1b06d11b&img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
     ]
   },
   {
@@ -2327,7 +2327,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7eee6f6bd7cab6360ae048d0a2c4145f&amp;img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7eee6f6bd7cab6360ae048d0a2c4145f&img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
     ]
   },
   {
@@ -2348,7 +2348,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=08fd629c6fc13b7ef55de5c3551c0569&amp;img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=08fd629c6fc13b7ef55de5c3551c0569&img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
     ]
   },
   {
@@ -2369,7 +2369,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=a13bc7bbd34eeb2cebb0e7c9129d1f0b&amp;img=https://img.scdns.io/thumb/a13bc7bbd34eeb2cebb0e7c9129d1f0b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=a13bc7bbd34eeb2cebb0e7c9129d1f0b&img=https://img.scdns.io/thumb/a13bc7bbd34eeb2cebb0e7c9129d1f0b/large.jpg"
     ]
   },
   {
@@ -2390,7 +2390,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=90e90fdb71e9fa6e03d327be2bed7b58&amp;img=https://img.scdns.io/thumb/90e90fdb71e9fa6e03d327be2bed7b58/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=90e90fdb71e9fa6e03d327be2bed7b58&img=https://img.scdns.io/thumb/90e90fdb71e9fa6e03d327be2bed7b58/large.jpg"
     ]
   },
   {
@@ -2411,7 +2411,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=d9dd16e044d78b7d6738c43a182518ec&amp;img=https://img.scdns.io/thumb/d9dd16e044d78b7d6738c43a182518ec/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=d9dd16e044d78b7d6738c43a182518ec&img=https://img.scdns.io/thumb/d9dd16e044d78b7d6738c43a182518ec/large.jpg"
     ]
   },
   {
@@ -2432,7 +2432,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=adf3690968688ac2ba28df93bf7207cc&amp;img=https://img.scdns.io/thumb/adf3690968688ac2ba28df93bf7207cc/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=adf3690968688ac2ba28df93bf7207cc&img=https://img.scdns.io/thumb/adf3690968688ac2ba28df93bf7207cc/large.jpg"
     ]
   },
   {
@@ -2453,7 +2453,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=1f49715a003ddd2536b6490c474868f2&amp;img=https://img.scdns.io/thumb/1f49715a003ddd2536b6490c474868f2/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=1f49715a003ddd2536b6490c474868f2&img=https://img.scdns.io/thumb/1f49715a003ddd2536b6490c474868f2/large.jpg"
     ]
   },
   {
@@ -2474,7 +2474,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4dc143dc54b4a0370ef4a27250a1754e&amp;img=https://img.scdns.io/thumb/4dc143dc54b4a0370ef4a27250a1754e/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4dc143dc54b4a0370ef4a27250a1754e&img=https://img.scdns.io/thumb/4dc143dc54b4a0370ef4a27250a1754e/large.jpg"
     ]
   },
   {
@@ -2495,7 +2495,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7e819c3d266a9138d1f6a41715fd5604&amp;img=https://img.scdns.io/thumb/7e819c3d266a9138d1f6a41715fd5604/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7e819c3d266a9138d1f6a41715fd5604&img=https://img.scdns.io/thumb/7e819c3d266a9138d1f6a41715fd5604/large.jpg"
     ]
   },
   {
@@ -2516,7 +2516,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7c4f3d876058d8b79731ee0404e49074&amp;img=https://img.scdns.io/thumb/7c4f3d876058d8b79731ee0404e49074/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7c4f3d876058d8b79731ee0404e49074&img=https://img.scdns.io/thumb/7c4f3d876058d8b79731ee0404e49074/large.jpg"
     ]
   },
   {
@@ -2537,7 +2537,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=3d134428102c3cf1058938879822152d&amp;img=https://img.scdns.io/thumb/3d134428102c3cf1058938879822152d/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=3d134428102c3cf1058938879822152d&img=https://img.scdns.io/thumb/3d134428102c3cf1058938879822152d/large.jpg"
     ]
   },
   {
@@ -2558,7 +2558,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=cfc4bd5a00c56f57be56348d8b442096&amp;img=https://img.scdns.io/thumb/cfc4bd5a00c56f57be56348d8b442096/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=cfc4bd5a00c56f57be56348d8b442096&img=https://img.scdns.io/thumb/cfc4bd5a00c56f57be56348d8b442096/large.jpg"
     ]
   },
   {
@@ -2579,7 +2579,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=5fb45307cf58b985db06fc07feec8a72&amp;img=https://img.scdns.io/thumb/5fb45307cf58b985db06fc07feec8a72/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=5fb45307cf58b985db06fc07feec8a72&img=https://img.scdns.io/thumb/5fb45307cf58b985db06fc07feec8a72/large.jpg"
     ]
   },
   {
@@ -2600,7 +2600,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7fdc52b36456b029f74c05aa97000241&amp;img=https://img.scdns.io/thumb/7fdc52b36456b029f74c05aa97000241/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7fdc52b36456b029f74c05aa97000241&img=https://img.scdns.io/thumb/7fdc52b36456b029f74c05aa97000241/large.jpg"
     ]
   },
   {
@@ -2621,7 +2621,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4a4c10d24d34d25f35360afa2ffd2d38&amp;img=https://img.scdns.io/thumb/4a4c10d24d34d25f35360afa2ffd2d38/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4a4c10d24d34d25f35360afa2ffd2d38&img=https://img.scdns.io/thumb/4a4c10d24d34d25f35360afa2ffd2d38/large.jpg"
     ]
   },
   {
@@ -2642,7 +2642,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=836c9af6e739f82b68271fc2dd3d5830&amp;img=https://img.scdns.io/thumb/836c9af6e739f82b68271fc2dd3d5830/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=836c9af6e739f82b68271fc2dd3d5830&img=https://img.scdns.io/thumb/836c9af6e739f82b68271fc2dd3d5830/large.jpg"
     ]
   },
   {
@@ -2663,7 +2663,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=65a1c28d2e977bc3d8c9b096b4ec676c&amp;img=https://img.scdns.io/thumb/65a1c28d2e977bc3d8c9b096b4ec676c/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=65a1c28d2e977bc3d8c9b096b4ec676c&img=https://img.scdns.io/thumb/65a1c28d2e977bc3d8c9b096b4ec676c/large.jpg"
     ]
   },
   {
@@ -2684,7 +2684,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=2c75f8cea6ad81c9d4198305a9cffdf2&amp;img=https://img.scdns.io/thumb/2c75f8cea6ad81c9d4198305a9cffdf2/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=2c75f8cea6ad81c9d4198305a9cffdf2&img=https://img.scdns.io/thumb/2c75f8cea6ad81c9d4198305a9cffdf2/large.jpg"
     ]
   },
   {
@@ -2705,7 +2705,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ccd34dda47f1880112f83bef3a511313&amp;img=https://img.scdns.io/thumb/ccd34dda47f1880112f83bef3a511313/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ccd34dda47f1880112f83bef3a511313&img=https://img.scdns.io/thumb/ccd34dda47f1880112f83bef3a511313/large.jpg"
     ]
   },
   {
@@ -2726,7 +2726,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=fda0854f4874719907bb94375194581e&amp;img=https://img.scdns.io/thumb/fda0854f4874719907bb94375194581e/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=fda0854f4874719907bb94375194581e&img=https://img.scdns.io/thumb/fda0854f4874719907bb94375194581e/large.jpg"
     ]
   },
   {
@@ -2747,7 +2747,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ea6ea5073c7a39f3dc60fa25908feece&amp;img=https://img.scdns.io/thumb/ea6ea5073c7a39f3dc60fa25908feece/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ea6ea5073c7a39f3dc60fa25908feece&img=https://img.scdns.io/thumb/ea6ea5073c7a39f3dc60fa25908feece/large.jpg"
     ]
   },
   {
@@ -2768,7 +2768,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=b47c2b612eb5f573b2a7d30c833a6f7e&amp;img=https://img.scdns.io/thumb/b47c2b612eb5f573b2a7d30c833a6f7e/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=b47c2b612eb5f573b2a7d30c833a6f7e&img=https://img.scdns.io/thumb/b47c2b612eb5f573b2a7d30c833a6f7e/large.jpg"
     ]
   },
   {
@@ -2789,7 +2789,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=42572f3a22e34236ad72769d8ee4f7b2&amp;img=https://img.scdns.io/thumb/42572f3a22e34236ad72769d8ee4f7b2/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=42572f3a22e34236ad72769d8ee4f7b2&img=https://img.scdns.io/thumb/42572f3a22e34236ad72769d8ee4f7b2/large.jpg"
     ]
   },
   {
@@ -2810,7 +2810,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=a45fcfbfc145e567ff88cd9d1fc7d1fa&amp;img=https://img.scdns.io/thumb/a45fcfbfc145e567ff88cd9d1fc7d1fa/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=a45fcfbfc145e567ff88cd9d1fc7d1fa&img=https://img.scdns.io/thumb/a45fcfbfc145e567ff88cd9d1fc7d1fa/large.jpg"
     ]
   },
   {
@@ -2831,7 +2831,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4b458310d2110457e09edfaf606ea9f3&amp;img=https://img.scdns.io/thumb/4b458310d2110457e09edfaf606ea9f3/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4b458310d2110457e09edfaf606ea9f3&img=https://img.scdns.io/thumb/4b458310d2110457e09edfaf606ea9f3/large.jpg"
     ]
   },
   {
@@ -2852,7 +2852,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=53ea79a32afdc884235b780e6c4defc2&amp;img=https://img.scdns.io/thumb/53ea79a32afdc884235b780e6c4defc2/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=53ea79a32afdc884235b780e6c4defc2&img=https://img.scdns.io/thumb/53ea79a32afdc884235b780e6c4defc2/large.jpg"
     ]
   },
   {
@@ -2873,7 +2873,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4d7b0b8f59b9eb20df84b14e550aad51&amp;img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51&img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
     ]
   },
   {
@@ -2894,7 +2894,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63d81e0efa8cf9d51d77b33568244f10&amp;img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
     ]
   },
   {
@@ -2915,7 +2915,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=159746dfd5732975ed4ef06ff9bf6135&amp;img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=159746dfd5732975ed4ef06ff9bf6135&img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
     ]
   },
   {
@@ -2936,7 +2936,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=df50df9d12525af720a79534ba191028&amp;img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
     ]
   },
   {
@@ -2957,7 +2957,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=97cd1759a818f880c30837c7a0e61a22&amp;img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=97cd1759a818f880c30837c7a0e61a22&img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
     ]
   },
   {
@@ -2978,7 +2978,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f580b332f7a31fd1cf8086a839735191&amp;img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f580b332f7a31fd1cf8086a839735191&img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
     ]
   },
   {
@@ -2999,7 +2999,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=60c7b18cbc635bc6bb8b08dc6efb209a&amp;img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=60c7b18cbc635bc6bb8b08dc6efb209a&img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
     ]
   },
   {
@@ -3020,7 +3020,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63f86f263786bc66ef9211ff1b06d11b&amp;img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63f86f263786bc66ef9211ff1b06d11b&img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
     ]
   },
   {
@@ -3041,7 +3041,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7eee6f6bd7cab6360ae048d0a2c4145f&amp;img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7eee6f6bd7cab6360ae048d0a2c4145f&img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
     ]
   },
   {
@@ -3062,7 +3062,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=08fd629c6fc13b7ef55de5c3551c0569&amp;img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=08fd629c6fc13b7ef55de5c3551c0569&img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
     ]
   },
   {
@@ -3083,7 +3083,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=85d12e1451a94eafe967795ebf604a7b&amp;img=https://img.scdns.io/thumb/85d12e1451a94eafe967795ebf604a7b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=85d12e1451a94eafe967795ebf604a7b&img=https://img.scdns.io/thumb/85d12e1451a94eafe967795ebf604a7b/large.jpg"
     ]
   },
   {
@@ -3104,7 +3104,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=b07ff3e6d560f3857e50bef046ddbd59&amp;img=https://img.scdns.io/thumb/b07ff3e6d560f3857e50bef046ddbd59/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=b07ff3e6d560f3857e50bef046ddbd59&img=https://img.scdns.io/thumb/b07ff3e6d560f3857e50bef046ddbd59/large.jpg"
     ]
   },
   {
@@ -3125,7 +3125,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=0be3ee6f7e278e4a195adc3c09205ea2&amp;img=https://img.scdns.io/thumb/0be3ee6f7e278e4a195adc3c09205ea2/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=0be3ee6f7e278e4a195adc3c09205ea2&img=https://img.scdns.io/thumb/0be3ee6f7e278e4a195adc3c09205ea2/large.jpg"
     ]
   },
   {
@@ -3146,7 +3146,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=926d18043c059b5e7455fbfcd73ba12b&amp;img=https://img.scdns.io/thumb/926d18043c059b5e7455fbfcd73ba12b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=926d18043c059b5e7455fbfcd73ba12b&img=https://img.scdns.io/thumb/926d18043c059b5e7455fbfcd73ba12b/large.jpg"
     ]
   },
   {
@@ -3167,7 +3167,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=66700e6d7f3256a5a3f6677f5b8f6fee&amp;img=https://img.scdns.io/thumb/66700e6d7f3256a5a3f6677f5b8f6fee/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=66700e6d7f3256a5a3f6677f5b8f6fee&img=https://img.scdns.io/thumb/66700e6d7f3256a5a3f6677f5b8f6fee/large.jpg"
     ]
   },
   {
@@ -3188,7 +3188,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=439732f4c3ca908ac0ee53427c680068&amp;img=https://img.scdns.io/thumb/439732f4c3ca908ac0ee53427c680068/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=439732f4c3ca908ac0ee53427c680068&img=https://img.scdns.io/thumb/439732f4c3ca908ac0ee53427c680068/large.jpg"
     ]
   },
   {
@@ -3209,7 +3209,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ebb544b5f9c3e4a90bcae1fd6afa6e64&amp;img=https://img.scdns.io/thumb/ebb544b5f9c3e4a90bcae1fd6afa6e64/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ebb544b5f9c3e4a90bcae1fd6afa6e64&img=https://img.scdns.io/thumb/ebb544b5f9c3e4a90bcae1fd6afa6e64/large.jpg"
     ]
   },
   {
@@ -3230,7 +3230,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=5981bddb0e7a2514cdd56645556cfdfc&amp;img=https://img.scdns.io/thumb/5981bddb0e7a2514cdd56645556cfdfc/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=5981bddb0e7a2514cdd56645556cfdfc&img=https://img.scdns.io/thumb/5981bddb0e7a2514cdd56645556cfdfc/large.jpg"
     ]
   },
   {
@@ -3251,7 +3251,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=670351b5650b7f56726753dca600dbff&amp;img=https://img.scdns.io/thumb/670351b5650b7f56726753dca600dbff/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=670351b5650b7f56726753dca600dbff&img=https://img.scdns.io/thumb/670351b5650b7f56726753dca600dbff/large.jpg"
     ]
   },
   {
@@ -3272,7 +3272,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=b7d39d83bb44a17db0feee50a8e2be0b&amp;img=https://img.scdns.io/thumb/b7d39d83bb44a17db0feee50a8e2be0b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=b7d39d83bb44a17db0feee50a8e2be0b&img=https://img.scdns.io/thumb/b7d39d83bb44a17db0feee50a8e2be0b/large.jpg"
     ]
   },
   {
@@ -3293,7 +3293,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=3178f4d24d5ae1b410179850a2027e2f&amp;img=https://img.scdns.io/thumb/3178f4d24d5ae1b410179850a2027e2f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=3178f4d24d5ae1b410179850a2027e2f&img=https://img.scdns.io/thumb/3178f4d24d5ae1b410179850a2027e2f/large.jpg"
     ]
   },
   {
@@ -3314,7 +3314,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=3f7f680e402b93c852510ad8fe856c7d&amp;img=https://img.scdns.io/thumb/3f7f680e402b93c852510ad8fe856c7d/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=3f7f680e402b93c852510ad8fe856c7d&img=https://img.scdns.io/thumb/3f7f680e402b93c852510ad8fe856c7d/large.jpg"
     ]
   },
   {
@@ -3335,7 +3335,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=8db9ccc6b6c51670ef5101e7c61df10f&amp;img=https://img.scdns.io/thumb/8db9ccc6b6c51670ef5101e7c61df10f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=8db9ccc6b6c51670ef5101e7c61df10f&img=https://img.scdns.io/thumb/8db9ccc6b6c51670ef5101e7c61df10f/large.jpg"
     ]
   },
   {
@@ -3356,7 +3356,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=2626937c0ed86768b901a34afdbfe2f7&amp;img=https://img.scdns.io/thumb/2626937c0ed86768b901a34afdbfe2f7/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=2626937c0ed86768b901a34afdbfe2f7&img=https://img.scdns.io/thumb/2626937c0ed86768b901a34afdbfe2f7/large.jpg"
     ]
   },
   {
@@ -3377,7 +3377,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=c83e6cf6942e3e24b6401359e5828409&amp;img=https://img.scdns.io/thumb/c83e6cf6942e3e24b6401359e5828409/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=c83e6cf6942e3e24b6401359e5828409&img=https://img.scdns.io/thumb/c83e6cf6942e3e24b6401359e5828409/large.jpg"
     ]
   },
   {
@@ -3398,7 +3398,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=92b1924c186c4c1837cf8a74e6bfe294&amp;img=https://img.scdns.io/thumb/92b1924c186c4c1837cf8a74e6bfe294/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=92b1924c186c4c1837cf8a74e6bfe294&img=https://img.scdns.io/thumb/92b1924c186c4c1837cf8a74e6bfe294/large.jpg"
     ]
   },
   {
@@ -3419,7 +3419,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f1599404b06ec43df46bd8a7d1c6feee&amp;img=https://img.scdns.io/thumb/f1599404b06ec43df46bd8a7d1c6feee/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f1599404b06ec43df46bd8a7d1c6feee&img=https://img.scdns.io/thumb/f1599404b06ec43df46bd8a7d1c6feee/large.jpg"
     ]
   },
   {
@@ -3440,7 +3440,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=9a49a7e34a28fa90b23a361f83d55bbd&amp;img=https://img.scdns.io/thumb/9a49a7e34a28fa90b23a361f83d55bbd/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=9a49a7e34a28fa90b23a361f83d55bbd&img=https://img.scdns.io/thumb/9a49a7e34a28fa90b23a361f83d55bbd/large.jpg"
     ]
   },
   {
@@ -3461,7 +3461,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=07389470a8b54d1b5b24a5e92d1ba1ff&amp;img=https://img.scdns.io/thumb/07389470a8b54d1b5b24a5e92d1ba1ff/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=07389470a8b54d1b5b24a5e92d1ba1ff&img=https://img.scdns.io/thumb/07389470a8b54d1b5b24a5e92d1ba1ff/large.jpg"
     ]
   },
   {
@@ -3482,7 +3482,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=697568f10b1b5d6b95ea21413fa2d19a&amp;img=https://img.scdns.io/thumb/697568f10b1b5d6b95ea21413fa2d19a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=697568f10b1b5d6b95ea21413fa2d19a&img=https://img.scdns.io/thumb/697568f10b1b5d6b95ea21413fa2d19a/large.jpg"
     ]
   },
   {
@@ -3503,7 +3503,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f1168eb0ee9aca9779225f5a546f347e&amp;img=https://img.scdns.io/thumb/f1168eb0ee9aca9779225f5a546f347e/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f1168eb0ee9aca9779225f5a546f347e&img=https://img.scdns.io/thumb/f1168eb0ee9aca9779225f5a546f347e/large.jpg"
     ]
   },
   {
@@ -3524,7 +3524,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=384e8e45700476b5be9b37b20b7ba997&amp;img=https://img.scdns.io/thumb/384e8e45700476b5be9b37b20b7ba997/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=384e8e45700476b5be9b37b20b7ba997&img=https://img.scdns.io/thumb/384e8e45700476b5be9b37b20b7ba997/large.jpg"
     ]
   },
   {
@@ -3545,7 +3545,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=2737e159424b837be667a930113b13a6&amp;img=https://img.scdns.io/thumb/2737e159424b837be667a930113b13a6/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=2737e159424b837be667a930113b13a6&img=https://img.scdns.io/thumb/2737e159424b837be667a930113b13a6/large.jpg"
     ]
   },
   {
@@ -3566,7 +3566,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=a725edfbf83dad7352b33b1311f05612&amp;img=https://img.scdns.io/thumb/a725edfbf83dad7352b33b1311f05612/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=a725edfbf83dad7352b33b1311f05612&img=https://img.scdns.io/thumb/a725edfbf83dad7352b33b1311f05612/large.jpg"
     ]
   },
   {
@@ -3587,7 +3587,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4d7b0b8f59b9eb20df84b14e550aad51&amp;img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51&img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
     ]
   },
   {
@@ -3608,7 +3608,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63d81e0efa8cf9d51d77b33568244f10&amp;img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
     ]
   },
   {
@@ -3629,7 +3629,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=159746dfd5732975ed4ef06ff9bf6135&amp;img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=159746dfd5732975ed4ef06ff9bf6135&img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
     ]
   },
   {
@@ -3650,7 +3650,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=df50df9d12525af720a79534ba191028&amp;img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
     ]
   },
   {
@@ -3671,7 +3671,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=97cd1759a818f880c30837c7a0e61a22&amp;img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=97cd1759a818f880c30837c7a0e61a22&img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
     ]
   },
   {
@@ -3692,7 +3692,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f580b332f7a31fd1cf8086a839735191&amp;img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f580b332f7a31fd1cf8086a839735191&img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
     ]
   },
   {
@@ -3713,7 +3713,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=60c7b18cbc635bc6bb8b08dc6efb209a&amp;img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=60c7b18cbc635bc6bb8b08dc6efb209a&img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
     ]
   },
   {
@@ -3734,7 +3734,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63f86f263786bc66ef9211ff1b06d11b&amp;img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63f86f263786bc66ef9211ff1b06d11b&img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
     ]
   },
   {
@@ -3755,7 +3755,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7eee6f6bd7cab6360ae048d0a2c4145f&amp;img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7eee6f6bd7cab6360ae048d0a2c4145f&img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
     ]
   },
   {
@@ -3776,7 +3776,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=08fd629c6fc13b7ef55de5c3551c0569&amp;img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=08fd629c6fc13b7ef55de5c3551c0569&img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
     ]
   },
   {
@@ -3797,7 +3797,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=aaf81afd2d65be7e48ca6c954fbf56ea&amp;img=https://img.scdns.io/thumb/aaf81afd2d65be7e48ca6c954fbf56ea/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=aaf81afd2d65be7e48ca6c954fbf56ea&img=https://img.scdns.io/thumb/aaf81afd2d65be7e48ca6c954fbf56ea/large.jpg"
     ]
   },
   {
@@ -3818,7 +3818,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=aa2cd7f1e473ef442ee5d35859c02276&amp;img=https://img.scdns.io/thumb/aa2cd7f1e473ef442ee5d35859c02276/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=aa2cd7f1e473ef442ee5d35859c02276&img=https://img.scdns.io/thumb/aa2cd7f1e473ef442ee5d35859c02276/large.jpg"
     ]
   },
   {
@@ -3839,7 +3839,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=3907fe65851d6fbd6ddf8892a53c9c06&amp;img=https://img.scdns.io/thumb/3907fe65851d6fbd6ddf8892a53c9c06/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=3907fe65851d6fbd6ddf8892a53c9c06&img=https://img.scdns.io/thumb/3907fe65851d6fbd6ddf8892a53c9c06/large.jpg"
     ]
   },
   {
@@ -3860,7 +3860,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=6a8b416ebc6dde13656bea71f17a4715&amp;img=https://img.scdns.io/thumb/6a8b416ebc6dde13656bea71f17a4715/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=6a8b416ebc6dde13656bea71f17a4715&img=https://img.scdns.io/thumb/6a8b416ebc6dde13656bea71f17a4715/large.jpg"
     ]
   },
   {
@@ -3881,7 +3881,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=11b4ed84b8462b5e85c9d8b838618924&amp;img=https://img.scdns.io/thumb/11b4ed84b8462b5e85c9d8b838618924/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=11b4ed84b8462b5e85c9d8b838618924&img=https://img.scdns.io/thumb/11b4ed84b8462b5e85c9d8b838618924/large.jpg"
     ]
   },
   {
@@ -3902,7 +3902,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=d2bb181ceb0c929d41d7474e96b26da0&amp;img=https://img.scdns.io/thumb/d2bb181ceb0c929d41d7474e96b26da0/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=d2bb181ceb0c929d41d7474e96b26da0&img=https://img.scdns.io/thumb/d2bb181ceb0c929d41d7474e96b26da0/large.jpg"
     ]
   },
   {
@@ -3923,7 +3923,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=fa7a90d4921cc064452af5d9d9cdd02b&amp;img=https://img.scdns.io/thumb/fa7a90d4921cc064452af5d9d9cdd02b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=fa7a90d4921cc064452af5d9d9cdd02b&img=https://img.scdns.io/thumb/fa7a90d4921cc064452af5d9d9cdd02b/large.jpg"
     ]
   },
   {
@@ -3944,7 +3944,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7cd3c8914d9a5843096eda686a5c4752&amp;img=https://img.scdns.io/thumb/7cd3c8914d9a5843096eda686a5c4752/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7cd3c8914d9a5843096eda686a5c4752&img=https://img.scdns.io/thumb/7cd3c8914d9a5843096eda686a5c4752/large.jpg"
     ]
   },
   {
@@ -3965,7 +3965,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=fe7a97cfa1a19e504e9299bf6b7f34a3&amp;img=https://img.scdns.io/thumb/fe7a97cfa1a19e504e9299bf6b7f34a3/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=fe7a97cfa1a19e504e9299bf6b7f34a3&img=https://img.scdns.io/thumb/fe7a97cfa1a19e504e9299bf6b7f34a3/large.jpg"
     ]
   },
   {
@@ -3986,7 +3986,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63f11be8db6865a497b215da4da7a999&amp;img=https://img.scdns.io/thumb/63f11be8db6865a497b215da4da7a999/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63f11be8db6865a497b215da4da7a999&img=https://img.scdns.io/thumb/63f11be8db6865a497b215da4da7a999/large.jpg"
     ]
   },
   {
@@ -4007,7 +4007,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ff01bf24fe985323b05a1aa37a44862a&amp;img=https://img.scdns.io/thumb/ff01bf24fe985323b05a1aa37a44862a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ff01bf24fe985323b05a1aa37a44862a&img=https://img.scdns.io/thumb/ff01bf24fe985323b05a1aa37a44862a/large.jpg"
     ]
   },
   {
@@ -4028,7 +4028,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ee9845f1c74e3f3ee2d6459d3ae60600&amp;img=https://img.scdns.io/thumb/ee9845f1c74e3f3ee2d6459d3ae60600/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ee9845f1c74e3f3ee2d6459d3ae60600&img=https://img.scdns.io/thumb/ee9845f1c74e3f3ee2d6459d3ae60600/large.jpg"
     ]
   },
   {
@@ -4049,7 +4049,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=94e555d5c58e77599c0b528a023b6b30&amp;img=https://img.scdns.io/thumb/94e555d5c58e77599c0b528a023b6b30/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=94e555d5c58e77599c0b528a023b6b30&img=https://img.scdns.io/thumb/94e555d5c58e77599c0b528a023b6b30/large.jpg"
     ]
   },
   {
@@ -4070,7 +4070,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=c165980a25dcc44ada5d03be07b57551&amp;img=https://img.scdns.io/thumb/c165980a25dcc44ada5d03be07b57551/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=c165980a25dcc44ada5d03be07b57551&img=https://img.scdns.io/thumb/c165980a25dcc44ada5d03be07b57551/large.jpg"
     ]
   },
   {
@@ -4091,7 +4091,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=1a9f3418290a913b28950cb57193588c&amp;img=https://img.scdns.io/thumb/1a9f3418290a913b28950cb57193588c/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=1a9f3418290a913b28950cb57193588c&img=https://img.scdns.io/thumb/1a9f3418290a913b28950cb57193588c/large.jpg"
     ]
   },
   {
@@ -4112,7 +4112,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ebe0760422843cc82326e2e53eddc9bc&amp;img=https://img.scdns.io/thumb/ebe0760422843cc82326e2e53eddc9bc/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ebe0760422843cc82326e2e53eddc9bc&img=https://img.scdns.io/thumb/ebe0760422843cc82326e2e53eddc9bc/large.jpg"
     ]
   },
   {
@@ -4133,7 +4133,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=5fb44adc229b45520cd816977c612fc8&amp;img=https://img.scdns.io/thumb/5fb44adc229b45520cd816977c612fc8/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=5fb44adc229b45520cd816977c612fc8&img=https://img.scdns.io/thumb/5fb44adc229b45520cd816977c612fc8/large.jpg"
     ]
   },
   {
@@ -4154,7 +4154,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=efe81cf852b18338f30ca5333617b3de&amp;img=https://img.scdns.io/thumb/efe81cf852b18338f30ca5333617b3de/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=efe81cf852b18338f30ca5333617b3de&img=https://img.scdns.io/thumb/efe81cf852b18338f30ca5333617b3de/large.jpg"
     ]
   },
   {
@@ -4175,7 +4175,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=d4b9716cf30626b73bf60ef2141309e4&amp;img=https://img.scdns.io/thumb/d4b9716cf30626b73bf60ef2141309e4/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=d4b9716cf30626b73bf60ef2141309e4&img=https://img.scdns.io/thumb/d4b9716cf30626b73bf60ef2141309e4/large.jpg"
     ]
   },
   {
@@ -4196,7 +4196,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=5149e57c1b122ecca97a1fcacd7d871c&amp;img=https://img.scdns.io/thumb/5149e57c1b122ecca97a1fcacd7d871c/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=5149e57c1b122ecca97a1fcacd7d871c&img=https://img.scdns.io/thumb/5149e57c1b122ecca97a1fcacd7d871c/large.jpg"
     ]
   },
   {
@@ -4217,7 +4217,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=9894353534fb4074ae1237088655531e&amp;img=https://img.scdns.io/thumb/9894353534fb4074ae1237088655531e/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=9894353534fb4074ae1237088655531e&img=https://img.scdns.io/thumb/9894353534fb4074ae1237088655531e/large.jpg"
     ]
   },
   {
@@ -4238,7 +4238,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=344d59c0106ad7c7b0ec860b41cfab1d&amp;img=https://img.scdns.io/thumb/344d59c0106ad7c7b0ec860b41cfab1d/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=344d59c0106ad7c7b0ec860b41cfab1d&img=https://img.scdns.io/thumb/344d59c0106ad7c7b0ec860b41cfab1d/large.jpg"
     ]
   },
   {
@@ -4259,7 +4259,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=d7aee39eb36c615af524752d1de36db4&amp;img=https://img.scdns.io/thumb/d7aee39eb36c615af524752d1de36db4/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=d7aee39eb36c615af524752d1de36db4&img=https://img.scdns.io/thumb/d7aee39eb36c615af524752d1de36db4/large.jpg"
     ]
   },
   {
@@ -4280,7 +4280,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=bdf8e9519d47cf950ca8b4ee3b398889&amp;img=https://img.scdns.io/thumb/bdf8e9519d47cf950ca8b4ee3b398889/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=bdf8e9519d47cf950ca8b4ee3b398889&img=https://img.scdns.io/thumb/bdf8e9519d47cf950ca8b4ee3b398889/large.jpg"
     ]
   },
   {
@@ -4301,7 +4301,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4d7b0b8f59b9eb20df84b14e550aad51&amp;img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51&img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
     ]
   },
   {
@@ -4322,7 +4322,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63d81e0efa8cf9d51d77b33568244f10&amp;img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
     ]
   },
   {
@@ -4343,7 +4343,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=159746dfd5732975ed4ef06ff9bf6135&amp;img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=159746dfd5732975ed4ef06ff9bf6135&img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
     ]
   },
   {
@@ -4364,7 +4364,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=df50df9d12525af720a79534ba191028&amp;img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
     ]
   },
   {
@@ -4385,7 +4385,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=97cd1759a818f880c30837c7a0e61a22&amp;img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=97cd1759a818f880c30837c7a0e61a22&img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
     ]
   },
   {
@@ -4406,7 +4406,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f580b332f7a31fd1cf8086a839735191&amp;img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f580b332f7a31fd1cf8086a839735191&img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
     ]
   },
   {
@@ -4427,7 +4427,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=60c7b18cbc635bc6bb8b08dc6efb209a&amp;img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=60c7b18cbc635bc6bb8b08dc6efb209a&img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
     ]
   },
   {
@@ -4448,7 +4448,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63f86f263786bc66ef9211ff1b06d11b&amp;img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63f86f263786bc66ef9211ff1b06d11b&img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
     ]
   },
   {
@@ -4469,7 +4469,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7eee6f6bd7cab6360ae048d0a2c4145f&amp;img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7eee6f6bd7cab6360ae048d0a2c4145f&img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
     ]
   },
   {
@@ -4490,7 +4490,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=08fd629c6fc13b7ef55de5c3551c0569&amp;img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=08fd629c6fc13b7ef55de5c3551c0569&img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
     ]
   },
   {
@@ -4511,7 +4511,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=e438102044f45635e8180825a4e776b8&amp;img=https://img.scdns.io/thumb/e438102044f45635e8180825a4e776b8/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=e438102044f45635e8180825a4e776b8&img=https://img.scdns.io/thumb/e438102044f45635e8180825a4e776b8/large.jpg"
     ]
   },
   {
@@ -4532,7 +4532,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=c34696ff8c0ec39963e8c0e90cd8acd8&amp;img=https://img.scdns.io/thumb/c34696ff8c0ec39963e8c0e90cd8acd8/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=c34696ff8c0ec39963e8c0e90cd8acd8&img=https://img.scdns.io/thumb/c34696ff8c0ec39963e8c0e90cd8acd8/large.jpg"
     ]
   },
   {
@@ -4553,7 +4553,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=20c177ce5e163ce5d801bd4a515fa62a&amp;img=https://img.scdns.io/thumb/20c177ce5e163ce5d801bd4a515fa62a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=20c177ce5e163ce5d801bd4a515fa62a&img=https://img.scdns.io/thumb/20c177ce5e163ce5d801bd4a515fa62a/large.jpg"
     ]
   },
   {
@@ -4574,7 +4574,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=6e4d1d5a9cc6c1d5079e3ae39a56d5e5&amp;img=https://img.scdns.io/thumb/6e4d1d5a9cc6c1d5079e3ae39a56d5e5/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=6e4d1d5a9cc6c1d5079e3ae39a56d5e5&img=https://img.scdns.io/thumb/6e4d1d5a9cc6c1d5079e3ae39a56d5e5/large.jpg"
     ]
   },
   {
@@ -4595,7 +4595,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=99f20ab71e9569ef02b1dee8838ff60a&amp;img=https://img.scdns.io/thumb/99f20ab71e9569ef02b1dee8838ff60a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=99f20ab71e9569ef02b1dee8838ff60a&img=https://img.scdns.io/thumb/99f20ab71e9569ef02b1dee8838ff60a/large.jpg"
     ]
   },
   {
@@ -4616,7 +4616,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=bdf4c83abd06d63a041be33e3dec5a0b&amp;img=https://img.scdns.io/thumb/bdf4c83abd06d63a041be33e3dec5a0b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=bdf4c83abd06d63a041be33e3dec5a0b&img=https://img.scdns.io/thumb/bdf4c83abd06d63a041be33e3dec5a0b/large.jpg"
     ]
   },
   {
@@ -4637,7 +4637,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=05215540d4cec4698e805a0bb1454af2&amp;img=https://img.scdns.io/thumb/05215540d4cec4698e805a0bb1454af2/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=05215540d4cec4698e805a0bb1454af2&img=https://img.scdns.io/thumb/05215540d4cec4698e805a0bb1454af2/large.jpg"
     ]
   },
   {
@@ -4658,7 +4658,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=6ceaa25a3b29c8d7543b21a89ee468c6&amp;img=https://img.scdns.io/thumb/6ceaa25a3b29c8d7543b21a89ee468c6/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=6ceaa25a3b29c8d7543b21a89ee468c6&img=https://img.scdns.io/thumb/6ceaa25a3b29c8d7543b21a89ee468c6/large.jpg"
     ]
   },
   {
@@ -4679,7 +4679,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=0f3ad32ba4a1d13fe30a81b3cb60f17d&amp;img=https://img.scdns.io/thumb/0f3ad32ba4a1d13fe30a81b3cb60f17d/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=0f3ad32ba4a1d13fe30a81b3cb60f17d&img=https://img.scdns.io/thumb/0f3ad32ba4a1d13fe30a81b3cb60f17d/large.jpg"
     ]
   },
   {
@@ -4700,7 +4700,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=61674151d4c89e2cfcb09cef7396590b&amp;img=https://img.scdns.io/thumb/61674151d4c89e2cfcb09cef7396590b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=61674151d4c89e2cfcb09cef7396590b&img=https://img.scdns.io/thumb/61674151d4c89e2cfcb09cef7396590b/large.jpg"
     ]
   },
   {
@@ -4721,7 +4721,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=14650d6d46d67800f9a8c9a39c9a7064&amp;img=https://img.scdns.io/thumb/14650d6d46d67800f9a8c9a39c9a7064/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=14650d6d46d67800f9a8c9a39c9a7064&img=https://img.scdns.io/thumb/14650d6d46d67800f9a8c9a39c9a7064/large.jpg"
     ]
   },
   {
@@ -4742,7 +4742,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=13b084f4b84621132bc460c714744975&amp;img=https://img.scdns.io/thumb/13b084f4b84621132bc460c714744975/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=13b084f4b84621132bc460c714744975&img=https://img.scdns.io/thumb/13b084f4b84621132bc460c714744975/large.jpg"
     ]
   },
   {
@@ -4763,7 +4763,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=5d5abdf9a496928d5bac362a026d4a4a&amp;img=https://img.scdns.io/thumb/5d5abdf9a496928d5bac362a026d4a4a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=5d5abdf9a496928d5bac362a026d4a4a&img=https://img.scdns.io/thumb/5d5abdf9a496928d5bac362a026d4a4a/large.jpg"
     ]
   },
   {
@@ -4784,7 +4784,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=9d23a174708addeace1b3cfd1384d9a3&amp;img=https://img.scdns.io/thumb/9d23a174708addeace1b3cfd1384d9a3/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=9d23a174708addeace1b3cfd1384d9a3&img=https://img.scdns.io/thumb/9d23a174708addeace1b3cfd1384d9a3/large.jpg"
     ]
   },
   {
@@ -4805,7 +4805,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=c3f68818029c7177a036526655299877&amp;img=https://img.scdns.io/thumb/c3f68818029c7177a036526655299877/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=c3f68818029c7177a036526655299877&img=https://img.scdns.io/thumb/c3f68818029c7177a036526655299877/large.jpg"
     ]
   },
   {
@@ -4826,7 +4826,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=33a2669e11f34ae276bc8dc68545aaac&amp;img=https://img.scdns.io/thumb/33a2669e11f34ae276bc8dc68545aaac/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=33a2669e11f34ae276bc8dc68545aaac&img=https://img.scdns.io/thumb/33a2669e11f34ae276bc8dc68545aaac/large.jpg"
     ]
   },
   {
@@ -4847,7 +4847,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=aa3316637ff319e3912af325bc149d37&amp;img=https://img.scdns.io/thumb/aa3316637ff319e3912af325bc149d37/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=aa3316637ff319e3912af325bc149d37&img=https://img.scdns.io/thumb/aa3316637ff319e3912af325bc149d37/large.jpg"
     ]
   },
   {
@@ -4868,7 +4868,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=bc77ee5739dbfef14ab27e8e7f032466&amp;img=https://img.scdns.io/thumb/bc77ee5739dbfef14ab27e8e7f032466/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=bc77ee5739dbfef14ab27e8e7f032466&img=https://img.scdns.io/thumb/bc77ee5739dbfef14ab27e8e7f032466/large.jpg"
     ]
   },
   {
@@ -4889,7 +4889,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=6bba0f83cb0e9751fec7df1f1249e9d2&amp;img=https://img.scdns.io/thumb/6bba0f83cb0e9751fec7df1f1249e9d2/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=6bba0f83cb0e9751fec7df1f1249e9d2&img=https://img.scdns.io/thumb/6bba0f83cb0e9751fec7df1f1249e9d2/large.jpg"
     ]
   },
   {
@@ -4910,7 +4910,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4bfddbb8a6d9104725e3d7728bf07973&amp;img=https://img.scdns.io/thumb/4bfddbb8a6d9104725e3d7728bf07973/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4bfddbb8a6d9104725e3d7728bf07973&img=https://img.scdns.io/thumb/4bfddbb8a6d9104725e3d7728bf07973/large.jpg"
     ]
   },
   {
@@ -4931,7 +4931,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=1732f0ba6be3a2e7e39c1b4210ea3143&amp;img=https://img.scdns.io/thumb/1732f0ba6be3a2e7e39c1b4210ea3143/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=1732f0ba6be3a2e7e39c1b4210ea3143&img=https://img.scdns.io/thumb/1732f0ba6be3a2e7e39c1b4210ea3143/large.jpg"
     ]
   },
   {
@@ -4952,7 +4952,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ff329d299f3a84f876ed6d76cd31e1cf&amp;img=https://img.scdns.io/thumb/ff329d299f3a84f876ed6d76cd31e1cf/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ff329d299f3a84f876ed6d76cd31e1cf&img=https://img.scdns.io/thumb/ff329d299f3a84f876ed6d76cd31e1cf/large.jpg"
     ]
   },
   {
@@ -4973,7 +4973,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=9a781927c079909e118c80ec4016be01&amp;img=https://img.scdns.io/thumb/9a781927c079909e118c80ec4016be01/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=9a781927c079909e118c80ec4016be01&img=https://img.scdns.io/thumb/9a781927c079909e118c80ec4016be01/large.jpg"
     ]
   },
   {
@@ -4994,7 +4994,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f77b191198f8593cae68c5cfe9eeb114&amp;img=https://img.scdns.io/thumb/f77b191198f8593cae68c5cfe9eeb114/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f77b191198f8593cae68c5cfe9eeb114&img=https://img.scdns.io/thumb/f77b191198f8593cae68c5cfe9eeb114/large.jpg"
     ]
   },
   {
@@ -5015,7 +5015,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4d7b0b8f59b9eb20df84b14e550aad51&amp;img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51&img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
     ]
   },
   {
@@ -5036,7 +5036,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63d81e0efa8cf9d51d77b33568244f10&amp;img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
     ]
   },
   {
@@ -5057,7 +5057,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=159746dfd5732975ed4ef06ff9bf6135&amp;img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=159746dfd5732975ed4ef06ff9bf6135&img=https://img.scdns.io/thumb/159746dfd5732975ed4ef06ff9bf6135/large.jpg"
     ]
   },
   {
@@ -5078,7 +5078,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=df50df9d12525af720a79534ba191028&amp;img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
     ]
   },
   {
@@ -5099,7 +5099,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=97cd1759a818f880c30837c7a0e61a22&amp;img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=97cd1759a818f880c30837c7a0e61a22&img=https://img.scdns.io/thumb/97cd1759a818f880c30837c7a0e61a22/large.jpg"
     ]
   },
   {
@@ -5120,7 +5120,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f580b332f7a31fd1cf8086a839735191&amp;img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f580b332f7a31fd1cf8086a839735191&img=https://img.scdns.io/thumb/f580b332f7a31fd1cf8086a839735191/large.jpg"
     ]
   },
   {
@@ -5141,7 +5141,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=60c7b18cbc635bc6bb8b08dc6efb209a&amp;img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=60c7b18cbc635bc6bb8b08dc6efb209a&img=https://img.scdns.io/thumb/60c7b18cbc635bc6bb8b08dc6efb209a/large.jpg"
     ]
   },
   {
@@ -5162,7 +5162,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=63f86f263786bc66ef9211ff1b06d11b&amp;img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=63f86f263786bc66ef9211ff1b06d11b&img=https://img.scdns.io/thumb/63f86f263786bc66ef9211ff1b06d11b/large.jpg"
     ]
   },
   {
@@ -5183,7 +5183,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7eee6f6bd7cab6360ae048d0a2c4145f&amp;img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7eee6f6bd7cab6360ae048d0a2c4145f&img=https://img.scdns.io/thumb/7eee6f6bd7cab6360ae048d0a2c4145f/large.jpg"
     ]
   },
   {
@@ -5204,7 +5204,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=08fd629c6fc13b7ef55de5c3551c0569&amp;img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=08fd629c6fc13b7ef55de5c3551c0569&img=https://img.scdns.io/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
     ]
   },
   {
@@ -5225,7 +5225,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=e987ad94ac4ff132934a23dcbc076669&amp;img=https://img.scdns.io/thumb/e987ad94ac4ff132934a23dcbc076669/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=e987ad94ac4ff132934a23dcbc076669&img=https://img.scdns.io/thumb/e987ad94ac4ff132934a23dcbc076669/large.jpg"
     ]
   },
   {
@@ -5246,7 +5246,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=b36fa7d6b0fdc677a508c06a57fae651&amp;img=https://img.scdns.io/thumb/b36fa7d6b0fdc677a508c06a57fae651/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=b36fa7d6b0fdc677a508c06a57fae651&img=https://img.scdns.io/thumb/b36fa7d6b0fdc677a508c06a57fae651/large.jpg"
     ]
   },
   {
@@ -5267,7 +5267,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=36bdf36fe9b9d47cc64bb0700c3fc550&amp;img=https://img.scdns.io/thumb/36bdf36fe9b9d47cc64bb0700c3fc550/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=36bdf36fe9b9d47cc64bb0700c3fc550&img=https://img.scdns.io/thumb/36bdf36fe9b9d47cc64bb0700c3fc550/large.jpg"
     ]
   },
   {
@@ -5288,7 +5288,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=c53623817f04995a726ef28d8d77105c&amp;img=https://img.scdns.io/thumb/c53623817f04995a726ef28d8d77105c/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=c53623817f04995a726ef28d8d77105c&img=https://img.scdns.io/thumb/c53623817f04995a726ef28d8d77105c/large.jpg"
     ]
   },
   {
@@ -5309,7 +5309,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=c851583cdb3190c027d8a1955725dcdf&amp;img=https://img.scdns.io/thumb/c851583cdb3190c027d8a1955725dcdf/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=c851583cdb3190c027d8a1955725dcdf&img=https://img.scdns.io/thumb/c851583cdb3190c027d8a1955725dcdf/large.jpg"
     ]
   },
   {
@@ -5330,7 +5330,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=cc6307368aec45679af4718ccd692a53&amp;img=https://img.scdns.io/thumb/cc6307368aec45679af4718ccd692a53/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=cc6307368aec45679af4718ccd692a53&img=https://img.scdns.io/thumb/cc6307368aec45679af4718ccd692a53/large.jpg"
     ]
   },
   {
@@ -5351,7 +5351,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=c208ec697902c7157a2d8ebaab480ff1&amp;img=https://img.scdns.io/thumb/c208ec697902c7157a2d8ebaab480ff1/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=c208ec697902c7157a2d8ebaab480ff1&img=https://img.scdns.io/thumb/c208ec697902c7157a2d8ebaab480ff1/large.jpg"
     ]
   },
   {
@@ -5372,7 +5372,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=99ad4cd64da08f2e50ba54a84bc11542&amp;img=https://img.scdns.io/thumb/99ad4cd64da08f2e50ba54a84bc11542/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=99ad4cd64da08f2e50ba54a84bc11542&img=https://img.scdns.io/thumb/99ad4cd64da08f2e50ba54a84bc11542/large.jpg"
     ]
   },
   {
@@ -5393,7 +5393,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4dc221b32e13cfda132768e28fcbaefc&amp;img=https://img.scdns.io/thumb/4dc221b32e13cfda132768e28fcbaefc/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4dc221b32e13cfda132768e28fcbaefc&img=https://img.scdns.io/thumb/4dc221b32e13cfda132768e28fcbaefc/large.jpg"
     ]
   },
   {
@@ -5414,7 +5414,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=35debf8e42cf62ec99c5924256f60e8f&amp;img=https://img.scdns.io/thumb/35debf8e42cf62ec99c5924256f60e8f/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=35debf8e42cf62ec99c5924256f60e8f&img=https://img.scdns.io/thumb/35debf8e42cf62ec99c5924256f60e8f/large.jpg"
     ]
   },
   {
@@ -5435,7 +5435,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=50fe197c640b2aeda00ad2f150eab7b6&amp;img=https://img.scdns.io/thumb/50fe197c640b2aeda00ad2f150eab7b6/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=50fe197c640b2aeda00ad2f150eab7b6&img=https://img.scdns.io/thumb/50fe197c640b2aeda00ad2f150eab7b6/large.jpg"
     ]
   },
   {
@@ -5456,7 +5456,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=4b455ac903e79d56c9cb81e8d0d9f0b0&amp;img=https://img.scdns.io/thumb/4b455ac903e79d56c9cb81e8d0d9f0b0/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=4b455ac903e79d56c9cb81e8d0d9f0b0&img=https://img.scdns.io/thumb/4b455ac903e79d56c9cb81e8d0d9f0b0/large.jpg"
     ]
   },
   {
@@ -5477,7 +5477,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=d00c95b2ab4e1d7c957647d99ab39a43&amp;img=https://img.scdns.io/thumb/d00c95b2ab4e1d7c957647d99ab39a43/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=d00c95b2ab4e1d7c957647d99ab39a43&img=https://img.scdns.io/thumb/d00c95b2ab4e1d7c957647d99ab39a43/large.jpg"
     ]
   },
   {
@@ -5498,7 +5498,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=415d400bc484df5c8d5a0450253eb4fe&amp;img=https://img.scdns.io/thumb/415d400bc484df5c8d5a0450253eb4fe/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=415d400bc484df5c8d5a0450253eb4fe&img=https://img.scdns.io/thumb/415d400bc484df5c8d5a0450253eb4fe/large.jpg"
     ]
   },
   {
@@ -5519,7 +5519,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=e9bacb2d4b3455f8bb057bf9ee8f2193&amp;img=https://img.scdns.io/thumb/e9bacb2d4b3455f8bb057bf9ee8f2193/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=e9bacb2d4b3455f8bb057bf9ee8f2193&img=https://img.scdns.io/thumb/e9bacb2d4b3455f8bb057bf9ee8f2193/large.jpg"
     ]
   },
   {
@@ -5540,7 +5540,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=e40d7f83002c5bab375f7cc2d9c37b60&amp;img=https://img.scdns.io/thumb/e40d7f83002c5bab375f7cc2d9c37b60/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=e40d7f83002c5bab375f7cc2d9c37b60&img=https://img.scdns.io/thumb/e40d7f83002c5bab375f7cc2d9c37b60/large.jpg"
     ]
   },
   {
@@ -5561,7 +5561,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=0fd4a257344ab318a6a02818fe1e1ee0&amp;img=https://img.scdns.io/thumb/0fd4a257344ab318a6a02818fe1e1ee0/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=0fd4a257344ab318a6a02818fe1e1ee0&img=https://img.scdns.io/thumb/0fd4a257344ab318a6a02818fe1e1ee0/large.jpg"
     ]
   },
   {
@@ -5582,7 +5582,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=0c8379f6e26d0611de7ec4b2ebb8aae7&amp;img=https://img.scdns.io/thumb/0c8379f6e26d0611de7ec4b2ebb8aae7/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=0c8379f6e26d0611de7ec4b2ebb8aae7&img=https://img.scdns.io/thumb/0c8379f6e26d0611de7ec4b2ebb8aae7/large.jpg"
     ]
   },
   {
@@ -5603,7 +5603,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=f2af70e9fbb5962e2dc04765fd132c73&amp;img=https://img.scdns.io/thumb/f2af70e9fbb5962e2dc04765fd132c73/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=f2af70e9fbb5962e2dc04765fd132c73&img=https://img.scdns.io/thumb/f2af70e9fbb5962e2dc04765fd132c73/large.jpg"
     ]
   },
   {
@@ -5624,7 +5624,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=7c72a6b6e7e53c6398debd7e24c7a4a1&amp;img=https://img.scdns.io/thumb/7c72a6b6e7e53c6398debd7e24c7a4a1/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=7c72a6b6e7e53c6398debd7e24c7a4a1&img=https://img.scdns.io/thumb/7c72a6b6e7e53c6398debd7e24c7a4a1/large.jpg"
     ]
   },
   {
@@ -5645,7 +5645,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=ee4e809ef7981f19ea4026acfa28e57d&amp;img=https://img.scdns.io/thumb/ee4e809ef7981f19ea4026acfa28e57d/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=ee4e809ef7981f19ea4026acfa28e57d&img=https://img.scdns.io/thumb/ee4e809ef7981f19ea4026acfa28e57d/large.jpg"
     ]
   },
   {
@@ -5666,7 +5666,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=593a71f2f74ad4e4baaa52fa231892bb&amp;img=https://img.scdns.io/thumb/593a71f2f74ad4e4baaa52fa231892bb/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=593a71f2f74ad4e4baaa52fa231892bb&img=https://img.scdns.io/thumb/593a71f2f74ad4e4baaa52fa231892bb/large.jpg"
     ]
   },
   {
@@ -5687,7 +5687,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=bfa3425e4101126162e48e98e70a2dce&amp;img=https://img.scdns.io/thumb/bfa3425e4101126162e48e98e70a2dce/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=bfa3425e4101126162e48e98e70a2dce&img=https://img.scdns.io/thumb/bfa3425e4101126162e48e98e70a2dce/large.jpg"
     ]
   },
   {
@@ -5708,7 +5708,7 @@
     "group": "افلام اجنبية",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&amp;vid=d319b09b7627fac274e3e5cd1e9f5f9d&amp;img=https://img.scdns.io/thumb/d319b09b7627fac274e3e5cd1e9f5f9d/large.jpg"
+      "https://web29.faselhd1watch.one/video_player?uid=0&vid=d319b09b7627fac274e3e5cd1e9f5f9d&img=https://img.scdns.io/thumb/d319b09b7627fac274e3e5cd1e9f5f9d/large.jpg"
     ]
   }
     {
