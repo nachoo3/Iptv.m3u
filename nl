@@ -305,7 +305,7 @@
     "category_id": "8854",
     "container_extension": "mp4",
     "custom_sid": null,
-    "direct_source": "[[SERVER_URL]]/play.php?movieId=1000014",
+    "direct_source": "https://server-hls2-stream-c31.cdn-tube.xyz/v/02/00056/c4v16hoetr3n_x/x.mp4?t=ZAsQ9IimP5PXym4gwHpVxDorgSLdl3jmGjzVmDGCNe0&s=1737761308&e=86400&f=283762&sp=30000&i=0.0",
     "plot": null,
     "backdrop_path": "",
     "group": "Asian Movies",
