@@ -311,7 +311,7 @@
     "group": "Asian Movies",
     "sub_group": null,
     "sources": [
-      "https://web29.faselhd1watch.one/video_player?uid=0&vid=3157a61841652a428841a37f31d41519&img=https://img.scdns.io/thumb/3157a61841652a428841a37f31d41519/large.jpg"
+      "https://server-hls2-stream-c31.cdn-tube.xyz/v/02/00056/c4v16hoetr3n_x/x.mp4?t=ZAsQ9IimP5PXym4gwHpVxDorgSLdl3jmGjzVmDGCNe0&s=1737761308&e=86400&f=283762&sp=30000&i=0.0"
     ]
   },
   {
