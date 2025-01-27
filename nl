@@ -11,11 +11,11 @@
         "category_id": 8553,
         "container_extension": "mp4",
         "custom_sid": null,
-        "direct_source": "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg",
+        "direct_source": "https://master.c.scdns.io/stream/v2/buioJ_AeuNIK8n8AHZhBCQ/1738042937/normal/0/79.139.41.192/no/df50df9d12525af720a79534ba191028/web29.faselhd1watch.one/master.m3u8",
         "plot": null,
         "backdrop_path": "",
         "group": "All Movies",
-        "source": "https://web29.faselhd1watch.one/video_player?uid=0&vid=df50df9d12525af720a79534ba191028&img=https://img.scdns.io/thumb/df50df9d12525af720a79534ba191028/large.jpg"
+        "source": "https://master.c.scdns.io/stream/v2/buioJ_AeuNIK8n8AHZhBCQ/1738042937/normal/0/79.139.41.192/no/df50df9d12525af720a79534ba191028/web29.faselhd1watch.one/master.m3u8"
     },
     {
         "num": 1000000002,
