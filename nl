@@ -15,7 +15,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "All Movies",
-        "sourcess": "https://master.c.scdns.io/stream/v2/buioJ_AeuNIK8n8AHZhBCQ/1738042937/normal/0/79.139.41.192/no/df50df9d12525af720a79534ba191028/web29.faselhd1watch.one/master.m3u8"
+        "sources": "https://master.c.scdns.io/stream/v2/buioJ_AeuNIK8n8AHZhBCQ/1738042937/normal/0/79.139.41.192/no/df50df9d12525af720a79534ba191028/web29.faselhd1watch.one/master.m3u8"
     },
     {
         "num": 1000000002,
@@ -16161,7 +16161,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=6fa39351c84502ba3ea378c26f0dadee&img=https://img.scdns.io/thumb/6fa39351c84502ba3ea378c26f0dadee/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=6fa39351c84502ba3ea378c26f0dadee&img=https://img.scdns.io/thumb/6fa39351c84502ba3ea378c26f0dadee/large.jpg"
     },
     {
         "num": 1000000899,
@@ -16179,7 +16179,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=d02dde9fe239322f7fef166a3c022d93&img=https://img.scdns.io/thumb/d02dde9fe239322f7fef166a3c022d93/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=d02dde9fe239322f7fef166a3c022d93&img=https://img.scdns.io/thumb/d02dde9fe239322f7fef166a3c022d93/large.jpg"
     },
     {
         "num": 1000000900,
@@ -16197,7 +16197,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=f0334a8f8f9ccfb5144d31530ef8da2e&img=https://img.scdns.io/thumb/f0334a8f8f9ccfb5144d31530ef8da2e/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=f0334a8f8f9ccfb5144d31530ef8da2e&img=https://img.scdns.io/thumb/f0334a8f8f9ccfb5144d31530ef8da2e/large.jpg"
     },
     {
         "num": 1000000901,
@@ -16215,7 +16215,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=beb6ec2b8dd813ff1f9a85e5b3deb4c6&img=https://img.scdns.io/thumb/beb6ec2b8dd813ff1f9a85e5b3deb4c6/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=beb6ec2b8dd813ff1f9a85e5b3deb4c6&img=https://img.scdns.io/thumb/beb6ec2b8dd813ff1f9a85e5b3deb4c6/large.jpg"
     },
     {
         "num": 1000000902,
@@ -16233,7 +16233,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=6911574467e0fca71b47c2e720923852&img=https://img.scdns.io/thumb/6911574467e0fca71b47c2e720923852/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=6911574467e0fca71b47c2e720923852&img=https://img.scdns.io/thumb/6911574467e0fca71b47c2e720923852/large.jpg"
     },
     {
         "num": 1000000903,
@@ -16251,7 +16251,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=b0561a767e39cbe1ba41bb57ee390592&img=https://img.scdns.io/thumb/b0561a767e39cbe1ba41bb57ee390592/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=b0561a767e39cbe1ba41bb57ee390592&img=https://img.scdns.io/thumb/b0561a767e39cbe1ba41bb57ee390592/large.jpg"
     },
     {
         "num": 1000000904,
@@ -16269,7 +16269,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=36ab88f6d7833a07f589c7d2cdd10575&img=https://img.scdns.io/thumb/36ab88f6d7833a07f589c7d2cdd10575/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=36ab88f6d7833a07f589c7d2cdd10575&img=https://img.scdns.io/thumb/36ab88f6d7833a07f589c7d2cdd10575/large.jpg"
     },
     {
         "num": 1000000905,
@@ -16287,7 +16287,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=cc27fcb719b083330b9bdbf179b5db4c&img=https://img.scdns.io/thumb/cc27fcb719b083330b9bdbf179b5db4c/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=cc27fcb719b083330b9bdbf179b5db4c&img=https://img.scdns.io/thumb/cc27fcb719b083330b9bdbf179b5db4c/large.jpg"
     },
     {
         "num": 1000000906,
@@ -16305,7 +16305,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=58d5c226f2b75dbdc522ad71b86b9e68&img=https://img.scdns.io/thumb/58d5c226f2b75dbdc522ad71b86b9e68/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=58d5c226f2b75dbdc522ad71b86b9e68&img=https://img.scdns.io/thumb/58d5c226f2b75dbdc522ad71b86b9e68/large.jpg"
     },
     {
         "num": 1000000907,
@@ -16323,7 +16323,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=b9adbb47670a15a5da99dac0d687ac73&img=https://img.scdns.io/thumb/b9adbb47670a15a5da99dac0d687ac73/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=b9adbb47670a15a5da99dac0d687ac73&img=https://img.scdns.io/thumb/b9adbb47670a15a5da99dac0d687ac73/large.jpg"
     },
     {
         "num": 1000000908,
@@ -16341,7 +16341,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=01f1dcdf9bfcbd799d73d2ac696e7308&img=https://img.scdns.io/thumb/01f1dcdf9bfcbd799d73d2ac696e7308/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=01f1dcdf9bfcbd799d73d2ac696e7308&img=https://img.scdns.io/thumb/01f1dcdf9bfcbd799d73d2ac696e7308/large.jpg"
     },
     {
         "num": 1000000909,
@@ -16359,7 +16359,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=973d7501ad3b9450fb65b7eae29e039c&img=https://img.scdns.io/thumb/973d7501ad3b9450fb65b7eae29e039c/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=973d7501ad3b9450fb65b7eae29e039c&img=https://img.scdns.io/thumb/973d7501ad3b9450fb65b7eae29e039c/large.jpg"
     },
     {
         "num": 1000000910,
@@ -16377,7 +16377,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=d858e5fc80fac3b2b516e2b944f913e5&img=https://img.scdns.io/thumb/d858e5fc80fac3b2b516e2b944f913e5/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=d858e5fc80fac3b2b516e2b944f913e5&img=https://img.scdns.io/thumb/d858e5fc80fac3b2b516e2b944f913e5/large.jpg"
     },
     {
         "num": 1000000911,
@@ -16395,7 +16395,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=7009c2dcacaa49ff1942ea0801d0e7a7&img=https://img.scdns.io/thumb/7009c2dcacaa49ff1942ea0801d0e7a7/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=7009c2dcacaa49ff1942ea0801d0e7a7&img=https://img.scdns.io/thumb/7009c2dcacaa49ff1942ea0801d0e7a7/large.jpg"
     },
     {
         "num": 1000000912,
@@ -16413,7 +16413,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=cad51883040596722bca4f460f8c4690&img=https://img.scdns.io/thumb/cad51883040596722bca4f460f8c4690/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=cad51883040596722bca4f460f8c4690&img=https://img.scdns.io/thumb/cad51883040596722bca4f460f8c4690/large.jpg"
     },
     {
         "num": 1000000913,
@@ -16431,7 +16431,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=3055e9b7734f5c2b8235134fdaf58738&img=https://img.scdns.io/thumb/3055e9b7734f5c2b8235134fdaf58738/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=3055e9b7734f5c2b8235134fdaf58738&img=https://img.scdns.io/thumb/3055e9b7734f5c2b8235134fdaf58738/large.jpg"
     },
     {
         "num": 1000000914,
@@ -16449,7 +16449,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=d0d237acb8e9cdee9bb1c1cfebd3dd9d&img=https://img.scdns.io/thumb/d0d237acb8e9cdee9bb1c1cfebd3dd9d/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=d0d237acb8e9cdee9bb1c1cfebd3dd9d&img=https://img.scdns.io/thumb/d0d237acb8e9cdee9bb1c1cfebd3dd9d/large.jpg"
     },
     {
         "num": 1000000915,
@@ -16467,7 +16467,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=1e7e3b30fa0363494ad12fd580a63eeb&img=https://img.scdns.io/thumb/1e7e3b30fa0363494ad12fd580a63eeb/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=1e7e3b30fa0363494ad12fd580a63eeb&img=https://img.scdns.io/thumb/1e7e3b30fa0363494ad12fd580a63eeb/large.jpg"
     },
     {
         "num": 1000000916,
@@ -16485,7 +16485,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=eacd8d0dd5abf84edd0f25c124b31c78&img=https://img.scdns.io/thumb/eacd8d0dd5abf84edd0f25c124b31c78/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=eacd8d0dd5abf84edd0f25c124b31c78&img=https://img.scdns.io/thumb/eacd8d0dd5abf84edd0f25c124b31c78/large.jpg"
     },
     {
         "num": 1000000917,
@@ -16503,7 +16503,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=f9ce4b9c891ec62a785706f10980dce9&img=https://img.scdns.io/thumb/f9ce4b9c891ec62a785706f10980dce9/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=f9ce4b9c891ec62a785706f10980dce9&img=https://img.scdns.io/thumb/f9ce4b9c891ec62a785706f10980dce9/large.jpg"
     },
     {
         "num": 1000000918,
@@ -16521,6 +16521,6 @@
         "plot": null,
         "backdrop_path": "",
         "group": "Anime Movies",
-        "sourcess": "https://web29.faselhd1watch.one/video_player?uid=0&vid=8100cd6284bdbd99763aed179a03288e&img=https://img.scdns.io/thumb/8100cd6284bdbd99763aed179a03288e/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=8100cd6284bdbd99763aed179a03288e&img=https://img.scdns.io/thumb/8100cd6284bdbd99763aed179a03288e/large.jpg"
     }
 ]
