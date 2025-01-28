@@ -11,11 +11,11 @@
         "category_id": 8553,
         "container_extension": "mp4",
         "custom_sid": null,
-        "direct_source": "",
+        "direct_source": "https://www.faselhds.care/video_player?uid=0&vid=df50df9d12525af720a79534ba191028",
         "plot": null,
         "backdrop_path": "",
         "group": "All Movies",
-        "sources": ""
+        "sources": "https://www.faselhds.care/video_player?uid=0&vid=df50df9d12525af720a79534ba191028"
     },
     {
         "num": 1000000002,
@@ -33,7 +33,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "All Movies",
-        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=03cf926980e0208fd6f073149e819983&img=https://img.scdns.io/thumb/03cf926980e0208fd6f073149e819983/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=03cf926980e0208fd6f073149e819983"
     },
     {
         "num": 1000000003,
@@ -51,7 +51,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "All Movies",
-        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdns.io/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10"
     },
     {
         "num": 1000000004,
@@ -69,7 +69,7 @@
         "plot": null,
         "backdrop_path": "",
         "group": "All Movies",
-        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51&img=https://img.scdns.io/thumb/4d7b0b8f59b9eb20df84b14e550aad51/large.jpg"
+        "sources": "https://web29.faselhd1watch.one/video_player?uid=0&vid=4d7b0b8f59b9eb20df84b14e550aad51"
     },
     {
         "num": 1000000005,
