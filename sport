@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="[XML_EPG]"
 #EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN" streamId="0" channel-number="0",BEIN SPORT 1
 https://miztv.shop/stream/stream-91.php
 
