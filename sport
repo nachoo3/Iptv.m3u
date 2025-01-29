@@ -14,7 +14,7 @@ https://miztv.shop/stream/stream-94.php
 #EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN" ,BEIN SPORT 5
 https://miztv.shop/stream/stream-95.php
 
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="9" channel-number="9",beIN Sports
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="Live TV " streamId="9" channel-number="9",beIN Sports 9
 https://miztv.shop/stream/stream-96.php
 
 #EXTINF:-1 tvg-id=""  tvg-name=" "  tvg-logo="" group-title="BEIN" streamId="6" channel-number="6" ,BEIN SPORT 7
