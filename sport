@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="[XML_EPG]"
-#EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN" streamId="0" channel-number="0",BEIN SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN",BEIN SPORT 1
 https://miztv.shop/stream/stream-91.php
 
-#EXTINF:-1 tvg-id="" tvg-name=" "   tvg-logo="" group-title="BEIN" streamId="1" channel-number="1" ,BEIN SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name=" "   tvg-logo="" group-title="BEIN"  ,BEIN SPORT 2
 https://miztv.shop/stream/stream-92.php
 
-#EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN" streamId="2" channel-number="2" ,BEIN SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN"  ,BEIN SPORT 2
 https://miztv.shop/stream/stream-93.php
 
-#EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN" streamId="3" channel-number="3" ,BEIN SPORT 4
+#EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN"  ,BEIN SPORT 4
 https://miztv.shop/stream/stream-94.php
 
-#EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN" streamId="4" channel-number="4",BEIN SPORT 5
+#EXTINF:-1 tvg-id="" tvg-name=" "  tvg-logo="" group-title="BEIN" ,BEIN SPORT 5
 https://miztv.shop/stream/stream-95.php
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="9" channel-number="9",beIN Sports
