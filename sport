@@ -21,113 +21,43 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSk
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsArena%5BUK%5D
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",Sky Sports Cricket
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsCricket%5BUK%5D
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",Sky Sports F 1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="United Kingdom" streamId="5500" channel-number="5500",Sky Sports F 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsF1%5BUK%5D
 #EXTINF:-1 tvg-id="SkySpFball(src01).uk" tvg-name="Sky Sports Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",Sky Sports Football
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsFootball%5BUK%5D
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="United Kingdom",Sky Sports Golf
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",Sky Sports Golf
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsGolf%5BUK%5D
-#EXTINF:-1 tvg-id="SkySpMainEv(src01).uk" tvg-name="Sky Sports Main Event" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" group-title="United Kingdom",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpMainEv(src01).uk" tvg-name="Sky Sports Main Event" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",Sky Sports Main Event
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMainEvent%5BUK%5D
-#EXTINF:-1 tvg-id="SkySpMix(src01).uk" tvg-name="Sky Sports Mix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" group-title="United Kingdom",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySpMix(src01).uk" tvg-name="Sky Sports Mix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",Sky Sports Mix
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMix%5BUK%5D
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="United Kingdom",Sky Sports News
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",Sky Sports News
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsNews%5BUK%5D
-#EXTINF:-1 tvg-id="SkySPPL(src01).uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="United Kingdom",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySPPL(src01).uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",Sky Sports Premier League
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsPremierLeague%5BUK%5D
-#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png?raw=true" group-title="United Kingdom",Sky Sports Tennis
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",Sky Sports Tennis
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsTennis%5BUK%5D
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="United Kingdom",TNT Sports 1
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",TNT Sports 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="United Kingdom",TNT Sports 2
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",TNT Sports 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="United Kingdom",TNT Sports 3
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",TNT Sports 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports3%5BUK%5D
-#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="United Kingdom",TNT Sports 4
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="United Kingdom"streamId="5500" channel-number="5500",TNT Sports 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports4%5BUK%5D
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-name="Sportsnet 360" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-ca.png?raw=true" group-title="Canada",Sportsnet 360
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnet360%5BCanada%5D
-#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-name="Sportsnet East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-ca.png?raw=true" group-title="Canada",Sportsnet East
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetEast%5BCanada%5D
-#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-ca.png?raw=true" group-title="Canada",Sportsnet One
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetOne%5BCanada%5D
-#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="Sportsnet Ontario" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-ontario-ca.png?raw=true" group-title="Canada",Sportsnet Ontario
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetOntario%5BCanada%5D
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-name="Sportsnet Pacific" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-pacific-ca.png?raw=true" group-title="Canada",Sportsnet Pacific
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetPacific%5BCanada%5D
-#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-west-ca.png?raw=true" group-title="Canada",Sportsnet West
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetWest%5BCanada%5D
-#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-world-ca.png?raw=true" group-title="Canada",Sportsnet World
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetWorld%5BCanada%5D
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="Canada",TSN 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN1%5BCanada%5D
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="Canada",TSN 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN2%5BCanada%5D
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="Canada",TSN 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN3%5BCanada%5D
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="Canada",TSN 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN4%5BCanada%5D
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="Canada",TSN 5
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN5%5BCanada%5D
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox 501" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-hz-au.png?raw=true" group-title="Australia",Fox 501
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox501%5BAustralia%5D
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-hz-au.png?raw=true" group-title="Australia",Fox 502
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox502%5BAustralia%5D
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="Australia",Fox 503
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox503%5BAustralia%5D
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-hd-hz-au.png?raw=true" group-title="Australia",Fox 504
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox504%5BAustralia%5D
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox 505" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-hz-au.png?raw=true" group-title="Australia",Fox 505
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox505%5BAustralia%5D
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox 506" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="Australia",Fox 506
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox506%5BAustralia%5D
-#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox 507" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-hd-hz-au.png?raw=true" group-title="Australia",Fox 507
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox507%5BAustralia%5D
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="Australia",Fox Sports 506
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFoxSports506%5BAU%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/rtsh1-al.png?raw=true" group-title="Albania",RTSH 1
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/rtsh1-al.png?raw=true" group-title="Albania"streamId="5500" channel-number="5500",RTSH 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTSH1%5BAlbania%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/rtsh2-al.png?raw=true" group-title="Albania",RTSH 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/rtsh2-al.png?raw=true" group-title="Albania"streamId="5500" channel-number="5500",RTSH 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTSH2%5BAlbania%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/rtsh3-al.png?raw=true" group-title="Albania",RTSH Sport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/rtsh3-al.png?raw=true" group-title="Albania"streamId="5500" channel-number="5500",RTSH Sport
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTSHSport%5BAlbania%5D
-#EXTINF:-1 tvg-id="DirecTV.Sports.ar" tvg-name="DirecTV Sports" tvg-logo="https://i.imgur.com/K22HU2X.png" group-title="Argentina",DirecTV Sports
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDirecTVSports%5BArgentina%5D
-#EXTINF:-1 tvg-id="DirecTV.Sports.2.ar" tvg-name="DirecTV Sports 2" tvg-logo="https://i.imgur.com/K22HU2X.png" group-title="Argentina",DirecTV Sports 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDirecTVSports2%5BArgentina%5D
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Argentina",ESPN
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN%5BArgentina%5D
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Argentina",ESPN
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN%5BAR%5D
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Argentina",ESPN 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN2%5BArgentina%5D
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Argentina",ESPN 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN3%5BArgentina%5D
-#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="ESPN Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="Argentina",ESPN Premium
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPNPremium%5BArgentina%5D
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="FOX Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Argentina",FOX Sports 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFOXSports1%5BArgentina%5D
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FOX Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Argentina",FOX Sports 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFOXSports2%5BArgentina%5D
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true" group-title="Argentina",TYC Sports
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTYCSports%5BArgentina%5D
-#EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png?raw=true" group-title="Brazil",Premiere 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPremiere1%5BBrasil%5D
-#EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png?raw=true" group-title="Brazil",Premiere 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPremiere2%5BBrasil%5D
-#EXTINF:-1 tvg-id="CaracolHD.co" tvg-name="Caracol" tvg-logo="https://i.imgur.com/YicfODw.jpeg" group-title="Colombia",Caracol
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCaracol%5BColombia%5D
-#EXTINF:-1 tvg-id="WINSports.co" tvg-name="WIN Sports" tvg-logo="https://i.imgur.com/v3FxzKE.png" group-title="Colombia",WIN Sports
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FWINSports%5BColombia%5D
-#EXTINF:-1 tvg-id="EcuavisaHD.ec" tvg-name="Ecuavisa" tvg-logo="https://i.imgur.com/zazlQxr.png" group-title="Ecuador",Ecuavisa
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEcuavisa%5BEcuador%5D
-#EXTINF:-1 tvg-id="DirecTV.ec" tvg-name="DirecTV" tvg-logo="https://i.imgur.com/19ovka9.png" group-title="Ecuador",DirecTV
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDirecTV%5BEcuador%5D
-#EXTINF:-1 tvg-id="GolTV.ec" tvg-name="Gol TV" tvg-logo="https://i.imgur.com/MPBGMlP.png" group-title="Ecuador",Gol TV
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FGolTV%5BEcuador%5D
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 Deutschland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="Germany",DAZN 1 Deutschland
+
+
+
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 Deutschland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",DAZN 1 Deutschland
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN1Deutschland%5BGermany%5D
-#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 Deutschland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn2-de.png?raw=true" group-title="Germany",DAZN 2 Deutschland
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 Deutschland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn2-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",DAZN 2 Deutschland
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN2Deutschland%5BGermany%5D
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/eurosport-1-de.png?raw=true" group-title="Germany",Eurosport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BGermany%5D
@@ -135,255 +65,241 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEu
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BGermany%5D
 #EXTINF:-1 tvg-id="Servus.TV.de" tvg-name="Servus TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/servus-tv-deutchland-de.png?raw=true" group-title="Germany",Servus TV
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FServusTV%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga.de" tvg-name="Sky Bundesliga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="Germany",Sky Bundesliga
+#EXTINF:-1 tvg-id="SkySportBundesliga.de" tvg-name="Sky Bundesliga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="Sky Bundesliga 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png?raw=true" group-title="Germany",Sky Bundesliga 1
+#EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="Sky Bundesliga 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga1%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-2-de.png?raw=true" group-title="Germany",Sky Bundesliga 2
+#EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-2-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga2%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-3-de.png?raw=true" group-title="Germany",Sky Bundesliga 3
+#EXTINF:-1 tvg-id="SkySportBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-3-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga3%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="Sky Bundesliga 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-4-de.png?raw=true" group-title="Germany",Sky Bundesliga 4
+#EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="Sky Bundesliga 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-4-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga4%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga5.de" tvg-name="Sky Bundesliga 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-5-de.png?raw=true" group-title="Germany",Sky Bundesliga 5
+#EXTINF:-1 tvg-id="SkySportBundesliga5.de" tvg-name="Sky Bundesliga 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-5-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga5%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga6.de" tvg-name="Sky Bundesliga 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-6-de.png?raw=true" group-title="Germany",Sky Bundesliga 6
+#EXTINF:-1 tvg-id="SkySportBundesliga6.de" tvg-name="Sky Bundesliga 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-6-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga 6
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga6%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga7.de" tvg-name="Sky Bundesliga 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-7-de.png?raw=true" group-title="Germany",Sky Bundesliga 7
+#EXTINF:-1 tvg-id="SkySportBundesliga7.de" tvg-name="Sky Bundesliga 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-7-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga 7
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga7%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga8.de" tvg-name="Sky Bundesliga 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-8-de.png?raw=true" group-title="Germany",Sky Bundesliga 8
+#EXTINF:-1 tvg-id="SkySportBundesliga8.de" tvg-name="Sky Bundesliga 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-8-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga 8
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga8%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportBundesliga9.de" tvg-name="Sky Bundesliga 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-9-de.png?raw=true" group-title="Germany",Sky Bundesliga 9
+#EXTINF:-1 tvg-id="SkySportBundesliga9.de" tvg-name="Sky Bundesliga 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-9-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Bundesliga 9
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga9%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="Germany",Sky Sport 1
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BDE%5D
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="Germany",Sky Sport 1
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-10-de.png?raw=true" group-title="Germany",Sky Sport 10
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-10-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 10
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport10%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="Germany",Sky Sport 2
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BDE%5D
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="Germany",Sky Sport 2
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-3-de.png?raw=true" group-title="Germany",Sky Sport 3
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-3-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport3%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-4-de.png?raw=true" group-title="Germany",Sky Sport 4
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-4-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport4%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="Germany",Sky Sport 5
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BDE%5D
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="Germany",Sky Sport 5
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-6-de.png?raw=true" group-title="Germany",Sky Sport 6
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-6-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 6
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport6%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="Germany",Sky Sport 7
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 7
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport7%5BDE%5D
-#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="Germany",Sky Sport 7
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 7
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport7%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-8-de.png?raw=true" group-title="Germany",Sky Sport 8
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-8-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 8
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport8%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-9-de.png?raw=true" group-title="Germany",Sky Sport 9
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-9-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport 9
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport9%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-de.png?raw=true" group-title="Germany",Sky Sport Tennis
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport Tennis
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportTennis%5BDE%5D
-#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-de.png?raw=true" group-title="Germany",Sky Sport Tennis
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport Tennis
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportTennis%5BGermany%5D
-#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-de.png?raw=true" group-title="Germany",Sky Sport Top Event
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-de.png?raw=true" group-title="Germany"streamId="5500" channel-number="5500",Sky Sport Top Event
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportTopEvent%5BGermany%5D
-#EXTINF:-1 tvg-id="sportdigital(src01).de" tvg-name="Sportdigital FUSSBALL 2" tvg-logo="https://i.imgur.com/cZ2ZGKk.jpeg" group-title="Germany",Sportdigital FUSSBALL 2
+#EXTINF:-1 tvg-id="sportdigital(src01).de" tvg-name="Sportdigital FUSSBALL 2" tvg-logo="https://i.imgur.com/cZ2ZGKk.jpeg" group-title="Germany"streamId="5500" channel-number="5500",Sportdigital FUSSBALL 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportdigitalFUSSBALL2%5BGermany%5D
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.1HD.gr" tvg-name="Cosmote Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="Greece",Cosmote Sport 1
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.1HD.gr" tvg-name="Cosmote Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Cosmote Sport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport1%5BGreece%5D
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.2HD.gr" tvg-name="Cosmote Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" group-title="Greece",Cosmote Sport 2
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.2HD.gr" tvg-name="Cosmote Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Cosmote Sport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport2%5BGreece%5D
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.3HD.gr" tvg-name="Cosmote Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" group-title="Greece",Cosmote Sport 3
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.3HD.gr" tvg-name="Cosmote Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Cosmote Sport 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport3%5BGreece%5D
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.4HD.gr" tvg-name="Cosmote Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" group-title="Greece",Cosmote Sport 4
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.4HD.gr" tvg-name="Cosmote Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Cosmote Sport 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport4%5BGreece%5D
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.5HD.gr" tvg-name="Cosmote Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" group-title="Greece",Cosmote Sport 5
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.5HD.gr" tvg-name="Cosmote Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Cosmote Sport 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport5%5BGreece%5D
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.6HD.gr" tvg-name="Cosmote Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="Greece",Cosmote Sport 6
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.6HD.gr" tvg-name="Cosmote Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Cosmote Sport 6
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport6%5BGreece%5D
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.7HD.gr" tvg-name="Cosmote Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="Greece",Cosmote Sport 7
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.7HD.gr" tvg-name="Cosmote Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Cosmote Sport 7
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport7%5BGreece%5D
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.8HD.gr" tvg-name="Cosmote Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="Greece",Cosmote Sport 8
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.8HD.gr" tvg-name="Cosmote Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Cosmote Sport 8
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport8%5BGreece%5D
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.9HD.gr" tvg-name="Cosmote Sport 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-9-gr.png?raw=true" group-title="Greece",Cosmote Sport 9
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.9HD.gr" tvg-name="Cosmote Sport 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-9-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Cosmote Sport 9
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport9%5BGreece%5D
-#EXTINF:-1 tvg-id="novasports1(src01).gr" tvg-name="Nova Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-1-gr.png?raw=true" group-title="Greece",Nova Sports 1
+#EXTINF:-1 tvg-id="novasports1(src01).gr" tvg-name="Nova Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-1-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Nova Sports 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports1%5BGreece%5D
-#EXTINF:-1 tvg-id="novasports2(src01).gr" tvg-name="Nova Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-2-gr.png?raw=true" group-title="Greece",Nova Sports 2
+#EXTINF:-1 tvg-id="novasports2(src01).gr" tvg-name="Nova Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-2-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Nova Sports 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports2%5BGreece%5D
-#EXTINF:-1 tvg-id="novasports3(src01).gr" tvg-name="Nova Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-3-gr.png?raw=true" group-title="Greece",Nova Sports 3
+#EXTINF:-1 tvg-id="novasports3(src01).gr" tvg-name="Nova Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-3-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Nova Sports 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports3%5BGreece%5D
-#EXTINF:-1 tvg-id="novasports4(src01).gr" tvg-name="Nova Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-4-gr.png?raw=true" group-title="Greece",Nova Sports 4
+#EXTINF:-1 tvg-id="novasports4(src01).gr" tvg-name="Nova Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-4-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Nova Sports 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports4%5BGreece%5D
-#EXTINF:-1 tvg-id="novasports5(src01).gr" tvg-name="Nova Sports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-5-gr.png?raw=true" group-title="Greece",Nova Sports 5
+#EXTINF:-1 tvg-id="novasports5(src01).gr" tvg-name="Nova Sports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-5-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Nova Sports 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports5%5BGreece%5D
-#EXTINF:-1 tvg-id="Novasports6(src01).gr" tvg-name="Nova Sports 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-6-gr.png?raw=true" group-title="Greece",Nova Sports 6
+#EXTINF:-1 tvg-id="Novasports6(src01).gr" tvg-name="Nova Sports 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-6-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Nova Sports 6
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports6%5BGreece%5D
-#EXTINF:-1 tvg-id="NovasportsStart(src01).gr" tvg-name="Nova Sports Start" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-start-gr.png?raw=true" group-title="Greece",Nova Sports Start
+#EXTINF:-1 tvg-id="NovasportsStart(src01).gr" tvg-name="Nova Sports Start" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-start-gr.png?raw=true" group-title="Greece"streamId="5500" channel-number="5500",Nova Sports Start
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSportsStart%5BGreece%5D
-#EXTINF:-1 tvg-id="RTE.One.HD.ie" tvg-name="RTE One" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-one-uk.png?raw=true" group-title="Ireland",RTE One
+#EXTINF:-1 tvg-id="RTE.One.HD.ie" tvg-name="RTE One" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-one-uk.png?raw=true" group-title="Ireland"streamId="5500" channel-number="5500",RTE One
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTEOne%5BIreland%5D
-#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.1.HD.[Sport.1.HD].il" tvg-name="Yes Sport 1" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel",Yes Sport 1
+#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.1.HD.[Sport.1.HD].il" tvg-name="Yes Sport 1" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel"streamId="5300" channel-number="5300",Yes Sport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport1%5BIsrael%5D
-#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.2.HD.[Sport.2.HD].il" tvg-name="Yes Sport 2" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel",Yes Sport 2
+#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.2.HD.[Sport.2.HD].il" tvg-name="Yes Sport 2" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel"streamId="5300" channel-number="5500",Yes Sport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport2%5BIsrael%5D
-#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.3.HD.[Sport.3.HD].il" tvg-name="Yes Sport 3" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel",Yes Sport 3
+#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.3.HD.[Sport.3.HD].il" tvg-name="Yes Sport 3" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel"streamId="5300" channel-number="5500",Yes Sport 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport3%5BIsrael%5D
-#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.4.HD.[Sport.4.HD].il" tvg-name="Yes Sport 4" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel",Yes Sport 4
+#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.4.HD.[Sport.4.HD].il" tvg-name="Yes Sport 4" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel"streamId="5300" channel-number="5300",Yes Sport 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport4%5BIsrael%5D
-#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.5.×¤×œ×•×¡.il" tvg-name="Yes Sport 5" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel",Yes Sport 5
+#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.5.×¤×œ×•×¡.il" tvg-name="Yes Sport 5" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel"streamId="5300" channel-number="5300",Yes Sport 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport5%5BIsrael%5D
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/boomerang-it.png?raw=true" group-title="Italy",Boomerang
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FBoomerang%5BItaly%5D
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/cartoon-network-it.png?raw=true" group-title="Italy",Cartoon Network
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCartoonNetwork%5BItaly%5D
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/cartoon-network-it.png?raw=true" group-title="Italy",Cartoon Network Italy
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCartoonNetworkItaly%5BItaly%5D
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/eurosport-1-de.png?raw=true" group-title="Italy",Eurosport 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BItaly%5D
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/eurosport-2-de.png?raw=true" group-title="Italy",Eurosport 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BItaly%5D
-#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/history-channel-ar.png?raw=true" group-title="Italy",History
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FHistory%5BItaly%5D
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tudn-us.png?raw=true" group-title="Mexico",TUDN
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTUDN%5BMexico%5D
-#EXTINF:-1 tvg-id="ESPN.Deportes.us" tvg-name="ESPN Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-deportes-us.png?raw=true" group-title="Mexico",ESPN Deportes
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPNDeportes%5BMexico%5D
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-nz.png?raw=true" group-title="New Zealand",Sky Sport 1
+
+
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-nz.png?raw=true" group-title="New Zealand"streamId="5501" channel-number="5501",Sky Sport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BNewZealand%5D
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-nz.png?raw=true" group-title="New Zealand",Sky Sport 2
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-nz.png?raw=true" group-title="New Zealand"streamId="5500" channel-number="5502",Sky Sport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BNewZealand%5D
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="Sky Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-nz.png?raw=true" group-title="New Zealand",Sky Sport 3
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="Sky Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-nz.png?raw=true" group-title="New Zealand"streamId="5500" channel-number="5500",Sky Sport 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport3%5BNewZealand%5D
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="Sky Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-nz.png?raw=true" group-title="New Zealand",Sky Sport 4
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="Sky Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-nz.png?raw=true" group-title="New Zealand"streamId="5500" channel-number="5500",Sky Sport 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport4%5BNewZealand%5D
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-nz.png?raw=true" group-title="New Zealand",Sky Sport 5
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-nz.png?raw=true" group-title="New Zealand"streamId="5500" channel-number="5500",Sky Sport 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BNewZealand%5D
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="Sky Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-nz.png?raw=true" group-title="New Zealand",Sky Sport 6
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="Sky Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-nz.png?raw=true" group-title="New Zealand"streamId="5500" channel-number="5500",Sky Sport 6
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport6%5BNewZealand%5D
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-nz.png?raw=true" group-title="New Zealand",Sky Sport 7
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-nz.png?raw=true" group-title="New Zealand"streamId="5500" channel-number="5500",Sky Sport 7
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport7%5BNewZealand%5D
 #EXTINF:-1 tvg-id="GOLPERU.pe" tvg-name="GOL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/gol-tv-us.png?raw=true" group-title="Peru",GOL
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FGOL%5BPeru%5D
 #EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="Canal 11" tvg-logo="https://i.imgur.com/IbqT4bN.png" group-title="Portugal",Canal 11
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCanal11%5BPortugal%5D
-#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-1-pt.png?raw=true" group-title="Portugal",Eleven Sports 1
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-1-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Eleven Sports 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FElevenSports1%5BPortugal%5D
-#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-2-pt.png?raw=true" group-title="Portugal",Eleven Sports 2
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-2-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Eleven Sports 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FElevenSports2%5BPortugal%5D
-#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-3-pt.png?raw=true" group-title="Portugal",Eleven Sports 3
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-3-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Eleven Sports 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FElevenSports3%5BPortugal%5D
-#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-4-pt.png?raw=true" group-title="Portugal",Eleven Sports 4
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-4-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Eleven Sports 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FElevenSports4%5BPortugal%5D
-#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven Sports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-5-pt.png?raw=true" group-title="Portugal",Eleven Sports 5
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven Sports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-5-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Eleven Sports 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FElevenSports5%5BPortugal%5D
-#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="Eleven Sports 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-6-pt.png?raw=true" group-title="Portugal",Eleven Sports 6
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="Eleven Sports 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-6-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Eleven Sports 6
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FElevenSports6%5BPortugal%5D
-#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="Sport TV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="Portugal",Sport TV 1
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="Sport TV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Sport TV 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV1%5BPortugal%5D
-#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="Sport TV 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true" group-title="Portugal",Sport TV 2
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="Sport TV 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Sport TV 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV2%5BPortugal%5D
-#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="Sport TV 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true" group-title="Portugal",Sport TV 3
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="Sport TV 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Sport TV 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV3%5BPortugal%5D
-#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="Sport TV 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true" group-title="Portugal",Sport TV 4
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="Sport TV 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Sport TV 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV4%5BPortugal%5D
-#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="Sport TV 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true" group-title="Portugal",Sport TV 5
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="Sport TV 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Sport TV 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV5%5BPortugal%5D
-#EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="Sport TV 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true" group-title="Portugal",Sport TV 6
+#EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="Sport TV 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true" group-title="Portugal"streamId="5500" channel-number="5500",Sport TV 6
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV6%5BPortugal%5D
-#EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/antena-1-ro.png?raw=true" group-title="Romania",Antena 1
+#EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/antena-1-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Antena 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FAntena1%5BRomania%5D
-#EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="Digi Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-1-ro.png?raw=true" group-title="Romania",Digi Sport 1
+#EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="Digi Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-1-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Digi Sport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDigiSport1%5BRomania%5D
-#EXTINF:-1 tvg-id="DigiSport2(src01).ro" tvg-name="Digi Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-2-ro.png?raw=true" group-title="Romania",Digi Sport 2
+#EXTINF:-1 tvg-id="DigiSport2(src01).ro" tvg-name="Digi Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-2-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Digi Sport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDigiSport2%5BRomania%5D
-#EXTINF:-1 tvg-id="DigiSport3(src01).ro" tvg-name="Digi Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-3-ro.png?raw=true" group-title="Romania",Digi Sport 3
+#EXTINF:-1 tvg-id="DigiSport3(src01).ro" tvg-name="Digi Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-3-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Digi Sport 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDigiSport3%5BRomania%5D
-#EXTINF:-1 tvg-id="DigiSport4(src01).ro" tvg-name="Digi Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-4-ro.png?raw=true" group-title="Romania",Digi Sport 4
+#EXTINF:-1 tvg-id="DigiSport4(src01).ro" tvg-name="Digi Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-4-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Digi Sport 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDigiSport4%5BRomania%5D
-#EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-name="Eurosport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/eurosport-1-de.png?raw=true" group-title="Romania",Eurosport
+#EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-name="Eurosport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/eurosport-1-de.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Eurosport
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport%5BRomania%5D
-#EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/eurosport-2-de.png?raw=true" group-title="Romania",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/eurosport-2-de.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Eurosport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BRomania%5D
 #EXTINF:-1 tvg-id="Look.TV.ro" tvg-name="Look TV" tvg-logo="https://i.imgur.com/4erwM28.png" group-title="Romania",Look TV
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FLookTV%5BRomania%5D
-#EXTINF:-1 tvg-id="Orange.Sport.1.HD.ro" tvg-name="Orange Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-1-ro.png?raw=true" group-title="Romania",Orange Sport 1
+#EXTINF:-1 tvg-id="Orange.Sport.1.HD.ro" tvg-name="Orange Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-1-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Orange Sport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FOrangeSport1%5BRomania%5D
-#EXTINF:-1 tvg-id="Orange.Sport.2.HD.ro" tvg-name="Orange Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-2-ro.png?raw=true" group-title="Romania",Orange Sport 2
+#EXTINF:-1 tvg-id="Orange.Sport.2.HD.ro" tvg-name="Orange Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-2-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Orange Sport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FOrangeSport2%5BRomania%5D
-#EXTINF:-1 tvg-id="Orange.Sport.3.HD.ro" tvg-name="Orange Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-3-ro.png?raw=true" group-title="Romania",Orange Sport 3
+#EXTINF:-1 tvg-id="Orange.Sport.3.HD.ro" tvg-name="Orange Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-3-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Orange Sport 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FOrangeSport3%5BRomania%5D
-#EXTINF:-1 tvg-id="Orange.Sport.4.HD.ro" tvg-name="Orange Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-4-ro.png?raw=true" group-title="Romania",Orange Sport 4
+#EXTINF:-1 tvg-id="Orange.Sport.4.HD.ro" tvg-name="Orange Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-4-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Orange Sport 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FOrangeSport4%5BRomania%5D
-#EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="Prima Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-1-ro.png?raw=true" group-title="Romania",Prima Sport 1
+#EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="Prima Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-1-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Prima Sport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPrimaSport1%5BRomania%5D
-#EXTINF:-1 tvg-id="PrimaSport2(src01).ro" tvg-name="Prima Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-2-ro.png?raw=true" group-title="Romania",Prima Sport 2
+#EXTINF:-1 tvg-id="PrimaSport2(src01).ro" tvg-name="Prima Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-2-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Prima Sport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPrimaSport2%5BRomania%5D
-#EXTINF:-1 tvg-id="PrimaSport3(src01).ro" tvg-name="Prima Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-3-ro.png?raw=true" group-title="Romania",Prima Sport 3
+#EXTINF:-1 tvg-id="PrimaSport3(src01).ro" tvg-name="Prima Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-3-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Prima Sport 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPrimaSport3%5BRomania%5D
-#EXTINF:-1 tvg-id="PrimaSport4(src01).ro" tvg-name="Prima Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-4-ro.png?raw=true" group-title="Romania",Prima Sport 4
+#EXTINF:-1 tvg-id="PrimaSport4(src01).ro" tvg-name="Prima Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-4-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Prima Sport 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPrimaSport4%5BRomania%5D
-#EXTINF:-1 tvg-id="PROArena(src01).ro" tvg-name="Pro Arena" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/pro-arena-ro.png?raw=true" group-title="Romania",Pro Arena
+#EXTINF:-1 tvg-id="PROArena(src01).ro" tvg-name="Pro Arena" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/pro-arena-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Pro Arena
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FProArena%5BRomania%5D
-#EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="Pro TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/pro-tv-ro.png?raw=true" group-title="Romania",Pro TV
+#EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="Pro TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/pro-tv-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Pro TV
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FProTV%5BRomania%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Premium 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-icon-rs.png?raw=true" group-title="Serbia",Arena Premium 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Premium 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Premium 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaPremium1%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Premium 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-icon-rs.png?raw=true" group-title="Serbia",Arena Premium 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Premium 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Premium 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaPremium2%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Premium 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" group-title="Serbia",Arena Premium 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Premium 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Premium 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaPremium3%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-icon-rs.png?raw=true" group-title="Serbia",Arena Sport 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport1%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 10" tvg-logo="https://i.imgur.com/239Iw6U.png" group-title="Serbia",Arena Sport 10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 10" tvg-logo="https://i.imgur.com/239Iw6U.png" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 10
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport10%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-icon-rs.png?raw=true" group-title="Serbia",Arena Sport 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport2%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="Serbia",Arena Sport 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport3%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-icon-rs.png?raw=true" group-title="Serbia",Arena Sport 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport4%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-icon-rs.png?raw=true" group-title="Serbia",Arena Sport 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 5
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport5%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-icon-rs.png?raw=true" group-title="Serbia",Arena Sport 6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 6
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport6%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-7-icon-rs.png?raw=true" group-title="Serbia",Arena Sport 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-7-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 7
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport7%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-8-icon-rs.png?raw=true" group-title="Serbia",Arena Sport 8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-8-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 8
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport8%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 9" tvg-logo="https://i.imgur.com/wK2rCG6.png" group-title="Serbia",Arena Sport 9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 9" tvg-logo="https://i.imgur.com/wK2rCG6.png" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 9
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport9%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia",Sportklub
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia"streamId="5500" channel-number="5500",Sportklub
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 1" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia",Sportklub 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 1" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia"streamId="5500" channel-number="5500",Sportklub 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub1%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 2" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia",Sportklub 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 2" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia"streamId="5500" channel-number="5500",Sportklub 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub2%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 3" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia",Sportklub 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 3" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia"streamId="5500" channel-number="5500",Sportklub 3
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub3%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 4" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia",Sportklub 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 4" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia"streamId="5500" channel-number="5500",Sportklub 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub4%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub Fight" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia",Sportklub Fight
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub Fight" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia"streamId="5500" channel-number="5500",Sportklub Fight
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklubFight%5BSerbia%5D
-#EXTINF:-1 tvg-id="ACTION.za" tvg-name="Super Sport Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-action-za.png?raw=true" group-title="South Africa",Super Sport Action
+#EXTINF:-1 tvg-id="ACTION.za" tvg-name="Super Sport Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-action-za.png?raw=true" group-title="South Africa"streamId="5500" channel-number="5500",Super Sport Action
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportAction%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="Super Sport Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="South Africa",Super Sport Cricket
+#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="Super Sport Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="South Africa"streamId="5500" channel-number="5500",Super Sport Cricket
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportCricket%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="Super Sport Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-football-za.png?raw=true" group-title="South Africa",Super Sport Football
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="Super Sport Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-football-za.png?raw=true" group-title="South Africa"streamId="5500" channel-number="5500",Super Sport Football
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportFootball%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="GOLF.za" tvg-name="Super Sport Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-golf-za.png?raw=true" group-title="South Africa",Super Sport Golf
+#EXTINF:-1 tvg-id="GOLF.za" tvg-name="Super Sport Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-golf-za.png?raw=true" group-title="South Africa"streamId="5500" channel-number="5500",Super Sport Golf
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportGolf%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="Super Sport Grandstand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-grandstand-za.png?raw=true" group-title="South Africa",Super Sport Grandstand
+#EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="Super Sport Grandstand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-grandstand-za.png?raw=true" group-title="South Africa"streamId="5500" channel-number="5500",Super Sport Grandstand
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportGrandstand%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="Super Sport La Liga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="South Africa",Super Sport La Liga
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="Super Sport La Liga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="South Africa"streamId="5500" channel-number="5500",Super Sport La Liga
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportLaLiga%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-name="Super Sport Motorsport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="South Africa",Super Sport Motorsport
+#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-name="Super Sport Motorsport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="South Africa"streamId="5500" channel-number="5500",Super Sport Motorsport
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportMotorsport%5BSouthAfrica%5D
 #EXTINF:-1 tvg-id="SS.Premier.League.za" tvg-name="Super Sport Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title="South Africa",Super Sport Premier League
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportPremierLeague%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="PSL.za" tvg-name="Super Sport PSL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-psl-za.png?raw=true" group-title="South Africa",Super Sport PSL
+#EXTINF:-1 tvg-id="PSL.za" tvg-name="Super Sport PSL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-psl-za.png?raw=true" group-title="South Africa"streamId="5500" channel-number="5500",Super Sport PSL
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportPSL%5BSouthAfrica%5D
 #EXTINF:-1 tvg-id="RUGBY.za" tvg-name="Super Sport Rugby" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-rugby-za.png?raw=true" group-title="South Africa",Super Sport Rugby
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportRugby%5BSouthAfrica%5D
