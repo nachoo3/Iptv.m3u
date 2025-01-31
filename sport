@@ -1,17 +1,17 @@
 
 #EXTINF:-1 tvg-id="DAZN.1.HD.uk" tvg-name="DAZN 1UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dazn1-uk.png?raw=true" group-title="United Kingdom" streamId="5000" channel-number="5000",DAZN 1UK
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN1UK%5BUK%5D
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" group-title="United Kingdom"streamId="5001" channel-number="5001",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" group-title="United Kingdom"streamId=" 5001" channel-number="5001",Eurosport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BUK%5D
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="United Kingdom"streamId="5002" channel-number="5002",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="United Kingdom"streamId=" 5002" channel-number="5002",Eurosport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BUK%5D
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="United Kingdom"streamId="5003" channel-number="5003",ITV 4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="United Kingdom" streamId="5003" channel-number="5003",ITV 4
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FITV4%5BUK%5D
-#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="La Liga TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/laliga-tv-uk.png?raw=true" group-title="United Kingdom"streamId="5004" channel-number="5004",La Liga TV
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="La Liga TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/laliga-tv-uk.png?raw=true" group-title="United Kingdom"streamId=" 5004" channel-number="5004",La Liga TV
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FLaLigaTV%5BUK%5D
-#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png?raw=true" group-title="United Kingdom"streamId="5005" channel-number="5005",Premier Sports 1
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png?raw=true" group-title="United Kingdom"streamId=" 5005" channel-number="5005",Premier Sports 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPremierSports1%5BUK%5D
-#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true" group-title="United Kingdom"streamId="5006" channel-number="5006",Premier Sports 2
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true" group-title="United Kingdom"streamId=" 5006" channel-number="5006",Premier Sports 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPremierSports2%5BUK%5D
 #EXTINF:-1 tvg-id="Rally.TV.uk" tvg-name="Rally TV" tvg-logo="https://i.imgur.com/ZQJiQlX.png" group-title="United Kingdom",Rally TV
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRallyTV%5BUK%5D
