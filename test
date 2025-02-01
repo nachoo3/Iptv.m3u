@@ -1560,7 +1560,7 @@ https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 #EXTINF:-1 tvg-id="" tvg-name="internation Sport" tvg-logo="" group-title="SSC" streamId="627" channel-number="627",SSC 1
 https://puc1.mylife1.top:8088/live/syrialive5/playlist.m3u8?vidictid=200634037042&id=120660&pk=ca821d7873a889504b34d211910f3dc71f6d781bae4d5cb456f890eb362d00f6b29b20976e79fc61036757d0c145b482db0563f3c878b72e47d37311767d42ea
 
-#EXTINF:-1 tvg-id="DAZN.1.HD.uk" tvg-name="DAZN 1UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dazn1-uk.png?raw=true" group-title="United Kingdom" streamId="5000" channel-number="5000",DAZN 1UK
+#EXTINF:-1 tvg-id="DAZN.1.HD.uk" tvg-name="DAZN 1UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dazn1-uk.png?raw=true" group-title="United Kingdom" streamId="5404" channel-number="5404",DAZN 1UK
 https://topembed.pw/channel/DAZN1UK[UK]
 #EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" group-title="United Kingdom"streamId=" 5001" channel-number="5001",Eurosport 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BUK%5D
@@ -1870,11 +1870,11 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSu
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMovistarDeportes%5BSpain%5D
 #EXTINF:-1 tvg-id="M+.Ellas.V.es" tvg-name="Ellas Vamos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/ellas-vamos-por-movistar-plus-es.png?raw=true" group-title="Spain"streamId="" channel-number="",Ellas Vamos
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEllasVamos%5BSpain%5D
-#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="DAZN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true" group-title="Spain"streamId="" channel-number="",DAZN 1
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="DAZN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true" group-title="Spain"streamId="5303" channel-number="5303",DAZN 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN1%5BSpain%5D
-#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true" group-title="Spain"streamId="" channel-number="",DAZN 2
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true" group-title="Spain"streamId="5227" channel-number="5227",DAZN 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN2%5BSpain%5D
-#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-2-es.png?raw=true" group-title="Spain" streamId="" channel-number="",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-2-es.png?raw=true" group-title="Spain" streamId="5304" channel-number="5304",Eurosport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BSpain%5D
 
 
