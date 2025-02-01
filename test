@@ -1808,21 +1808,21 @@ https://topembed.pw/channel/ArenaSport3[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-icon-rs.png?raw=true" group-title="Serbia" streamId="5370" channel-number="5370",Arena Sport 1
 https://topembed.pw/channel/ArenaPremium1[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 10" tvg-logo="https://i.imgur.com/239Iw6U.png" group-title="Serbia" streamId="5500" channel-number="5500",Arena Sport 10
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport10%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-icon-rs.png?raw=true" group-title="Serbia" streamId="5500" channel-number="5500",Arena Sport 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport2%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="Serbia" streamId="5500" channel-number="5500",Arena Sport 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport3%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-icon-rs.png?raw=true" group-title="Serbia" streamId="5500" channel-number="5500",Arena Sport 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport4%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-icon-rs.png?raw=true" group-title="Serbia" streamId="5500" channel-number="5500",Arena Sport 5
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport5%5BSerbia%5D
+https://topembed.pw/channel/ArenaSport1[Serbia]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-icon-rs.png?raw=true" group-title="Serbia" streamId="5172" channel-number="5172",Arena Sport 2
+https://topembed.pw/channel/ArenaSport2[Serbia]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="Serbia" streamId="5127" channel-number="5127",Arena Sport 3
+https://topembed.pw/channel/ArenaSport3[Serbia]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-icon-rs.png?raw=true" group-title="Serbia" streamId="5142" channel-number="5142",Arena Sport 4
+https://topembed.pw/channel/ArenaSport4[Serbia]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-icon-rs.png?raw=true" group-title="Serbia" streamId="5165" channel-number="5165",Arena Sport 5
+https://topembed.pw/channel/ArenaSport5[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-icon-rs.png?raw=true" group-title="Serbia" streamId="5500" channel-number="5500",Arena Sport 6
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport6%5BSerbia%5D
+https://topembed.pw/channel/ArenaSport6[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-7-icon-rs.png?raw=true" group-title="Serbia"streamId="5500" channel-number="5500",Arena Sport 7
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport7%5BSerbia%5D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-8-icon-rs.png?raw=true" group-title="Serbia" streamId="5500" channel-number="5500",Arena Sport 8
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport8%5BSerbia%5D
+https://topembed.pw/channel/ArenaSport7[Serbia]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-8-icon-rs.png?raw=true" group-title="Serbia" streamId="5157" channel-number="5157",Arena Sport 8
+https://topembed.pw/channel/ArenaSport8[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 9" tvg-logo="https://i.imgur.com/wK2rCG6.png" group-title="Serbia" streamId="5500" channel-number="5500",Arena Sport 9
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport9%5BSerbia%5D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia" streamId="5500" channel-number="5500",Sportklub
