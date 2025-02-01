@@ -654,17 +654,7 @@ https://thetvapp.to/tv/outdoor-channel-live-stream/
 #EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="OWN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70388_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="207" channel-number="212",OWN
 https://thetvapp.to/tv/own-live-stream/
 
-#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen True Crime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="208" channel-number="213",Oxygen True Crime
-https://thetvapp.to/tv/oxygen-true-crime-live-stream/
 
-#EXTINF:-1 tvg-id="WNET.us" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="Live TV (TheTVApp)" streamId="496" channel-number="214",PBS 13 (WNET) New York
-https://thetvapp.to/tv/pbs-13-wnet-new-york-live-stream/
-
-#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="209" channel-number="215",ReelzChannel
-https://thetvapp.to/tv/reelzchannel-live-stream/
-
-#EXTINF:-1 tvg-id="Science.us" tvg-name="Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16616_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="210" channel-number="216",Science
-https://thetvapp.to/tv/science-live-stream/
 
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Live TV (TheTVApp)" streamId="211" channel-number="217",Showtime (E)
 https://thetvapp.to/tv/showtime-e-live-stream/
@@ -1599,7 +1589,7 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSk
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsPremierLeague%5BUK%5D
 #EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png?raw=true" group-title="United Kingdom" streamId="5016" channel-number="5016",Sky Sports Tennis
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsTennis%5BUK%5D
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="United Kingdom"streamId="5017" channel-number="5017",TNT Sports 1
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="United Kingdom" streamId="5017" channel-number="5017",TNT Sports 1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="United Kingdom" streamId="5018" channel-number="5018",TNT Sports 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
@@ -1625,51 +1615,51 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDA
 #EXTINF:-1 tvg-id="SkySportBundesliga.de" tvg-name="Sky Bundesliga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="Germany" streamId="5026" channel-number="5026",Sky Bundesliga
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga%5BGermany%5D
 #EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="Sky Bundesliga 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png?raw=true" group-title="Germany" streamId="5027" channel-number="5027",Sky Bundesliga 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga1%5BGermany%5D
+https://topembed.pw/channel/SkyBundesliga1[Germany]
 #EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-2-de.png?raw=true" group-title="Germany" streamId="5028" channel-number="5028",Sky Bundesliga 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga2%5BGermany%5D
+https://topembed.pw/channel/SkyBundesliga2[Germany]
 #EXTINF:-1 tvg-id="SkySportBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-3-de.png?raw=true" group-title="Germany" streamId="5029" channel-number="5029",Sky Bundesliga 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga3%5BGermany%5D
+https://topembed.pw/channel/SkyBundesliga3[Germany]
 #EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="Sky Bundesliga 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-4-de.png?raw=true" group-title="Germany" streamId="5030" channel-number="5030",Sky Bundesliga 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga4%5BGermany%5D
+https://topembed.pw/channel/SkyBundesliga4[Germany]
 #EXTINF:-1 tvg-id="SkySportBundesliga5.de" tvg-name="Sky Bundesliga 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-5-de.png?raw=true" group-title="Germany" streamId="5031" channel-number="5031",Sky Bundesliga 5
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga5%5BGermany%5D
+https://topembed.pw/channel/SkyBundesliga5[Germany]
 #EXTINF:-1 tvg-id="SkySportBundesliga6.de" tvg-name="Sky Bundesliga 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-6-de.png?raw=true" group-title="Germany" streamId="5032" channel-number="5032",Sky Bundesliga 6
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga6%5BGermany%5D
+https://topembed.pw/channel/SkyBundesliga6[Germany]
 #EXTINF:-1 tvg-id="SkySportBundesliga7.de" tvg-name="Sky Bundesliga 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-7-de.png?raw=true" group-title="Germany" streamId="5033" channel-number="5033",Sky Bundesliga 7
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga7%5BGermany%5D
+https://topembed.pw/channel/SkyBundesliga7[Germany]
 #EXTINF:-1 tvg-id="SkySportBundesliga8.de" tvg-name="Sky Bundesliga 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-8-de.png?raw=true" group-title="Germany" streamId="5034" channel-number="5034",Sky Bundesliga 8
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga8%5BGermany%5D
+https://topembed.pw/channel/SkyBundesliga8[Germany]
 #EXTINF:-1 tvg-id="SkySportBundesliga9.de" tvg-name="Sky Bundesliga 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-9-de.png?raw=true" group-title="Germany" streamId="5035" channel-number="5035",Sky Bundesliga 9
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga9%5BGermany%5D
+https://topembed.pw/channel/SkyBundesliga9[Germany]
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="Germany" streamId="5036" channel-number="5036",Sky Sport 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BDE%5D
+https://topembed.pw/channel/SkySport1[Germany]
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="Germany" streamId="5037" channel-number="5037",Sky Sport 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BGermany%5D
+https://topembed.pw/channel/SkySport1[Germany]
 #EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-10-de.png?raw=true" group-title="Germany" streamId="5038" channel-number="5038",Sky Sport 10
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport10%5BGermany%5D
+https://topembed.pw/channel/SkySport10[Germany]
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="Germany" streamId="5039" channel-number="5039",Sky Sport 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BDE%5D
+https://topembed.pw/channel/SkySport2[Germany]
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="Germany" streamId="5040" channel-number="5040",Sky Sport 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BGermany%5D
+https://topembed.pw/channel/SkySport2[Germany]
 #EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-3-de.png?raw=true" group-title="Germany" streamId="5041" channel-number="5041",Sky Sport 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport3%5BGermany%5D
+https://topembed.pw/channel/SkySport3[Germany]
 #EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-4-de.png?raw=true" group-title="Germany" streamId="5042" channel-number="5042",Sky Sport 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport4%5BGermany%5D
+https://topembed.pw/channel/SkySport4[Germany]
 #EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="Germany" streamId="5043" channel-number="5043",Sky Sport 5
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BDE%5D
+https://topembed.pw/channel/SkySport5[Germany]
 #EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="Germany" streamId="5044" channel-number="5044",Sky Sport 5
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BGermany%5D
+https://topembed.pw/channel/SkySport5[Germany]
 #EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-6-de.png?raw=true" group-title="Germany" streamId="5045" channel-number="5045",Sky Sport 6
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport6%5BGermany%5D
+https://topembed.pw/channel/SkySport6[Germany]
 #EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="Germany" streamId="5046" channel-number="5046",Sky Sport 7
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport7%5BDE%5D
+https://topembed.pw/channel/SkySport7[Germany]
 #EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="Germany"streamId="5047" channel-number="5047",Sky Sport 7
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport7%5BGermany%5D
+https://topembed.pw/channel/SkySport7[Germany]
 #EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-8-de.png?raw=true" group-title="Germany" streamId="5048" channel-number="5048",Sky Sport 8
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport8%5BGermany%5D
+https://topembed.pw/channel/SkySport8[Germany]
 #EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-9-de.png?raw=true" group-title="Germany" streamId="5049" channel-number="5049",Sky Sport 9
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport9%5BGermany%5D
+https://topembed.pw/channel/SkySport9[Germany]
 #EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-de.png?raw=true" group-title="Germany" streamId="5050" channel-number="5050",Sky Sport Tennis
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportTennis%5BDE%5D
 #EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-de.png?raw=true" group-title="Germany" streamId="5051" channel-number="5051",Sky Sport Tennis
@@ -1690,54 +1680,53 @@ https://topembed.pw/channel/CosmoteSport4[Greece]
 https://topembed.pw/channel/CosmoteSport5[Greece]
 #EXTINF:-1 tvg-id="COSMOTE.SPORT.6HD.gr" tvg-name="Cosmote Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="Greece" streamId="5059" channel-number="5059",Cosmote Sport 6
 https://topembed.pw/channel/CosmoteSport6[Greece]
-#EXTINF:-1 tvg-id="COSMOTE.SPORT.7HD.gr" tvg-name="Cosmote Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="Greece"streamId="5030" channel-number="5030",Cosmote Sport 7
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.7HD.gr" tvg-name="Cosmote Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="Greece" streamId="5030" channel-number="5030",Cosmote Sport 7
 https://topembed.pw/channel/CosmoteSport7[Greece]
 #EXTINF:-1 tvg-id="COSMOTE.SPORT.8HD.gr" tvg-name="Cosmote Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="Greece" streamId="5061" channel-number="5061",Cosmote Sport 8
 https://topembed.pw/channel/CosmoteSport8[Greece]
 #EXTINF:-1 tvg-id="COSMOTE.SPORT.9HD.gr" tvg-name="Cosmote Sport 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-9-gr.png?raw=true" group-title="Greece" streamId="5215" channel-number="5215",Cosmote Sport 9
 https://topembed.pw/channel/CosmoteSport9[Greece]
 #EXTINF:-1 tvg-id="novasports1(src01).gr" tvg-name="Nova Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-1-gr.png?raw=true" group-title="Greece" streamId="5063" channel-number="5063",Nova Sports 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports1%5BGreece%5D
+https://topembed.pw/channel/NovaSports1[Greece]
 #EXTINF:-1 tvg-id="novasports2(src01).gr" tvg-name="Nova Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-2-gr.png?raw=true" group-title="Greece" streamId="5064" channel-number="5064",Nova Sports 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports2%5BGreece%5D
+https://topembed.pw/channel/NovaSports2[Greece]
 #EXTINF:-1 tvg-id="novasports3(src01).gr" tvg-name="Nova Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-3-gr.png?raw=true" group-title="Greece" streamId="5065" channel-number="5065",Nova Sports 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports3%5BGreece%5D
+https://topembed.pw/channel/NovaSports3[Greece]
 #EXTINF:-1 tvg-id="novasports4(src01).gr" tvg-name="Nova Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-4-gr.png?raw=true" group-title="Greece" streamId="5066" channel-number="5066",Nova Sports 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports4%5BGreece%5D
+https://topembed.pw/channel/NovaSports4[Greece]
 #EXTINF:-1 tvg-id="novasports5(src01).gr" tvg-name="Nova Sports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-5-gr.png?raw=true" group-title="Greece" streamId="5067" channel-number="5067",Nova Sports 5
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports5%5BGreece%5D
+https://topembed.pw/channel/NovaSports5[Greece]
 #EXTINF:-1 tvg-id="Novasports6(src01).gr" tvg-name="Nova Sports 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-6-gr.png?raw=true" group-title="Greece" streamId="5068" channel-number="5068",Nova Sports 6
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSports6%5BGreece%5D
+https://topembed.pw/channel/NovaSports6[Greece]
 #EXTINF:-1 tvg-id="NovasportsStart(src01).gr" tvg-name="Nova Sports Start" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-start-gr.png?raw=true" group-title="Greece" streamId="5069" channel-number="5069",Nova Sports Start
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNovaSportsStart%5BGreece%5D
-#EXTINF:-1 tvg-id="RTE.One.HD.ie" tvg-name="RTE One" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-one-uk.png?raw=true" group-title="Ireland" streamId="5070" channel-number="5070",RTE One
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTEOne%5BIreland%5D
-#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.1.HD.[Sport.1.HD].il" tvg-name="Yes Sport 1" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title=" Israel"streamId="5071" channel-number="5071",Yes Sport 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport1%5BIsrael%5D
-#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.2.HD.[Sport.2.HD].il" tvg-name="Yes Sport 2" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title=" Israel"streamId="5072" channel-number="5072",Yes Sport 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport2%5BIsrael%5D
-#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.3.HD.[Sport.3.HD].il" tvg-name="Yes Sport 3" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title=" Israel"streamId="5073" channel-number="5073",Yes Sport 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport3%5BIsrael%5D
-#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.4.HD.[Sport.4.HD].il" tvg-name="Yes Sport 4" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title=" Israel"streamId="5074" channel-number="5074",Yes Sport 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport4%5BIsrael%5D
+https://topembed.pw/channel/NovaSportsStart[Greece]
+
+#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.1.HD.[Sport.1.HD].il" tvg-name="Yes Sport 1" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title=" Israel" streamId="5071" channel-number="5071",Yes Sport 1
+https://topembed.pw/channel/YesSport1[Israel]
+#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.2.HD.[Sport.2.HD].il" tvg-name="Yes Sport 2" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title=" Israel" streamId="5072" channel-number="5072",Yes Sport 2
+https://topembed.pw/channel/YesSport2[Israel]
+#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.3.HD.[Sport.3.HD].il" tvg-name="Yes Sport 3" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title=" Israel "streamId="5073" channel-number="5073",Yes Sport 3
+https://topembed.pw/channel/YesSport3[Israel]
+#EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.4.HD.[Sport.4.HD].il" tvg-name="Yes Sport 4" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title=" Israel "streamId="5074" channel-number="5074",Yes Sport 4
+https://topembed.pw/channel/YesSport4[Israel]
 #EXTINF:-1 tvg-id="×¡×¤×•×¨×˜.5.×¤×œ×•×¡.il" tvg-name="Yes Sport 5" tvg-logo="https://i.imgur.com/TGwBGZN.png" group-title="Israel" streamId="5075" channel-number="5074",Yes Sport 5
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYesSport5%5BIsrael%5D
+https://topembed.pw/channel/YesSport5[Israel]
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-nz.png?raw=true" group-title="New Zealand" streamId="5075" channel-number="5075",Sky Sport 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BNewZealand%5D
+https://topembed.pw/channel/SkySport1[NewZealand]
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-nz.png?raw=true" group-title="New Zealand" streamId="5076" channel-number="5076",Sky Sport 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BNewZealand%5D
+https://topembed.pw/channel/SkySport2[NewZealand]
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="Sky Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-nz.png?raw=true" group-title="New Zealand" streamId="5077" channel-number="5077",Sky Sport 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport3%5BNewZealand%5D
+https://topembed.pw/channel/SkySport3[NewZealand]
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="Sky Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-nz.png?raw=true" group-title="New Zealand" streamId="5078" channel-number="5078",Sky Sport 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport4%5BNewZealand%5D
+https://topembed.pw/channel/SkySport4[NewZealand]
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-nz.png?raw=true" group-title="New Zealand" streamId="5079" channel-number="5079",Sky Sport 5
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BNewZealand%5D
+https://topembed.pw/channel/SkySport5[NewZealand]
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="Sky Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-nz.png?raw=true" group-title="New Zealand" streamId="5080" channel-number="5080",Sky Sport 6
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport6%5BNewZealand%5D
+https://topembed.pw/channel/SkySport6[NewZealand]
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-nz.png?raw=true" group-title="New Zealand" streamId="5081" channel-number="5081",Sky Sport 7
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport7%5BNewZealand%5D
+https://topembed.pw/channel/SkySport7[NewZealand]
 
 #EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-1-pt.png?raw=true" group-title="Portugal" streamId="5379" channel-number="5379",Eleven Sports 1
 https://topembed.pw/channel/ElevenSports1[Portugal]
@@ -1752,19 +1741,18 @@ https://topembed.pw/channel/ElevenSports5[Portugal]
 #EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="Eleven Sports 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-6-pt.png?raw=true" group-title="Portugal" streamId="5087" channel-number="5087",Eleven Sports 6
 https://topembed.pw/channel/ElevenSports6[Portugal]
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="Sport TV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="Portugal" streamId="5377" channel-number="5377",Sport TV 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV1%5BPortugal%5D
+https://topembed.pw/channel/SportTV1[Portugal]
 #EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="Sport TV 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true" group-title="Portugal" streamId="5089" channel-number="5089",Sport TV 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV2%5BPortugal%5D
+https://topembed.pw/channel/SportTV2[Portugal]
 #EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="Sport TV 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true" group-title="Portugal" streamId="5392" channel-number="5392",Sport TV 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV3%5BPortugal%5D
+https://topembed.pw/channel/SportTV3[Portugal]
 #EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="Sport TV 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true" group-title="Portugal" streamId="5091" channel-number="5091",Sport TV 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV4%5BPortugal%5D
+https://topembed.pw/channel/SportTV4[Portugal]
 #EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="Sport TV 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true" group-title="Portugal" streamId="5373" channel-number="5373",Sport TV 5
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV5%5BPortugal%5D
+https://topembed.pw/channel/SportTV5[Portugal]
 #EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="Sport TV 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true" group-title="Portugal" streamId="5093" channel-number="5093",Sport TV 6
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV6%5BPortugal%5D
-#EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/antena-1-ro.png?raw=true" group-title="Romania" streamId="5094" channel-number="5094",Antena 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FAntena1%5BRomania%5D
+https://topembed.pw/channel/SportTV6[Portugal]
+
 #EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="Digi Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-1-ro.png?raw=true" group-title="Romania" streamId="5349" channel-number="5349",Digi Sport 1
 https://topembed.pw/channel/DigiSport1[Romania]
 #EXTINF:-1 tvg-id="DigiSport2(src01).ro" tvg-name="Digi Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-2-ro.png?raw=true" group-title="Romania" streamId="5231" channel-number="5231",Digi Sport 2
@@ -1773,28 +1761,23 @@ https://topembed.pw/channel/DigiSport2[Romania]
 https://topembed.pw/channel/DigiSport3[Romania]
 #EXTINF:-1 tvg-id="DigiSport4(src01).ro" tvg-name="Digi Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/digi-sport-4-ro.png?raw=true" group-title="Romania" streamId="5098" channel-number="5098",Digi Sport 4
 https://topembed.pw/channel/DigiSport4[Romania]
-#EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-name="Eurosport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/eurosport-1-de.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Eurosport
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport%5BRomania%5D
-#EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/eurosport-2-de.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Eurosport 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BRomania%5D
-#EXTINF:-1 tvg-id="Look.TV.ro" tvg-name="Look TV" tvg-logo="https://i.imgur.com/4erwM28.png" group-title="Romania",Look TV
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FLookTV%5BRomania%5D
-#EXTINF:-1 tvg-id="Orange.Sport.1.HD.ro" tvg-name="Orange Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-1-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Orange Sport 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FOrangeSport1%5BRomania%5D
-#EXTINF:-1 tvg-id="Orange.Sport.2.HD.ro" tvg-name="Orange Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-2-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Orange Sport 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FOrangeSport2%5BRomania%5D
-#EXTINF:-1 tvg-id="Orange.Sport.3.HD.ro" tvg-name="Orange Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-3-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Orange Sport 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FOrangeSport3%5BRomania%5D
-#EXTINF:-1 tvg-id="Orange.Sport.4.HD.ro" tvg-name="Orange Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-4-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Orange Sport 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FOrangeSport4%5BRomania%5D
-#EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="Prima Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-1-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Prima Sport 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPrimaSport1%5BRomania%5D
-#EXTINF:-1 tvg-id="PrimaSport2(src01).ro" tvg-name="Prima Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-2-ro.png?raw=true" group-title="Romania"streamId="5500" channel-number="5500",Prima Sport 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPrimaSport2%5BRomania%5D
+
+#EXTINF:-1 tvg-id="Orange.Sport.1.HD.ro" tvg-name="Orange Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-1-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Orange Sport 1
+https://topembed.pw/channel/OrangeSport1[Romania]
+#EXTINF:-1 tvg-id="Orange.Sport.2.HD.ro" tvg-name="Orange Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-2-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Orange Sport 2
+https://topembed.pw/channel/OrangeSport2[Romania]
+#EXTINF:-1 tvg-id="Orange.Sport.3.HD.ro" tvg-name="Orange Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-3-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Orange Sport 3
+https://topembed.pw/channel/OrangeSport3[Romania]
+#EXTINF:-1 tvg-id="Orange.Sport.4.HD.ro" tvg-name="Orange Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/orange-sport-4-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Orange Sport 4
+https://topembed.pw/channel/OrangeSport4[Romania]
+#EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="Prima Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-1-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Prima Sport 1
+https://topembed.pw/channel/PrimaSport1[Romania]
+#EXTINF:-1 tvg-id="PrimaSport2(src01).ro" tvg-name="Prima Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-2-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Prima Sport 2
+https://topembed.pw/channel/PrimaSport2[Romania]
 #EXTINF:-1 tvg-id="PrimaSport3(src01).ro" tvg-name="Prima Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-3-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Prima Sport 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPrimaSport3%5BRomania%5D
+https://topembed.pw/channel/PrimaSport3[Romania]
 #EXTINF:-1 tvg-id="PrimaSport4(src01).ro" tvg-name="Prima Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/prima-sport-4-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Prima Sport 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPrimaSport4%5BRomania%5D
+https://topembed.pw/channel/PrimaSport4[Romania]
 #EXTINF:-1 tvg-id="PROArena(src01).ro" tvg-name="Pro Arena" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/pro-arena-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Pro Arena
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FProArena%5BRomania%5D
 #EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="Pro TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/pro-tv-ro.png?raw=true" group-title="Romania" streamId="5500" channel-number="5500",Pro TV
@@ -1826,17 +1809,17 @@ https://topembed.pw/channel/ArenaSport8[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 9" tvg-logo="https://i.imgur.com/wK2rCG6.png" group-title="Serbia" streamId="5500" channel-number="5500",Arena Sport 9
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport9%5BSerbia%5D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia" streamId="5500" channel-number="5500",Sportklub
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub%5BSerbia%5D
+https://topembed.pw/channel/Sportklub[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 1" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia" streamId="5500" channel-number="5500",Sportklub 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub1%5BSerbia%5D
+https://topembed.pw/channel/Sportklub1[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 2" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia" streamId="5500" channel-number="5500",Sportklub 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub2%5BSerbia%5D
+https://topembed.pw/channel/Sportklub2[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 3" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia" streamId="5500" channel-number="5500",Sportklub 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub3%5BSerbia%5D
+https://topembed.pw/channel/Sportklub3[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub 4" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia" streamId="5500" channel-number="5500",Sportklub 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub4%5BSerbia%5D
+https://topembed.pw/channel/Sportklub4[Serbia]
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub Fight" tvg-logo="https://i.imgur.com/dHior2I.png" group-title="Serbia"streamId="5500" channel-number="5500",Sportklub Fight
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklubFight%5BSerbia%5D
+https://topembed.pw/channel/Sportklub1[Serbia]
 #EXTINF:-1 tvg-id="ACTION.za" tvg-name="Super Sport Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-action-za.png?raw=true" group-title="South Africa" streamId="5500" channel-number="5500",Super Sport Action
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportAction%5BSouthAfrica%5D
 #EXTINF:-1 tvg-id="CRICKET.za" tvg-name="Super Sport Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="South Africa" streamId="5500" channel-number="5500",Super Sport Cricket
@@ -1848,7 +1831,7 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSu
 #EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="Super Sport Grandstand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-grandstand-za.png?raw=true" group-title="South Africa" streamId="5500" channel-number="5500",Super Sport Grandstand
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportGrandstand%5BSouthAfrica%5D
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="Super Sport La Liga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="South Africa" streamId="5371" channel-number="5371",Super Sport La Liga
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportLaLiga%5BSouthAfrica%5D
+https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica]
 #EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-name="Super Sport Motorsport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="South Africa" streamId="5500" channel-number="5500",Super Sport Motorsport
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportMotorsport%5BSouthAfrica%5D
 #EXTINF:-1 tvg-id="SS.Premier.League.za" tvg-name="Super Sport Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title=" South Africa",Super Sport Premier League
@@ -1859,15 +1842,15 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSu
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportRugby%5BSouthAfrica%5D
 #EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Super Sport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-tennis-za.png?raw=true" group-title="South Africa",Super Sport Tennis
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportTennis%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="VARIETY.1.za" tvg-name="Super Sport Variety 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-variety1-za.png?raw=true" group-title="South Africa" streamId="" channel-number="",Super Sport Variety 1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportVariety1%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="VARIETY.2.za" tvg-name="Super Sport Variety 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-variety2-za.png?raw=true" group-title="South Africa" streamId="" channel-number="",Super Sport Variety 2
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportVariety2%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="VARIETY.3.za" tvg-name="Super Sport Variety 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-variety3-za.png?raw=true" group-title="South Africa" streamId="" channel-number="",Super Sport Variety 3
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportVariety3%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="VARIETY.4.za" tvg-name="Super Sport Variety 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-variety4-za.png?raw=true" group-title="South Africa" streamId="" channel-number="",Super Sport Variety 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportVariety4%5BSouthAfrica%5D
-#EXTINF:-1 tvg-id="M+.Deportes.es" tvg-name="Movistar Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/movistar-plus-es.png?raw=true" group-title="Spain" streamId="" channel-number="",Movistar Deportes
+#EXTINF:-1 tvg-id="VARIETY.1.za" tvg-name="Super Sport Variety 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-variety1-za.png?raw=true" group-title="South Africa" streamId="5326" channel-number="5236",Super Sport Variety 1
+https://topembed.pw/channel/SuperSportVariety1[SouthAfrica]
+#EXTINF:-1 tvg-id="VARIETY.2.za" tvg-name="Super Sport Variety 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-variety2-za.png?raw=true" group-title="South Africa" streamId="5297" channel-number="5297",Super Sport Variety 2
+https://topembed.pw/channel/SuperSportVariety2[SouthAfrica]
+#EXTINF:-1 tvg-id="VARIETY.3.za" tvg-name="Super Sport Variety 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-variety3-za.png?raw=true" group-title="South Africa" streamId="5197" channel-number="5197",Super Sport Variety 3
+https://topembed.pw/channel/SuperSportVariety3[SouthAfrica]
+#EXTINF:-1 tvg-id="VARIETY.4.za" tvg-name="Super Sport Variety 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-variety4-za.png?raw=true" group-title="South Africa" streamId="5184" channel-number="5184",Super Sport Variety 4
+https://topembed.pw/channel/SuperSportVariety4[SouthAfrica]
+#EXTINF:-1 tvg-id="M+.Deportes.es" tvg-name="Movistar Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/movistar-plus-es.png?raw=true" group-title="Spain" streamId="5481" channel-number="5481",Movistar Deportes
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMovistarDeportes%5BSpain%5D
 #EXTINF:-1 tvg-id="M+.Ellas.V.es" tvg-name="Ellas Vamos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/ellas-vamos-por-movistar-plus-es.png?raw=true" group-title="Spain" streamId="5398" channel-number="",Ellas Vamos
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEllasVamos%5BSpain%5D
@@ -1882,13 +1865,13 @@ https://topembed.pw/channel/BeinSports1[Arab]
 #EXTINF:-1 tvg-id="BeinSports2" tvg-name="BeinSports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5179" channel-number="5179",Bein Sports 2
 https://topembed.pw/channel/BeinSports2[Arab]
 #EXTINF:-1 tvg-id="BeinSports3" tvg-name="BeinSports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-1.png?raw=true" group-title="Arab" streamId="5180" channel-number="5180",Bein Sports 3
-https://topembed.pw/channel/BeinSports3[Arab]
+https://topembed.pw/channel/BeinSports1[Arab]
 #EXTINF:-1 tvg-id="BeinSports4" tvg-name="BeinSports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5181" channel-number="5181",Bein Sports 4
-https://topembed.pw/channel/BeinSports4[Arab]
+https://topembed.pw/channel/BeinSports2[Arab]
 #EXTINF:-1 tvg-id="BeinSports5" tvg-name="BeinSports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-1.png?raw=true" group-title="Arab" streamId="5182" channel-number="5182",Bein Sports 5
-https://topembed.pw/channel/BeinSports5[Arab]
+https://topembed.pw/channel/BeinSports1[Arab]
 #EXTINF:-1 tvg-id="BeinSports6" tvg-name="BeinSports 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5183" channel-number="5183",Bein Sports 6
-https://topembed.pw/channel/BeinSports6[Arab]
+https://topembed.pw/channel/BeinSports7[Arab]
 #[TOP_EMBED_SPORTS]#
 
 #[PLUTO_TV]#
