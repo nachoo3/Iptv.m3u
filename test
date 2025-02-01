@@ -1877,10 +1877,18 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDA
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN2%5BSpain%5D
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-2-es.png?raw=true" group-title="Spain" streamId="5304" channel-number="5304",Eurosport 2
 https://topembed.pw/channel/Eurosport2[Spain]
-#EXTINF:-1 tvg-id="BeinSports1" tvg-name="BeinSports1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-1.png?raw=true" group-title="Arab" streamId="5178" channel-number="5178",Bein Sports1
+#EXTINF:-1 tvg-id="BeinSports1" tvg-name="BeinSports1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-1.png?raw=true" group-title="Arab" streamId="5178" channel-number="5178",Bein Sports 1
 https://topembed.pw/channel/BeinSports1[Arab]
 #EXTINF:-1 tvg-id="BeinSports2" tvg-name="BeinSports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5179" channel-number="5179",Bein Sports 2
 https://topembed.pw/channel/BeinSports2[Arab]
+#EXTINF:-1 tvg-id="BeinSports3" tvg-name="BeinSports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-1.png?raw=true" group-title="Arab" streamId="5180" channel-number="5180",Bein Sports 3
+https://topembed.pw/channel/BeinSports1[Arab]
+#EXTINF:-1 tvg-id="BeinSports4" tvg-name="BeinSports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5181" channel-number="5181",Bein Sports 4
+https://topembed.pw/channel/BeinSports2[Arab]
+#EXTINF:-1 tvg-id="BeinSports5" tvg-name="BeinSports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-1.png?raw=true" group-title="Arab" streamId="5182" channel-number="5182",Bein Sports 5
+https://topembed.pw/channel/BeinSports1[Arab]
+#EXTINF:-1 tvg-id="BeinSports6" tvg-name="BeinSports 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5183" channel-number="5183",Bein Sports 6
+https://topembed.pw/channel/BeinSports7[Arab]
 #[TOP_EMBED_SPORTS]#
 
 #[PLUTO_TV]#
