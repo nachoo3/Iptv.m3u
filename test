@@ -1567,7 +1567,7 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEu
 #EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="United Kingdom"streamId=" 5002" channel-number="5002",Eurosport 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BUK%5D
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="United Kingdom" streamId="5003" channel-number="5003",ITV 4
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FITV4%5BUK%5D
+https://topembed.pw/channel/ITV4[UK]
 #EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="La Liga TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/laliga-tv-uk.png?raw=true" group-title="United Kingdom"streamId=" 5004" channel-number="5004",La Liga TV
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FLaLigaTV%5BUK%5D
 #EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png?raw=true" group-title="United Kingdom"streamId=" 5005" channel-number="5005",Premier Sports 1
@@ -1875,7 +1875,7 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDA
 #EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true" group-title="Spain"streamId="5227" channel-number="5227",DAZN 2
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN2%5BSpain%5D
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-2-es.png?raw=true" group-title="Spain" streamId="5304" channel-number="5304",Eurosport 2
-https://topembed.pw/channel/BeinSports1[Arab]
+https://topembed.pw/channel/Eurosport2[Spain]
 
 
 #[TOP_EMBED_SPORTS]#
