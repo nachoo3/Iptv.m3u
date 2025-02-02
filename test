@@ -1864,14 +1864,10 @@ https://topembed.pw/channel/Eurosport2[Spain]
 https://topembed.pw/channel/BeinSports1[Arab]
 #EXTINF:-1 tvg-id="BeinSports2" tvg-name="BeinSports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5179" channel-number="5179",Bein Sports 2
 https://topembed.pw/channel/BeinSports2[Arab]
-#EXTINF:-1 tvg-id="BeinSports3" tvg-name="BeinSports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-1.png?raw=true" group-title="Arab" streamId="5180" channel-number="5180",Bein Sports 3
-https://topembed.pw/channel/BeinSports1[Arab]
-#EXTINF:-1 tvg-id="BeinSports4" tvg-name="BeinSports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5181" channel-number="5181",Bein Sports 4
-https://topembed.pw/channel/BeinSports2[Arab]
-#EXTINF:-1 tvg-id="BeinSports5" tvg-name="BeinSports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-1.png?raw=true" group-title="Arab" streamId="5182" channel-number="5182",Bein Sports 5
-https://topembed.pw/channel/BeinSports1[Arab]
-#EXTINF:-1 tvg-id="BeinSports6" tvg-name="BeinSports 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5183" channel-number="5183",Bein Sports 6
-https://topembed.pw/channel/BeinSports7[Arab]
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Arabic Sports",Abu Dhabi Sports 1 (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Arabic Sports",Abu Dhabi Sports 2 (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #[TOP_EMBED_SPORTS]#
 
 #[PLUTO_TV]#
