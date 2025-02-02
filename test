@@ -1864,7 +1864,7 @@ https://topembed.pw/channel/Eurosport2[Spain]
 https://topembed.pw/channel/BeinSports1[Arab]
 #EXTINF:-1 tvg-id="BeinSports2" tvg-name="BeinSports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/arab/beinsport-2.png?raw=true" group-title="Arab" streamId="5179" channel-number="5179",Bein Sports 2
 https://topembed.pw/channel/BeinSports2[Arab]
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae"tvg-name="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Arabic Sports"  channel-number="6000",Abu Dhabi Sports 1 (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae"tvg-name="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Arabic Sports" ,Abu Dhabi Sports 1 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Arabic Sports" channel-number="6001",Abu Dhabi Sports 2 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
