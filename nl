@@ -11,7 +11,8 @@
         "category_id": 8553,
         "container_extension": "mp4",
         "custom_sid": null,
-        "direct_source": "df50df9d12525af720a79534ba191028",
+        "direct_source": "https://master.c.scdns.io/stream/v2/OPgbelgcfh0nCcYT76z_kA/1738739317/normal/0/176.9.113.53/no/df50df9d12525af720a79534ba191028/www.faselhds.care/master.m3u8
+",
         "plot": null,
         "backdrop_path": "",
         "group": "All Movies",
