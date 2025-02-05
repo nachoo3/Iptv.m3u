@@ -1,9 +1,9 @@
 [
     {
-        "num": 568124,
+        "num": 1000000001,
         "name": "\u0641\u064a\u0644\u0645 Encanto 2021 \u0645\u062a\u0631\u062c\u0645",
         "stream_type": "movie",
-        "stream_id": 568124,
+        "stream_id": 1000000001,
         "stream_icon": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
         "rating": 0,
         "rating_5based": 0,
@@ -11,8 +11,7 @@
         "category_id": 8553,
         "container_extension": "mp4",
         "custom_sid": null,
-        "direct_source": "https://master.c.scdns.io/stream/v2/OPgbelgcfh0nCcYT76z_kA/1738739317/normal/0/176.9.113.53/no/df50df9d12525af720a79534ba191028/www.faselhds.care/master.m3u8
-",
+        "direct_source": "[[SERVER_URL]]\/play.php?movieId=1000000001",
         "plot": null,
         "backdrop_path": "",
         "group": "All Movies",
