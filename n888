@@ -1167,180 +1167,6 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|🇫🇷 INFORMATION",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO:
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL TV LIBERTÉS
-https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?variant_version=1&tag=14
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV -1H
-https://tvradiozap.eu/tools/mng-m3u8.php/936.1/60/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
-https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png",LCP-AN
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/dmotion/py/lcpan/lcp1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0pH2kRYr/lcpps.png",LCP/PS
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpTLsj47/psenat.png",PUBLIC-SÉNAT
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2
-https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg",BFM GRAND REPORTAGES
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg",RMC TALK INFO
-https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO IDF
-https://static.lefigaro.fr/secom/tnt.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO LIVE
-https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/fa5bf751-4c1a-465b-97bd-1fa62e8a7d00/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR
-https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png",CGTN FRANÇAIS
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 LES NEWS BE
-https://live-ln24.digiteka.com/1911668011/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png",MONACO INFO
-https://webtv.monacoinfo.com/live/prod/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",RDI CANADA
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pdnMrZn/a24.png",AFRICA 24 FR
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png",AFRICANEWS FR
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png",B SMART
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG FR
-https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG PLUS FR
-https://cd0ccbe625b34fcb91d4c0060dab13d7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Bloomberg-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cCXgWWw/tvfinance.jpg",TV FINANCE
-https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS IR FRENCH [temp barker]
-https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT FRANÇAIS [censure-blocked]
-https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT FRANÇAIS [censure-blocked]
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT FRANÇAIS [censure-blocked]
-http://69.64.57.208:8080/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT FRANÇAIS [censure-blocked]
-https://librarian.pussthecat.org/live/content/a6a125c99ba2a6c068a8b502fb08dda603f6f03a/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
-https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
-https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (backup)
-https://d3sp7wui50dz5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxxit4lrci140/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (backup)
-https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
-#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO (backup)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7433
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
-https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
-https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
-https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
-https://jmp2.uk/sam-FR2600004SS.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
-https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
-https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/euronews-fr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35bcaf1ff4a00078af0a6livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: (backup)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frinnv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: (backup)
-https://livestream.zazerconer.workers.dev/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: (backup)
-https://new.cache-stream.workers.dev/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: (backup)
-https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: (backup-off)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/frinfo/frinfo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: [find-host]
-https://PuthereYourserverHostaddress/frijsoncurl.php?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/f24fr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup)
-https://arkina1234.github.io/ext/hls/france24-fr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup)
-https://ythls-v3.onrender.com/video/l8PMl7tUDIE.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup)
-https://new.cache-stream.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup-off)
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO (backup)
-https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (backup)
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (backup)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-v3-hd-clair/cnews-clair-ad-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015.p-cdnlive-edge020411-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV (backup)
-https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV (backup)
-https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup)
-https://new.cache-stream.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png",LCP-AN (backup)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/LCP.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO IDF (backup)
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png",CGTN FRANÇAIS (backup)
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png",CGTN FRANÇAIS (backup)
-https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png",RDI CANADA (backup)
-https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png",AFRICANEWS FR (backup)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10951
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png",AFRICANEWS FR (backup)
-https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/44d3df93-4a3e-43e0-990f-a5d196bbe3aa/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI [tkn-blocked]
-https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="Saudi",AL ALARABY 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
@@ -1736,7 +1562,7 @@ https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",MBC 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="SAUDI",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png",MBC 1
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
@@ -2021,80 +1847,6 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1 [offlink]
 https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 
-#EXTINF:-1 tvg-id="Ssc Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc News 
-http://5.62.130.10/iptv/iptv/1.m3u8
-#EXTINF:-1 tvg-id="Ssc Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc Extra 1 
-http://5.62.130.10/iptv/iptv/2.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc eXTRA 2
-http://5.62.130.10/iptv/iptv/3.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc  1
-http://5.62.130.10/iptv/iptv/11.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc 1 SD
-http://5.62.130.10/iptv/iptv/16.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc  2
-http://5.62.130.10/iptv/iptv/12.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc 3
-http://5.62.130.10/iptv/iptv/13.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc 4 HD
-http://5.62.130.10/iptv/iptv/14.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc 5 HD
-http://5.62.130.10/iptv/iptv/15.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo=" group-title="Bein Sport HD ",Bein Sport 1 
-http://77.247.108.56:25461/live/VOLKANbabnour70/122417711/90.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo=" group-title="Bein Sport HD ",Bein Sport 2 
-http://5.62.130.10/iptv/iptv/31.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15643.png" group-title="Bein Sport HD ",Bein Sport 3 
-http://5.62.130.10/iptv/iptv/32.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15643.png" group-title="Bein Sport HD ",Bein Sport 3 SD 
-http://5.62.130.10/iptv/iptv/39.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15644.png" group-title="Bein Sport HD ",Bein Sport 4 
-http://5.62.130.10/iptv/iptv/33.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15645.png" group-title="Bein Sport HD ",Bein Sport 5 
-http://5.62.130.10/iptv/iptv/34.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15646.png" group-title="Bein Sport HD ",Bein Sport 6 
-http://5.62.130.10/iptv/iptv/35.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15647.png" group-title="Bein Sport HD ",Bein Sport 7 
-http://5.62.130.10/iptv/iptv/36.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15648.png" group-title="Bein Sport HD ",Bein Sport 8 
-http://5.62.130.10/iptv/iptv/37.m3u8
-#EXTINF:-1 tvg-id="Bein Sport HD" tvg-logo="http://widget.ottplayer.tv/pictures/15649.png" group-title="Bein Sport HD ",Bein Sport 9 
-http://5.62.130.10/iptv/iptv/38.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Arabic Sports",Abu Dhabi Sports premium 2
-http://5.62.130.10/iptv/iptv/27.m3u8
-#EXTINF:-1 tvg-id="Bein Mobile " tvg-logo=" group-title="Bein Sport Mobile ",Bein Sport 1 
-https://live1.beinconnect.us/YallaGoalApp/beINSports1.m3u8
-#EXTINF:-1 tvg-id="Bein Mobile " tvg-logo=" group-title="Bein Sport Mobile ",Bein Sport 2 
-https://live1.beinconnect.us/YallaGoalApp/beINSports2.m3u8
-#EXTINF:-1 tvg-id="Bein Mobile " tvg-logo=" group-title="Bein Sport Mobile ",Bein Sport 3 
-https://live1.beinconnect.us/YallaGoalApp/beINSports3.m3u8
-#EXTINF:-1 tvg-id="Bein Mobile " tvg-logo=" group-title="Bein Sport Mobile ",Bein Sport 4 
-https://live1.beinconnect.us/YallaGoalApp/beINSports4.m3u8
-#EXTINF:-1 tvg-id="Bein Mobile " tvg-logo=" group-title="Bein Sport Mobile ",Bein Sport 5 
-https://live1.beinconnect.us/YallaGoalApp/beINSports5.m3u8
-#EXTINF:-1 tvg-id="Bein Mobile " tvg-logo=" group-title="Bein Sport Mobile ",Bein Sport 6 
-https://live1.beinconnect.us/YallaGoalApp/beINSports6.m3u8
-
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
-https://live1.beinconnect.us/YallaGoalApp/SSC1.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
-https://live1.beinconnect.us/YallaGoalApp/SSC2.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
-https://live1.beinconnect.us/YallaGoalApp/SSC3.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
-https://live1.beinconnect.us/YallaGoalApp/SSC4.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc  1
-https://live1.beinconnect.us/YallaGoalApp/SSC5.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc 1 Extra
-https://live1.beinconnect.us/YallaGoalApp/SSC1Extra.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc 2 Extra
-https://live1.beinconnect.us/YallaGoalApp/SSC2Extra.m3u8
-#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Mobile HD ",Ssc 3 Extra
-https://live1.beinconnect.us/YallaGoalApp/SSC3Extra.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://web1.faselhdwatch.mom/wp-content/uploads/2016/10/Open_Season_Scared_Silly_2016_DVD_Cover-400x600.jpg" group-title="Kids",فيلم Inside Out 2015 مدبلج
-https://master.c.scdns.io/stream/v2/cWOQ6WuHVCsTWCwjAwbumw/1720064989/normal/0/79.139.35.16/no/e2536ec7f5a4ded2d4818f5641a3449f/web1.faselhdwatch.mom/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://web1.faselhdwatch.mom/wp-content/uploads/2016/09/Inside_Out_poster_araby.png" group-title="Kids",فيلم Inside Out 2015 مدبلج
-https://master.c.scdns.io/stream/v2/HOUWl7INcdfH8WagyjxMsw/1720064819/normal/0/79.139.35.16/no/ff5dc7182f9611a75e8b11b8e079125b/web1.faselhdwatch.mom/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" group-title="Sport International",Futbol (1080p)
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://web1.faselhdwatch.mom/wp-content/uploads/2024/07/4343a3da2166309eb898c56b2dca9e7b.jpg" group-title="|Movies|",فيلم The Roundup: Punishment 2024 مترجم
@@ -2131,6 +1883,8 @@ https://r465--4tmgnygn.c.scdns.io/stream/v1/hls/sKsHStrTfot0jdyD8mAV1g/171378066
 https://r465--5z6nc80t.c.scdns.io/stream/v1/hls/OlpPgrEX1IL7ohycqpJofQ/1713782188/web1.faselhd-watch.shop/all/77.223.230.119/no/SA/0/05-02/3/3d5e26673c1b9966b989492769d409f0/160_hd1080b_playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.faselhdwatch.top/wp-content/uploads/2024/04/dc7fbc65197378a2f9440dbfee65c0a6.jpg" group-title="|Movies|",فيلم Citizen of a Kind 2024 مترجم
 https://master.c.scdns.io/stream/v2/0qdJL72mvqvrTCmuhWuaXQ/1713082596/normal/0/176.9.113.53/no/e76710e6fe4cfc9f2ce889ed669bcd62/www.faselhdwatch.top/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://media0043.elcinema.com/uploads/_315x420_1777b30cd6e5c931532eab9d50a7409f0b169748997e0babce6c48416cf4a239.jpg" group-title="|مسرحيات|",مسرحية  قحفية وغترة وعقال
+https://dai.ly/x98s9pq
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0043.elcinema.com/uploads/_315x420_1777b30cd6e5c931532eab9d50a7409f0b169748997e0babce6c48416cf4a239.jpg" group-title="|مسرحيات|",مسرحية العظماء السبعة
 https://dai.ly/x8fw76d
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_ade065a75e27482735b33f36b18e450bc77246311b8932860bfb9cdd46c890e9.jpg" group-title="|مسرحيات|",مسرحية العظماء السبعة
