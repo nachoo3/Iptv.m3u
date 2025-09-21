@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-id=""tvg-id="Replay Matches",مباراة النصر و الرياض الدوري السعودي 2025/2026
 https://dai.ly/x9qxmpo
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-id=""tvg-id="Replay Matches",مباراة النصر و الرياض الدوري السعودي 2025/2026
@@ -933,7 +934,6 @@ https://vk.com/video_ext.php?oid=343161605&id=456239626&hash=274de43be528b5d6&hd
 https://vk.com/video_ext.php?oid=343161605&id=456239627&hash=728cf84a3e178136&hd=1
 #EXTINF:-1 tvg-logo=" tvg-name="" tvg-id=""group="Replay Matches",مباراة المغرب و اسبانيا ثمن نهائي كاس العالم 2022
 https://vk.com/video_ext.php?oid=343161605&id=456239628&hash=9bcc1d1af9c733bc&hd=1
-#EXTM3U
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa",Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-id="Aflam.sa",Aflam (1080p)
@@ -1077,8 +1077,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/in
 https://shls-live-mood-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1 tvg-id="IqraaAfricaEurope.sa@SD",Iqraa Africa & Europe (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-
-#EXTM3U
 #EXTINF:-1 tvg-id="AlMaarefTV.qa",Al Maaref (350p)
 https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSabah.kw",Al Sabah (720p)
@@ -1111,8 +1109,6 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="MarinaTV.kw",Marina TV (1080p)
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="Saudi",AL ALARABY 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
@@ -2521,7 +2517,6 @@ https://dai.ly/x6yu5dz
 https://dai.ly/x6yu4v2
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 1
 https://dai.ly/x7qt599
-#EXTM3U url-tvg="https://raw.githubusercontent.com/gogetta69/public-files/main/Pluto-TV/us.xml"
 #EXTINF:-1 tvg-id="Ssc Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc News 
 http://5.62.130.10/iptv/iptv/1.m3u8
 #EXTINF:-1 tvg-id="Ssc Sport HD" tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="Ssc Sport HD ",Ssc Extra 1 
