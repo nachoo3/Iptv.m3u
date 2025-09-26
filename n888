@@ -1748,6 +1748,21 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM AR
 https://ncdn.telewebion.com/ifilmar/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/df/Kalemny_Shokran_Poster.jpg" tvg-name="" tvg-id=""group-title="Arabic Movies",فيلم كلمـني شـكرا
+https://dai.ly/x8o8ftt
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStOEYhGq9h6PnxSVqE8pKcV6dj2Flw-gfwdA&s" tvg-name="" tvg-id=""group-title="Arabic Movies",فيلم كتكوت
+https://dai.ly/x8p3e9l
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id=""group-title="Arabic Movies",فيلم بوبوس
+https://dai.ly/x8liii2
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id=""group-title="Arabic Movies",فيلم تحت التربيزه
+https://dai.ly/x8hmbir
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id=""group-title="Arabic Movies",فيلم عسكر في المعسكر 
+https://dai.ly/x8gshex
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id=""group-title="Jackie Chan Movies",فيلم Police story 1 
+https://dai.ly/x94u0wc
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id=""group-title="Jackie Chan Movies",فيلم Police story 2 
+https://dai.ly/x94u0we
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZ1q6zP9/ontve.png",ON E
 https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mVPZh6Gz/Aliraqia.jpg",AL IRAQIA
