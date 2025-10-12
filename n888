@@ -2551,12 +2551,7 @@ https://dai.ly/x8liii2
 https://dai.ly/x8hmbir
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/0/0e/Askar_Fi_El-Mu%27askar_Poster.jpg" tvg-name="" tvg-id=""group-title="Arabic Movies",فيلم عسكر في المعسكر 
 https://dai.ly/x8gshex
-#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIyODE5MzIyN15BMl5BanBnXkFtZTYwMzAxODQ5._V1_.jpg" tvg-name="" tvg-id=""group-title="Jackie Chan Movies",فيلم Police story 1 
-https://dai.ly/x94u0wc
-#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg0MzQ3NTQ3OF5BMl5BanBnXkFtZTYwODg4MTQ5._V1_.jpg" tvg-name="" tvg-id=""group-title="Jackie Chan Movies",فيلم Police story 2 
-https://dai.ly/x94u0we
-#EXTINF:-0 tvg-logo="https://www.fortunestarmedia.com/images/posters/GH250_Super%20Cop_04.jpg" tvg-name="" tvg-id=""group-title="Jackie Chan Movies",فيلم Police story 3 
-https://dai.ly/x94k7bk
+
 
 
 #EXTINF:-0 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/61f1c4c6a3.jpg" group-title="الكابتن ماجد", الحلقة 1
@@ -3294,12 +3289,7 @@ https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index
 https://live.teleradiocom.tj/8/3m.avi
 
 
-#EXTINF:-0 tvg-id="" tvg-logo="https://img.yts.mx/assets/images/movies/Rush_Hour_1998/medium-cover.jpg" group-title="|Movies|",فيلم Rush Hour 1998  
-https://dai.ly/k3ib89zKxQ7aVTAEct6
-#EXTINF:-0 tvg-id="" tvg-logo="https://my-live-01.slatic.net/p/be1722291b0d466b9c4fcd8aa7058800.jpg" group-title="|Movies|",فيلم  Badland Hunters 2024  
-https://dai.ly/x8xc2cs
-#EXTINF:-0 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg" group-title="|Movies|",Home Alone 1990 مترجم
-https://dai.ly/x8ps3ur
+
 ##EXTINF:-0 tvg-id="" tvg-logo="https://media0043.elcinema.com/uploads/_315x420_1777b30cd6e5c931532eab9d50a7409f0b169748997e0babce6c48416cf4a239.jpg" group-title="|مسرحيات|",مسرحية  قحفية وغترة وعقال
 https://dai.ly/x98s9pq
 
@@ -3581,10 +3571,7 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.avi
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.avi
 #EXTINF:-0 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Arabic" ,Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.avi
-#EXTINF:-0 tvg-id="Rambo1 " tvg-logo="https://www.faselhd.express/wp-content/uploads/2016/04/first_blood_ver2-400x600.jpg" group-title="Vod",First Blood
-https://master.c.scdns.io/stream/v1/GrjNZDRn5weY9Ccg9O37Sg/1704687384/normal/0/79.139.39.99/no/319c51c60cebd883ca1c569d513a22a3/master.avi
-#EXTINF:-0 tvg-id="IP MAN " tvg-logo="src="https://web1.faselhd-watch.buzz/wp-content/uploads/2023/07/ab7199466d390a251dacf81553f57172.jpg"" group-title="VOD",فيلم-roundup-no-way-2023-مترجم
-https://r900--3k3qbmcz.c.scdns.io/stream/v1/hls/NiHG40Gpa7WVGW_pD-ogMQ/1702741598/all/all/176.9.113.53/no/DE/0/03-02/4/e23d5385d6a575b91b1b855418591069/160_hd1080b_playlist.avi
+
 #EXTINF:-0 tvg-id="kase3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_612da88b59.jpg" group-title="حارش ووارش الحلقة 26",الحلقة 1 |حــارش ووارش| ناشع
 https://dai.ly/x2y1lzr
 #EXTINF:-0 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_612da88b59.jpg" group-title="حارش ووارش الحلقة 26",الحلقة 2 |حــارش ووارش| 
@@ -3983,15 +3970,14 @@ https://dai.ly/x8fw76d
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://0.soompi.io/wp-content/uploads/2019/08/14105011/bad-guys-5.jpg" group-title="|Movies|",Bad Guys: The Movie
 https://dai.ly/x8sxr50
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2022/02/MV5BYTJlYjdiYTctOTg2NC00YzNhLTgwNTMtMDE1NWI2NjIwNDk3XkEyXkFqcGdeQXVyMTE4OTg5ODA2._V1_SX300.jpg" group-title="|Movies|",The Policeman’s Lineage
-https://master.c.scdns.io/stream/v2/L4CsbILHKCQTEdoFxMXH9g/1706768246/normal/0/77.223.247.246/no/6588ad39a9c68f766729dfd89034c3b2/web1.faselhd-watch.shop/master.avi
+
 #EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/04/karate_kid_ver2.jpg" group-title="|Movies|",فيلم The Karate Kid 2010 مترجم
 https://master.c.scdns.io/stream/v2/v1jVAGWkrI8gOBQGJ6MM9g/1706767594/normal/0/77.223.247.246/no/35bd7063e0f8b9b8604c26ce140f323f/web1.faselhd-watch.shop/master.avi
 #EXTINF:-0 tvg-id="" tvg-logo="https://img.akw.onl/uploads/5I9Ez.jpg" group-title="|مسرحيات|", ليلة زفته
 https://ybaoepafrxa113rred.cdn-hd.com/5r63ru24zbjivea6gvp3egq7nvgmrwdayf5kr7576iofo3d6qytq4z5tz46q/v.mp4
 
 
-#EXTINF:-0 tvg-id="Song" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/icon/at_65730e2567.png" group-title="Song",خالد عبدالرحمن الف ليلة 
+#EXTINF:-0 tvg-id="Song" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/icon/at_65730e2567.png" group-title="Tarab" ,خالد عبدالرحمن الف ليلة 
 https://tr-route2.adm.tcon.hlit.hvds.tv/Content/Hls/VOD/3990/1287/3522609d-c538-464e-8678-a5a9fc513905/82b249ab-5893-561b-1b2a-b221a78f723d/index.avi
 #EXTINF:-0 tvg-id="وثائقي " tvg-logo="https://nowcdn.asharq.com/308x172/7086871571704817834.jpg" group-title="Documentary",بريطانيا جريمة غيرت القانون 
 https://clvod.itworkscdn.net/bloombergvod/smil:itwfcdn/bloomberg/1884299-DSOCL6D1272px28.smil/playlist.avi
@@ -4307,17 +4293,7 @@ https://dai.ly/x7wiuxc
 https://dai.ly/x7wjqbc
 #ETINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_612da88b59.jpg" group-title="حارش ووارش الحلقة 26",الحلقة 30 |حــارش ووارش| 
 https://dai.ly/x7wjqag
-#EXTINF:-0 tvg-id="" tvg-logo="https://z.ifushaar.com/wp-content/uploads/2021/07/Shanghai-Noon-2000.jpg" group-title="|Movies|", فيلم Shanghai Noon 2010 مترجم" 
-https://aflam-cdn-cash-18-tgb.dialymotion.online/yh5cazrjpxikjnl75zqkr3d3u266z3rigkcrwbzs3woqfs2de7j2cvwm3fnq/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="https://z.ifushaar.com/wp-content/uploads/2022/04/Drunken-Master-1978-tt80179-11230.jpg" group-title="|Movies|, " فيلم Shanghai Noon 2001 مترجم"
-https://aflam-cdn-cash-17-dui.dialymotion.online/yh5cgcakpxikjnl75zq2r33rwkragkwctbogovndtnopnxuev7bln5gdy7za/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="https://shorturl.at/lmoTV" group-title="|Movies|", فيلم Badland Hunters 2024 مترجم اون لاين
-https://dayt-fer-o9.gamescdn.online:183/d/32nnnu3hmi3hdr7ek4kobpq7ucsufds2asy56zwdbqmif4nnonz67tdmugf4hws326vqvuhv/video.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="
-https://web1.faselhd-watch.shop/wp-content/uploads/2022/07/MV5BODQyMjMwNTMtMjA4YS00MGI4LTkxOWItZWI1YTViNmE5ZWUwXkEyXkFqcGdeQXVyMTQwODg1NTU3._V1_SX300.jpg" group-title="|Movies|",  فيلم The Roundup 2022
-https://master.c.scdns.io/stream/v2/tmKcfnOmzUibpuRWDTKF9A/1710218646/normal/0/79.139.37.148/no/1b54b2f268a6d2a2a9cbfe7724de7340/web1.faselhd-watch.shop/master.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://shorturl.at/prtX0" group-title="|Movies|",  فيلم The Roundup: No Way Out 2023 مترجم 
-https://dai.ly/x8mosr2
+
 #EXTINF:-0 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Sports",A Spor (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.avi
 #EXTINF:-0 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
@@ -4539,65 +4515,6 @@ https://dai.ly/x7wjqd5
 https://dai.ly/x7wjqbw
 #EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 30
 https://dai.ly/x6zg8ys
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 29
-https://dai.ly/x6zg8tv
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 28
-https://dai.ly/x6zg8mb
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 27
-https://dai.ly/x6zg8hx
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 26
-https://dai.ly/x6zef4h
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 25
-https://dai.ly/x6zef1n
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 24
-https://dai.ly/x6zeex9
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 23
-https://dai.ly/x6zeevl
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 22
-https://dai.ly/x6zeebo
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 21
-https://dai.ly/x6z7gu1
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 20
-https://dai.ly/x6z6w4f
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 19
-https://dai.ly/x6z6vdt
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 18
-https://dai.ly/x6z6v9y
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 17
-https://dai.ly/x6z5et0
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 16
-https://dai.ly/x6z5ds8
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 15
-https://dai.ly/x6z5dkt
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 14
-https://dai.ly/x6z3dy6
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 13
-https://dai.ly/x6z3dgd
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 12
-https://dai.ly/x6z3ddk
-#EXTINF:-0 tvg-id="" tvg-logo=https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg"" group-title="|هيل وسيل|",الحلقة 11
-https://dai.ly/x6z3czf
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 10
-https://dai.ly/x6z3cvy
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 9
-https://dai.ly/x6z1fs7
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 8
-https://dai.ly/x6z1fql
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 7
-https://dai.ly/x6z1es1
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 6
-https://dai.ly/x6z1enw
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 5
-https://dai.ly/x6z1ee7
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 4
-https://dai.ly/x6yu68e
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 3
-https://dai.ly/x6yu5dz
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 2
-https://dai.ly/x6yu4v2
-#EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 1
-https://dai.ly/x7qt599
-
 #EXTINF:-0 tvg-logo=" tvg-name="" tvg-id=""group-title="Replay Matches", مباراة ليفربول و ارسنال الدوري الانجليزي 2025/2026
 https://dai.ly/9prltk
 #EXTINF:-0 tvg-logo=" tvg-name="" tvg-id=""group-title="Replay Matches", مباراة ليفربول و ارسنال الدوري الانجليزي 2025/2026
