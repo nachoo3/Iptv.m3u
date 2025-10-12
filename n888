@@ -2711,10 +2711,7 @@ https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.avi
 https://new.cache-stream.workers.dev/stream/UCTny7s_VPsTS_TtnWIlJF6w/live.avi
 #EXTINF:-0 tvg-logo="https://i.ibb.co/0mtj39x/Mekameleen.png",MEKAMELEEN
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.avi
-#EXTINF:-0 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM AR
-https://live.presstv.ir/hls/ifilmar_4_482/index.avi
-#EXTINF:-0 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM AR
-https://ncdn.telewebion.com/ifilmar/live/playlist.avi
+
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/df/Kalemny_Shokran_Poster.jpg" tvg-name="" tvg-id=""group-title="Arabic Movies",فيلم كلمـني شـكرا
 https://dai.ly/x8o8ftt
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStOEYhGq9h6PnxSVqE8pKcV6dj2Flw-gfwdA&s" tvg-name="" tvg-id=""group-title="Arabic Movies",فيلم كتكوت
@@ -3782,9 +3779,9 @@ https://hls.youtb.workers.dev/channel/UCdvWVsmQBROkgcGzVep73oA.avi
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.avi
 #EXTINF:-0 tvg-id="Yas.ae" tvg-logo="https://i.imgur.com/bvAAXLW.png" group-title="Sports",Yas (1080p)
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.avi
-#EXTINF:-0 tvg-id="ZeeAflam.in" tvg-logo="https://i.imgur.com/nUmsyGt.png" group-title="Arabic",Zee Aflam (720p) [Not 24/7]
+#EXTINF:-0 tvg-id="ZeeAflam.in" tvg-logo="https://i.imgur.com/nUmsyGt.png" group-title="Arabic" ,Zee Aflam (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.avi
-#EXTINF:-0 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Arabic",Zee Alwan (720p) [Not 24/7]
+#EXTINF:-0 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Arabic" ,Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.avi
 #EXTINF:-0 tvg-id="Rambo1 " tvg-logo="https://www.faselhd.express/wp-content/uploads/2016/04/first_blood_ver2-400x600.jpg" group-title="Vod",First Blood
 https://master.c.scdns.io/stream/v1/GrjNZDRn5weY9Ccg9O37Sg/1704687384/normal/0/79.139.39.99/no/319c51c60cebd883ca1c569d513a22a3/master.avi
@@ -4439,20 +4436,17 @@ https://edge.taghtia.com/sa/3.avi
 #EXTINF:-0 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Sports",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.avi
 
-#EXTINF:-0 tvg-id="VarzeshTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",VarzeshTV
-https://live.aionet.ir/hls/varzesh/varzesh_360/index.avi
-
-#EXTINF:-0 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="Arabic",Watan TV (1080p)
+#EXTINF:-0 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="Arabic", Watan TV (1080p)
 https://cdg8.edge.technocdn.com/watantv/live/playlist.avi
-#EXTINF:-0 tvg-id="Watania1.tn" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="Arabic",Watania 1 (720p)
+#EXTINF:-0 tvg-id="Watania1.tn" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="Arabic", Watania 1 (720p)
 https://hls.youtb.workers.dev/channel/UCdvWVsmQBROkgcGzVep73oA.avi
-#EXTINF:-0 tvg-id="Watania2.tn" tvg-logo="https://i.imgur.com/TL6Kjij.png" group-title="Arabic",Watania 2 (576p)
+#EXTINF:-0 tvg-id="Watania2.tn" tvg-logo="https://i.imgur.com/TL6Kjij.png" group-title="Arabic", Watania 2 (576p)
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.avi
-#EXTINF:-0 tvg-id="Yas.ae" tvg-logo="https://i.imgur.com/bvAAXLW.png" group-title="Sports",Yas (1080p)
+#EXTINF:-0 tvg-id="Yas.ae" tvg-logo="https://i.imgur.com/bvAAXLW.png" group-title="Sports", Yas (1080p)
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.avi
-#EXTINF:-0 tvg-id="ZeeAflam.in" tvg-logo="https://i.imgur.com/nUmsyGt.png" group-title="Arabic",Zee Aflam (720p) [Not 24/7]
+#EXTINF:-0 tvg-id="ZeeAflam.in" tvg-logo="https://i.imgur.com/nUmsyGt.png" group-title="Arabic" ,Zee Aflam (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.avi
-#EXTINF:-0 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Arabic",Zee Alwan (720p) [Not 24/7]
+#EXTINF:-0 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Arabic" ,Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.avi
 #EXTINF:-0 tvg-id="Rambo1 " tvg-logo="https://www.faselhd.express/wp-content/uploads/2016/04/first_blood_ver2-400x600.jpg" group-title="Vod",First Blood
 https://master.c.scdns.io/stream/v1/GrjNZDRn5weY9Ccg9O37Sg/1704687384/normal/0/79.139.39.99/no/319c51c60cebd883ca1c569d513a22a3/master.avi
