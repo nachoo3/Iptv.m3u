@@ -1858,38 +1858,38 @@ https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/62
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.avi
 #EXTINF:-0 tvg-id="AtfalMawahebTV.sa",Atfal & Mawaheb TV (1080p)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.avi
-#EXTINF:-0 tvg-id="AtfalMawahebTV.sa",Atfal & Mawaheb TV (1080p)
+#EXTINF:-0 tvg-id="AtfalMawahebTV.sa" group-title="Arabic",Atfal & Mawaheb TV (1080p)
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.avi
-#EXTINF:-0 tvg-id="BabAlHara.sa",Bab Al Hara (1080p)
+#EXTINF:-0 tvg-id="BabAlHara.sa" group-title="Arabic",Bab Al Hara (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.avi
-#EXTINF:-0 tvg-id="Fairuz.sa",Fairuz (1080p)
+#EXTINF:-0 tvg-id="Fairuz.sa" group-title="Arabic",Fairuz (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.avi
-#EXTINF:-0 tvg-id="IqraaArabic.sa",Iqraa Arabic (1080p) [Not 24/7]
+#EXTINF:-0 tvg-id="IqraaArabic.sa" group-title="Arabic",Iqraa Arabic (1080p) [Not 24/7]
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.avi
-#EXTINF:-0 tvg-id="IqraaQuran.sa",Iqraa Quran (1080p)
+#EXTINF:-0 tvg-id="IqraaQuran.sa" group-title="Arabic",Iqraa Quran (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.avi
-#EXTINF:-0 tvg-id="LBC.sa" http-referrer="https://rotana.net/",LBC (1080p) [Geo-blocked]
+#EXTINF:-0 tvg-id="LBC.sa" http-referrer="https://rotana.net/" group-title="Arabic",LBC (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.avi
 #EXTINF:-0 tvg-id="MPlus.sa@SD",M+ (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.avi
-#EXTINF:-0 tvg-id="MajidAlMohandis.sa",Majid Al Mohandis (1080p)
+#EXTINF:-0 tvg-id="MajidAlMohandis.sa" group-title="Arabic",Majid Al Mohandis (1080p)
 https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.avi
-#EXTINF:-0 tvg-id="MakkahTV.sa",Makkah TV (576p)
+#EXTINF:-0 tvg-id="MakkahTV.sa" group-title="Arabic",Makkah TV (576p)
 https://media2.streambrBEIN SPORT.com:1936/8122/8122/playlist.avi
-#EXTINF:-0 tvg-id="Maraya.sa",Maraya (1080p)
+#EXTINF:-0 tvg-id="Maraya.sa" group-title="Arabic",Maraya (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.avi
-#EXTINF:-0 tvg-id="MBCGaming.sa",MBC Gaming (1080p)
+#EXTINF:-0 tvg-id="MBCGaming.sa" group-title="Arabic",MBC Gaming (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/8ae5c35ffc5247a58e71a5c86dd31ad6/index.avi
-#EXTINF:-0 tvg-id="MBCLoud.sa",MBC Loud (1080p)
+#EXTINF:-0 tvg-id="MBCLoud.sa" group-title="Arabic",MBC Loud (1080p)
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.avi
-#EXTINF:-0 tvg-id="MBCMasrDrama.sa",MBC Masr Drama (1080p)
+#EXTINF:-0 tvg-id="MBCMasrDrama.sa" group-title="Arabic",MBC Masr Drama (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.avi
-#EXTINF:-0 tvg-id="MBCPlusDrama.sa",MBC+ Drama (1080p)
+#EXTINF:-0 tvg-id="MBCPlusDrama.sa" group-title="Arabic",MBC+ Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.avi
-#EXTINF:-0 tvg-id="MohammedAbdo.sa",Mohammed Abdo (1080p)
+#EXTINF:-0 tvg-id="MohammedAbdo.sa" group-title="Arabic",Mohammed Abdo (1080p)
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.avi
-#EXTINF:-0 tvg-id="MoviesAction.sa",Movies Action (1080p)
+#EXTINF:-0 tvg-id="MoviesAction.sa" group-title="Arabic",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.avi
 #EXTINF:-0 tvg-id="MoviesThriller.sa",Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.avi
@@ -1954,37 +1954,37 @@ https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.av
 https://ffs1.gulfsat.com/Al-Sabah-TV/index.fmp4.avi
 #EXTINF:-0 tvg-id="AlSabah.kw",Al Sabah (720p)
 https://ffs1.gulfsat.com/Al-Sabah-TV/index.avi
-#EXTINF:-0 tvg-id="Bahry.kw",Bahry (1080p)
+#EXTINF:-0 tvg-id="Bahry.kw" group-title="Arabic",Bahry (1080p)
 https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.avi
-#EXTINF:-0 tvg-id="Ch4Teen.kw@SD",Ch4Teen
+#EXTINF:-0 tvg-id="Ch4Teen.kw@SD" group-title="Arabic",Ch4Teen
 https://ch14.tv/live/ch4teenclip/playlist.avi
-#EXTINF:-0 tvg-id="KTV1.kw",KTV 1 (1080p)
+#EXTINF:-0 tvg-id="KTV1.kw" group-title="Arabic",KTV 1 (1080p)
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.avi
-#EXTINF:-0 tvg-id="KTV1.kw",KTV 1 (360p)
+#EXTINF:-0 tvg-id="KTV1.kw" group-title="Arabic",KTV 1 (360p)
 https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.avi
-#EXTINF:-0 tvg-id="KTV2.kw",KTV 2 (1080p)
+#EXTINF:-0 tvg-id="KTV2.kw" group-title="Arabic",KTV 2 (1080p)
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.avi
-#EXTINF:-0 tvg-id="KTVAlQurain.kw",KTV Al Qurain (1080p)
+#EXTINF:-0 tvg-id="KTVAlQurain.kw" group-title="Arabic",KTV Al Qurain (1080p)
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.avi
-#EXTINF:-0 tvg-id="KTVArabe.kw",KTV Arabe (1080p)
+#EXTINF:-0 tvg-id="KTVArabe.kw" group-title="Arabic",KTV Arabe (1080p)
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.avi
 #EXTINF:-0 tvg-id="KTVEthraa.kw",KTV Ethraa (1080p)
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.avi
-#EXTINF:-0 tvg-id="KTVNews.kw",KTV News (1080p)
+#EXTINF:-0 tvg-id="KTVNews.kw" group-title="Arabic",KTV News (1080p)
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.avi
-#EXTINF:-0 tvg-id="KTVNews.kw",KTV News (1080p)
+#EXTINF:-0 tvg-id="KTVNews.kw" group-title="Arabic",KTV News (1080p)
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.avi
-#EXTINF:-0 tvg-id="KTVSport.kw",KTV Sport (1080p)
+#EXTINF:-0 tvg-id="KTVSport.kw" group-title="Arabic",KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.avi
-#EXTINF:-0 tvg-id="KTVSportPlus.kw",KTV Sport Plus (1080p)
+#EXTINF:-0 tvg-id="KTVSportPlus.kw" group-title="Arabic",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.avi
-#EXTINF:-0 tvg-id="MarinaTV.kw",Marina TV (1080p)
+#EXTINF:-0 tvg-id="MarinaTV.kw" group-title="Arabic",Marina TV (1080p)
 https://ffs.gulfsat.com/Marina-TV-HD/index.avi
-#EXTINF:-0 tvg-id="AbuDhabiAloula.ae@SD",Abu Dhabi Aloula (1080p)
+#EXTINF:-0 tvg-id="AbuDhabiAloula.ae@SD" group-title="Arabic",Abu Dhabi Aloula (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.avi
-#EXTINF:-0 tvg-id="AbuDhabiEmirates.ae@SD",Abu Dhabi Emirates (1080p)
+#EXTINF:-0 tvg-id="AbuDhabiEmirates.ae@SD" group-title="Arabic",Abu Dhabi Emirates (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.avi
-#EXTINF:-0 tvg-id="AbuDhabiSports1.ae",Abu Dhabi Sports 1 (1080p)
+#EXTINF:-0 tvg-id="AbuDhabiSports1.ae" group-title="Arabic",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.avi
 #EXTINF:-0 tvg-id="AbuDhabiSports2.ae",Abu Dhabi Sports 2 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.avi
@@ -3521,53 +3521,10 @@ https://dai.ly/x8cynjm
 https://dai.ly/x8d39rw
 #EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_44376f04d38edf4cc8cea5fa522c6d5c5f84be3c5b201d4ba46d3669bd4d3751.jpg" group-title="|مسرحيات|",مسرحية   هلوسة كاملة   
 https://dai.ly/x8fw76d
-#EXTINF:-0 tvg-id="" tvg-logo="https://assets.bein.com/bmg/sites/3/2022/11/NEWS_Channel_Full_Color.jpg" group-title="|youtybe|",bein sport news
-https://www.youtube.com/embed/dEmHyqMlclA
-#EXTINF:-0 tvg-id="" tvg-logo="https://assets.raya.com/wp-content/uploads/2023/09/04132644/beIN-SPORTS-Logo.png" group-title="|youtybe|",bein sport 
-https://www.youtube.com/embed/sNHYWrn7j4I?si=Y4c8ixY9hREwdBRS
-#EXTINF:-0 tvg-id="" tvg-logo="https://ww.cimafans.co/thumb/r/files/image/-1678957792724.jpg" group-title="|Movies|",fearless hyena 2 1983
-https://qwe50x-01.stwsxcd.shop/6jmnu5o3uiazsalriwyqfzvvljarcadzdfc67rbbznb4fpvbqunolr4od5za/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/rA6nQwEJAWGfA12JCktfV7JSJKT.jpg" group-title="|Movies|",Crime Story 1993
-https://aflam-cdn-cash-1-qze.dialymotion.online/yh5cbvqnpxikjnl75zpkr6jfu4auk26ocy46gn7xn4qkw3ugsc46tjxgr5iq/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/rA6nQwEJAWGfA12JCktfV7JSJKT.jpg" group-title="|JAcki Chan |",Crime Story 
-https://aflam-cdn-cash-1-qze.dialymotion.online/yh5cbvqnpxikjnl75zpkr6jfu4auk26ocy46gn7xn4qkw3ugsc46tjxgr5iq/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/03/yip_man_three_ver8-400x600.jpg" group-title="|Movies|",IP MAN 2015
-https://dai.ly/x8hnxux
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2018/04/MV5BMzU3OTI0MDA1Ml5BMl5BanBnXkFtZTYwNzA1NzU3._V1_-400x600.jpg" group-title="|Movies|",Police story 2004
-https://master.c.scdns.io/stream/v2/jm5A2OSpvBdZkmFKt_LvsA/1710312138/normal/0/79.139.37.148/no/549babfd0652d55f3d4684b08078ef7b/web1.faselhd-watch.shop/master.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2015/11/last_stand_ver3-400x600.jpg" group-title="|Movies|",The Last Stand
-https://master.c.scdns.io/stream/v2/5WlF-iCPXFCxAKqSjrzSag/1708386472/normal/0/94.98.74.74/no/1cecb2289781c7a6e14e6cc40f28373b/web1.faselhd-watch.shop/master.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2017/01/MV5BMTYwNTY2NTkzNV5BMl5BanBnXkFtZTYwMjE2ODA3._V1_.jpg" group-title="|Movies|",Taxi 2004
-https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/cuhY-FFjDLVMU4n9r8cJWg/1713781804/web1.faselhd-watch.shop/all/77.223.230.119/no/SA/0/06-02/4/1835a31e5be83e78e209b5822f4c7dc7/160_hd1080b_playlist.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/02/yip_man_2_ver10.jpg" group-title="|Movies|",IP MAN 2010
-https://dai.ly/x9mljwg
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/03/8143uwZE6LL._SL1500_-400x600.jpg" group-title="|Movies|",IP MAN 2008
-https://dai.ly/x8u1bnk
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2024/01/364692c105025aed94d5d59a5d601a9e.jpg" group-title="|Movies|",BeeKeeper
-https://r465--2zudrdq9.c.scdns.io/stream/v1/hls/YyF2Bh00Cz4tMvpm0K0dVA/1708149099/web1.faselhd-watch.shop/all/79.139.37.233/no/SA/0/02-02/2/d9cc9a2d0741c7de6c02c4cbc6155b61/160_hd1080b_playlist.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://0.soompi.io/wp-content/uploads/2019/08/14105011/bad-guys-5.jpg" group-title="|Movies|",Bad Guys: The Movie
-https://dai.ly/x8sxr50
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2022/02/MV5BYTJlYjdiYTctOTg2NC00YzNhLTgwNTMtMDE1NWI2NjIwNDk3XkEyXkFqcGdeQXVyMTE4OTg5ODA2._V1_SX300.jpg" group-title="|Movies|",The Policeman’s Lineage
-https://master.c.scdns.io/stream/v2/L4CsbILHKCQTEdoFxMXH9g/1706768246/normal/0/77.223.247.246/no/6588ad39a9c68f766729dfd89034c3b2/web1.faselhd-watch.shop/master.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/04/karate_kid_ver2.jpg" group-title="|Movies|",فيلم The Karate Kid 2010 مترجم
-https://master.c.scdns.io/stream/v2/v1jVAGWkrI8gOBQGJ6MM9g/1706767594/normal/0/77.223.247.246/no/35bd7063e0f8b9b8604c26ce140f323f/web1.faselhd-watch.shop/master.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/DrunkenMasterII.jpg" group-title="|Movies|",فيلم The Legend Of Drunken Master 1994 مترجم
-https://aflam-cdn-cash-18-tgb.dialymotion.online/yh5cgsaopxikjnl75zpkr4rpwnj2g22kpxkprfwdxbwswlekyd2ykzs73iiq/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="
-https://web1.faselhd-watch.shop/wp-content/uploads/2016/10/Bad-Boys-1995-400x600.jpg" group-title="|Movies|",1-فيلم-bad boys 1995 مترجم
-https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/cuhY-FFjDLVMU4n9r8cJWg/1713781804/web1.faselhd-watch.shop/all/77.223.230.119/no/SA/0/06-02/4/1835a31e5be83e78e209b5822f4c7dc7/160_hd1080b_playlist.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://www.faselhdwatch.top/wp-content/uploads/2024/04/5bec45ca40303e45b77d03fea58c4fd7.jpg" group-title="|Movies|",فيلم-damaged-2024-مترجم
-https://master.c.scdns.io/stream/v2/pC53GOuxvSJFEDXcImYioA/1713683369/normal/0/176.9.113.53/no/0cbd05cc8e9b30034c9198e96ee693b2/www.faselhdwatch.top/master.avi
+
 #EXTINF:-0 tvg-id="" tvg-logo="https://img.akw.onl/uploads/5I9Ez.jpg" group-title="|مسرحيات|", ليلة زفته
 https://ybaoepafrxa113rred.cdn-hd.com/5r63ru24zbjivea6gvp3egq7nvgmrwdayf5kr7576iofo3d6qytq4z5tz46q/v.mp4
-#EXTINF:-0 tvg-id="bein youtube" tvg-logo="https://i.imgur.com/PJYTfHi.png" group-title="Sport",bein youtube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704952390/ei/5i2fZdqEK4v7vdIPi8mq8Aw/ip/77.223.228.117/id/vHvTS2kRAcQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/sa/spc/UWF9fxrRecz2430oVah5Rf_RoU_87LHsULAPOJKQ12raWXA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALfK4UdATpQn6F5Bvj9rv9hXNVB4Ef6kXz0elLr-pYTbAiA5KAIFa8IK5REkebtUCiYSmjOxr0USCNdGAcwhSPI9bA%3D%3D/file/index.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6QTosXccalKTTB9k3QGjqzy8kzymZyefw0614ZXL8W_nPlrR-6lvIi3QYlgvtT_jl6XcVTKmHebJwor5HwcmINCk31qS9vs_6EQiqrrzHT-uoplUqVHE8Skje1jYPfp4ymmvHdWI3seznbkDeASFJauZ04FEOe0BlnwdcHZaaeZ5y_OGulIjhV3sdhVE-/s800-c/1704028349_849.jpg" group-title="|VOD| Sport 2023",Arsenal Vs Fulaham first half(2023)
-https://vod.cf.dmcdn.net/sec2(Ud16cmwHg04zmR3QydkSq4N3-lB5zaGR6Lswc8hB4ObpKQCD61U8CgVHR2NpjlCem7H-oEvD5VQFlmb4WHkUNiS8m3VfJxmROMgeY2XHqUOkE-VRYwJIMst0wWV8qMDqZvNJKE3vZss4OW0QCWnLFg)/video/042/261/529162240_mp4_h264_aac_hq_8.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6QTosXccalKTTB9k3QGjqzy8kzymZyefw0614ZXL8W_nPlrR-6lvIi3QYlgvtT_jl6XcVTKmHebJwor5HwcmINCk31qS9vs_6EQiqrrzHT-uoplUqVHE8Skje1jYPfp4ymmvHdWI3seznbkDeASFJauZ04FEOe0BlnwdcHZaaeZ5y_OGulIjhV3sdhVE-/s800-c/1704028349_849.jpg" group-title="|VOD| Sport 2023",Arsenal Vs Fulaham SEcound half(2023)
-https://dai.ly/x8t9jj0
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.lat/wp-content/uploads/2017/10/1447930273861-400x600.jpg" group-title="V.O.D",فيلم The Young Master 1980 مترجم
-https://master.c.scdns.io/stream/v1/zl7sQuygVCT_o1tktVV_eQ/1705731155/normal/0/176.9.113.53/no/cbd146d41676f67a620844376e5e0595/master.avi
+
 #EXTINF:-0 tvg-id="Song" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/icon/at_65730e2567.png" group-title="Song",خالد عبدالرحمن الف ليلة 
 https://tr-route2.adm.tcon.hlit.hvds.tv/Content/Hls/VOD/3990/1287/3522609d-c538-464e-8678-a5a9fc513905/82b249ab-5893-561b-1b2a-b221a78f723d/index.avi
 #EXTINF:-0 tvg-id="وثائقي " tvg-logo="https://nowcdn.asharq.com/308x172/7086871571704817834.jpg" group-title="Documentary",بريطانيا جريمة غيرت القانون 
@@ -3811,20 +3768,10 @@ https://alpha.tv.online.tm/hls/ch004.avi
 https://ucdn.beetv.kz/btv/live/hls/000004498.avi
 #EXTINF:-0 tvg-id="Setanta Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Setanta Sports 2
 https://ucdn.beetv.kz/btv/live/hls/000004499.avi
-#EXTINF:-0 tvg-id="Aio Sport1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Aio Sport1
-https://af.ayas.ir/hls2/aiosport.avi
+
 #EXTINF:-0 tvg-id="VarzeshTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",VarzeshTV
 https://live.aionet.ir/hls/varzesh/varzesh_360/index.avi
-#EXTINF:-0 tvg-id="Bein Sport 2 En " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",BEin Sport 2 EN 
-https://live-tv.starcdnup.com/Bein_Sports_English_2_Live_TV/tracks-v1a1/mono.avi
-#EXTINF:-0 tvg-id="Bein Sport 1 En " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",BEin Sport 1 EN
-https://live-tv.starcdnup.com/Bein_Sports_English_1_Live_TV/tracks-v1a1/mono.avi
-#EXTINF:-0 tvg-id="SuperSport Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",SuperSport Premier League
-https://live-tv.starcdnup.com/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.avi
-#EXTINF:-0 tvg-id="SuperSport Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",SuperSport Football
-https://live-tv.starcdnup.com/SuperSport_Football_Live_TV/tracks-v1a1/mono.avi
-#EXTINF:-0 tvg-id="TNT SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",TNT Sport 1
-https://live-tv.starcdnup.com/TNT_Sports_1_Live_TV/tracks-v1a1/mono.avi
+
 #EXTINF:-0 tvg-id="Sky Sport Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Sky Sport Football
 https://live-tv.starcdnup.com/Sky_Sports_Football_Live_TV/tracks-v1a1/mono.avi
 #EXTINF:-0 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="Arabic",Watan TV (1080p)
@@ -3907,23 +3854,14 @@ https://dai.ly/x7wjqag
 https://aflam-cdn-cash-18-tgb.dialymotion.online/yh5cazrjpxikjnl75zqkr3d3u266z3rigkcrwbzs3woqfs2de7j2cvwm3fnq/v.mp4
 #EXTINF:-0 tvg-id="" tvg-logo="https://z.ifushaar.com/wp-content/uploads/2022/04/Drunken-Master-1978-tt80179-11230.jpg" group-title="|Movies|, " فيلم Shanghai Noon 2001 مترجم"
 https://aflam-cdn-cash-17-dui.dialymotion.online/yh5cgcakpxikjnl75zq2r33rwkragkwctbogovndtnopnxuev7bln5gdy7za/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="https://shorturl.at/lmoTV" group-title="|Movies|", فيلم Badland Hunters 2024 مترجم اون لاين
-https://dayt-fer-o9.gamescdn.online:183/d/32nnnu3hmi3hdr7ek4kobpq7ucsufds2asy56zwdbqmif4nnonz67tdmugf4hws326vqvuhv/video.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="
-https://web1.faselhd-watch.shop/wp-content/uploads/2022/07/MV5BODQyMjMwNTMtMjA4YS00MGI4LTkxOWItZWI1YTViNmE5ZWUwXkEyXkFqcGdeQXVyMTQwODg1NTU3._V1_SX300.jpg" group-title="|Movies|",  فيلم The Roundup 2022
-https://master.c.scdns.io/stream/v2/tmKcfnOmzUibpuRWDTKF9A/1710218646/normal/0/79.139.37.148/no/1b54b2f268a6d2a2a9cbfe7724de7340/web1.faselhd-watch.shop/master.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://shorturl.at/prtX0" group-title="|Movies|",  فيلم The Roundup: No Way Out 2023 مترجم 
-https://dai.ly/x8mosr2
+#
 #EXTINF:-0 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Sports",A Spor (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.avi
 #EXTINF:-0 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.avi
 #EXTINF:-0 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Sports",Abu Dhabi Sports 2 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.avi
-#EXTINF:-0 tvg-id="AntenaSport.ro" tvg-logo="https://i.imgur.com/PThJPu2.png" group-title="Sports",AntenaSport (720p) [Not 24/7]
-https://stream1.antenaplay.ro/as/asrolive1/playlist.avi
-#EXTINF:-0 tvg-id="ArenaSport3.ba" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Sports",Arena Sport 3 BA (1080p)
-http://94.250.2.6:7374/play/a02o/index.avi
+
 #EXTINF:-0 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia (360p) [Not 24/7]
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.avi
 #EXTINF:-0 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
@@ -3969,12 +3907,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.avi?cid=bs22
 https://st01-2.iptv.joj.sk/110-tv-pc.avi
 #EXTINF:-0 tvg-id="JordanSport.jo" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Sports",Jordan Sport (1080p) [Geo-blocked]
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.avi
-#EXTINF:-0 tvg-id="LaRedondaTV.ec" tvg-logo="https://i.imgur.com/a5SxXvJ.jpg" group-title="Sports",La Redonda TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.avi
-#EXTINF:-0 tvg-id="M4Sport.hu" tvg-logo="https://i.imgur.com/TQ4uJZk.png" group-title="Sports",M4 Sport (1080p)
-http://146.59.85.40:89/m4hd/index.avi
-#EXTINF:-0 tvg-id="MNetSport.mk" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Sports",M-Net Sport (720p)
-http://ares.mnet.mk/hls/mnet-sport.avi
+
 #EXTINF:-0 tvg-id="MadeinBOTV.it" tvg-logo="https://i.imgur.com/47X44DD.png" group-title="Sports",MadeinBO TV (1080p)
 https://srvx1.selftv.video/dmchannel/live/playlist.avi
 #EXTINF:-0 tvg-id="Match4.hu" tvg-logo="https://i.imgur.com/hzexBLX.png" group-title="Sports",Match4
@@ -3991,8 +3924,7 @@ http://46.4.193.238:8484/hls/ntvspor/playlist.avi
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.avi
 #EXTINF:-0 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.avi
-#EXTINF:-0 tvg-id="Pac12Insider.us" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Sports",Pac 12 Insider (1080p)
-https://pac12-roku-us.amagi.tv/playlist.avi
+
 #EXTINF:-0 tvg-id="PBRRidePass.us" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="Sports",PBR RidePass [Geo-blocked]
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.avi?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4
 #EXTINF:-0 tvg-id="PersianaSports.fr" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Sports",Persiana Sports (720p)
@@ -4256,47 +4188,17 @@ https://dai.ly/x8fw76d
 https://www.youtube.com/embed/dEmHyqMlclA
 #EXTINF:-0 tvg-id="" tvg-logo="https://assets.raya.com/wp-content/uploads/2023/09/04132644/beIN-SPORTS-Logo.png" group-title="|youtybe|",bein sport 
 https://www.youtube.com/embed/sNHYWrn7j4I?si=Y4c8ixY9hREwdBRS
-#EXTINF:-0 tvg-id="" tvg-logo="https://ww.cimafans.co/thumb/r/files/image/-1678957792724.jpg" group-title="|Movies|",fearless hyena 2 1983
-https://qwe50x-01.stwsxcd.shop/6jmnu5o3uiazsalriwyqfzvvljarcadzdfc67rbbznb4fpvbqunolr4od5za/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/rA6nQwEJAWGfA12JCktfV7JSJKT.jpg" group-title="|Movies|",Crime Story 1993
-https://aflam-cdn-cash-1-qze.dialymotion.online/yh5cbvqnpxikjnl75zpkr6jfu4auk26ocy46gn7xn4qkw3ugsc46tjxgr5iq/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/03/yip_man_three_ver8-400x600.jpg" group-title="|Movies|",IP MAN 2015
-https://dai.ly/x8hnxux
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2018/04/MV5BMzU3OTI0MDA1Ml5BMl5BanBnXkFtZTYwNzA1NzU3._V1_-400x600.jpg" group-title="|Movies|",Police story 2004
-https://master.c.scdns.io/stream/v2/jm5A2OSpvBdZkmFKt_LvsA/1710312138/normal/0/79.139.37.148/no/549babfd0652d55f3d4684b08078ef7b/web1.faselhd-watch.shop/master.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2015/11/last_stand_ver3-400x600.jpg" group-title="|Movies|",The Last Stand
-https://master.c.scdns.io/stream/v2/5WlF-iCPXFCxAKqSjrzSag/1708386472/normal/0/94.98.74.74/no/1cecb2289781c7a6e14e6cc40f28373b/web1.faselhd-watch.shop/master.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2017/01/MV5BMTYwNTY2NTkzNV5BMl5BanBnXkFtZTYwMjE2ODA3._V1_.jpg" group-title="|Movies|",Taxi 2004
-https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/cuhY-FFjDLVMU4n9r8cJWg/1713781804/web1.faselhd-watch.shop/all/77.223.230.119/no/SA/0/06-02/4/1835a31e5be83e78e209b5822f4c7dc7/160_hd1080b_playlist.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/02/yip_man_2_ver10.jpg" group-title="|Movies|",IP MAN 2010
-https://r465--3xa1wlsd.c.scdns.io/stream/v1/hls/eWu-SaYyqTCZa909zTZxhg/1708320164/web1.faselhd-watch.shop/all/79.139.37.233/no/SA/0/03-02/4/e23d5385d6a575b91b1b855418591069/160_hd1080b_playlist.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/03/8143uwZE6LL._SL1500_-400x600.jpg" group-title="|Movies|",IP MAN 2008
-https://dai.ly/x8u1bnk
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2024/01/364692c105025aed94d5d59a5d601a9e.jpg" group-title="|Movies|",BeeKeeper
-https://r465--2zudrdq9.c.scdns.io/stream/v1/hls/YyF2Bh00Cz4tMvpm0K0dVA/1708149099/web1.faselhd-watch.shop/all/79.139.37.233/no/SA/0/02-02/2/d9cc9a2d0741c7de6c02c4cbc6155b61/160_hd1080b_playlist.avi
+
 #EXTINF:-0 tvg-id="" tvg-logo="https://0.soompi.io/wp-content/uploads/2019/08/14105011/bad-guys-5.jpg" group-title="|Movies|",Bad Guys: The Movie
 https://dai.ly/x8sxr50
 #EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2022/02/MV5BYTJlYjdiYTctOTg2NC00YzNhLTgwNTMtMDE1NWI2NjIwNDk3XkEyXkFqcGdeQXVyMTE4OTg5ODA2._V1_SX300.jpg" group-title="|Movies|",The Policeman’s Lineage
 https://master.c.scdns.io/stream/v2/L4CsbILHKCQTEdoFxMXH9g/1706768246/normal/0/77.223.247.246/no/6588ad39a9c68f766729dfd89034c3b2/web1.faselhd-watch.shop/master.avi
 #EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.shop/wp-content/uploads/2016/04/karate_kid_ver2.jpg" group-title="|Movies|",فيلم The Karate Kid 2010 مترجم
 https://master.c.scdns.io/stream/v2/v1jVAGWkrI8gOBQGJ6MM9g/1706767594/normal/0/77.223.247.246/no/35bd7063e0f8b9b8604c26ce140f323f/web1.faselhd-watch.shop/master.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/DrunkenMasterII.jpg" group-title="|Movies|",فيلم The Legend Of Drunken Master 1994 مترجم
-https://aflam-cdn-cash-18-tgb.dialymotion.online/yh5cgsaopxikjnl75zpkr4rpwnj2g22kpxkprfwdxbwswlekyd2ykzs73iiq/v.mp4
-#EXTINF:-0 tvg-id="" tvg-logo="
-https://web1.faselhd-watch.shop/wp-content/uploads/2016/10/Bad-Boys-1995-400x600.jpg" group-title="|Movies|",1-فيلم-bad boys 1995 مترجم
-https://r465--6ab8ivko.c.scdns.io/stream/v1/hls/cuhY-FFjDLVMU4n9r8cJWg/1713781804/web1.faselhd-watch.shop/all/77.223.230.119/no/SA/0/06-02/4/1835a31e5be83e78e209b5822f4c7dc7/160_hd1080b_playlist.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://www.faselhdwatch.top/wp-content/uploads/2024/04/5bec45ca40303e45b77d03fea58c4fd7.jpg" group-title="|Movies|",فيلم-damaged-2024-مترجم
-https://master.c.scdns.io/stream/v2/pC53GOuxvSJFEDXcImYioA/1713683369/normal/0/176.9.113.53/no/0cbd05cc8e9b30034c9198e96ee693b2/www.faselhdwatch.top/master.avi
 #EXTINF:-0 tvg-id="" tvg-logo="https://img.akw.onl/uploads/5I9Ez.jpg" group-title="|مسرحيات|", ليلة زفته
 https://ybaoepafrxa113rred.cdn-hd.com/5r63ru24zbjivea6gvp3egq7nvgmrwdayf5kr7576iofo3d6qytq4z5tz46q/v.mp4
-#EXTINF:-0 tvg-id="bein youtube" tvg-logo="https://i.imgur.com/PJYTfHi.png" group-title="Sport",bein youtube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704952390/ei/5i2fZdqEK4v7vdIPi8mq8Aw/ip/77.223.228.117/id/vHvTS2kRAcQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/sa/spc/UWF9fxrRecz2430oVah5Rf_RoU_87LHsULAPOJKQ12raWXA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALfK4UdATpQn6F5Bvj9rv9hXNVB4Ef6kXz0elLr-pYTbAiA5KAIFa8IK5REkebtUCiYSmjOxr0USCNdGAcwhSPI9bA%3D%3D/file/index.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6QTosXccalKTTB9k3QGjqzy8kzymZyefw0614ZXL8W_nPlrR-6lvIi3QYlgvtT_jl6XcVTKmHebJwor5HwcmINCk31qS9vs_6EQiqrrzHT-uoplUqVHE8Skje1jYPfp4ymmvHdWI3seznbkDeASFJauZ04FEOe0BlnwdcHZaaeZ5y_OGulIjhV3sdhVE-/s800-c/1704028349_849.jpg" group-title="|VOD| Sport 2023",Arsenal Vs Fulaham first half(2023)
-https://vod.cf.dmcdn.net/sec2(Ud16cmwHg04zmR3QydkSq4N3-lB5zaGR6Lswc8hB4ObpKQCD61U8CgVHR2NpjlCem7H-oEvD5VQFlmb4WHkUNiS8m3VfJxmROMgeY2XHqUOkE-VRYwJIMst0wWV8qMDqZvNJKE3vZss4OW0QCWnLFg)/video/042/261/529162240_mp4_h264_aac_hq_8.avi
-#EXTINF:-0 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6QTosXccalKTTB9k3QGjqzy8kzymZyefw0614ZXL8W_nPlrR-6lvIi3QYlgvtT_jl6XcVTKmHebJwor5HwcmINCk31qS9vs_6EQiqrrzHT-uoplUqVHE8Skje1jYPfp4ymmvHdWI3seznbkDeASFJauZ04FEOe0BlnwdcHZaaeZ5y_OGulIjhV3sdhVE-/s800-c/1704028349_849.jpg" group-title="|VOD| Sport 2023",Arsenal Vs Fulaham SEcound half(2023)
-https://dai.ly/x8t9jj0
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhd-watch.lat/wp-content/uploads/2017/10/1447930273861-400x600.jpg" group-title="V.O.D",فيلم The Young Master 1980 مترجم
-https://master.c.scdns.io/stream/v1/zl7sQuygVCT_o1tktVV_eQ/1705731155/normal/0/176.9.113.53/no/cbd146d41676f67a620844376e5e0595/master.avi
+
+
 #EXTINF:-0 tvg-id="Song" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/icon/at_65730e2567.png" group-title="Song",خالد عبدالرحمن الف ليلة 
 https://tr-route2.adm.tcon.hlit.hvds.tv/Content/Hls/VOD/3990/1287/3522609d-c538-464e-8678-a5a9fc513905/82b249ab-5893-561b-1b2a-b221a78f723d/index.avi
 #EXTINF:-0 tvg-id="وثائقي " tvg-logo="https://nowcdn.asharq.com/308x172/7086871571704817834.jpg" group-title="Documentary",بريطانيا جريمة غيرت القانون 
@@ -4536,26 +4438,10 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.avi
 https://edge.taghtia.com/sa/3.avi
 #EXTINF:-0 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Sports",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.avi
-#EXTINF:-0 tvg-id="Setanta Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Setanta Sports 1
-https://ucdn.beetv.kz/btv/live/hls/000004498.avi
-#EXTINF:-0 tvg-id="Setanta Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Setanta Sports 2
-https://ucdn.beetv.kz/btv/live/hls/000004499.avi
-#EXTINF:-0 tvg-id="Aio Sport1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Aio Sport1
-https://af.ayas.ir/hls2/aiosport.avi
+
 #EXTINF:-0 tvg-id="VarzeshTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",VarzeshTV
 https://live.aionet.ir/hls/varzesh/varzesh_360/index.avi
-#EXTINF:-0 tvg-id="Bein Sport 2 En " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",BEin Sport 2 EN 
-https://live-tv.starcdnup.com/Bein_Sports_English_2_Live_TV/tracks-v1a1/mono.avi
-#EXTINF:-0 tvg-id="Bein Sport 1 En " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",BEin Sport 1 EN
-https://live-tv.starcdnup.com/Bein_Sports_English_1_Live_TV/tracks-v1a1/mono.avi
-#EXTINF:-0 tvg-id="SuperSport Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",SuperSport Premier League
-https://live-tv.starcdnup.com/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.avi
-#EXTINF:-0 tvg-id="SuperSport Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",SuperSport Football
-https://live-tv.starcdnup.com/SuperSport_Football_Live_TV/tracks-v1a1/mono.avi
-#EXTINF:-0 tvg-id="TNT SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",TNT Sport 1
-https://live-tv.starcdnup.com/TNT_Sports_1_Live_TV/tracks-v1a1/mono.avi
-#EXTINF:-0 tvg-id="Sky Sport Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Sky Sport Football
-https://live-tv.starcdnup.com/Sky_Sports_Football_Live_TV/tracks-v1a1/mono.avi
+
 #EXTINF:-0 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="Arabic",Watan TV (1080p)
 https://cdg8.edge.technocdn.com/watantv/live/playlist.avi
 #EXTINF:-0 tvg-id="Watania1.tn" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="Arabic",Watania 1 (720p)
