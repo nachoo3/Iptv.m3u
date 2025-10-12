@@ -3761,16 +3761,11 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.avi
 https://edge.taghtia.com/sa/3.avi
 #EXTINF:-0 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Sports",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.avi
-#EXTINF:-0 tvg-id="Setanta Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Setanta Sports 1
-https://ucdn.beetv.kz/btv/live/hls/000004498.avi
-#EXTINF:-0 tvg-id="Setanta Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Setanta Sports 2
-https://ucdn.beetv.kz/btv/live/hls/000004499.avi
+
 
 #EXTINF:-0 tvg-id="VarzeshTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",VarzeshTV
 https://live.aionet.ir/hls/varzesh/varzesh_360/index.avi
 
-#EXTINF:-0 tvg-id="Sky Sport Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Setanta_Sports_logo.svg/1024px-Setanta_Sports_logo.svg.png" group-title="Sport",Sky Sport Football
-https://live-tv.starcdnup.com/Sky_Sports_Football_Live_TV/tracks-v1a1/mono.avi
 #EXTINF:-0 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="Arabic",Watan TV (1080p)
 https://cdg8.edge.technocdn.com/watantv/live/playlist.avi
 #EXTINF:-0 tvg-id="Watania1.tn" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="Arabic",Watania 1 (720p)
@@ -4181,10 +4176,7 @@ https://dai.ly/x8cynjm
 https://dai.ly/x8d39rw
 #EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_44376f04d38edf4cc8cea5fa522c6d5c5f84be3c5b201d4ba46d3669bd4d3751.jpg" group-title="|مسرحيات|",مسرحية   هلوسة كاملة   
 https://dai.ly/x8fw76d
-#EXTINF:-0 tvg-id="" tvg-logo="https://assets.bein.com/bmg/sites/3/2022/11/NEWS_Channel_Full_Color.jpg" group-title="|youtybe|",bein sport news
-https://www.youtube.com/embed/dEmHyqMlclA
-#EXTINF:-0 tvg-id="" tvg-logo="https://assets.raya.com/wp-content/uploads/2023/09/04132644/beIN-SPORTS-Logo.png" group-title="|youtybe|",bein sport 
-https://www.youtube.com/embed/sNHYWrn7j4I?si=Y4c8ixY9hREwdBRS
+
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://0.soompi.io/wp-content/uploads/2019/08/14105011/bad-guys-5.jpg" group-title="|Movies|",Bad Guys: The Movie
 https://dai.ly/x8sxr50
