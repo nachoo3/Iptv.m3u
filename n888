@@ -4,7 +4,3491 @@
 
 
 
+#EXTM3U
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana +HD
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Classic
+https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Khalijia
+https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 1
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-drama.png" group-title="قنوات عربية",MBC DRAMA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",MBC DRAMA+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC
+https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Drama
+https://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Nahar One
+https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Drama
+https://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Sama TV
+https://app.sama-tv.net/hls/samatv_higher/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Lana TV
+https://p-ltv.akamaized.net/ltv/ltv_2.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mix One
+https://weyyak-live.akamaized.net/weyyak_drama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mix Hollywood
+https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Rasheed
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ADM_Abu_Dhabi_tv_2023.png/revision/latest?cb=20231004191532" group-title="قنوات عربية",Abu Dhabi TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات اخبار",AL ARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="قنوات اخبار",AL JAZEERA MUBASHER
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",AL HURRA
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="قنوات اخبار",Alaraby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات اخبار",Dijlah
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Thikrayat
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai Zaman
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai TV
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="قنوات عربية",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات عربية",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
+
+#EXTINF:-1  group-title="قنوات عربية",Panorama FM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="قنوات عربية",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="قنوات عربية",Rotana Radio Jordan
+http://188.247.86.66/RotanaRadio/OnAirStudio1/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Watar
+http://htvint.mada.ps:8889/orient/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",Al Sharqiya News
+http://95.216.180.111:1935/live/4/chunklist_w990531954.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",beIN Movies Premiere 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MFvDjjrM_XN_Brzhd_gg9M/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",beIN Movies Action 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9COXyzr6r6ht-BHhhDsdXhg/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",beIN Movies Drama 3
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PRWKMfmOxnlI4ga9MXJ2_Y/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",beIN Series 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Id148p-MdZOB8TbGb9E9PU/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",beIN Drama 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LxIfgvp8KKdC_VxanxVGYo/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Movies Action VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9H2JyQj2fxw021nnsft4PVU/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Movies Thriller VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9NeT1yE7sMvuvoTDeHITlGM/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Aflam VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ObY5fSuvOpS92HcaDHar3A/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Movies VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PPtDQt3Tff0MlRk7zJu22E/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Just For Laughs
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MJ8tNhUOvOhcsKb6VlevhY/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Topshif
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9AYqf_rBEbp67-X_ZqDrDSw/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Classic
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FEKMZCLvjXKFNXddqgWz5s/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid action
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9JxusUnegsyBbVBDxROEiyw/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Masraheyat
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Lm7e054bzpsCx0kCD7gnYs/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Drama
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MCrOnQK7q7xrI9nIYkR9QM/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Cinema
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DYf94LLYdrxnzA0p5dglS4/m3u8
+
+########################################################## كاظم الساهر ###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://archive.org/download/Kadim_Al_Sahir-Maa_Alhob/cover.jpg" group-title="كاظم الساهر",يا وفية (٢٠٢٤)
+https://archive.org/download/Kadim_Al_Sahir-Maa_Alhob/Album-Yawafiya-Kadim-AlSahir.mp3
+
+
+##########################################################الكبير أوي الجزء الاول###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",#################### الجزءالاول ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(01)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E01%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(02)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E02%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(03)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E03%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(04)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E04%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(05)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E05%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(06)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E06%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(07)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E07%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(08)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E08%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(09)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E09%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(10)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E10%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(11)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E11%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(12)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E12%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(13)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E13%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(14)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E14%29%5B1080p%5D%282010%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(15)
+https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E15%29%5B1080p%5D%282010%29.TS
+
+##########################################################الكبير أوي الجزء الثاني###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",#################### الجزءالثاني ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(01)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2801%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(02)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2802%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(03)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2803%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(04)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2804%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(05)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2805%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(06)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2806%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(07)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2807%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(08)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2808%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(09)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2809%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(10)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2810%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(11)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2811%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(12)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2812%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(13)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2813%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(14)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2814%29%5B1080p%5D%282011%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(15)
+https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2815%29%5B1080p%5D%282011%29.mp4
+
+##########################################################الكبير أوي الجزء الثالث###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",#################### الجزءالثالث ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(01)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2801%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(02)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2802%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(03)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2803%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(04)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2804%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(05)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2805%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(06)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2806%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(07)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2807%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(08)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2808%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(09)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2809%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(10)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2810%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(11)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2811%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(12)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2812%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(13)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2813%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(14)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2814%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(15)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2815%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(16)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2816%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(17)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2817%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(18)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2818%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(19)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2819%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(20)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2820%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(21)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2821%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(22)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2822%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(23)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2823%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(24)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2824%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(25)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2825%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(26)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2826%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(27)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2827%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(28)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2828%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(29)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2829%29%5B1080p%5D%282013%29.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(30)
+https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2830%29%5B1080p%5D%282013%29.TS
+
+
+##########################################################الكبير أوي الجزء الرابع###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",#################### الجزءالرابع ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(01)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP01.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(02)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP02.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(03)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP03.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(04)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP04.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(05)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP05.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(06)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP06.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(07)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP07.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(08)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP08.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(09)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP09.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(10)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP10.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(11)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP11.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(12)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP12.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(13)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP13.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(14)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP14.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(15)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP15.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(16)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP16.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(17)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP17.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(18)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP18.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(19)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP19.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(20)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP20.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(21)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP21.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(22)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP22.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(23)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP23.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(24)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP24.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(25)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP25.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(26)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP26.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(27)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP27.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(28)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP28.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(29)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP29.HD1080.CdHaTY.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(30)
+https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP30.HD1080.CdHaTY.mkv
+
+
+##########################################################الكبير أوي الجزء الخامس###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",#################### الجزءالخامس ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(01)
+https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E01.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(02)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E02.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(03)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E03.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(04)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E04.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(05)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E05.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(06)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E06.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(07)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E07.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(08)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E08.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(09)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E09.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(10)
+https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E10.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(11)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E11.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(12)
+https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E12.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(13)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E13.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(14)
+https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E14.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(15)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E15.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(16)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E16.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(17)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E17.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(18)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E18.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(19)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E19.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(20)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E20.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(21)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E21.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(22)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E22.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(23)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E23.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(24)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E24.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(25)
+https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E25.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(26)
+https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E26.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(27)
+https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E27.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(28)
+https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E28.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(29)
+https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E29.HD.1080p.AT.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(30)
+https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E30.HD.1080p.AT.mp4
+
+##########################################################الكبير أوي الجزء السادس###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",#################### الجزءالسادس ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(01)
+https://archive.org/download/al-kabeer-awi_202311/k-6%281%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(02)
+https://archive.org/download/al-kabeer-awi_202311/k-6%282%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(03)
+https://archive.org/download/al-kabeer-awi_202311/k-6%283%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(04)
+https://archive.org/download/al-kabeer-awi_202311/k-6%284%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(05)
+https://archive.org/download/al-kabeer-awi_202311/k-6%285%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(06)
+https://archive.org/download/al-kabeer-awi_202311/k-6%286%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(07)
+https://archive.org/download/al-kabeer-awi_202311/k-6%287%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(08)
+https://archive.org/download/al-kabeer-awi_202311/k-6%288%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(09)
+https://archive.org/download/al-kabeer-awi_202311/k-6%289%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(10)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2810%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(11)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2811%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(12)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2812%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(13)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2813%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(14)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2814%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(15)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2815%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(16)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2816%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(17)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2817%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(18)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2818%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(19)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2819%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(20)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2820%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(21)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2821%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(22)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2822%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(23)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2823%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(24)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2824%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(25)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2825%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(26)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2826%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(27)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2827%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(28)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2828%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(29)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2829%29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(30)
+https://archive.org/download/al-kabeer-awi_202311/k-6%2830%29.mkv
+
+
+##########################################################لسة بدري#####################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(01) - الباشا
+https://archive.org/download/LesaBadry/Lesa.Badry.720p%20%2801%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(02) - المرأة التي غلبت الشيطان
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2802%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(03) - كشف المستور
+https://archive.org/download/Lesa-Badry/Kashf-Elmastor.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(04) - الحق والمستحق
+https://archive.org/download/Lesa-Badry/Alhaq-Wal-Mustahaq.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(05) - ارض الاحلام
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2805%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(06) - الحب والرعب
+https://archive.org/download/Lesa-Badry/Alhob-Wal-Ru3ob.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(07) - اين تذهب هذا المساء
+https://archive.org/download/Lesa-Badry/Ayna-Tathhab-Hatha-Almasaa.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(08) - غرام الافاعي
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2808%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(09) - الاكل للجميع
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2809%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(10) - سايكو
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2810%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(11) - اللي يحضر العفريت
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2811%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(12) - الارض الملعونة
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2812%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(13) - حصاد السنين
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2813%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(14) - تيفة التركي
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2814%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(15) - انا والفوضى
+https://archive.org/download/Lesa-Badry/Ana-Wal-Fawdha.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(16) - من الجاني
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2816%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(17) - الكنز
+https://archive.org/download/Lesa-Badry/Alkanz.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(18) - سيري يا نورماندي
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2818%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(19) - مبروم على مبروم
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2819%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(20) - في بيتنا خليل
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2820%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(21) - مهما يحاولوا يطفوا الشمس
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2821%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(22) - عروستي
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2822%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(23) - خمسين ثانية
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2823%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(24) - ملكة القلوب
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2824%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(25) - الطريق الصعب
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2825%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(26) - مأساة عزيزة
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2826%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(27) - الله ... الوطن ... الفن
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2827%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(28) - درع بيركس
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2828%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(29) - لك يوم يا ظالم
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2829%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="لسة بدري",الحلقة(30) - الاقارب عقارب
+https://archive.org/download/LesaBadry/Lesa.Badry.480p%20%2830%29.mp4
+
+##########################################################هومي هون###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(1) -تزوير شهادة
+https://archive.org/download/bethi-akha/01.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(2) -اعتدال الشاشكلي
+https://archive.org/download/bethi-akha/02.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(3) -سعيد القرميدي
+https://archive.org/download/bethi-akha/03.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(4) -تلفزيون ملون
+https://archive.org/download/bethi-akha/04.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(5) -فيديل
+https://archive.org/download/bethi-akha/05.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(6) -أم منذر
+https://archive.org/download/bethi-akha/06.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(7) -اعتصام ضد اسرائيل
+https://archive.org/download/bethi-akha/07.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(8) -حاج كاظم
+https://archive.org/download/bethi-akha/08.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(9) -احلام كرام
+https://archive.org/download/bethi-akha/09.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(10) -خطيب صباح
+https://archive.org/download/bethi-akha/10.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(11) -عصفور الدور
+https://archive.org/download/bethi-akha/11.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(12) -ابنة اخت جاكلين
+https://archive.org/download/bethi-akha/12.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(13) -العشاق
+https://archive.org/download/bethi-akha/13.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(14) -فيديل الشرير
+https://archive.org/download/bethi-akha/14.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(15) -صندوق الاختراعات
+https://archive.org/download/bethi-akha/15.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(16) -ما بدي طب
+https://archive.org/download/bethi-akha/16.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(17) -فيديل مو مرغوب
+https://archive.org/download/bethi-akha/17.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(18) -موني
+https://archive.org/download/bethi-akha/18.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(19) -عيد ميلاد صباح
+https://archive.org/download/bethi-akha/19.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(20) -زواج صباح
+https://archive.org/download/bethi-akha/20.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(21) -مرمر جوع
+https://archive.org/download/bethi-akha/21.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(22) -ساعة راحة
+https://archive.org/download/bethi-akha/22.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(23) -دور البطولة
+https://archive.org/download/bethi-akha/23.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(24) -بيت الاشباح
+https://archive.org/download/bethi-akha/24.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(25) -الكنز
+https://archive.org/download/bethi-akha/25.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(26) -استشارات تجارية
+https://archive.org/download/bethi-akha/26.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(27) -عمليات التجميل
+https://archive.org/download/bethi-akha/27.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(28) -كاميرا فيديل
+https://archive.org/download/bethi-akha/28.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(29) -الجزار جاسم
+https://archive.org/download/bethi-akha/29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(30) -صباح حلالة مشاكل
+https://archive.org/download/bethi-akha/30.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(31) -ابن مسؤول كبير
+https://archive.org/download/bethi-akha/31.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(32) -خطوبة فخري
+https://archive.org/download/bethi-akha/32.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(33) -جمعية خيرية
+https://archive.org/download/bethi-akha/33.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(34) -سعاد الخدامة
+https://archive.org/download/bethi-akha/34.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(35) -اكتئاب جماعي
+https://archive.org/download/bethi-akha/35.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(36) -سليمان
+https://archive.org/download/bethi-akha/36.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(37) -مايا بطلة فيديو كليب
+https://archive.org/download/bethi-akha/37.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(38) -كاميرا خفية
+https://archive.org/download/bethi-akha/38.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(39) -مدير أعمال دي كابريو
+https://archive.org/download/bethi-akha/39.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="هومي هون",الحلقة(40) -مطعم دي كابريو
+https://archive.org/download/bethi-akha/40.mp4
+
+
+################################################################ مرايا ################################################################
+
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",#################### [مرايا 2011] ####################
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - حذاء ساندريل
+https://archive.org/download/spejle/%5B2011%5D%281%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - ضبع القرية | بذور
+https://archive.org/download/spejle/%5B2011%5D%282%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - الغرفة السرية | ضاع راتبو
+https://archive.org/download/spejle/%5B2011%5D%283%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - دروس خاصة | الوالي خسرو | سرك ببير
+https://archive.org/download/spejle/%5B2011%5D%284%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - سرك ببير | الجائزة الذهبية
+https://archive.org/download/spejle/%5B2011%5D%285%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - حارس الاجداد
+https://archive.org/download/spejle/%5B2011%5D%286%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - الخياط ابو صبري
+https://archive.org/download/spejle/%5B2011%5D%287%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - آخر المشوار | بقا شو عم قول لحالي
+https://archive.org/download/spejle/%5B2011%5D%288%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - الشحاد | فردة حلق
+https://archive.org/download/spejle/%5B2011%5D%289%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - ارواح ونفوس | تبرع بالدم
+https://archive.org/download/spejle/%5B2011%5D%2810%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - تبرع بالدم
+https://archive.org/download/spejle/%5B2011%5D%2811%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - اهلين جار
+https://archive.org/download/spejle/%5B2011%5D%2812%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - عقلو كبير | حلول اقتصادية
+https://archive.org/download/spejle/%5B2011%5D%2813%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - ودارت الايام
+https://archive.org/download/spejle/%5B2011%5D%2814%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - أمتعة شخصية | إنفلونزا الارانب
+https://archive.org/download/spejle/%5B2011%5D%2815%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - إنفلونزا الارانب
+https://archive.org/download/spejle/%5B2011%5D%2816%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - مندوب تأمين
+https://archive.org/download/spejle/%5B2011%5D%2817%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - لوحات نفيسة | شهادة دكتوراه
+https://archive.org/download/spejle/%5B2011%5D%2818%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - رسالة (SMS) | تجميل
+https://archive.org/download/spejle/%5B2011%5D%2819%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - ابو شيهم | امنيات صغيرة
+https://archive.org/download/spejle/%5B2011%5D%2820%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - خدمات سياسية | مدرس خصوصي
+https://archive.org/download/spejle/%5B2011%5D%2821%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - ألو | انا لسه ما خرفت
+https://archive.org/download/spejle/%5B2011%5D%2822%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - عبير الالوان | وفاء سياسي
+https://archive.org/download/spejle/%5B2011%5D%2823%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - نبع الجنون
+https://archive.org/download/spejle/%5B2011%5D%2824%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - في المصعد | الدبور
+https://archive.org/download/spejle/%5B2011%5D%2825%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - قالب كاتو | طاحونة ابو غانم
+https://archive.org/download/spejle/%5B2011%5D%2826%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - طاحونة ابو غانم
+https://archive.org/download/spejle/%5B2011%5D%2827%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - في المخفر | جرة عسل
+https://archive.org/download/spejle/%5B2011%5D%2828%29.mp4
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="" group-title="مرايا",[مرايا 2011] - السجين رقم صفر
+https://archive.org/download/spejle/%5B2011%5D%2829%29.mp4
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2011] - تغيير جو | مقامة المفتي 
+https://archive.org/download/spejle/%5B2011%5D%2830%29.mp4
+
+
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",#################### [مرايا 2006] ####################
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 1
+https://archive.org/download/spejle/%5B2006%5D%281%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 2
+https://archive.org/download/spejle/%5B2006%5D%282%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 3
+https://archive.org/download/spejle/%5B2006%5D%283%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 4
+https://archive.org/download/spejle/%5B2006%5D%284%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 5
+https://archive.org/download/spejle/%5B2006%5D%285%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 6
+https://archive.org/download/spejle/%5B2006%5D%286%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 7
+https://archive.org/download/spejle/%5B2006%5D%287%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 8
+https://archive.org/download/spejle/%5B2006%5D%288%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 9
+https://archive.org/download/spejle/%5B2006%5D%289%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 10
+https://archive.org/download/spejle/%5B2006%5D%2810%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 11
+https://archive.org/download/spejle/%5B2006%5D%2811%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 12
+https://archive.org/download/spejle/%5B2006%5D%2812%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 13
+https://archive.org/download/spejle/%5B2006%5D%2813%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 14
+https://archive.org/download/spejle/%5B2006%5D%2814%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 15
+https://archive.org/download/spejle/%5B2006%5D%2815%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 16
+https://archive.org/download/spejle/%5B2006%5D%2816%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 17
+https://archive.org/download/spejle/%5B2006%5D%2817%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 18
+https://archive.org/download/spejle/%5B2006%5D%2818%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 19
+https://archive.org/download/spejle/%5B2006%5D%2819%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 20
+https://archive.org/download/spejle/%5B2006%5D%2820%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 21
+https://archive.org/download/spejle/%5B2006%5D%2821%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 22
+https://archive.org/download/spejle/%5B2006%5D%2822%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 23
+https://archive.org/download/spejle/%5B2006%5D%2823%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 24
+https://archive.org/download/spejle/%5B2006%5D%2824%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 25
+https://archive.org/download/spejle/%5B2006%5D%2825%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 26
+https://archive.org/download/spejle/%5B2006%5D%2826%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 27
+https://archive.org/download/spejle/%5B2006%5D%2827%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 28
+https://archive.org/download/spejle/%5B2006%5D%2828%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 29
+https://archive.org/download/spejle/%5B2006%5D%2829%29.mp4
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="" group-title="مرايا",[مرايا 2006] - 30
+https://archive.org/download/spejle/%5B2006%5D%2830%29.mp4
+
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",#################### [احلى المرايا 2005] ####################
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 1
+https://archive.org/download/spejle/%5B2005%5D%281%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 2
+https://archive.org/download/spejle/%5B2005%5D%282%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 3
+https://archive.org/download/spejle/%5B2005%5D%283%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 4
+https://archive.org/download/spejle/%5B2005%5D%284%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 5
+https://archive.org/download/spejle/%5B2005%5D%285%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 6
+https://archive.org/download/spejle/%5B2005%5D%286%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 7
+https://archive.org/download/spejle/%5B2005%5D%287%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 8
+https://archive.org/download/spejle/%5B2005%5D%288%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 9
+https://archive.org/download/spejle/%5B2005%5D%289%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 10
+https://archive.org/download/spejle/%5B2005%5D%2810%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 11
+https://archive.org/download/spejle/%5B2005%5D%2811%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 12
+https://archive.org/download/spejle/%5B2005%5D%2812%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 13
+https://archive.org/download/spejle/%5B2005%5D%2813%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 14
+https://archive.org/download/spejle/%5B2005%5D%2814%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 15
+https://archive.org/download/spejle/%5B2005%5D%2815%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 16
+https://archive.org/download/spejle/%5B2005%5D%2816%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 17
+https://archive.org/download/spejle/%5B2005%5D%2817%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 18
+https://archive.org/download/spejle/%5B2005%5D%2818%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 19
+https://archive.org/download/spejle/%5B2005%5D%2819%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 20
+https://archive.org/download/spejle/%5B2005%5D%2820%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 21
+https://archive.org/download/spejle/%5B2005%5D%2821%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 22
+https://archive.org/download/spejle/%5B2005%5D%2822%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 23
+https://archive.org/download/spejle/%5B2005%5D%2823%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 24
+https://archive.org/download/spejle/%5B2005%5D%2824%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 25
+https://archive.org/download/spejle/%5B2005%5D%2825%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 26
+https://archive.org/download/spejle/%5B2005%5D%2826%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 27
+https://archive.org/download/spejle/%5B2005%5D%2827%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 28
+https://archive.org/download/spejle/%5B2005%5D%2828%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 29
+https://archive.org/download/spejle/%5B2005%5D%2829%29.mp4
+
+#EXTINF:-1 tvg-id="2005" tvg-logo="" group-title="مرايا",[احلى المرايا 2005] - 30
+https://archive.org/download/spejle/%5B2005%5D%2830%29.mp4
+
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",#################### [عشنا وشفنا 2004] ####################
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 1
+https://archive.org/download/spejle/%5B2004%5D%281%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 2
+https://archive.org/download/spejle/%5B2004%5D%282%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 3
+https://archive.org/download/spejle/%5B2004%5D%283%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 4
+https://archive.org/download/spejle/%5B2004%5D%284%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 5
+https://archive.org/download/spejle/%5B2004%5D%285%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 6
+https://archive.org/download/spejle/%5B2004%5D%286%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 7
+https://archive.org/download/spejle/%5B2004%5D%287%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 8
+https://archive.org/download/spejle/%5B2004%5D%288%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 9
+https://archive.org/download/spejle/%5B2004%5D%289%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 10
+https://archive.org/download/spejle/%5B2004%5D%2810%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 11
+https://archive.org/download/spejle/%5B2004%5D%2811%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 12
+https://archive.org/download/spejle/%5B2004%5D%2812%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 13
+https://archive.org/download/spejle/%5B2004%5D%2813%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 14
+https://archive.org/download/spejle/%5B2004%5D%2814%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 15
+https://archive.org/download/spejle/%5B2004%5D%2815%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 16
+https://archive.org/download/spejle/%5B2004%5D%2816%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 17
+https://archive.org/download/spejle/%5B2004%5D%2817%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 18
+https://archive.org/download/spejle/%5B2004%5D%2818%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 19
+https://archive.org/download/spejle/%5B2004%5D%2819%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 20
+https://archive.org/download/spejle/%5B2004%5D%2820%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 21
+https://archive.org/download/spejle/%5B2004%5D%2821%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 22
+https://archive.org/download/spejle/%5B2004%5D%2822%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 23
+https://archive.org/download/spejle/%5B2004%5D%2823%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 24
+https://archive.org/download/spejle/%5B2004%5D%2824%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 25
+https://archive.org/download/spejle/%5B2004%5D%2825%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 26
+https://archive.org/download/spejle/%5B2004%5D%2826%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 27
+https://archive.org/download/spejle/%5B2004%5D%2827%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 28
+https://archive.org/download/spejle/%5B2004%5D%2828%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 29
+https://archive.org/download/spejle/%5B2004%5D%2829%29.mkv
+
+#EXTINF:-1 tvg-id="2004" tvg-logo="" group-title="مرايا",[عشنا وشفنا 2004] - 30
+https://archive.org/download/spejle/%5B2004%5D%2830%29.mkv
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مرايا",#################### [مرايا 2003] ####################
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - معونات امجد بيك | نصيحة مجرب
+https://archive.org/download/spejle/%5B2003%5D%281%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - مرشح وناخب
+https://archive.org/download/spejle/%5B2003%5D%282%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - أبو مرتاح
+https://archive.org/download/spejle/%5B2003%5D%283%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - أبو كاسر
+https://archive.org/download/spejle/%5B2003%5D%284%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - ساعة نحس
+https://archive.org/download/spejle/%5B2003%5D%285%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - يوميات مدرسة
+https://archive.org/download/spejle/%5B2003%5D%286%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - الحق بيرجع لاصحابو
+https://archive.org/download/spejle/%5B2003%5D%287%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - هاد أخو هاد
+https://archive.org/download/spejle/%5B2003%5D%288%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - لاتآخذنا جار
+https://archive.org/download/spejle/%5B2003%5D%289%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - عنتر من الورق
+https://archive.org/download/spejle/%5B2003%5D%2810%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - المفاتيح معي
+https://archive.org/download/spejle/%5B2003%5D%2811%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - معرض الامهات
+https://archive.org/download/spejle/%5B2003%5D%2812%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - مابسامحو
+https://archive.org/download/spejle/%5B2003%5D%2813%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - نص زلمة
+https://archive.org/download/spejle/%5B2003%5D%2814%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - نبع البلسم
+https://archive.org/download/spejle/%5B2003%5D%2815%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - كنتي متل بنتي
+https://archive.org/download/spejle/%5B2003%5D%2816%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - لغة خاصة
+https://archive.org/download/spejle/%5B2003%5D%2817%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - باخرة في عرض البحر
+https://archive.org/download/spejle/%5B2003%5D%2818%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - فريدة زمانها
+https://archive.org/download/spejle/%5B2003%5D%2819%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - شو هالبلد
+https://archive.org/download/spejle/%5B2003%5D%2820%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - دليل هاتف
+https://archive.org/download/spejle/%5B2003%5D%2821%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - خطاب في مزرعة النحل
+https://archive.org/download/spejle/%5B2003%5D%2822%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - آخ .. آخ .. | لمين الافضلية
+https://archive.org/download/spejle/%5B2003%5D%2823%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - ياحلاوة المنصب ياحلاوة
+https://archive.org/download/spejle/%5B2003%5D%2824%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - وفي لأصدقاؤه
+https://archive.org/download/spejle/%5B2003%5D%2825%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - عاشق الوطن .. | ومن الحب ما قتل
+https://archive.org/download/spejle/%5B2003%5D%2826%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - كذبة المرحوم
+https://archive.org/download/spejle/%5B2003%5D%2827%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - يللي ما بيتعلم
+https://archive.org/download/spejle/%5B2003%5D%2828%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - حلم في محطة القطار
+https://archive.org/download/spejle/%5B2003%5D%2829%29.mkv
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="" group-title="مرايا",[مرايا 2003] - حط بالخرج
+https://archive.org/download/spejle/%5B2003%5D%2830%29.mkv
+
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",#################### [حديث المرايا 2002] ####################
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 1
+https://archive.org/download/spejle/%5B2002%5D%281%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 2
+https://archive.org/download/spejle/%5B2002%5D%282%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 3
+https://archive.org/download/spejle/%5B2002%5D%283%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 4
+https://archive.org/download/spejle/%5B2002%5D%284%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 5
+https://archive.org/download/spejle/%5B2002%5D%285%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 6
+https://archive.org/download/spejle/%5B2002%5D%286%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 7
+https://archive.org/download/spejle/%5B2002%5D%287%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 8
+https://archive.org/download/spejle/%5B2002%5D%288%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 9
+https://archive.org/download/spejle/%5B2002%5D%289%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 10
+https://archive.org/download/spejle/%5B2002%5D%2810%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 11
+https://archive.org/download/spejle/%5B2002%5D%2811%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 12
+https://archive.org/download/spejle/%5B2002%5D%2812%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 13
+https://archive.org/download/spejle/%5B2002%5D%2813%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 14
+https://archive.org/download/spejle/%5B2002%5D%2814%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 15
+https://archive.org/download/spejle/%5B2002%5D%2815%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 16
+https://archive.org/download/spejle/%5B2002%5D%2816%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 17
+https://archive.org/download/spejle/%5B2002%5D%2817%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 18
+https://archive.org/download/spejle/%5B2002%5D%2818%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 19
+https://archive.org/download/spejle/%5B2002%5D%2819%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 20
+https://archive.org/download/spejle/%5B2002%5D%2820%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 21
+https://archive.org/download/spejle/%5B2002%5D%2821%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 22
+https://archive.org/download/spejle/%5B2002%5D%2822%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 23
+https://archive.org/download/spejle/%5B2002%5D%2823%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 24
+https://archive.org/download/spejle/%5B2002%5D%2824%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 25
+https://archive.org/download/spejle/%5B2002%5D%2825%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 26
+https://archive.org/download/spejle/%5B2002%5D%2826%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 27
+https://archive.org/download/spejle/%5B2002%5D%2827%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 28
+https://archive.org/download/spejle/%5B2002%5D%2828%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 29
+https://archive.org/download/spejle/%5B2002%5D%2829%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 30
+https://archive.org/download/spejle/%5B2002%5D%2830%29.mkv
+
+#EXTINF:-1 tvg-id="2002" tvg-logo="" group-title="مرايا",[حديث المرايا 2002] - 31
+https://archive.org/download/spejle/%5B2002%5D%2831%29.mkv
+
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",#################### [حكايا المرايا 2001] ####################
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 1
+https://archive.org/download/spejle/%5B2001%5D%281%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 2
+https://archive.org/download/spejle/%5B2001%5D%282%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 3
+https://archive.org/download/spejle/%5B2001%5D%283%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 4
+https://archive.org/download/spejle/%5B2001%5D%284%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 5
+https://archive.org/download/spejle/%5B2001%5D%285%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 6
+https://archive.org/download/spejle/%5B2001%5D%286%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 7
+https://archive.org/download/spejle/%5B2001%5D%287%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 8
+https://archive.org/download/spejle/%5B2001%5D%288%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 9
+https://archive.org/download/spejle/%5B2001%5D%289%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 10
+https://archive.org/download/spejle/%5B2001%5D%2810%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 11
+https://archive.org/download/spejle/%5B2001%5D%2811%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 12
+https://archive.org/download/spejle/%5B2001%5D%2812%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 13
+https://archive.org/download/spejle/%5B2001%5D%2813%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 14
+https://archive.org/download/spejle/%5B2001%5D%2814%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 15
+https://archive.org/download/spejle/%5B2001%5D%2815%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 16
+https://archive.org/download/spejle/%5B2001%5D%2816%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 17
+https://archive.org/download/spejle/%5B2001%5D%2817%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 18
+https://archive.org/download/spejle/%5B2001%5D%2818%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 19
+https://archive.org/download/spejle/%5B2001%5D%2819%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 20
+https://archive.org/download/spejle/%5B2001%5D%2820%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 21
+https://archive.org/download/spejle/%5B2001%5D%2821%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 22
+https://archive.org/download/spejle/%5B2001%5D%2822%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 23
+https://archive.org/download/spejle/%5B2001%5D%2823%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 24
+https://archive.org/download/spejle/%5B2001%5D%2824%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 25
+https://archive.org/download/spejle/%5B2001%5D%2825%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 26
+https://archive.org/download/spejle/%5B2001%5D%2826%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 27
+https://archive.org/download/spejle/%5B2001%5D%2827%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 28
+https://archive.org/download/spejle/%5B2001%5D%2828%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 29
+https://archive.org/download/spejle/%5B2001%5D%2829%29.mkv
+
+#EXTINF:-1 tvg-id="2001" tvg-logo="" group-title="مرايا",[حكايا المرايا 2001] - 30
+https://archive.org/download/spejle/%5B2001%5D%2830%29.mkv
+
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",#################### [حكايا 2000] ####################
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - مغامرة بحرية
+https://archive.org/download/spejle/%5B2000%5D%281%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - مين راح ياكلها
+https://archive.org/download/spejle/%5B2000%5D%282%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - تحفة فنية | الشريكان
+https://archive.org/download/spejle/%5B2000%5D%283%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - شارع جابر بن سعود | الظالم والمظلوم
+https://archive.org/download/spejle/%5B2000%5D%284%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - يكرم المرء أو يهان
+https://archive.org/download/spejle/%5B2000%5D%285%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - فنان مشهور | شيش بيش
+https://archive.org/download/spejle/%5B2000%5D%286%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - الأخوان
+https://archive.org/download/spejle/%5B2000%5D%287%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - البيت بيتك
+https://archive.org/download/spejle/%5B2000%5D%288%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - هالمنام بدون تفسير | عقدة نقص
+https://archive.org/download/spejle/%5B2000%5D%289%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - الماسة السوداء | الورقة الخضراء
+https://archive.org/download/spejle/%5B2000%5D%2810%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - الكيل بمكيالين | طابع اعتراضي | المخطط
+https://archive.org/download/spejle/%5B2000%5D%2811%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - بيبي سيتر | الموعد
+https://archive.org/download/spejle/%5B2000%5D%2812%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - ستار حديدي
+https://archive.org/download/spejle/%5B2000%5D%2813%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - رحالة | مصلحة عامة
+https://archive.org/download/spejle/%5B2000%5D%2814%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - خطيبتو ميس
+https://archive.org/download/spejle/%5B2000%5D%2815%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - أبو كعكة | شمال يمين
+https://archive.org/download/spejle/%5B2000%5D%2816%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - اللعبة | ما حدا أحسن من حد
+https://archive.org/download/spejle/%5B2000%5D%2817%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - فرصة ما بتتفوت | الحوار أولا
+https://archive.org/download/spejle/%5B2000%5D%2818%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - شكا زولو
+https://archive.org/download/spejle/%5B2000%5D%2819%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - ميشيل دي فونتي
+https://archive.org/download/spejle/%5B2000%5D%2820%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - عملية إنقاذ | انتربولوجيا
+https://archive.org/download/spejle/%5B2000%5D%2821%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - المستشار عبدالفتاح | حفل تكريم
+https://archive.org/download/spejle/%5B2000%5D%2822%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - الأسير
+https://archive.org/download/spejle/%5B2000%5D%2823%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - اللغم | على ظهر الباص
+https://archive.org/download/spejle/%5B2000%5D%2824%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - الشيف لطفي
+https://archive.org/download/spejle/%5B2000%5D%2825%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - شوفو النصيب
+https://archive.org/download/spejle/%5B2000%5D%2826%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - العين الساهرة
+https://archive.org/download/spejle/%5B2000%5D%2827%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - حمدان العنزة
+https://archive.org/download/spejle/%5B2000%5D%2828%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - السقوط إلى الأعلى
+https://archive.org/download/spejle/%5B2000%5D%2829%29.mkv
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[حكايا 2000] - المرأة المثالية
+https://archive.org/download/spejle/%5B2000%5D%2830%29.mkv
+
+
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",#################### [مرايا 2000] ####################
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - ضيعة حب العزيز
+https://archive.org/download/Maratha/%281%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - ضيعة حب العزيز | حبل الكذب
+https://archive.org/download/Maratha/%282%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - غير قابل للنشر
+https://archive.org/download/Maratha/%283%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - معرض اقتصادي
+https://archive.org/download/Maratha/%284%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - تتمة معرض اقتصادي | اشهدوا ياناس
+https://archive.org/download/Maratha/%285%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - مابدها حيا المسألة
+https://archive.org/download/Maratha/%286%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - البهلوان
+https://archive.org/download/Maratha/%287%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - توفير على ذمة المدير | تلفون لاسلكي
+https://archive.org/download/Maratha/%288%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - نفذ بريشو-1
+https://archive.org/download/Maratha/%289%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - تتمة نفذ بريشو | سعادة أبو هاني
+https://archive.org/download/Maratha/%2810%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - عسكر وحرامية
+https://archive.org/download/Maratha/%2811%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - بستان أبو حمدي
+https://archive.org/download/Maratha/%2812%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - طرابيش وملايا-الجزء الاول
+https://archive.org/download/Maratha/%2813%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - طرابيش وملايا-الجزء الاول                 
+https://archive.org/download/Maratha/%2814%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - طرابيش وملايا
+https://archive.org/download/Maratha/%2815%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - موت حشرة
+https://archive.org/download/Maratha/%2816%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - حق الجمل على مين
+https://archive.org/download/Maratha/%2817%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - إخوتي ولكن | افراح الفقراء
+https://archive.org/download/Maratha/%2818%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - استقبال شعبي | عم تحكي عن جد
+https://archive.org/download/Maratha/%2819%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - السلسال | الصورة والمسدس
+https://archive.org/download/Maratha/%2820%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - الأمن مستتب | الباب والكرسي
+https://archive.org/download/Maratha/%2821%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - مرحوم خمس نجوم | العتب على النظر
+https://archive.org/download/Maratha/%2822%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - شروال صالح
+https://archive.org/download/Maratha/%2823%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - حظ بيفلق الصخر | كلاب الاغا
+https://archive.org/download/Maratha/%2824%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - شو سميها يا ناس | بدنا نتجوز على الصيف
+https://archive.org/download/Maratha/%2825%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - حتى اخر نفس | ما بينعطو وش
+https://archive.org/download/Maratha/%2826%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - سر السعادة | الوصية
+https://archive.org/download/Maratha/%2827%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - الحل عدنا | ع الباب انا ع الباب
+https://archive.org/download/Maratha/%2828%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - مشان كاسة شاي | كيف تصبح مليونيراً
+https://archive.org/download/Maratha/%2829%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - من حكايا الحكواتي 1 | قص لسان | جلد الخاروف
+https://archive.org/download/Maratha/%2830%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - السكوت من ذهب | رد الامانة
+https://archive.org/download/Maratha/%2831%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - من حكايا الحكواتي 3 | زيت نباتي | رجل مكسورة
+https://archive.org/download/Maratha/%2832%29.ia.mp4
+
+#EXTINF:-1 tvg-id="2000" tvg-logo="" group-title="مرايا",[مرايا 2000] - من حكايا الحكواتي 4 | غير رزقك ما بتحوش
+https://archive.org/download/Maratha/%2833%29.ia.mp4
+
+
+##########################################################الفصول الاربعة###################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",#################### الجزء الاول ####################
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(1)-عيد ميلاد
+https://archive.org/download/arba-arba/1-%281%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(2)-الوسواس
+https://archive.org/download/arba-arba/1-%282%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(3)-غرام وانتقام
+https://archive.org/download/arba-arba/1-%283%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(4)-حرملك
+https://archive.org/download/arba-arba/1-%284%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(5)-الدفاتر القديمة
+https://archive.org/download/arba-arba/1-%285%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(6)-في يوم في شهر في سنة
+https://archive.org/download/arba-arba/1-%286%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(7)-استشعار عن بعد
+https://archive.org/download/arba-arba/1-%287%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(8)-الأرملة
+https://archive.org/download/arba-arba/1-%288%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(9)-أنا وابنتي والحب
+https://archive.org/download/arba-arba/1-%289%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(10)-نسخة طبق الأصل
+https://archive.org/download/arba-arba/1-%2810%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(11)-عريس على غفلة
+https://archive.org/download/arba-arba/1-%2811%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(12)-جوربار غيت
+https://archive.org/download/arba-arba/1-%2812%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(13)-رزق الله على العربيات
+https://archive.org/download/arba-arba/1-%2813%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(14)-جار الرضا
+https://archive.org/download/arba-arba/1-%2814%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(15)-الجبال لا تلتقي
+https://archive.org/download/arba-arba/1-%2815%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(16)-طبيب الروح
+https://archive.org/download/arba-arba/1-%2816%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(17)-ورق الشجر
+https://archive.org/download/arba-arba/1-%2817%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(18)-حملة اعلانية
+https://archive.org/download/arba-arba/1-%2818%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(19)-نعيمة مفقودة
+https://archive.org/download/arba-arba/1-%2819%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(20)-تبادل ألقاب
+https://archive.org/download/arba-arba/1-%2820%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(21)-دي ودودي
+https://archive.org/download/arba-arba/1-%2821%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(22)-أصدقاء نزار
+https://archive.org/download/arba-arba/1-%2822%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(23)-مشمش هندي
+https://archive.org/download/arba-arba/1-%2823%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(24)-سباق مع الزمن
+https://archive.org/download/arba-arba/1-%2824%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(25)-التيتانيك
+https://archive.org/download/arba-arba/1-%2825%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(26)-حاسة سادسة
+https://archive.org/download/arba-arba/1-%2826%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(27)-أزمة أمومة
+https://archive.org/download/arba-arba/1-%2827%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(28)-رمية من غير رامي
+https://archive.org/download/arba-arba/1-%2828%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(29)-تأمين مستقبل
+https://archive.org/download/arba-arba/1-%2829%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(30)-من لا يحب كاساندرا
+https://archive.org/download/arba-arba/1-%2830%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(31)-عروسة العيد
+https://archive.org/download/arba-arba/1-%2831%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(32)-التجارة شطارة
+https://archive.org/download/arba-arba/1-%2832%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(33)-رسالة من فوق الأسطح
+https://archive.org/download/arba-arba/1-%2833%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(34)-من باب لباب
+https://archive.org/download/arba-arba/1-%2834%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الاول-(35)-بيت البنات فاضي مليان
+https://archive.org/download/arba-arba/1-%2835%29.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",#################### الجزء الثاني ####################
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(1)-أوراق سرية
+https://archive.org/download/arba-arba/2-%281%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(2)-أربع عيون
+https://archive.org/download/arba-arba/2-%282%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(3)-أنا الذي
+https://archive.org/download/arba-arba/2-%283%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(4)-ست الحبايب
+https://archive.org/download/arba-arba/2-%284%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(5)-كذبة أول نيسان
+https://archive.org/download/arba-arba/2-%285%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(6)-كذبة آخر نيسان
+https://archive.org/download/arba-arba/2-%286%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(7)-للنساء فقط
+https://archive.org/download/arba-arba/2-%287%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(8)-الصندوق الأسود
+https://archive.org/download/arba-arba/2-%288%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(9)-قطة شامية
+https://archive.org/download/arba-arba/2-%289%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(10)-عشاق المقعد الرمادي
+https://archive.org/download/arba-arba/2-%2810%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(11)-بنت وصبي
+https://archive.org/download/arba-arba/2-%2811%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(12)-خطرنا على بالك
+https://archive.org/download/arba-arba/2-%2812%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(13)-مالنا ومالك
+https://archive.org/download/arba-arba/2-%2813%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(14)-تصرفات ثقافية
+https://archive.org/download/arba-arba/2-%2814%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(15)-قناع مسرحي
+https://archive.org/download/arba-arba/2-%2815%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(16)-ماسك بالعسل
+https://archive.org/download/arba-arba/2-%2816%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(17)-قناع العقرب
+https://archive.org/download/arba-arba/2-%2817%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(18)-قارئة الفنجان
+https://archive.org/download/arba-arba/2-%2818%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(19)-ان الكرام قليل
+https://archive.org/download/arba-arba/2-%2819%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(20)-فازة كريستال
+https://archive.org/download/arba-arba/2-%2820%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(21)-زبدية صيني
+https://archive.org/download/arba-arba/2-%2821%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(22)-ياواد يا تقيل
+https://archive.org/download/arba-arba/2-%2822%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(23)-ليفة ومريول
+https://archive.org/download/arba-arba/2-%2823%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(24)-الممنوع والمرغوب
+https://archive.org/download/arba-arba/2-%2824%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(25)-مليونير في نصف ساعة
+https://archive.org/download/arba-arba/2-%2825%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(26)-حركات 1
+https://archive.org/download/arba-arba/2-%2826%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(27)-حركات 2
+https://archive.org/download/arba-arba/2-%2827%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(28)-بلا حركات
+https://archive.org/download/arba-arba/2-%2828%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(29)-الغايب الكن والهدايا النا
+https://archive.org/download/arba-arba/2-%2829%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(30)-ام تحت الطلب
+https://archive.org/download/arba-arba/2-%2830%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(31)-الستيتية
+https://archive.org/download/arba-arba/2-%2831%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(32)-موسيقى الحجرات
+https://archive.org/download/arba-arba/2-%2832%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(33)-شادو جاردان
+https://archive.org/download/arba-arba/2-%2833%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(34)-وحيداً في المنزل
+https://archive.org/download/arba-arba/2-%2834%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(35)-الجميلة والوحشة
+https://archive.org/download/arba-arba/2-%2835%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(36)-ذهب مع الريش
+https://archive.org/download/arba-arba/2-%2836%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(37)-زهرة اللوتس
+https://archive.org/download/arba-arba/2-%2837%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(38)-القمر يضحك لبدر
+https://archive.org/download/arba-arba/2-%2838%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الفصول الاربعة",الجزء الثاني-(39)-بيجاما وقميص نوم
+https://archive.org/download/arba-arba/2-%2839%29.mp4
+
+
+
+
+##########################################################عايزة اتجوز###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(01) - كيف تصطادين عريساً
+https://archive.org/download/Ayza_Atgawiz/Ep01.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(02) - الفرح - هشام اسماعيل (فزاع)
+https://archive.org/download/Ayza_Atgawiz/Ep02.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(03) - طنط حشرية - ادوارد
+https://archive.org/download/Ayza_Atgawiz/Ep03.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(04) - ايمن - يوسف الشريف
+https://archive.org/download/Ayza_Atgawiz/Ep04.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(05) - تويتي
+https://archive.org/download/Ayza_Atgawiz/Ep05.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(06) - الميكروباص - احمد عزمي
+https://archive.org/download/Ayza_Atgawiz/Ep06.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(07) - عماد الحلو - تامر هجرس
+https://archive.org/download/Ayza_Atgawiz/Ep07.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(08) - ميمي - معتزة عبد الصبور
+https://archive.org/download/Ayza_Atgawiz/Ep08.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(09) - تحتمس
+https://archive.org/download/Ayza_Atgawiz/Ep09.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(10) - زوجة ضابط مهم - احمد السقا
+https://archive.org/download/Ayza_Atgawiz/Ep10.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(11) - ام محروس - عمرو يوسف
+https://archive.org/download/Ayza_Atgawiz/Ep11.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(12) - أونكل عاطف وولده - محمود الجندي
+https://archive.org/download/Ayza_Atgawiz/Ep12.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(13) - اماني - ضياء عبد الخالق
+https://archive.org/download/Ayza_Atgawiz/Ep13.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(14) - مفيد - محمود عبد المغني
+https://archive.org/download/Ayza_Atgawiz/Ep14.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(15) - رشا - مي كساب
+https://archive.org/download/Ayza_Atgawiz/Ep15.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(16) - عزمي شرارة - أحمد رزق
+https://archive.org/download/Ayza_Atgawiz/Ep16.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(17) - بهيج - نضال الشافعي
+https://archive.org/download/Ayza_Atgawiz/Ep17.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(18) - فاتينات
+https://archive.org/download/Ayza_Atgawiz/Ep18.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(19) - وائل - خالد جلال
+https://archive.org/download/Ayza_Atgawiz/Ep19.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(20) - هابى فالانتاين
+https://archive.org/download/Ayza_Atgawiz/Ep20.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(21) - البنت نهى اتخطبت
+https://archive.org/download/Ayza_Atgawiz/Ep21.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(22) - إعلان جواز
+https://archive.org/download/Ayza_Atgawiz/Ep22.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(23) - حسام وعصام - حسام داغر
+https://archive.org/download/Ayza_Atgawiz/Ep23.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(24) - عريس تيتة
+https://archive.org/download/Ayza_Atgawiz/Ep24.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(25) - أم برقوق
+https://archive.org/download/Ayza_Atgawiz/Ep25.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(26) - مكتب جواز - نبيل عيسى
+https://archive.org/download/Ayza_Atgawiz/Ep26.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(27) - الدكتورة علا اللي عايزة تتجوز
+https://archive.org/download/Ayza_Atgawiz/Ep27.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(28) - بنت 30
+https://archive.org/download/Ayza_Atgawiz/Ep28.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(29) - هشام 1 - هاني عادل
+https://archive.org/download/Ayza_Atgawiz/Ep29.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(30) - هشام 2 - هاني عادل
+https://archive.org/download/Ayza_Atgawiz/Ep30.mkv
+
+
+######################################################################### عادل امام ####################################################################
+
+#EXTINF:-1 tvg-id="106" tvg-logo="https://dvdyatii.com//media/prod_20190917035446.jpeg" group-title="عادل امام",رمضان فوق البركان
+https://archive.org/download/Adel-Imam-Movies/Ramadan-Foq-Alborkan-1985.mp4
+
+#EXTINF:-1 tvg-id="32" tvg-logo="https://dvdyatii.com//media/Al%20Mutasawel.jpg" group-title="عادل امام",المتسول
+https://archive.org/download/Adel-Imam-Movies/El-Motasawel-1983.mp4
+
+#EXTINF:-1 tvg-id="32" tvg-logo="https://archive.org/download/images_20230809/EhtarissMinAlKhot.jpeg" group-title="عادل امام",احترس من الخط
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Ehtares.Min.Al5ot.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",واحدة بواحدة
+https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Wahda%20B%20Wahda.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="https://archive.org/download/images_20230809/EsabatHamadaWaToto.jpeg" group-title="عادل امام",عصابة حمادة و توتو
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/3esabet.Hamadah.o.Toto.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="25" tvg-logo="https://archive.org/download/images_20230809/Ellaebmaalkubar.jpeg" group-title="عادل امام",اللعب مع الكبار
+https://archive.org/download/Adel-Imam-Movies/Al-Laeb-Ma-Al-Kebar-1991-1080p.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="https://archive.org/download/images_20230809/antar.jpeg" group-title="عادل امام",عنتر شايل سيفه
+https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Antar%20Shayel%20Seefo.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="https://archive.org/download/images_20230809/Musajal.jpeg" group-title="عادل امام",مسجل خطر
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/MosagalKhatar1991.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="https://archive.org/download/images_20230809/Musajal.jpeg" group-title="عادل امام",سلام يا صاحبي
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Salam.Ya.Sahbi.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="https://archive.org/download/images_20230809/Elhalfoot.jpeg" group-title="عادل امام",الهلفوت
+https://dn720205.ca.archive.org/0/items/AdelEmamMovies/AlHalfout1985.mp4
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://ia902707.us.archive.org/4/items/images_20230809/RajabFokSafehSakhen1979.jpeg" group-title="عادل امام",رجب فوق صفيح ساخن
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/RajabFokSafehSakhen1979.mp4
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://ia902707.us.archive.org/4/items/images_20230809/RajabFokSafehSakhen1979.jpeg" group-title="عادل امام",خلي بالك من عقلك
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Kalli.Balak.Min.Aqlak.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",الجحيم
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Aljaheem.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",انتخبوا الدكتور سليمان عبد الباسط
+https://archive.org/download/Nabil_TV_Aflam/EntakheboAlDoctorSolimanAbdelBaset.mp4
+
+#EXTINF:-1 tvg-id="83" tvg-logo="" group-title="عادل امام",الخدعة الخفية
+https://archive.org/download/Nabil_TV_Aflam/AlKhedaAlKhafeyaMovie.mp4
+
+#EXTINF:-1 tvg-id="83" tvg-logo="https://dvdyati.net//media/prod_20150512114242.jpeg" group-title="عادل امام",جزيرة الشيطان
+https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Jazeerat%20Al%20Sheitan.mp4
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://archive.org/download/images_20230809/alba3d.jpeg" group-title="عادل امام",البعض يذهب للمأذون مرتين
+https://ia600204.us.archive.org/20/items/AdelEmamMovies/AlBaadYazhabLelMazounMarratain1978.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",الافوكاتو
+https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Al%20Avokato.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",النمر والانثى
+https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Al%20Namir%20Wa%20Al%20Ontha.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",المشبوه
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Almashbooh.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="95" tvg-logo="" group-title="عادل امام",مين فينا الحرامي
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/MeenFinaAlHarami1984.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",حب في الزنزانة
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Hob.Felzenzanah.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://iv1.lisimg.com/image/3923560/250full-aris-min-geha-amneya-poster.jpg" group-title="عادل امام",عريس من جهة امنية
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/3risMenGehaAmnya2004.mp4
+
+#EXTINF:-1 tvg-id="39" tvg-logo="" group-title="عادل امام",البحث عن فضيحة
+https://archive.org/download/20210318_20210318_0855/%D8%A7%D9%84%D8%A8%D8%AD%D8%AB%20%D8%B9%D9%86%20%D9%81%D8%B6%D9%8A%D8%AD%D8%A9.ts
+
+#EXTINF:-1 tvg-id="39" tvg-logo="" group-title="عادل امام",الواد محروس بتاع الوزير
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlWadMahrousBtaaAlWazir1999.mp4
+
+#EXTINF:-1 tvg-id="105" tvg-logo="" group-title="عادل امام",رجل فقد عقله
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/RajolFaqadAqlo1980.mp4
+
+#EXTINF:-1 tvg-id="74" tvg-logo="https://i.pinimg.com/564x/b0/3a/48/b03a4808a1ae5711328ff034cfc858de.jpg" group-title="عادل امام",حنفي الابهه
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/HanafiAlObbaha1990.mp4
+
+#EXTINF:-1 tvg-id="86" tvg-logo="https://cdn.al-ain.com/images/2018/3/27/78-161025-school-bus-wigan-america-travel-7.jpeg" group-title="عادل امام",كراكون في الشارع
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/KarakounFelSharea31986.mp4
+
+#EXTINF:-1 tvg-id="94" tvg-logo="https://archive.org/download/images_20230809/MamnoafeDokhla.jpeg" group-title="عادل امام",ممنوع في ليلة الدخلة
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/Mamnou3FiLeiltEddokhla1976.mp4
+
+#EXTINF:-1 tvg-id="28" tvg-logo="https://m.shasha1.com/wp-content/uploads/2017/03/Al-Mansi-1993.jpg" group-title="عادل امام",المنسي
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlMansi1993.mp4
+
+#EXTINF:-1 tvg-id="33" tvg-logo="https://i.ytimg.com/vi/5VAhJzgtQA4/hqdefault.jpg" group-title="عادل امام",المولد
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlMouled1989.mp4
+
+#EXTINF:-1 tvg-id="35" tvg-logo="https://www.surelazbakia.com/images/foto6/bild2705.jpg" group-title="عادل امام",النوم في العسل
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlNoumFelAsal1996.mp4
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/88/Alerhaby.jpg" group-title="عادل امام",الارهابي
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/The.Terrorist.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/33/The_Yacoubian_Building_%28Movie_Poster%29.jpg" group-title="عادل امام",عمارة يعقوبيان
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/3maretYa3koubian2006.mp4
+
+#EXTINF:-1 tvg-id="16" tvg-logo="https://media.elcinema.com/uploads/_320x_1d0d5e64a8017f79ad286ab867a763fb035c0d6c6aab45d63b479b3708c7b264.jpg" group-title="عادل امام",الانس والجن
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlEnsWalgen1985.mp4
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://cdn.shopify.com/s/files/1/0018/2609/5162/products/DSCF6536_1200x1200.JPG?v=1571720418" group-title="عادل امام",الانسان يعيش مرة واحدة
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlEnsanYaeshMarraWaheda1981.mp4
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://media.elcinema.com/uploads/_315x420_5298f6812a30aaadd913e063fc7a19ea049a4d04686dd491fe6daa56224d5a1c.jpg" group-title="عادل امام",الغول
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlGhoul1983.mp4
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://www.alsolta.net/img/0/6/6054.jpg" group-title="عادل امام",الحريف
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlHarreef1983.mp4
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/The_Danish_Experience_%282003%29.jpg" group-title="عادل امام",التجربة الدنماركية
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlTagrobaADenemarkia2003.mp4
+
+#EXTINF:-1 tvg-id="41" tvg-logo="https://braichposters.com/cdn/shop/products/IMG_8359_1024x1024.jpg?v=1675341984" group-title="عادل امام",على باب الوزير
+https://ia800505.us.archive.org/8/items/012739739/Ala.Bab.A.Wazeer.1982.1080p.STC.WEB-DL.AAC2.0.HEVC-POWER/Ala.Bab.A.Wazeer.1982.1080p.STC.WEB-DL.AAC2.0.HEVC-POWER.mkv
+
+#EXTINF:-1 tvg-id="45" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9f/%D9%85%D9%84%D8%B5%D9%82_%D9%81%D9%8A%D9%84%D9%85_%D8%A3%D9%85%D9%8A%D8%B1_%D8%A7%D9%84%D8%B8%D9%84%D8%A7%D9%85_%282002%29.jpg" group-title="عادل امام",امير الظلام
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AmeerAlZalam2002.mp4
+
+#EXTINF:-1 tvg-id="47" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d3/%D8%A3%D9%86%D8%A7_%D8%A7%D9%84%D9%84%D9%8A_%D9%82%D8%AA%D9%84%D8%AA_%D8%A7%D9%84%D8%AD%D9%86%D8%B4.jpg" group-title="عادل امام",انا اللي قتلت الحنش
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AnaElliQataltElHanash1984.mp4
+
+#EXTINF:-1 tvg-id="55" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/81/%D9%85%D9%84%D8%B5%D9%82_%D9%81%D9%8A%D9%84%D9%85_%D8%A8%D8%AE%D9%8A%D8%AA_%D9%88%D8%B9%D8%AF%D9%8A%D9%84%D8%A9.jpg" group-title="عادل امام",بخيت و عديلة 1
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/BakhetWaAdila11995.mp4
+
+#EXTINF:-1 tvg-id="56" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b2/%D9%85%D9%84%D8%B5%D9%82_%D9%81%D9%84%D9%85_%D8%A8%D8%AE%D9%8A%D8%AA_%D9%88%D8%B9%D8%AF%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%281996%29.jpg" group-title="عادل امام",بخيت و عديلة 2
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/BakhetWaAdila2alJardalWaAlKanaka1998.mp4
+
+#EXTINF:-1 tvg-id="58" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/6/67/Bobbos_Poster.jpg" group-title="عادل امام",بوبوس
+https://ia600204.us.archive.org/20/items/AdelEmamMovies/Bobbos2009.mp4
+
+#EXTINF:-1 tvg-id="60" tvg-logo="https://cdn.al-ain.com/lg/images/2017/10/05/47-184440-mohamed-emam-think-about-shams-elzanaty2-4.jpeg" group-title="عادل امام",شمس الزناتي
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/ChamsZanati1991.mp4
+
+#EXTINF:-1 tvg-id="65" tvg-logo="https://www.themoviedb.org/t/p/w500/1igpCLySvXtdeeP6NWEXjuqjLVU.jpg" group-title="عادل امام",السفارة في العمارة
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/ElSafaraBil3emara2005.mp4
+
+#EXTINF:-1 tvg-id="76" tvg-logo="https://www.albawabhnews.com/upload/photo/gallery/78/5/514.jpg" group-title="عادل امام",حسن و مرقص
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/HasanWaMorqos2008.mp4
+
+#EXTINF:-1 tvg-id="77" tvg-logo="https://media.elcinema.com/uploads/_315x420_8c7bc4c36a98897f9975fff28c541bfc472a7a27a83a2d9a5f675d72e0b00e61.jpg" group-title="عادل امام",حتى لايطير الدخان
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/HattaLaYatirAlDokhan1984.mp4
+
+#EXTINF:-1 tvg-id="79" tvg-logo="https://aflam06.net/wp-content/uploads/2018/08/Hello-America.jpg" group-title="عادل امام",هالو امريكا
+https://ia600204.us.archive.org/20/items/AdelEmamMovies/HelloAmrica2000.mp4
+
+#EXTINF:-1 tvg-id="73" tvg-logo="https://media.elcinema.com/uploads/_315x420_507193c8ef9837ab3a09d96783ac2d7642e4bc7f01435902de82d49d425ffac4.jpg" group-title="عادل امام",غاوي مشاكل
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/GhawiMashakel1980.mp4
+
+#EXTINF:-1 tvg-id="87" tvg-logo="https://i.ytimg.com/vi/WnHrP7mCppE/0.jpg" group-title="عادل امام",كرامة زوجتي
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/KarametZawjati1967.mp4
+
+#EXTINF:-1 tvg-id="90" tvg-logo="https://media.elcinema.com/uploads/_315x420_c4ae7fd3e19e23490d27e4e43eaf6dedc29c4b5e6eb36a503e066cc31d91ecd3.jpg" group-title="عادل امام",خمسة باب
+https://archive.org/download/Nabil_TV_Aflam/KhamsaBabMovie.mp4
+
+#EXTINF:-1 tvg-id="98" tvg-logo="https://aflam06.net/wp-content/uploads/2018/04/Morgan-Ahmed-Morgan-2007.jpg" group-title="عادل امام",مرجان احمد مرجان
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/MorganAhmedMorgn2007.mp4
+
+#EXTINF:-1 tvg-id="119" tvg-logo="https://vod.rotana.net/triAssets/uploads/2019/09/poster-film-redesign.png" group-title="عادل امام",طيور الظلام
+https://ia600204.us.archive.org/20/items/AdelEmamMovies/ToyorElZalam1995.mp4
+
+#EXTINF:-1 tvg-id="121" tvg-logo="https://www.almo7eb.com/ar/thumbs/2017/02/1602512599_adel_emam.jpg" group-title="عادل امام",ولا من شاف ولا من دري
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/WalaMenShafWalaMenDeri1983.mp4
+
+#EXTINF:-1 tvg-id="109" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/4f/A92145c2b5348cdeeb0d1f3082dabb3b_123485123_147.jpg" group-title="عادل امام",رسالة الى الوالي
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/ResalaElaAlWali1998.mp4
+
+#EXTINF:-1 tvg-id="123" tvg-logo="https://i1.wp.com/storage.googleapis.com/bawabaa/2020/09/%D8%A8%D8%AF%D9%88%D9%86-%D8%B9%D9%86%D9%88%D8%A7%D9%86-3-140.jpg?fit=1075%2C650&ssl=1" group-title="عادل امام",زهايمر
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/Zahymar2010.mp4
+
+#EXTINF:-1 tvg-id="27" tvg-logo="http://arabscene.org/img/upload/big/2015/06/09/55771d65329d3.jpg" group-title="عادل امام",المحفظة معايا
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlMahfazaMaaia1978.mp4
+
+#EXTINF:-1 tvg-id="91" tvg-logo="https://m.halacima.net/uploads/images/l/dcQPc2nHpL.jpg" group-title="عادل امام",ليلة شتاء دافئة
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/LaylatSheta2Dafe2a1981.mp4
+
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### نور الشريف ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://media.filgoal.com/news/medium/168344905.jpg" group-title="افلام عربية",غريب في بيتي - نور الشريف
+https://archive.org/8/items/nour-el-sherif-movies/Ghareeb.Fi.Baity.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/lhBSOeEPcMU/mqdefault.jpg" group-title="افلام عربية",كتيبة الاعدام - نور الشريف
+https://archive.org/29/items/nour-el-sherif-movies/Kateba.alaadm.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/si-DlTQBeKM/hqdefault.jpg" group-title="افلام عربية",بئر الخيانة - نور الشريف
+https://archive.org/29/items/nour-el-sherif-movies/Be2r%20Al%20Kheyana.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://ia802707.us.archive.org/4/items/images_20230809/Oyoun-Alsaqar.jpg" group-title="افلام عربية",عيون الصقر - نور الشريف
+https://archive.org/download/nour-el-sherif-movies/Oyoun-Alsaqr-1992.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/3d/Gary_El_Wohosh_Poster.jpg" group-title="افلام عربية",جري الوحوش - نور الشريف
+https://archive.org/download/nour-el-sherif-movies/Gary.Al-W7oosh.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/73/%D9%85%D9%84%D8%B5%D9%82_%D9%81%D9%8A%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D8%A7%D8%B1.jpg" group-title="افلام عربية",العار - نور الشريف
+https://archive.org/download/www.arabp-2p.net_20230821_1637/Nour%20El-Sherif%2067%20Film%201080p%20%28%201%20%29/Al%20Aar.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/EqnU1ps1mUw/maxresdefault.jpg" group-title="افلام عربية",اخر الرجال المحترمين - نور الشريف
+https://archive.org/download/www.arabp-2p.net_20230821_1637/Nour%20El-Sherif%2067%20Film%201080p%20%28%201%20%29/Akher%20Al%20Regal%20Al%20Mohtaramen.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/EqnU1ps1mUw/maxresdefault.jpg" group-title="افلام عربية",الظالم و المظلوم - نور الشريف
+https://archive.org/download/www.arabp-2p.net_20230821_1637/Nour%20El-Sherif%2067%20Film%201080p%20%28%201%20%29/El%20Zalem%20Wa%20El%20Mazloum.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الوحل - نور الشريف
+https://archive.org/download/www.arabp-2p.net_20230821_1637/Nour%20El-Sherif%2067%20Film%201080p%20%28%201%20%29/Al%20Wahl.TS
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ليلة ساخنة - نور الشريف
+https://archive.org/download/www.arabp-2p.net_20230821_1637/Nour%20El-Sherif%2067%20Film%201080p%20%28%201%20%29/Layla%20Sakhina.TS
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### محمود عبد العزيز ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://media.dhliz.com/a/film/abo_kartouna/%D8%A3%D8%A8%D9%88_%D9%83%D8%B1%D8%AA%D9%88%D9%86%D8%A9_1.jpg" group-title="افلام عربية",ابو كرتونة - محمود عبد العزيز
+https://archive.org/34/items/Mahmoud.Abdel.Aziz.Movies/Abu%20Kartona%201080p%20%28%20E7na.OnlinE%20%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://media.elcinema.com/uploads/_320x_0d2c1842a0fe737ef478d490b81da648525ccfd2e046c16c7fed5d1233cc141f.jpg" group-title="افلام عربية",اعدام ميت - محمود عبد العزيز
+https://archive.org/34/items/Mahmoud.Abdel.Aziz.Movies/Edam%20Mayet.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2b/%D9%85%D9%84%D8%B5%D9%82_%D9%81%D9%8A%D9%84%D9%85_%D8%A7%D9%84%D8%B4%D9%82%D8%A9_%D9%85%D9%86_%D8%AD%D9%82_%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9.jpg" group-title="افلام عربية",الشقة من حق الزوجة - محمود عبد العزيز
+https://archive.org/34/items/Mahmoud.Abdel.Aziz.Movies/El-Shaka-Men-Haq-Al-Zawga.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBiZjgwNTQtYWY2NC00MWFiLTgzZmYtNDg0ZmZmYmQ1YmE5XkEyXkFqcGdeQXVyNjA4MTc2Mzg@._V1_.jpg" group-title="افلام عربية",الكيف - محمود عبد العزيز
+https://archive.org/15/items/Mahmoud.Abdel.Aziz.Movies/ElKeef.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://media.elcinema.com/uploads/_315x420_6d56c93d2859849bfd4b327c3554f384098acdd021b1b5af92ce2a9952af33ce.jpg" group-title="افلام عربية",العذراء والشعر الابيض - محمود عبد العزيز
+https://archive.org/15/items/Mahmoud.Abdel.Aziz.Movies/Al-Athra.Wi.Al-Sha.ar.Al-Abyad%201983%201080%20%28%20E7na.OnlinE%20%29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",خليل بعد التعديل - محمود عبد العزيز
+https://archive.org/download/Nabil_TV_Aflam/KhalilBaadElTaadilMovie-.mp4
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### محمد هنيدي ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",عسكر في المعسكر - محمد هنيدي
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/3askar.Felmo3askar.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",وش اجرام - محمد هنيدي
+https://archive.org/download/aflam-romanticpoet-part.1/Wesh%20Egram.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",يا انا يا خالتي - محمد هنيدي
+https://archive.org/download/aflam-romanticpoet-part.1/Ya%20Ana%20Ya%20Khalty.WEB-DL.BY.%20RoMaNTiCPoET.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",امير البحار - محمد هنيدي
+https://archive.org/download/aflam-romanticpoet-part.1/Amir%20El%20Behar.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",يوم مالوش لازمة - محمد هنيدي
+https://archive.org/download/aflam-romanticpoet-part.1/Youm%20Malosh%20Lazma.HDTV.1080p.BY.%20RoMaNTiCPoET.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",بليه ودماغه العالية - محمد هنيدي 
+https://archive.org/download/FilmsArabicPack1/Belyah%20o%20Demagoh%20El3alyah.HD720p.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### محمد سعد ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",كتكوت - محمد سعد
+https://ia800505.us.archive.org/8/items/012739739/Katkout.2006.1080p.STC.WEB-DL.AAC2.0.HEVC-POWER/Katkout.2006.1080p.STC.WEB-DL.AAC2.0.HEVC-POWER.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",بوحة - محمد سعد
+https://archive.org/download/aflam-romanticpoet-part.1/Boha.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد حلمي ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جعلتني مجرما - احمد حلمي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/G3alatny.Mogreman.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",مطب صناعي - احمد حلمي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Matab.Sna3y.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ظرف طارق - احمد حلمي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Zarf.Tarek.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اسف على الازعاج - احمد حلمي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Asef.3al.Ez3ag.VIU.WEB-DL.1080p.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",عسل اسود - احمد حلمي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/3sal.Eswed.VIU.WEB-DL.1080p.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",على جثتي - احمد حلمي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Ala.Gosety.VIU.WEB-DL.1080p.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الف مبروك - احمد حلمي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/1000.Mabrook.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ميدو مشاكل - احمد حلمي
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/MODO.Mashkal.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اكس لارج - احمد حلمي
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/X.Large.HD.TV.720.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",صايع بحر - احمد حلمي
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Saya.Bahr.HD.720.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",زكي شان - احمد حلمي
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Zaki.Chan.HD.720.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",كده رضا - احمد حلمي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Keda.Reda.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",صنع في مصر - احمد حلمي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Sone3a.Fe.Masr.VIU.WEB-DL.1080p.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سهر الليالي - احمد حلمي
+https://archive.org/download/aflam-romanticpoet-part.1/Sahar%20EL%20Lialy.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### هاني رمزي ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",عايز حقي - هاني رمزي
+https://archive.org/download/FilmsArabicPack1/Ayez%20Haki.HD720p.KIMO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",غبي منه فيه - هاني رمزي
+https://archive.org/download/AflamArab/%E2%9C%94Ghabi%20Minoh%20Fih.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",محامي خلع - هاني رمزي
+https://archive.org/download/aflam-romanticpoet-part.1/Mohami%20Khola3.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",السيد ابو العربي وصل - هاني رمزي
+https://archive.org/download/AflamArab/%E2%9C%94El%20Sayed%20Abu%20Elaraby%20Wasal.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",جواز بقرار جمهوري - هاني رمزي
+https://archive.org/download/AflamArab/%E2%9C%94Jawaz%20Beqarar%20Jumhory.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد زكي ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",البيضة والحجر- احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A9%20%D9%88%D8%A7%D9%84%D8%AD%D8%AC%D8%B1.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",سعد اليتيم- احمد زكي
+https://archive.org/download/ahmed_zaki_202312/Saad-Alyateem-1985.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اربعة في مهمة رسمية- احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9%20%D9%81%D9%8A%20%D9%85%D9%87%D9%85%D8%A9%20%D8%B1%D8%B3%D9%85%D9%8A%D8%A9.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ابو الدهب- احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A3%D8%A8%D9%88%20%D8%A7%D9%84%D8%AF%D9%87%D8%A8.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ايام السادات - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A3%D9%8A%D8%A7%D9%85%20%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ناصر 56 - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D9%86%D8%A7%D8%B5%D8%B1%2056.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",معالي الوزير - احمد زكي
+https://archive.org/download/ahmed_zaki_202312/Ma3ali_Alwazir.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",مستر كاراتيه - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D9%85%D8%B3%D8%AA%D8%B1%20%D9%83%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D9%87.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",عيون لاتنام - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%B9%D9%8A%D9%88%D9%86%20%D9%84%D8%A7%20%D8%AA%D9%86%D8%A7%D9%85.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سواق الهانم - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%B3%D9%88%D8%A7%D9%82%20%D8%A7%D9%84%D9%87%D8%A7%D9%86%D9%85.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",طائر على الطريق - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%B7%D8%A7%D8%A6%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اضحك الصورة تطلع حلوة - احمد زكي 
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D8%B6%D8%AD%D9%83%20%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9%20%D8%AA%D8%B7%D9%84%D8%B9%20%D8%AD%D9%84%D9%88%D8%A9.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الاحتياط واجب - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%20%D9%88%D8%A7%D8%AC%D8%A8.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",البداية - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",البرنس - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%B3.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",التخشيبة - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D8%AA%D8%AE%D8%B4%D9%8A%D8%A8%D8%A9.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الحب فوق هضبة الهرم - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D8%AD%D8%A8%20%D9%81%D9%88%D9%82%20%D9%87%D8%B6%D8%A8%D8%A9%20%D8%A7%D9%84%D9%87%D8%B1%D9%85.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الدرجة الثالثة - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",حليم - احمد زكي
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Haleem.HDTV.1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",زوجة رجل مهم - احمد زكي
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Zojat%20Rajol%20Mohem.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الليلة الموعودة - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9%20%D8%A7%D9%84%D9%85%D9%88%D8%B9%D9%88%D8%AF%D8%A9.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",المدمن - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D9%85%D8%AF%D9%85%D9%86.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",النمر الاسود - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D9%86%D9%85%D8%B1%20%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الهروب - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D9%87%D8%B1%D9%88%D8%A8.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",امراة واحدة لاتكفي - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%85%D8%B1%D8%A3%D8%A9%20%D9%88%D8%A7%D8%AD%D8%AF%D8%A9%20%D9%84%D8%A7%20%D8%AA%D9%83%D9%81%D9%8A.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",حسن اللول - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D9%84%D9%88%D9%84.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",شادر السمك - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%B4%D8%A7%D8%AF%D8%B1%20%D8%A7%D9%84%D8%B3%D9%85%D9%83.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ضد الحكومة - احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%B6%D8%AF%20%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9%20.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الراقصة والطبال - احمد زكي  
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alraqesah.Waltabal.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ارض الخوف -احمد زكي
+https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A3%D8%B1%D8%B6%20%D8%A7%D9%84%D8%AE%D9%88%D9%81.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### كريم عبد العزيز ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",بيت الروبي - كريم عبد العزيز
+https://archive.org/download/aflam-romanticpoet-part.1/Beit%20El%20Rouby.WEB-DL.4K.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الباشا تلميذ - كريم عبد العزيز
+https://archive.org/download/aflam-romanticpoet-part.1/Elbasha%20Telmeez.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",في محطة مصر - كريم عبد العزيز
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Fi.Mahattet.Masr.2006.1080p.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",فاصل و نعود - كريم عبد العزيز
+https://archive.org/download/AflamArab/%E2%9C%85Fasel.We.Naaod.2011.1080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",واحد من الناس - كريم عبد العزيز 
+https://archive.org/download/FilmsArabicPack3/Wahed%20Men%20El%20Nas.HD720p.KIMO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",كيرة والجن - كريم عبد العزيز
+https://archive.org/download/aflam-romanticpoet-part.1/Kira%20We%20El%20Gen.WEB-DL.1080p.BY.%20RoMaNTiCPoET.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد مكي ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سمير ابو النيل - احمد مكي 
+https://archive.org/download/FilmsArabicPack2/Samir.Abu.El-Niel.HD1080.KIMO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سيما علي بابا - احمد مكي 
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Cima%20Ali%20Baba.1080p.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",لاتراجع ولا استسلام - احمد مكي
+https://archive.org/download/AflamArab/%E2%9C%85La.Taragoa.Wala.Esteslam.2010.1080p.mp4
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد السقا ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",هروب اضطراري - احمد السقا
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Horob.Eterari.HDTV.1080p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حرب اطاليا - احمد السقا
+https://archive.org/download/FilmsArabicPack2/harb%20atalya.HD720p.KIMO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",شورت وفانيلة وكاب - احمد السقا
+https://archive.org/download/aflam-romanticpoet-part.1/Short%20Wa%20Fanela%20Wa%20Cap.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد رزق ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اوعى وشك - احمد رزق
+https://archive.org/download/AflamArab/%E2%9C%85Ew3a.Weshak.2003.720p.HD.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",لخمة راس - احمد رزق 
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vidx9MnSECH5q.smil/chunklist_b1053212.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حمادة يلعب - احمد رزق
+https://archive.org/download/AflamArab/%E2%9C%85Hamada.Yalab.2005.1080p.mkv
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### محمد امام ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",كابتن مصر - محمد امام
+https://archive.org/download/AflamArab/%E2%9C%85Captain.Masr.2015.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جحيم في الهند - محمد امام
+https://archive.org/download/AflamArab/%E2%9C%85Gahim.Fe.El.Hend.2016.1080p.mp4
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد ادم ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",صباحو كذب - احمد ادم
+https://archive.org/download/AflamArab/%E2%9C%85Sabahoo%20Kedb%201080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",فلم هندي - احمد ادم
+https://archive.org/download/AflamArab/%E2%9C%85Film.Hindi.2003.HDTV.720p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",صابر و راضي - احمد ادم
+https://archive.org/download/AflamArab/Taleaa.Matleaa.2020.1080p.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",هو فيه ايه - احمد ادم
+https://archive.org/download/AflamArab/HowaFeeEeh.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",قرمط بيتمرمط - احمد ادم
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Armat.Beyetmarmat.HDTV.1080p.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",شجيع السيما - احمد ادم
+https://archive.org/download/aflam-romanticpoet-part.1/Shagee%27%20El%20Cima.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الرجل الابيض المتوسط - احمد ادم
+https://archive.org/download/www.arabp-2p.net-aboalistar/El%20Ragol%20El%20Abyad%20El%20Motawassit/El%20Ragol%20El%20Abyad%20El%20Motawassit.1080p.Web-Dl.Shahid.mkv
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### رامز جلال ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",رغدة متوحشة - رامز جلال
+https://archive.org/download/AflamArab/%E2%9C%85Raghda.Motwahasha.1080p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",شبه منحرف - رامز جلال 
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vid8Jbi5caEAG.smil/chunklist_b1040375.m3u8
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",عيال حبيبة - رامز جلال
+https://archive.org/download/AflamArab/%E2%9C%85Eyal.Habiba.2005.720p.mp4
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### افلام منوعة ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",وش في وش - محمد ممدوح و امينة خليل
+https://archive.org/download/AflamArab/1.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ابو نسب - محمد امام و ماجد الكدواني
+https://archive.org/download/AflamArab/Abo_Nassab.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الجريمة - احمد عز و ماجد الكدواني
+https://archive.org/download/aflam-romanticpoet-part.1/El%20Garemwwa.WEB-DL.1080p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سمير وشهير وبهير
+https://archive.org/download/AflamArab/%E2%9C%85Samir.We.Shahir.We.Bahir.1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الناظر صلاح الدين - علاء ولي الدين
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/El%20NazerHD720.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الثلاثة يشتغلونها - ياسمين عبد العزيز
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/El.Thalatha.Yashtaghlonha.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",القرد بيتكلم - احمد الفيشاوي و عمرو واكد
+https://archive.org/download/aflam-romanticpoet-part.1/Al%202ard%20Byatkalm.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",هاتولي راجل - نيللي كريم و محمد ممدوح
+https://archive.org/download/aflam-romanticpoet-part.1/Hatooly%20Ragel.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حب البنات - ليلى علوي و حنان ترك
+https://archive.org/download/AflamArab/%E2%9C%85Hob.Elbnat.2004.1080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",احلى الاوقات - هند صبري و حنان ترك و منة شلبي
+https://archive.org/download/aflam-romanticpoet-part.1/Ahla%20ElAwaa2t.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",بيبو و بشير - اسر ياسين و منة شلبي
+https://archive.org/download/aflam-romanticpoet-part.1/Bibo%20and%20Besheer.HDTV.1080p.BY.%20RoMaNTiCPoET.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ياتهدي ياتعدي
+https://archive.org/download/AflamArab/%E2%9C%85Yathadi.Yataadi.HD1080p.akoam.net.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",بشتري راجل - نيلي كريم
+https://archive.org/download/AflamArab/%E2%9C%85Bashtry.Ragel.720p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",طباخ الريس - طلعت زكريا 
+https://archive.org/download/FilmsArabicPack3/Tabakh%20elrayes.HD.TV.720.KIMO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حريم كريم - مصطفى قمر
+https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D8%B1%D9%8A%D9%85%20%D9%83%D8%B1%D9%8A%D9%85.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",مقلب حرامية
+https://archive.org/download/AflamArab/%E2%9C%85Maklab.Haramiya.2009.720p.HD.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",جاي في السريع - ماجد الكدواني
+https://archive.org/download/Nabil_TV_Aflam/GaiFelSareeMovie.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",على جنب يا اسطى - اشرف عبد الباقي
+https://archive.org/download/AflamArab/%E2%9C%85Ala.Ganb.Ya.Osta.2008.720p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الكنز
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alkenz.HDTV.1080p.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الكنز-2
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alkenz.2.HDTV.1080p.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الممر
+https://archive.org/download/ALMAMAR.2019.1080P/ALMAMAR.2019.1080P.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الفرح
+https://archive.org/download/Nabil_TV_Aflam/ElFara7Movie.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الجيل الرابع
+https://archive.org/download/aflam-romanticpoet-part.1/Al%20Jeel.A%20Rabie.4G.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",تراب الماس - اسر ياسين و منه شلبي 
+https://archive.org/download/FilmsArabicPack1/Diamond.Dust.720p.EL..K%21nG.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ريجاتا - عمرو سعد
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Regata.2015.1080P.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الجلسة سرية - محمود ياسين و يسرا
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Aljalsah.Serreyah.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",التعويذة - محمود ياسين و يسرا
+https://archive.org/download/Nabil_TV_Aflam/AlTawezahMovie.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",وبالوالدين احسانا - فريد شوقي و سمير صبري
+https://archive.org/download/Nabil_TV_Aflam/WBelWaldinEhsana.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",كشف المستور - نبيلة عبيد و فاروق الفيشاوي
+https://archive.org/download/Nabil_TV_Aflam/KashfElMastourMovie.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",العملاق - عادل ادهم
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Al3emlaq.HDTV.1080p.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ديك البرابر - نبيلة عبيد و فاروق الفيشاوي
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%AF%D9%8A%D9%83%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1.ia.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الراقصة و السياسي - نبيلة عبيد و صلاح قابيل
+https://archive.org/download/Nabil_TV_Aflam/AlRaqesaWelSeyassyMovie.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",عضة كلب - حسين فهمي و سمير غانم
+https://archive.org/download/Nabil_TV_Aflam/AdetKalbMovie-.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الطريق الى ايلات
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A5%D9%84%D9%89%20%D8%A5%D9%8A%D9%84%D8%A7%D8%AA.ts
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### افلام عربية قديمة ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الحب الكبير - فريد الاطرش و فاتن حمامة
+https://archive.org/download/Faten_Hamama/Alhob_Alkebir_1968_1080p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اجمل ايام حياتي - حسين فهمي و نجلاء فتحي
+https://archive.org/download/AflamArab/Ajmal-Ayam-Hayati.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سلامة في خير - نجيب الريحاني
+https://archive.org/details/aboalistar_arabic-movies/%D8%B2%D9%88%D8%AC+%D8%A8%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1.ts#
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ابن حميدو - هند رستم و احمد رمزي و اسماعيل ياسين
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%A8%D9%86%20%D8%AD%D9%85%D9%8A%D8%AF%D9%88.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اه من حواء - رشدي اباظة و لبنى عبد العزيز
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%87%20%D9%85%D9%86%20%D8%AD%D9%88%D8%A7%D8%A1.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الايادي الناعمة - احمد مظهر و صباح
+https://archive.org/download/AflamArab/Alayady.Alnaema.1080P.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",دعاء الكروان - فاتن حمامة و احمد مظهر
+https://archive.org/download/AflamArab/Doaa-AlKarawan-1959.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",السفيرة عزيزة - سعاد حسني و شكري سرحان
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1%D8%A9%20%D8%B9%D8%B2%D9%8A%D8%B2%D8%A9.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اشاعة حب - عمر الشريف و سعاد حسني
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D8%B4%D8%A7%D8%B9%D8%A9%20%D8%AD%D8%A8.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الزوجة 13 - رشدي اباظة و شادية
+https://archive.org/download/AflamArab/Zoga.13.1080P.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",صغيرة على الحب - سعاد حسني
+https://archive.org/download/AflamArab/Soghayara.Alal.Hob.1966.720P.WEB-DL.AKWAM.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اين عقلي - سعاد حسني و محمود ياسين
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D9%8A%D9%86%20%D8%B9%D9%82%D9%84%D9%89.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الساحرة الصغيرة - سعاد حسني
+https://archive.org/download/AflamArab/Al.Sahira.Al.Saghera.1963.720P.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",القاهرة 30 - سعاد حسني
+https://archive.org/download/Nabil_TV_Aflam/30.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",خان الخليلي - سميرة احمد و عماد حمدي
+https://archive.org/download/Nabil_TV_Aflam/013.mp4
+
+#EXTINF:0 tvg-id="200" group-title="افلام عربية",الشموع السوداء - نجاة الصغير و صالح سليم
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alshomoo3.Alsawda.HDTV.1080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ام العروسة - عماد حمدي و تحية كاريوكا 
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%85%20%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%B3%D9%87.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ارض النفاق - فؤاد المهندس
+https://archive.org/download/aboalistar_arabic-movies/%D8%A3%D8%B1%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اجازة بالعافية - فؤاد المهندس و شويكار 
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%AC%D8%A7%D8%B2%D9%87%20%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%81%D9%8A%D9%87.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الستات ميعرفوش يكذبوا 
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%AA%20%D9%85%D8%A7%D9%8A%D8%B9%D8%B1%D9%81%D9%88%D8%B4%20%D9%8A%D9%83%D8%B0%D8%A8%D9%88%D8%A7.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حماتي قنبلة ذرية - ماري منيب
+https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D9%85%D8%A7%D8%AA%D9%89%20%D9%82%D9%86%D8%A8%D9%84%D8%A9%20%D8%B0%D8%B1%D9%8A%D8%A9.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",عائلة زيزي
+https://archive.org/download/aboalistar_arabic-movies/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9%20%D8%B2%D9%8A%D8%B2%D9%8A.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",المجانين في نعيم
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D9%86%20%D9%81%D9%8A%20%D9%86%D8%B9%D9%8A%D9%85.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",خلي بالك من زوزو - سعاد حسني و حسين فهمي
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Kalli.Balak.Min.Zozo.HDTV.1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اخر كذبة - فريد الاطرش
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D8%AE%D8%B1%20%D9%83%D8%AF%D8%A8%D8%A9.mp4
+
+######################################################################### افلام اجنبية ####################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(The Goat Life - 2024)
+https://archive.org/download/aflamagnabiya/37.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Society Of The Snow - 2023)
+https://archive.org/download/aflamagnabiya/36.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www2.yts.nz/assets/images/movies/mission_impossible_dead_reckoning_part_one_2023/medium-cover.jpg" group-title="افلام اجنبية",(Mission: Impossible - Dead Reckoning Part One - 2023)
+https://archive.org/download/aflamagnabiya/29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www2.yts.nz/assets/images/movies/The_Day_After_Tomorrow_2004/medium-cover.jpg" group-title="افلام اجنبية",(The Day After Tomorrow - 2004)
+https://archive.org/download/aflamagnabiya/30.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/french_kiss_1995/medium-cover.jpg" group-title="افلام اجنبية",(French Kiss - 1995)
+https://archive.org/download/aflamagnabiya/25.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www2.yts.nz/assets/images/movies/Mrs_Doubtfire_1993/medium-cover.jpg" group-title="افلام اجنبية",(Mrs.Doubtfire - 1993)
+https://archive.org/download/aflamagnabiya/27.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://archive.org/download/images_20230809/Awakening1990.jpg" group-title="افلام اجنبية",(Awakenings - 1990)
+https://archive.org/download/aflamagnabiya/34.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/Philadelphia_1993/medium-cover.jpg" group-title="افلام اجنبية",(Philadelphia - 1993)
+https://archive.org/download/aflamagnabiya/28.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/The_Untouchables_1987/medium-cover.jpg" group-title="افلام اجنبية",(The Untouchables - 1987)
+https://archive.org/download/aflamagnabiya/31.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www2.yts.nz/assets/images/movies/Apollo_13_1995/medium-cover.jpg" group-title="افلام اجنبية",(Apollo 13 - 1995)
+https://archive.org/download/aflamagnabiya/32.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/4jeoPpAtyPWMavXRPSrMYhy3BpK.jpg" group-title="افلام اجنبية",(Road to Perdition - 2002)
+https://archive.org/download/aflamagnabiya/33.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www.clearplay.com/MovieBattle/images/tt0099653-1.jpg" group-title="افلام اجنبية",(Ghost - 1990)
+https://archive.org/download/aflamagnabiya/26.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/bridge_of_spies_2015/medium-cover.jpg" group-title="افلام اجنبية",(Bridge of Spies - 2015)
+https://archive.org/download/aflamagnabiya/5.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/The_Rock_1996/medium-cover.jpg" group-title="افلام اجنبية",(The Rock - 1996)
+https://archive.org/download/aflamagnabiya/24.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://image.tmdb.org/t/p/original/gJjbjViOhKvin3ytbtG0AYxC7pp.jpg" group-title="افلام اجنبية",(Enemy at the Gate - 2001)
+https://archive.org/download/aflamagnabiya/23.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14843_v_v13_an.jpg" group-title="افلام اجنبية",(Sleepless in Seattle - 1993)
+https://archive.org/download/aflamagnabiya/22.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img1.teletype.in/files/8a/f9/8af9cb7f-fc9d-4d66-ba33-e8004b8b51af.jpeg" group-title="افلام اجنبية",(Schindler's List - 1993)
+https://archive.org/download/aflamagnabiya/17.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://m.media-amazon.com/images/I/71h0QNbo79L._AC_UF894,1000_QL80_.jpg" group-title="افلام اجنبية",(The Good the Bad and the Ugly - 1966)
+https://archive.org/download/aflamagnabiya/3.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://archive.org/download/images_20230809/groundhogday.jpg" group-title="افلام اجنبية",(Groundhog Day - 1993)
+https://archive.org/download/aflamagnabiya/18.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://archive.org/download/images_20230809/savingmrbanks.jpeg" group-title="افلام اجنبية",(Saving Mr. Banks - 2013)
+https://archive.org/download/aflamagnabiya/19.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/Cube_1997/medium-cover.jpg" group-title="افلام اجنبية",(Cube - 1997)
+https://archive.org/download/aflamagnabiya/20.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxMTYyNzI1NV5BMl5BanBnXkFtZTYwOTA0NjA5._V1_.jpg" group-title="افلام اجنبية",(Dracula Dead and Loving It - 1995)
+https://archive.org/download/aflamagnabiya/6.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://pbs.twimg.com/media/GAVdhSDboAADfAC?format=jpg&name=4096x4096" group-title="افلام اجنبية",(The Naked Gun: From the Files of Police Squad - 1988)
+https://archive.org/download/aflamagnabiya/7.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/7ae0a259f3eeb0cbd91560bc30bbd42eb0853addbc06278bf153f2e5a0ca8786.jpg" group-title="افلام اجنبية",(The Naked Gun 2 1/2: The Smell of Fear - 1991)
+https://archive.org/download/aflamagnabiya/11.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://image.tmdb.org/t/p/w500/6FG3aldS4eVD4baKwmAi9P8kdRS.jpg" group-title="افلام اجنبية",(Wrongfully Accused - 1998)
+https://archive.org/download/aflamagnabiya/13.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/2/1-172507697.jpg" group-title="افلام اجنبية",(Spy Hard - 1996)
+https://archive.org/download/aflamagnabiya/14.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://static0.moviewebimages.com/wordpress/wp-content/uploads/movie/mEr52YBbJWdimwLVQR8Ftw4c5YEmqy.jpg" group-title="افلام اجنبية",(Face Off - 1997)
+https://archive.org/download/aflamagnabiya/9.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://themovingpicturereview.files.wordpress.com/2016/12/die9am.jpg" group-title="افلام اجنبية",(Die Hard - 1988)
+https://archive.org/download/aflamagnabiya/8.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/airplane_ii_the_sequel_1982/medium-cover.jpg" group-title="افلام اجنبية",(Airplane.II.The.Sequel - 1982)
+https://archive.org/download/aflamagnabiya/16.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1671_v_v12_aj.jpg" group-title="افلام اجنبية",(Airplane - 1980)
+https://archive.org/download/aflamagnabiya/15.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www.picclickimg.com/5XcAAOSwSb5k-0x6/Les-Fous-du-Stade-Les-charlots-dvd.webp" group-title="افلام اجنبية",(Les Charlots - Les Fous Du Stade 1972)
+https://archive.org/download/aflamagnabiya/1.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://alchetron.com/cdn/Barabbas-1961-film-images-9ab00416-71c2-4f7a-9fc0-392a13f08cb.jpg" group-title="افلام اجنبية",(Barabbas - 1961)
+https://archive.org/download/aflamagnabiya/10.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.pinimg.com/736x/54/7c/45/547c45b2b54d8fbeaca651f453a96e10.jpg" group-title="افلام اجنبية",(Psycho - 1960)
+https://archive.org/download/aflamagnabiya/2.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/12_Angry_Men_1957/medium-cover.jpg" group-title="افلام اجنبية",(12 Angry Men - 1957)
+https://archive.org/download/aflamagnabiya/4.mp4
+
+######################################################################### مسرحيات ####################################################################
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",شاهد ماشافش حاجة
+https://archive.org/download/masrahyat_202312/Shahid_mashfsh_hajatan_1976.1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",الواد سيد الشغال
+https://archive.org/download/FullBack.Masrhyat.AlZaeem.HD/%D8%A7%D9%84%D9%88%D8%A7%D8%AF%20%D8%B3%D9%8A%D8%AF%20%D8%A7%D9%84%D8%B4%D8%BA%D8%A7%D9%84.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",مدرسة المشاغبين
+https://archive.org/download/masrahyat_202312/Madrasat%20Almushagibeen.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",الزعيم
+http://62.210.209.138:41000/movie/v52/v43/26.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",العيال كبرت
+https://archive.org/download/20210116_20210116_0815/%D8%A7%D9%84%D8%B9%D9%8A%D8%A7%D9%84%20%D9%83%D8%A8%D8%B1%D8%AA.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",المتزوجون
+http://62.210.209.138:41000/movie/v52/v43/21.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",ريا و سكينة
+https://archive.org/download/masrahyat_202312/Raya_W_Sakina_1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",حزمني يا
+https://archive.org/download/masrahyat_202312/Hazmni.Ya.1994.Cima4U.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",على الرصيف
+https://archive.org/download/masrahyat_202312/3la%20ELRaseef%20720p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",الاباندا
+http://62.210.209.138:41000/movie/v52/v43/3.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",عفروتو
+http://62.210.209.138:41000/movie/v52/v43/1.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",دو ري مي فاصوليا
+http://62.210.209.138:41000/movie/v52/v43/5.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",علشان خاطر عيونك
+http://62.210.209.138:41000/movie/v52/v43/7.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",انها حقا عائلة محترمة
+http://62.210.209.138:41000/movie/v52/v43/8.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",هالة حبيبتي
+http://62.210.209.138:41000/movie/v52/v43/9.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",هالو شلبي
+http://62.210.209.138:41000/movie/v52/v43/10.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",بالو بالو
+http://62.210.209.138:41000/movie/v52/v43/12.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",رد قرضي
+http://62.210.209.138:41000/movie/v52/v43/14.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",طرائيعو
+http://62.210.209.138:41000/movie/v52/v43/17.mkv
+
+########################################################## يوميات ونيس الجزء الاول ###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="ونيس",#################### الجزء الاول ####################
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E01
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep01.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E02
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep02.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E03
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep03.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E04
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep04.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E05
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep05.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E06
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep06.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E07
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep07.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E08
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep08.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E09
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep09.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E10
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep10.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E11
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep11.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E12
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep12.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E13
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep13.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E14
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep14.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E15
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep15.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E16
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep16.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E17
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep17.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E18
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep18.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E19
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep19.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E20
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep20.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E21
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep21.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E22
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep22.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E23
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep23.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E24
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep24.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E25
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep25.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E26
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep26.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E27
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep27.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E28
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep28.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E29
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep29.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S01 E30
+https://archive.org/download/yawmeyat-wanis-s01-egyptian-series-1994-720p/Ep30.mkv
+
+
+########################################################## يوميات ونيس الجزء الثاني ###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="ونيس",#################### الجزء الثاني ####################
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E01
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep01.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E02
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep02.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E03
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep03.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E04
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep04.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E05
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep05.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E06
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep06.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E07
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep07.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E08
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep08.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E09
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep09.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E10
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep10.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E11
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep11.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E12
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep12.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E13
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep13.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E14
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep14.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E15
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep15.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E16
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep16.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E17
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep17.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E18
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep18.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E19
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep19.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E20
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep20.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E21
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep21.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E22
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep22.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E23
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep23.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E24
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep24.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E25
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep25.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E26
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep26.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E27
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep27.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E28
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep28.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E29
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep29.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S02 E30
+https://archive.org/download/yawmeyat-wanis-s02-egyptian-series-1995-720p/Ep30.The.Final.mkv
+
+########################################################## يوميات ونيس الجزء الثالث ###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="ونيس",#################### الجزء الثالث ####################
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E01
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep01.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E02
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep02.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E03
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep03.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E04
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep04.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E05
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep05.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E06
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep06.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E07
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep07.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E08
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep08.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E09
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep09.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E10
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep10.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E11
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep11.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E12
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep12.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E13
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep13.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E14
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep14.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E15
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep15.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E16
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep16.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E17
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep17.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E18
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep18.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E19
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep19.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E20
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep20.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E21
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep21.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E22
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep22.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E23
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep23.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E24
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep24.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E25
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep25.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E26
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep26.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E27
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep27.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E28
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep28.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E29
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep29.mkv
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S03 E30
+https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep30.The.Final.mkv
+
+########################################################## يوميات ونيس الجزء الرابع ###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="ونيس",#################### الجزء الرابع ####################
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E01
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep01.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E02
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep02.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E03
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep03.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E04
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep04.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E05
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep05.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E06
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep06.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E07
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep07.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E08
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep08.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E09
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep09.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E10
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep10.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E11
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep11.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E12
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep12.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E13
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep13.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E14
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep14.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E15
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep15.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E16
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep16.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E17
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep17.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E18
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep18.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E19
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep19.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E20
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep20.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E21
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep21.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E22
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep22.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E23
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep23.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E24
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep24.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E25
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep25.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E26
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep26.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E27
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep27.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E28
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep28.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E29
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep29.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E30
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep30.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E31
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep31.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E32
+https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep32.Last.mp4
+
+
+########################################################## يوميات ونيس الجزء الخامس ###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="ونيس",#################### الجزء الخامس ####################
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E01
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep01.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E02
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep02.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E03
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep03.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E04
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep04.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E05
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep05.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E06
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep06.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E07
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep07.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E08
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep08.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E09
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep09.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E10
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep10.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E11
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep11.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E12
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep112.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E13
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep13.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E14
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep114.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E15
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep15.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E16
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep16.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E17
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep17.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E18
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep18.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E19
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep19.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E20
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep20.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E21
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep21.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E22
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep22.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E23
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep23.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E24
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep24.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E25
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep25.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E26
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep26.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E27
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep27.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E28
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep28.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E29
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep29.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S05 E30
+https://archive.org/download/Yawmeyaat.Wanis.S05.By.cdhaty/Yawmeyaat.Wanis.S05.Ep30.mp4
+
+
+########################################################## يوميات ونيس الجزء السادس ###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="ونيس",#################### الجزء السادس ####################
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E01
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep01.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E02
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep02.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E03
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep03.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E04
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep04.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E05
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep05.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E06
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep06.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E07
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep07.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E08
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep08.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E09
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep09.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E10
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep10.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E11
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep11.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E12
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep12.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E13
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep13.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E14
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep14.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E15
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep15.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E16
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep16.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E17
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep17.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E18
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep18.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E19
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep19.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E20
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep20.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E21
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep21.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E22
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep22.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E23
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep23.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E24
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep24.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E25
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep25.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E26
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep26.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E27
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep27.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E28
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep28.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E9
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep29.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E30
+https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep30.Last.mp4
 
 
 
