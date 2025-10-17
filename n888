@@ -10,7 +10,7 @@ https://example.com/tv-shows/tt0413573-S01E03.mp4
 
 
 
-#EXTINF:-0 tvg-id=""  tvg-type="movies" group-title="movies: 2025" tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
+#EXTINF:-0 tvg-id="" tvg-name=""  tvg-type="movies" group-title="movies: 2025" tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
 https://example.com/movies/tt0413573.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
 https://example.com/movies/tt0413573.mkv
