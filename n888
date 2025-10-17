@@ -2,7 +2,12 @@
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://web78.faselhd1watch.one/wp-content/uploads/2025/09/3957a3c427a50df444de4b44c35c5a34-400x600.jpg" group-title="مسلسل Shin’s Project ", الحلقة 7
 
-
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="tvshows" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S01E01: Episode 1 Title
+https://example.com/tv-shows/<IMDb ID>-S01E01.mkv
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="tvshows" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S01E02: Episode 2 Title
+https://example.com/tv-shows/<IMDb ID>-S01E02.mkv
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="tvshows" group-title="TV Show name (2025)" tvg-logo="https://example.com/TV-Show-poster1.jpg",S01E03: Episode 3 Title
+https://example.com/tv-shows/<IMDb ID>-S01E03.mkv
 
 
 
