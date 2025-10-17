@@ -10,11 +10,11 @@ https://example.com/tv-shows/tt0413573-S01E03.mp4
 
 
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
+#EXTINF:-1 tvg-id="<IMDb ID>"  tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
 https://example.com/movies/<IMDb ID>.mp4
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="VOD" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
 https://example.com/movies/<IMDb ID>.mp4
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster3.jpg",Movie Name 3 (2025)
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="Movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster3.jpg",Movie Name 3 (2025)
 https://example.com/movies/<IMDb ID>.mp4
 
 
