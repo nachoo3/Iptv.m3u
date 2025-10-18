@@ -8,17 +8,16 @@ https://example.com/tv-shows/tt0413573-S01E02.mkv
 #EXTINF:-1 tvg-id="tt0413573" tvg-name="tt0413573" tvg-type="series" group-title="Grey's Anatomy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_FMjpg_UY474_.jpg 319w, https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_FMjpg_UY711_.jpg 479w, https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_FMjpg_UY337_.jpg 227w, https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_FMjpg_UY576_.jpg 388w, https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg 486w, https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_FMjpg_UY4000_.jpg 2160w",S01E03: Episode 3 Grey's Anatomy
 https://example.com/tv-shows/tt0413573-S01E03.mp4
 
-#EXTGRP:2025
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="movies" group-title="movies: 2025" tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="movies: 2025"  tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
 https://example.com/movies/tt0413573.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
 https://example.com/movies/tt0413573.mkv
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster3.jpg",Movie Name 3 (2025)
 https://example.com/movies/tt0413573.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-type="movies" group-title="movies: 2025" tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
+#EXTINF:-0 tvg-id="" tvg-name=""  tvg-type="movies" group-title="movies: 2025" tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
 https://example.com/movies/tt0413573.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
 https://example.com/movies/tt0413573.mkv
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster3.jpg",Movie Name 3 (2025)
 https://example.com/movies/tt0413573.mkv
