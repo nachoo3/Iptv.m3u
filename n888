@@ -3,13 +3,12 @@
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://web78.faselhd1watch.one/wp-content/uploads/2025/09/3957a3c427a50df444de4b44c35c5a34-400x600.jpg" group-title="مسلسل Shin’s Project ", الحلقة 7
 
-
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="movies: 2025"  tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="series" group-title="وتر حساس: 2025"  tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)/Season1 1
 https://example.com/movies/tt0413573.mkv
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
-https://example.com/movies/tt0413573.mkv
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster3.jpg",Movie Name 3 (2025)
-https://example.com/movies/tt0413573.mkv
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="series" group-title="وتر حساس: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
+https://example.com/movies/tt0413574.mkv
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="series" group-title="وتر حساس: 2025" tvg-logo="https://example.com/movie-poster3.jpg",Movie Name 3 (2025)/Season 2/Episode 3
+https://example.com/movies/tt0413575.mkv
 
 #EXTINF:-0 tvg-id="" tvg-name=""  tvg-type="movies" group-title="movies: 2025" tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
 https://example.com/movies/tt0413573.mkv
