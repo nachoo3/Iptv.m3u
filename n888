@@ -4,12 +4,7 @@
 #EXTINF:-0 tvg-id="" tvg-logo="https://web78.faselhd1watch.one/wp-content/uploads/2025/09/3957a3c427a50df444de4b44c35c5a34-400x600.jpg" group-title="مسلسل Shin’s Project ", الحلقة 7
 
 
-#EXTINF:-0 tvg-id="" tvg-name=""  tvg-type="movies" group-title="movies: 2025" tvg-logo="https://example.com/movie-poster1.jpg",Movie Name 1 (2025)
-https://example.com/movies/tt0413573.mkv
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster2.jpg",Movie Name 2 (2025)
-https://example.com/movies/tt0413573.mkv
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-type="movies" group-title="Movies: 2025" tvg-logo="https://example.com/movie-poster3.jpg",Movie Name 3 (2025)
-https://example.com/movies/tt0413573.mkv
+
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema
@@ -2260,16 +2255,14 @@ https://archive.org/download/aflam-mohamed-saad.fullpack/Ellemby.WEB-DL.1080.BY.
 https://archive.org/download/aflam-mohamed-saad.fullpack/Elly%20Baly%20Balk.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mp4
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="افلام عربية",  حياتي مبهدله   
 https://archive.org/download/aflam-mohamed-saad.fullpack/Haiaty%20Mabhdla.HDTV.1080p.BY.%20RoMaNTiCPoET.mp4
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="افلام عربية",  كركر -  
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="افلام عربية",  كركر   
 https://archive.org/download/aflam-mohamed-saad.fullpack/Karkar.WEB-DL.1080.BY.%20RoMaNTiCPoET.mp4
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="افلام عربية",  كتكوت -  
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="افلام عربية",  كتكوت   
 https://archive.org/download/aflam-mohamed-saad.fullpack/Katkout.WEB-DL.1080.BY.%20RoMaNTiCPoET.mp4
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="افلام عربية",  عوكل -  
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="افلام عربية",  عوكل   
 https://archive.org/download/aflam-mohamed-saad.fullpack/Okal.WEB-DL.1080.BY.%20RoMaNTiCPoET.mp4
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="افلام عربية",  تك تك بوم -  
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="افلام عربية",  تك تك بوم   
 https://archive.org/download/aflam-mohamed-saad.fullpack/Tek%20Tek%20Boom.WEB-DL.1080.BY.%20RoMaNTiCPoET.mp4
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### نور الشريف  ####################
-
 #EXTINF:-1 tvg-id="200" tvg-logo="https://media.filgoal.com/news/medium/168344905.jpg" group-title="افلام عربية",غريب في بيتي - نور الشريف
 https://archive.org/8/items/nour-el-sherif-movies/Ghareeb.Fi.Baity.mp4
 
@@ -2301,7 +2294,6 @@ https://archive.org/download/www.arabp-2p.net_20230821_1637/Nour%20El-Sherif%206
 https://archive.org/download/www.arabp-2p.net_20230821_1637/Nour%20El-Sherif%2067%20Film%201080p%20%28%201%20%29/Layla%20Sakhina.TS
 
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### محمود عبد العزيز ####################
 
 #EXTINF:-1 tvg-id="200" tvg-logo="https://media.dhliz.com/a/film/abo_kartouna/%D8%A3%D8%A8%D9%88_%D9%83%D8%B1%D8%AA%D9%88%D9%86%D8%A9_1.jpg" group-title="افلام عربية",ابو كرتونة - محمود عبد العزيز
 https://archive.org/34/items/Mahmoud.Abdel.Aziz.Movies/Abu%20Kartona%201080p%20%28%20E7na.OnlinE%20%29.mp4
@@ -2350,7 +2342,6 @@ https://ia800505.us.archive.org/8/items/012739739/Katkout.2006.1080p.STC.WEB-DL.
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",بوحة - محمد سعد
 https://archive.org/download/aflam-romanticpoet-part.1/Boha.WEB-DL.1080p.BY.%20RoMaNTiCPoET.mkv
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد حلمي ####################
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جعلتني مجرما - احمد حلمي
 https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/G3alatny.Mogreman.VIU.WEB-DL.1080p.ts
@@ -2411,7 +2402,6 @@ https://archive.org/download/AflamArab/%E2%9C%94El%20Sayed%20Abu%20Elaraby%20Was
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",جواز بقرار جمهوري - هاني رمزي
 https://archive.org/download/AflamArab/%E2%9C%94Jawaz%20Beqarar%20Jumhory.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد زكي ####################
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",البيضة والحجر- احمد زكي
 https://archive.org/download/20200616_20200616_0movies-ahmad-zakiey.osn903/%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A9%20%D9%88%D8%A7%D9%84%D8%AD%D8%AC%D8%B1.mp4
@@ -2590,8 +2580,6 @@ https://archive.org/download/aflam-romanticpoet-part.1/Shagee%27%20El%20Cima.WEB
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",الرجل الابيض المتوسط - احمد ادم
 https://archive.org/download/www.arabp-2p.net-aboalistar/El%20Ragol%20El%20Abyad%20El%20Motawassit/El%20Ragol%20El%20Abyad%20El%20Motawassit.1080p.Web-Dl.Shahid.mkv
 
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### رامز جلال ####################
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",رغدة متوحشة - رامز جلال
 https://archive.org/download/AflamArab/%E2%9C%85Raghda.Motwahasha.1080p.mkv
@@ -6208,11 +6196,7 @@ https://dai.ly/x6yu4v2
 #EXTINF:-0 tvg-id="" tvg-logo="https://media0035.elcinema.com/uploads/_315x420_1585f4b22e3f729fc6f4f134afdd8fac6cad44cfe2bed59fd42553e6adcd533d.jpg" group-title="|هيل وسيل|",الحلقة 1
 https://dai.ly/x7qt599
 
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhdwatch.mom/wp-content/uploads/2016/10/Open_Season_Scared_Silly_2016_DVD_Cover-400x600.jpg" group-title="Kids",فيلم Inside Out 2015 مدبلج
-https://master.c.scdns.io/stream/v2/cWOQ6WuHVCsTWCwjAwbumw/1720064989/normal/0/79.139.35.16/no/e2536ec7f5a4ded2d4818f5641a3449f/web1.faselhdwatch.mom/master.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhdwatch.mom/wp-content/uploads/2016/09/Inside_Out_poster_araby.png" group-title="Kids",فيلم Inside Out 2015 مدبلج
-https://master.c.scdns.io/stream/v2/HOUWl7INcdfH8WagyjxMsw/1720064819/normal/0/79.139.35.16/no/ff5dc7182f9611a75e8b11b8e079125b/web1.faselhdwatch.mom/master.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo=" group-title="Eoro 2024",Futbol (1080p)
+#EXTINF:-0 tvg-id="" tvg-logo=" group-title="sport international",Futbol (1080p)
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-0 tvg-id="" tvg-logo="https://web1.faselhdwatch.mom/wp-content/uploads/2024/07/4343a3da2166309eb898c56b2dca9e7b.jpg" group-title="|Movies|",فيلم The Roundup: Punishment 2024 مترجم
 https://master.c.scdns.io/stream/v2/czes79_sxDz2mgcMQUFlFg/1720937449/normal/0/79.139.35.16/no/c309e9eba3be5bf75a30ab63de6a0589/web1.faselhdwatch.sbs/master.m3u8
@@ -6528,10 +6512,7 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-0 tvg-id="ZeeAlwan.in" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="Arabic" ,Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-0 tvg-id="Rambo1 " tvg-logo="https://www.faselhd.express/wp-content/uploads/2016/04/first_blood_ver2-400x600.jpg" group-title="Vod",First Blood
-https://master.c.scdns.io/stream/v1/GrjNZDRn5weY9Ccg9O37Sg/1704687384/normal/0/79.139.39.99/no/319c51c60cebd883ca1c569d513a22a3/master.m3u8
-#EXTINF:-0 tvg-id="IP MAN " tvg-logo="src="https://web1.faselhd-watch.buzz/wp-content/uploads/2023/07/ab7199466d390a251dacf81553f57172.jpg"" group-title="VOD",فيلم-roundup-no-way-2023-مترجم
-https://r900--3k3qbmcz.c.scdns.io/stream/v1/hls/NiHG40Gpa7WVGW_pD-ogMQ/1702741598/all/all/176.9.113.53/no/DE/0/03-02/4/e23d5385d6a575b91b1b855418591069/160_hd1080b_playlist.m3u8
+
 #EXTINF:-0 tvg-id="kase3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_612da88b59.jpg" group-title="حارش ووارش الحلقة 26",الحلقة 1 |حــارش ووارش| ناشع
 https://dai.ly/x2y1lzr
 #EXTINF:-0 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/at_612da88b59.jpg" group-title="حارش ووارش الحلقة 26",الحلقة 2 |حــارش ووارش| 
