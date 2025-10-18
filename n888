@@ -177,7 +177,6 @@ http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MCrOnQK7q7xrI9nIYkR9QM/m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Cinema
 http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DYf94LLYdrxnzA0p5dglS4/m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",#################### الجزءالاول ####################
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(01)
 https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E01%29%5B1080p%5D%282010%29.mp4
@@ -224,10 +223,6 @@ https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E14%29%
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",الجزء(1)-الحلقة(15)
 https://archive.org/download/el-kabeer-awis011080p2010/El-Kabeer%20Awi%28E15%29%5B1080p%5D%282010%29.mp4
 
-##########################################################الكبير أوي الجزء الثاني###################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",#################### الجزءالثاني ####################
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(01)
 https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2801%29%5B1080p%5D%282011%29.mp4
 
@@ -273,9 +268,6 @@ https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2814%29%5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",الجزء(2)-الحلقة(15)
 https://archive.org/download/el-kabeer-awis021080p2011/El-Kabeer%20Awi%2815%29%5B1080p%5D%282011%29.mp4
 
-##########################################################الكبير أوي الجزء الثالث###################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",#################### الجزءالثالث ####################
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",الجزء(3)-الحلقة(01)
 https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2801%29%5B1080p%5D%282013%29.mp4
@@ -368,9 +360,6 @@ https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2829%2
 https://archive.org/download/el-kabeer-awi.s03.2013.1080p/El-Kabeer%20Awi%2830%29%5B1080p%5D%282013%29.mp4
 
 
-##########################################################الكبير أوي الجزء الرابع###################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",#################### الجزءالرابع ####################
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",الجزء(4)-الحلقة(01)
 https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP01.HD1080.CdHaTY.mkv
@@ -463,9 +452,6 @@ https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP29.HD1080.CdHaT
 https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP30.HD1080.CdHaTY.mkv
 
 
-##########################################################الكبير أوي الجزء الخامس###################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",#################### الجزءالخامس ####################
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(01)
 https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E01.HD.1080p.AT.mp4
@@ -557,9 +543,6 @@ https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E29.HD.1080p.AT.
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(30)
 https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E30.HD.1080p.AT.mp4
 
-##########################################################الكبير أوي الجزء السادس###################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",#################### الجزءالسادس ####################
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الكبير أوي",الجزء(6)-الحلقة(01)
 https://archive.org/download/al-kabeer-awi_202311/k-6%281%29.mkv
