@@ -6,9 +6,9 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv-avc1_1200000=4-mp4a_96000
 #EXTINF:-1 tvg-id="CNBCIndonesia.id",group-title="Indonesia",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id",group-title="Indonesia",CNN Indonesia (720p) [Geo-blocked]
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1961947480_b384000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/cnn.m3u8
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="Indonesia",ADiTV (720p) [Not 24/7]
-https://v2.siar.us/aditv/livestream/chunks.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Indonesia",Ahsan TV (360p) [Geo-blocked]
 https://h1.intechmedia.net/intech/ch4.m3u8
 #EXTINF:-1 tvg-id="Ainos.id" tvg-logo="https://i.imgur.com/C62qtRz.png" group-title="Indonesia",Ainos (576i)
