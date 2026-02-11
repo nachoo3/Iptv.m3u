@@ -4,13 +4,13 @@ https://allcutv.rctiplus.id/rcti2023.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id",group-title="Indonesia",SCTV
 https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv-avc1_1200000=4-mp4a_96000=2.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id",group-title="Indonesia",CNBC Indonesia (720p)
+#EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="" group-title="Indonesia",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="Indonesia",CNN Indonesia
+#EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/cnn.m3u8
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="Indonesia",ADiTV (720p) [Not 24/7]
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Indonesia",,CNN Indonesia 
+#EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia",,CNN Indonesia 
 https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/refs/heads/m3u/IPTV%20Indonesia%20by%20WINDO%20ZALMI
 #EXTINF:-1 tvg-id="Ainos.id" tvg-logo="https://i.imgur.com/C62qtRz.png" group-title="Indonesia",Ainos (576i)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
