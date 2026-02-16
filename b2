@@ -1,3 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://example.com/logo.png" tvg-name="شارع الاعشى - الحلقة 1" tvg-id="" group-title="مسلسلات",الحلقة 1
+https://vid2.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/01.mp4
+#EXTINF:-1 tvg-logo="https://example.com/logo.png" tvg-name="شارع الاعشى - الحلقة 2" tvg-id="" group-title="مسلسلات",الحلقة 2
+https://vid2.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/02.mp4
+
+
 #EXTINF:-1 tvg-logo="https://example.com/logo.png" tvg-name="Series1" tvg-id="" group-title="مسلسلات",مسلسلات
 https://yourcdn.com/series/episode1.m3u8
 
