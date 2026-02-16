@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-logo="https://example.com/logo.png" tvg-name="Series1" tvg-id="" group-title="مسلسلات",مسلسلات
 https://yourcdn.com/series/episode1.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/logo.png" tvg-name="Series1" tvg-id="" group-title="توم 1",مسلسلات
+#EXTINF:-1 tvg-logo="https://example.com/logo.png" tvg-name="Series1" tvg-id="" group-title="شارع الاعشى الحلقة 1",مسلسلات
 https://yourcdn.com/series/episode1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bj.alooytv6.xyz/uploads/system_logo/logo.png" tvg-name="Series1" tvg-id="" group-title="شارع الأعشى",شارع الأعشى
+#EXTINF:-1 tvg-logo="https://bj.alooytv6.xyz/uploads/system_logo/logo.png" tvg-name="Series1" tvg-id="" group-title="شارع الأعشى",ى
 https://vid2.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/01.m3u8
 #EXTINF:-1 tvg-logo="https://bj.alooytv6.xyz/uploads/system_logo/logo.png" tvg-name="Series1" tvg-id="" group-title="شارع الأعشى",شارع الأعشى
 https://vid2.zvde-dsn-03.site/ramadan-2025/kleeji/Sharee-Al-Asha/01.mp4
