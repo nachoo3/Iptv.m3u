@@ -553,7 +553,9 @@ https://vid3.zvde-dsn-01.site/file/wp-alooytv/uploads/ramadan2023/studio23/30.mp
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id="" group-title="Live Testing) ,source 1
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id="" group-title="Live Testing,) ,source 1
 https://live.baranewssumsel.online/albaplayer/ad-premium-1/?serv=0
-#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id="" group-title="Live Testing) ,source 2
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id="" group-title="Live Testing,) ,source 2
 https://live.baranewssumsel.online/albaplayer/ad-premium-1/?serv=0
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id="" group-title="Live Testing,) ,source 3
+https://s3.eu-north-1.amazonaws.com/45.5555/hls/1/stream.m3u8
