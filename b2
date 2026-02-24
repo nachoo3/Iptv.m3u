@@ -551,11 +551,7 @@ https://vid4.zvde-dsn-01.site/file/wp-alooytv/uploads/ramadan2023/studio23/29.mp
 #EXTINF:-1 tvg-logo="https://b.alooytv8.xyz/uploads/video_thumb/930.jpg" tvg-name="" tvg-id="" group-title="ستوديو 23",الحلقة 30
 https://vid3.zvde-dsn-01.site/file/wp-alooytv/uploads/ramadan2023/studio23/30.mp4
 
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id="" group-title="Live Testing,) ,source 1
-https://live.baranewssumsel.online/albaplayer/ad-premium-1/?serv=0
-#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id="" group-title="Live Testing,) ,source 2
-https://live.baranewssumsel.online/albaplayer/ad-premium-1/?serv=0
-#EXTINF:-1 tvg-logo="" tvg-name="" tvg-id="" group-title="Live Testing,) source 3
-https://s3.eu-north-1.amazonaws.com/45.5555/hls/1/stream.m3u8
+#EXTINF:-1 tvg-id="studio23" tvg-logo="https://b.alooytv8.xyz/uploads/video_thumb/930.jpg" group-title="Breaking Bad" tvg-type="serie", Breaking Bad S01 E29 - Pilot
+https://vid3.zvde-dsn-01.site/file/wp-alooytv/uploads/ramadan2023/studio23/29.mp4
+#EXTINF:-1 tvg-id="studio23" tvg-logo="https://b.alooytv8.xyz/uploads/video_thumb/930.jpg" group-title="Breaking Bad" tvg-type="serie", Breaking Bad S01 E30 - Cat's in the Bag...
+https://vid3.zvde-dsn-01.site/file/wp-alooytv/uploads/ramadan2023/studio23/30.mp4
